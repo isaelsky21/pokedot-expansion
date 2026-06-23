@@ -29,6 +29,7 @@ class_name MoveData
 @export var effect: MoveStruct.MoveEffect
 @export var secondary_effect: MoveStruct.SecondaryEffect
 @export var secondary_chance: int = 0
+@export var z_effect: MoveStruct.ZEffect
 
 @export_group("Flags de Tipo de Movimiento")
 @export var makes_contact := false
