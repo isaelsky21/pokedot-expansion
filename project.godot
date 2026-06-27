@@ -13,7 +13,7 @@ config_version=5
 config/name="Pkmn-E-B"
 run/main_scene="uid://tnak4lhbklbi"
 config/features=PackedStringArray("4.7", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="uid://dwytgt4ciynv3"
 
 [autoload]
 

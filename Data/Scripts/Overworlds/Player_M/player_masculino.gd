@@ -1,5 +1,7 @@
 extends CharacterBody2D
 
+var start_menu: Node = null
+
 signal paso_terminado
 var puede_encadenar_paso := true
 
@@ -30,12 +32,40 @@ var dir_to_anim: Dictionary = {
 func _ready():
 	posicion_obj = position
 	mostrar_idle(direccion)
+
+#funcion para manejar startmenu
+func _process(_delta):
+	if Input.is_action_just_pressed("ui_accept"):
+		if start_menu == null:
+			abrir_menu()
+		else:
+			cerrar_menu()
+
+func abrir_menu():
+	var menu_scene = preload("res://Esenas/Menus/StartMenu/startmenu.tscn")
+	start_menu = menu_scene.instantiate()
+	get_tree().current_scene.add_child(start_menu)
+	start_menu.toggle_menu()  # <-- aquí lo activas
+
+
+func cerrar_menu():
+	if start_menu != null:
+		start_menu.queue_free()
+		start_menu = null
+
+
 #funcion donde se maneja la fisica en la cual se verifica si el jugador se esta moviendo, si es asi, se llama la funcion actualizar movimiento, de lo contrario llamamos la funcion que maneja la input estando quieto.
 func _physics_process(delta):
+	# Si el menú está abierto, no procesamos movimiento
+	if start_menu != null and start_menu.is_open:
+		mostrar_idle(direccion) # opcional
+		return
+
 	if moviendose:
 		actualizar_movimiento(delta)
 	else:
 		manejar_input_quieto(delta)
+
 #la funcion actualiza el movimiento del jugador definiendo el tiempo que dura en dar un paso, teniendo como variable "t" que seria igual al tiempo de paso entre la duracion del paso.
 #si t es menor a 1.0 se regresa y se da por hecho de que esta quieto, de lo contrario se sigue la verificacion del movimiento mecanicamente.
 func actualizar_movimiento(delta: float):

@@ -56,6 +56,7 @@ texture = ExtResource("5_6ok8e")
 position = Vector2(224, 128)
 texture = ExtResource("6_n3bih")
 vframes = 2
+frame = 1
 
 [node name="Species_Name" type="Label" parent="." unique_id=1637111757]
 layout_mode = 0
