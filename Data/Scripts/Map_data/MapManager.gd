@@ -106,16 +106,16 @@ func obtener_conexion(_direction: String) -> MapConnection:
 
 	return null
 ## Resuelve matemáticamente la coordenada de aparición en el nuevo mapa considerando el offset de costura.
-func calcular_posicion_entrada(direction: String,old_tile_pos: Vector2i,new_map_size: Vector2i,offset: int) -> Vector2i:
+func calcular_posicion_entrada(direction: String, old_tile_pos: Vector2i, new_map_size: Vector2i, offset: Vector2i) -> Vector2i: # <- Cambió a Vector2i
 	match direction:
 		"east":
-			return Vector2i(0, old_tile_pos.y + offset)
+			return Vector2i(0, old_tile_pos.y + offset.y) # <- Cambió a offset.y
 		"west":
-			return Vector2i(new_map_size.x - 1, old_tile_pos.y + offset)
+			return Vector2i(new_map_size.x - 1, old_tile_pos.y + offset.y) # <- Cambió a offset.y
 		"north":
-			return Vector2i(old_tile_pos.x + offset, new_map_size.y - 1)
+			return Vector2i(old_tile_pos.x + offset.x, new_map_size.y - 1) # <- Cambió a offset.x
 		"south":
-			return Vector2i(old_tile_pos.x + offset, 0)
+			return Vector2i(old_tile_pos.x + offset.x, 0) # <- Cambió a offset.x
 
 	return old_tile_pos
 ## Remueve todos los mapas vecinos instanciados en el contenedor adyacente.
@@ -163,17 +163,17 @@ func cargar_vecino(direction: String):
 	# Dimensiones en píxeles para calcular las posiciones de renderizado de los vecinos
 	var current_size_px := Vector2(current_map.attributes.map_size * tile_size)
 	var neighbor_size_px := Vector2(neighbor.attributes.map_size * tile_size)
-	var offset_px := float(connection.offset * tile_size)
+	var offset_px := Vector2(connection.offset * tile_size)
 	# Desplaza los nodos geográficamente en el viewport del motor para encajarlos perfectamente
 	match direction:
 		"east":
-			neighbor.position = Vector2(current_size_px.x, -offset_px)
+			neighbor.position = Vector2(current_size_px.x + offset_px.x, offset_px.y)
 		"west":
-			neighbor.position = Vector2(-neighbor_size_px.x, -offset_px)
+			neighbor.position = Vector2(-neighbor_size_px.x + offset_px.x, offset_px.y)
 		"north":
-			neighbor.position = Vector2(-offset_px, -neighbor_size_px.y)
+			neighbor.position = Vector2(offset_px.x, -neighbor_size_px.y + offset_px.y)
 		"south":
-			neighbor.position = Vector2(-offset_px, current_size_px.y)
+			neighbor.position = Vector2(offset_px.x, current_size_px.y + offset_px.y)
 
 ## Intercepta las colisiones para comprobar si un obstáculo frontal es una rampa de salto válida.
 ## Usa el convertidor nativo de TileMapLayer para garantizar la precisión de la baldosa.
@@ -222,3 +222,57 @@ func posicion_a_tile(pos: Vector2) -> Vector2i:
 		floori(adjusted_pos.x / tile_size),
 		floori(adjusted_pos.y / tile_size)
 	)
+
+## Comprueba si el jugador está pisando una escalera lateral en la capa Behaviours.
+## Si la detecta, transforma el vector de entrada horizontal en un vector diagonal.
+func filtrar_direccion_escalera(player_pos: Vector2, dir: Vector2) -> Vector2:
+	if current_map == null:
+		return dir
+
+	var collision := current_map.behaviours.get_node("Collision") as TileMapLayer
+	if collision == null:
+		return dir
+
+	var current_tile := collision.local_to_map(player_pos)
+	
+	if current_map.has_method("obtener_comportamiento_tile"):
+		var comportamiento_actual = current_map.obtener_comportamiento_tile(current_tile)
+		
+		# 1. SI YA ESTÁ EN LA ESCALERA: Forzamos la diagonal matemática correcta hacia arriba/abajo
+		if comportamiento_actual == "escalera_sube_derecha":
+			if dir == Vector2.LEFT:   return Vector2(-1, 1) # Baja e izquierda
+			if dir == Vector2.RIGHT:  return Vector2(1, -1)  # Sube y derecha
+		elif comportamiento_actual == "escalera_sube_izquierda":
+			if dir == Vector2.LEFT:   return Vector2(-1, -1) # Sube e izquierda
+			if dir == Vector2.RIGHT:  return Vector2(1, 1)   # Baja y derecha
+
+		# 2. SI ESTÁ AFUERA E INTENTA ENTRAR: Evaluamos el tile objetivo frontal
+		var target_tile := current_tile + Vector2i(dir)
+		var comportamiento_destino = current_map.obtener_comportamiento_tile(target_tile)
+		
+		if comportamiento_destino == "escalera_sube_derecha":
+			if dir == Vector2.RIGHT:  return Vector2(1, -1)  # Entra subiendo en diagonal
+			if dir == Vector2.LEFT:   return Vector2(-1, 1)   # Entra bajando en diagonal
+		elif comportamiento_destino == "escalera_sube_izquierda":
+			if dir == Vector2.LEFT:   return Vector2(-1, -1)  # Entra subiendo en diagonal
+			if dir == Vector2.RIGHT:  return Vector2(1, 1)   # Entra bajando en diagonal
+
+	return dir
+
+## Evalúa si el tile destino tiene el comportamiento de una escalera lateral.
+func obtener_tipo_escalera(player_pos: Vector2, dir: Vector2) -> String:
+	if current_map == null:
+		return ""
+
+	var collision := current_map.behaviours.get_node("Collision") as TileMapLayer
+	if collision == null:
+		return ""
+
+	# Convertidor nativo para precisión absoluta según tus comentarios
+	var current_tile := collision.local_to_map(player_pos)
+	var target_tile := current_tile + Vector2i(dir)
+
+	if current_map.has_method("obtener_comportamiento_tile"):
+		return current_map.obtener_comportamiento_tile(target_tile)
+
+	return ""

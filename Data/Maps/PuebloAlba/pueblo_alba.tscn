@@ -14,8 +14,10 @@ metadata/_custom_type_script = "uid://djcndt2fyu5p3"
 
 [sub_resource type="Resource" id="Resource_xpgp8"]
 script = ExtResource("2_7wb6a")
-map_size = Vector2i(20, 20)
+map_id = 2
 map_name = "Pueblo Alba"
+map_section_id = 2
+map_size = Vector2i(20, 20)
 west_map = SubResource("Resource_fx0pk")
 metadata/_custom_type_script = "uid://dl0amt2o75j7"
 

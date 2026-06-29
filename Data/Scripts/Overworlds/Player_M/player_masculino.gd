@@ -75,29 +75,29 @@ func _physics_process(delta):
 
 ## Procesa la interpolación lineal (Lerp) de la posición del jugador frame a frame.
 ## Controla el fin del ciclo de un paso y analiza inputs encadenados.
+## Procesa la interpolación lineal (Lerp) de la posición del jugador frame a frame.
 func actualizar_movimiento(delta: float):
 	tiempo_paso += delta
-	# Calcula el factor de avance normalizado entre 0.0 y 1.0
 	var t: float = tiempo_paso / duracion_paso
 	t = clamp(t, 0.0, 1.0)
-	# Mueve físicamente al personaje por el plano cartesiano
+	
 	position = posicion_inicio.lerp(posicion_obj, t)
-	# Si no ha llegado al objetivo (t < 1.0), sigue procesando el Lerp en el próximo frame
+	
 	if t < 1.0:
 		return
-	# Forzar posición exacta al finalizar para evitar desfases numéricos de punto flotante
+		
 	position = posicion_obj
 	moviendose = false
 	puede_encadenar_paso = true
-	# Notifica al entorno que la baldosa se completó con éxito (el MapManager revisará salidas aquí)
+	
+	# Al emitir esto, el MapManager actualizará las costuras con la posición final perfecta
 	paso_terminado.emit()
-	# Si un factor externo (como un cambio de mapa) interrumpió el encadenamiento, frena inmediatamente
+	
 	if not puede_encadenar_paso:
 		mostrar_idle(direccion)
 		return
-	# Revisa si el jugador mantiene teclas presionadas para encadenar el movimiento fluidamente
+		
 	var dir := obtener_direccion_input()
-
 	if dir != Vector2.ZERO:
 		empezar_paso(dir)
 	else:
@@ -127,9 +127,36 @@ func manejar_input_quieto(delta: float):
 	# Si supera el umbral de retención, rompe la quietud e inicia la caminata
 	if tiempo_input >= tiempo_para_caminar:
 		empezar_paso(dir)
+## Inicializa los vectores lógicos de destino para el movimiento lineal o diagonal.
+## Intercepta obstrucciones para evaluar si corresponden a eventos de salto (rampas) o escaleras.
 ## Inicializa los vectores lógicos de destino para el movimiento lineal.
-## Intercepta obstrucciones para evaluar si corresponden a eventos de salto (rampas).
 func empezar_paso(dir: Vector2):
+	# 1. Interceptamos si el destino es una escalera lateral ANTES de evaluar colisiones normales
+	if map_manager != null and map_manager.has_method("obtener_tipo_escalera"):
+		var tipo = map_manager.obtener_tipo_escalera(position, dir)
+		if tipo == "escalera_sube_derecha" or tipo == "escalera_sube_izquierda":
+			ejecutar_paso_escalera(dir, tipo)
+			return
+
+	# 2. Si no es escalera, ejecuta tu validador de colisiones estándar
+	if map_manager != null and not map_manager.puede_caminar(position, dir):
+		if map_manager.has_method("es_rampa") and map_manager.es_rampa(position, dir):
+			ejecutar_salto_rampa(dir)
+			return
+		mostrar_idle(direccion)
+		return
+	
+	# 3. Flujo normal para suelo plano ordinario
+	direccion = dir
+	direccion_input = dir
+	tiempo_input = 0.0
+
+	posicion_inicio = position
+	posicion_obj = position + dir * tile_block 
+	tiempo_paso = 0.0
+	moviendose = true
+
+	reproducir_caminata(dir)
 	# Valida colisiones estándar a través del MapManager
 	if map_manager != null and not map_manager.puede_caminar(position, dir):
 		#print("¡Bloqueo detectado! Revisando si es rampa...")
@@ -228,3 +255,43 @@ func obtener_direccion_input() -> Vector2:
 ## Desactiva el flag de encadenamiento para interrumpir movimientos continuos automatizados.
 func cancelar_encadenado():
 	puede_encadenar_paso = false
+
+## Ejecuta la rutina especial de caminata en escaleras laterales.
+## Mueve al jugador horizontalmente en la cuadrícula mientras altera la Y local
+## del Sprite2D con un Tween para simular el ascenso o descenso diagonal.
+## Ejecuta la rutina especial de caminata en escaleras laterales.
+## Mueve al jugador de forma diagonal real por la cuadrícula (X e Y cambian juntos).
+## Desactiva temporalmente las capas físicas para evitar que los muros colindantes traben el eje Y.
+func ejecutar_paso_escalera(dir: Vector2, tipo_escalera: String):
+	moviendose = true
+	direccion = dir
+	tiempo_input = 0.0
+	posicion_inicio = position
+	
+	# 1. Determinamos el vector diagonal real (X e Y cambian a la vez)
+	var dir_diagonal = dir
+	if tipo_escalera == "escalera_sube_derecha":
+		if dir == Vector2.RIGHT: dir_diagonal = Vector2(1, -1)  # Sube derecha
+		if dir == Vector2.LEFT:  dir_diagonal = Vector2(-1, 1)  # Baja izquierda
+	elif tipo_escalera == "escalera_sube_izquierda":
+		if dir == Vector2.LEFT:  dir_diagonal = Vector2(-1, -1) # Sube izquierda
+		if dir == Vector2.RIGHT: dir_diagonal = Vector2(1, 1)   # Baja derecha
+	
+	# El cuerpo calcula su destino diagonal real en píxeles
+	posicion_obj = position + dir_diagonal * tile_block
+	tiempo_paso = 0.0
+	
+	# 2. Desactivamos colisiones físicas antes de movernos para que los muros no frenen la Y
+	var capa_original = collision_layer
+	var mascara_original = collision_mask
+	collision_layer = 0
+	collision_mask = 0
+	
+	reproducir_caminata(dir)
+	
+	# 3. Esperamos a que el proceso nativo de actualizar_movimiento (el Lerp) complete el viaje
+	await self.paso_terminado
+	
+	# 4. Al llegar a la meta, restauramos las capas físicas originales de inmediato
+	collision_layer = capa_original
+	collision_mask = mascara_original
