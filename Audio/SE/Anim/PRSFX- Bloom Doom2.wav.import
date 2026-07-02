@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://csb1yh203ctvn"
+path="res://.godot/imported/PRSFX- Bloom Doom2.wav-d7e7c4c51cc2e6952a2113816ef94f67.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Bloom Doom2.wav"
+dest_files=["res://.godot/imported/PRSFX- Bloom Doom2.wav-d7e7c4c51cc2e6952a2113816ef94f67.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

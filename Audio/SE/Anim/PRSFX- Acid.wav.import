@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://l5yw7re72n0v"
+path="res://.godot/imported/PRSFX- Acid.wav-c8f0eb6a65b10ab7d9ec5c9254997818.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Acid.wav"
+dest_files=["res://.godot/imported/PRSFX- Acid.wav-c8f0eb6a65b10ab7d9ec5c9254997818.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

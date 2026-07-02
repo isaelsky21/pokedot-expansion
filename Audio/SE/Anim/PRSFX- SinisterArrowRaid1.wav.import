@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bq6juninerrr"
+path="res://.godot/imported/PRSFX- SinisterArrowRaid1.wav-d75ca01c8005cdd6b1bc80c290a4a385.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- SinisterArrowRaid1.wav"
+dest_files=["res://.godot/imported/PRSFX- SinisterArrowRaid1.wav-d75ca01c8005cdd6b1bc80c290a4a385.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

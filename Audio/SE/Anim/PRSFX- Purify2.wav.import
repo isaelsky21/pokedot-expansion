@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://tjh6fwtrqv5o"
+path="res://.godot/imported/PRSFX- Purify2.wav-cc73ddd99768faf5e35c2d623d34eb8c.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Purify2.wav"
+dest_files=["res://.godot/imported/PRSFX- Purify2.wav-cc73ddd99768faf5e35c2d623d34eb8c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

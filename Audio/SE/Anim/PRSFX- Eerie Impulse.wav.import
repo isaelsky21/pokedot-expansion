@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cduwm6et3itik"
+path="res://.godot/imported/PRSFX- Eerie Impulse.wav-997d0b5de3a24626cc72f6863ffa2491.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Eerie Impulse.wav"
+dest_files=["res://.godot/imported/PRSFX- Eerie Impulse.wav-997d0b5de3a24626cc72f6863ffa2491.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

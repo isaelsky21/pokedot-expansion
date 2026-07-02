@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c55gyicp8bh1d"
+path="res://.godot/imported/PRSFX- Cross Chop1.wav-48f3502f2e0e2b5d3c708506f582d6f2.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Cross Chop1.wav"
+dest_files=["res://.godot/imported/PRSFX- Cross Chop1.wav-48f3502f2e0e2b5d3c708506f582d6f2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

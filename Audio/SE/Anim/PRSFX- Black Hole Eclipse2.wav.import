@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bwsjuayavjdut"
+path="res://.godot/imported/PRSFX- Black Hole Eclipse2.wav-0799ea7a89c6d77b05782b41904dce4a.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Black Hole Eclipse2.wav"
+dest_files=["res://.godot/imported/PRSFX- Black Hole Eclipse2.wav-0799ea7a89c6d77b05782b41904dce4a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

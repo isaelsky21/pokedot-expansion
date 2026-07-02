@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bwq3u6vlajpmf"
+path="res://.godot/imported/PRSFX- Guillotine1.wav-8c3cbb2a6c062f9c986e2be510001d99.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Guillotine1.wav"
+dest_files=["res://.godot/imported/PRSFX- Guillotine1.wav-8c3cbb2a6c062f9c986e2be510001d99.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

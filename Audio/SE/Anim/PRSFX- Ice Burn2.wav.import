@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://do23oxx5uao6l"
+path="res://.godot/imported/PRSFX- Ice Burn2.wav-8eaf3d101fd49a98bbf1711f1409b642.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Ice Burn2.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Burn2.wav-8eaf3d101fd49a98bbf1711f1409b642.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

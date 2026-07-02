@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dch42ply3353b"
+path="res://.godot/imported/PRSFX- S-S7-SS3.ogg-018ee8a86a68ae1fc6799533492ff755.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- S-S7-SS3.ogg"
+dest_files=["res://.godot/imported/PRSFX- S-S7-SS3.ogg-018ee8a86a68ae1fc6799533492ff755.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

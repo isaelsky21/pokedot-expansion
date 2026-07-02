@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d0hskr6t12irs"
+path="res://.godot/imported/PRSFX- Tectonic Rage3.ogg-a67a6bc3a98396b1bc40d2882aacad4a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Tectonic Rage3.ogg"
+dest_files=["res://.godot/imported/PRSFX- Tectonic Rage3.ogg-a67a6bc3a98396b1bc40d2882aacad4a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

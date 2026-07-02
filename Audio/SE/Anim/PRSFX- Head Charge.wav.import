@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b317d5hqd45cx"
+path="res://.godot/imported/PRSFX- Head Charge.wav-9570867c2a114af0bc29b9ec143f8bec.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Head Charge.wav"
+dest_files=["res://.godot/imported/PRSFX- Head Charge.wav-9570867c2a114af0bc29b9ec143f8bec.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

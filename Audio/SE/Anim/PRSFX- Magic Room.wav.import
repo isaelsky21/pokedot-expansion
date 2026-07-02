@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://8mdu2a4ftefw"
+path="res://.godot/imported/PRSFX- Magic Room.wav-154635300e259fc850e563be5b01aa30.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Magic Room.wav"
+dest_files=["res://.godot/imported/PRSFX- Magic Room.wav-154635300e259fc850e563be5b01aa30.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

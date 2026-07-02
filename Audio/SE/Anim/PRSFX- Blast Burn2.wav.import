@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c8q02yhbohcbi"
+path="res://.godot/imported/PRSFX- Blast Burn2.wav-654d1aa41e1f8afb5741dde124e9cc62.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Blast Burn2.wav"
+dest_files=["res://.godot/imported/PRSFX- Blast Burn2.wav-654d1aa41e1f8afb5741dde124e9cc62.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

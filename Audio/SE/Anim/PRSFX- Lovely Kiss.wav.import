@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cr5dv8s1yo08v"
+path="res://.godot/imported/PRSFX- Lovely Kiss.wav-c3e9e5e0aaa3225ad34203abdc5e2980.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Lovely Kiss.wav"
+dest_files=["res://.godot/imported/PRSFX- Lovely Kiss.wav-c3e9e5e0aaa3225ad34203abdc5e2980.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

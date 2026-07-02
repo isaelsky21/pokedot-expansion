@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dnurb7g58p7x5"
+path="res://.godot/imported/PRSFX- Me First3.wav-cf9e5e8829446ded368648d85b45c25e.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Me First3.wav"
+dest_files=["res://.godot/imported/PRSFX- Me First3.wav-cf9e5e8829446ded368648d85b45c25e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

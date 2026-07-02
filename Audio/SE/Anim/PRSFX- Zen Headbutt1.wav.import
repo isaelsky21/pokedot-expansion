@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dui0odglxd68"
+path="res://.godot/imported/PRSFX- Zen Headbutt1.wav-d6cd7e6a078a4b74ee1b30ecf38f80f4.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Zen Headbutt1.wav"
+dest_files=["res://.godot/imported/PRSFX- Zen Headbutt1.wav-d6cd7e6a078a4b74ee1b30ecf38f80f4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

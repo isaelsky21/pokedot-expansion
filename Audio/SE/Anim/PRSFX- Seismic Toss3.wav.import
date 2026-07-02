@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://lq5dofv1tbuf"
+path="res://.godot/imported/PRSFX- Seismic Toss3.wav-2ee5b9c501d0fdf8e240c7ea7c3e10c3.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Seismic Toss3.wav"
+dest_files=["res://.godot/imported/PRSFX- Seismic Toss3.wav-2ee5b9c501d0fdf8e240c7ea7c3e10c3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

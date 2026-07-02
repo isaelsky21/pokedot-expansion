@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cuyndr71logkp"
+path="res://.godot/imported/PRSFX- Heat Wave.wav-feb8988032293cd476c9855ec83e50f3.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Heat Wave.wav"
+dest_files=["res://.godot/imported/PRSFX- Heat Wave.wav-feb8988032293cd476c9855ec83e50f3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

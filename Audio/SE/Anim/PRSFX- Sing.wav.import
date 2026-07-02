@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cj3wfcgmsu85c"
+path="res://.godot/imported/PRSFX- Sing.wav-4209703caeb8231c86bc0a8fbe8eb10c.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Sing.wav"
+dest_files=["res://.godot/imported/PRSFX- Sing.wav-4209703caeb8231c86bc0a8fbe8eb10c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

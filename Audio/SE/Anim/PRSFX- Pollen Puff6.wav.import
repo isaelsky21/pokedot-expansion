@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dy04jy3ei6a4g"
+path="res://.godot/imported/PRSFX- Pollen Puff6.wav-5c1e88cd6577a2d51056971c55d62c7c.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Pollen Puff6.wav"
+dest_files=["res://.godot/imported/PRSFX- Pollen Puff6.wav-5c1e88cd6577a2d51056971c55d62c7c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

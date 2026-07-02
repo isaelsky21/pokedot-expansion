@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://de5nnams0hytw"
+path="res://.godot/imported/PRSFX- Sheer Cold.wav-9c299847016ae6bf395baef85896e9a6.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Sheer Cold.wav"
+dest_files=["res://.godot/imported/PRSFX- Sheer Cold.wav-9c299847016ae6bf395baef85896e9a6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

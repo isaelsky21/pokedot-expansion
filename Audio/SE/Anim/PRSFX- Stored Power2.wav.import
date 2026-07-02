@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cqigkyl5o8xmu"
+path="res://.godot/imported/PRSFX- Stored Power2.wav-459a9edad190bce4628a4fa2f41ff5bc.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Stored Power2.wav"
+dest_files=["res://.godot/imported/PRSFX- Stored Power2.wav-459a9edad190bce4628a4fa2f41ff5bc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

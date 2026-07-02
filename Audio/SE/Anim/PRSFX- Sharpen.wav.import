@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bvxm1ainuq8k8"
+path="res://.godot/imported/PRSFX- Sharpen.wav-9eaeb9dd464d256f79ac50587ee56839.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Sharpen.wav"
+dest_files=["res://.godot/imported/PRSFX- Sharpen.wav-9eaeb9dd464d256f79ac50587ee56839.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

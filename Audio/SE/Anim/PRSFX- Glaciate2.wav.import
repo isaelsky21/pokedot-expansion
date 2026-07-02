@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bar4sqi1a77kx"
+path="res://.godot/imported/PRSFX- Glaciate2.wav-c4fc01eab4be0d62d1c723657c9f478c.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Glaciate2.wav"
+dest_files=["res://.godot/imported/PRSFX- Glaciate2.wav-c4fc01eab4be0d62d1c723657c9f478c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

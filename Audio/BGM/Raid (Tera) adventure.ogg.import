@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://uudw4yqwh6ad"
+path="res://.godot/imported/Raid (Tera) adventure.ogg-649b9d1acf2f623be387cc9e0a7103d8.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/Raid (Tera) adventure.ogg"
+dest_files=["res://.godot/imported/Raid (Tera) adventure.ogg-649b9d1acf2f623be387cc9e0a7103d8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,7 +1,12 @@
 extends CanvasLayer
 
 @onready var menu = $Control/GridContainer
+@onready var sfx_tilegamecursor: AudioStreamPlayer = $TileGameCursor # Referencia de sonido
+@onready var sfx_uimenuopen: AudioStreamPlayer = $UImenuOpen
+@onready var sfx_uimenuclose: AudioStreamPlayer = $UImenuClose
+
 var is_open = false
+var puede_cerrarse := false # <-- NUEVA BANDERA: Escudo antibugs para el input
 
 func _ready():
 	visible = false
@@ -16,14 +21,27 @@ func _ready():
 				button.connect("pressed", Callable(self, "_on_option_selected").bind(button.name))
 
 func toggle_menu():
+	# Si el jugador intenta cerrarlo inmediatamente por el rebote de la tecla, lo frenamos en seco
+	if is_open and not puede_cerrarse:
+		return
+
 	is_open = !is_open
 	visible = is_open
 	
 	if is_open:
+		puede_cerrarse = false # Bloqueamos el cierre inmediato
+		
+		# ¡SONIDO DE APERTURA!
+		if sfx_uimenuopen:
+			sfx_uimenuopen.play()
+
 		# 1. Forzamos a que el CanvasLayer actualice su visibilidad en este frame
 		set_process_unhandled_input(true) 
 		
-		# 2. Esperamos dos frames completos para asegurarnos de que Godot pintó la interfaz
+		# Consumimos el input de este frame para mitigar el rebote
+		get_viewport().set_input_as_handled()
+		
+		# 2. Esperamos dos frames completos para que Godot pinte la interfaz y pase el peligro del rebote
 		await get_tree().process_frame
 		await get_tree().process_frame
 		
@@ -37,23 +55,29 @@ func toggle_menu():
 			print("¿Pokedex agarró el foco al abrir?: ", primer_boton.has_focus())
 			
 			actualizar_brillo_botones()
+		
+		# Una vez que el foco está puesto y pasaron los frames críticos, activamos el escudo
+		puede_cerrarse = true
 	else:
+		# ¡SONIDO DE CIERRE!
+		if sfx_uimenuclose:
+			sfx_uimenuclose.play()
+			# Esperamos a que el sonido termine de reproducirse 
+			# antes de que el script del jugador ejecute el queue_free()
+			await sfx_uimenuclose.finished
+
 		# Si se cierra, apagamos la escucha de inputs de la UI
 		set_process_unhandled_input(false)
 
 # --- ACTUALIZACIÓN MANUAL DE BRILLO ---
-# --- ACTUALIZACIÓN MANUAL DE SELECCIÓN (MÉTODO OPACIDAD) ---
 func actualizar_brillo_botones():
 	var current_focus = get_viewport().gui_get_focus_owner()
 	
 	for button in menu.get_children():
 		if button is BaseButton:
 			if button == current_focus:
-				# BOTÓN SELECCIONADO: Lo hacemos brillar bastante (Color custom o alta exposición)
-				# Si quieres que se vuelva azul/celeste estilo GBA, usa Color(1.0, 1.8, 2.0)
 				button.self_modulate = Color(1.703, 1.752, 1.8, 0.863) 
 			else:
-				# BOTÓN NORMAL: Color original sin alteraciones
 				button.self_modulate = Color(1.0, 1.0, 1.0, 0.902)
 
 # --- CONTROL MANUAL DE DESPLAZAMIENTO ---
@@ -61,17 +85,9 @@ func _unhandled_input(event):
 	if not is_open:
 		return
 		
-	# 1. ¿Quién tiene el foco real en Godot?
 	var current_focus = get_viewport().gui_get_focus_owner()
-	print("--- INTENTO DE MOVIMIENTO ---")
-	print("Nodo con foco actual: ", current_focus)
 	
-	if current_focus == null:
-		print("ERROR: ¡Nadie tiene el foco! Se perdió.")
-		return
-		
-	if not current_focus.get_parent() == menu:
-		print("ERROR: El nodo enfocado no es hijo de GridContainer. Su padre es: ", current_focus.get_parent().name)
+	if current_focus == null or not current_focus.get_parent() == menu:
 		return
 		
 	var current_index = current_focus.get_index()
@@ -90,11 +106,13 @@ func _unhandled_input(event):
 		if current_index - 2 >= 0:
 			new_index = current_index - 2
 			
-	print("Índice actual: ", current_index, " -> Intento de nuevo índice: ", new_index)
-			
 	if new_index != current_index:
 		menu.get_child(new_index).grab_focus()
-		print("¡Foco cambiado con éxito al nodo: ", menu.get_child(new_index).name, "!")
+		
+		# ¡REPRODUCIR SONIDO DE DESPLAZAMIENTO!
+		if sfx_tilegamecursor:
+			sfx_tilegamecursor.play()
+			
 		actualizar_brillo_botones()
 		get_viewport().set_input_as_handled()
 

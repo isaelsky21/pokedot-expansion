@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6sx20gllnb8b"
+path="res://.godot/imported/PRSFX- Double Kick.wav-517c00ceec6d5baec9a2b5a4df34956e.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Double Kick.wav"
+dest_files=["res://.godot/imported/PRSFX- Double Kick.wav-517c00ceec6d5baec9a2b5a4df34956e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cpqrsnrjri7j0"
+path="res://.godot/imported/PRSFX- Ice Punch2.wav-1bbe202f3fef48ef4f7cf336d1a17800.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Ice Punch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Punch2.wav-1bbe202f3fef48ef4f7cf336d1a17800.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

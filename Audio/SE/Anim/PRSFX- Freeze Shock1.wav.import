@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cf5w1c0py4m5n"
+path="res://.godot/imported/PRSFX- Freeze Shock1.wav-87733c4f7273bd2f3df85bb3fd7c6e87.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Freeze Shock1.wav"
+dest_files=["res://.godot/imported/PRSFX- Freeze Shock1.wav-87733c4f7273bd2f3df85bb3fd7c6e87.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

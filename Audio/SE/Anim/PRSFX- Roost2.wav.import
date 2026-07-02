@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ceicbcgh8hf5j"
+path="res://.godot/imported/PRSFX- Roost2.wav-0a6ff811b4dd342ebca1c1218538f605.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Roost2.wav"
+dest_files=["res://.godot/imported/PRSFX- Roost2.wav-0a6ff811b4dd342ebca1c1218538f605.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

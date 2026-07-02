@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://beupfmgxovgad"
+path="res://.godot/imported/PRSFX- Struggle.wav-2a20e7376240a3da6c9882b4041bc475.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Struggle.wav"
+dest_files=["res://.godot/imported/PRSFX- Struggle.wav-2a20e7376240a3da6c9882b4041bc475.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://1rmtjvkucxgv"
+path="res://.godot/imported/GEN8- LevelUp ORAS.ogg-f5dfe5546700041c33d8c24af3c938aa.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/GEN8- LevelUp ORAS.ogg"
+dest_files=["res://.godot/imported/GEN8- LevelUp ORAS.ogg-f5dfe5546700041c33d8c24af3c938aa.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

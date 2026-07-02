@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://8umh54yaie6c"
+path="res://.godot/imported/GEN8- LevelUp LGPE.ogg-8c42b36d75b86c27336dc26f713eccda.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/GEN8- LevelUp LGPE.ogg"
+dest_files=["res://.godot/imported/GEN8- LevelUp LGPE.ogg-8c42b36d75b86c27336dc26f713eccda.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

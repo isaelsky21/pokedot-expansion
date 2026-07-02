@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://byl3mt5kvpvxa"
+path="res://.godot/imported/PRSFX- Glitch2.wav-2eb655ad6c6c8663ce43a66add547910.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Glitch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Glitch2.wav-2eb655ad6c6c8663ce43a66add547910.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dteym1mdif8g5"
+path="res://.godot/imported/PRSFX- Psywave.wav-b55d25dcaef9d83bd3e3db8f45fe5644.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Psywave.wav"
+dest_files=["res://.godot/imported/PRSFX- Psywave.wav-b55d25dcaef9d83bd3e3db8f45fe5644.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

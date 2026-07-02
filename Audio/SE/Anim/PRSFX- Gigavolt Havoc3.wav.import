@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cbakou2rhcgkt"
+path="res://.godot/imported/PRSFX- Gigavolt Havoc3.wav-6d939acca0bda33c21ca5d98c992e603.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Gigavolt Havoc3.wav"
+dest_files=["res://.godot/imported/PRSFX- Gigavolt Havoc3.wav-6d939acca0bda33c21ca5d98c992e603.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

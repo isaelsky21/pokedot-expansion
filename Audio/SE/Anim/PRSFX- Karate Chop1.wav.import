@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cvvt8uxoexqlu"
+path="res://.godot/imported/PRSFX- Karate Chop1.wav-e18ed41ce7e09eecce9a09d28ad5ac5a.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Karate Chop1.wav"
+dest_files=["res://.godot/imported/PRSFX- Karate Chop1.wav-e18ed41ce7e09eecce9a09d28ad5ac5a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

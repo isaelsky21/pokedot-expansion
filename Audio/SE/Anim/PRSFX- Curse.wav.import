@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ppd4i3hr3x5d"
+path="res://.godot/imported/PRSFX- Curse.wav-7fa6e5967c1f799e8e72b2dac60dfce5.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Curse.wav"
+dest_files=["res://.godot/imported/PRSFX- Curse.wav-7fa6e5967c1f799e8e72b2dac60dfce5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

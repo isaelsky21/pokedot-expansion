@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://3oup5u4k8sd6"
+path="res://.godot/imported/PRSFX- Power Trip1.wav-1257320d2ce7a9b1998d710991700c34.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Power Trip1.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Trip1.wav-1257320d2ce7a9b1998d710991700c34.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

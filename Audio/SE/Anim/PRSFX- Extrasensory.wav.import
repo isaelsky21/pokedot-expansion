@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://chxl607ba64vk"
+path="res://.godot/imported/PRSFX- Extrasensory.wav-84a5973aada69ad67704e1e4304bc21c.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Extrasensory.wav"
+dest_files=["res://.godot/imported/PRSFX- Extrasensory.wav-84a5973aada69ad67704e1e4304bc21c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

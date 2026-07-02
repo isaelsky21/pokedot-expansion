@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b12yau0oc2h0j"
+path="res://.godot/imported/Raid (Ultra) battle v3.ogg-45ce3abb2e4a5f5803d7d56e7b474097.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/Raid (Ultra) battle v3.ogg"
+dest_files=["res://.godot/imported/Raid (Ultra) battle v3.ogg-45ce3abb2e4a5f5803d7d56e7b474097.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

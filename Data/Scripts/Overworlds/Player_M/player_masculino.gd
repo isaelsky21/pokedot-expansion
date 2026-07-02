@@ -15,6 +15,7 @@ var puede_encadenar_paso := true # Bandera que determina si el jugador puede lig
 @export var velocidad_animacion: float = 0.75 # Factor de velocidad aplicado al AnimationPlayer
 @export var tiempo_para_caminar: float = 0.12 # Retraso mínimo de pulsación para pasar de "mirar" a "caminar"
 @export var map_manager: MapManager # Enlace al administrador de mapas para verificar físicas
+
 # Variables de Control de Estado Interno
 var moviendose := false # Verdadero si el personaje está ejecutando un desplazamiento
 var posicion_inicio: Vector2 # Posición de origen antes de dar un paso
@@ -26,6 +27,9 @@ var direccion_input := Vector2.ZERO # Último input capturado del teclado/mando
 var tiempo_input := 0.0 # Tiempo acumulado con una tecla de dirección presionada
 
 @onready var anim_player: AnimationPlayer = $AnimationPlayer # Referencia al reproductor de animaciones
+@onready var sfx_bump: AudioStreamPlayer = $SfxBump # Referencia de Sonido
+@onready var sfx_jump: AudioStreamPlayer = $SfxJump
+
 # Diccionario para mapear vectores bidimensionales a sufijos de cadenas de animación
 var dir_to_anim: Dictionary = {
 	Vector2.UP: "up",
@@ -103,7 +107,6 @@ func actualizar_movimiento(delta: float):
 	else:
 		mostrar_idle(direccion)
 ## Controla el comportamiento del personaje cuando está estático en una baldosa.
-## Filtra pulsaciones cortas (para girar) de pulsaciones prolongadas (para caminar).
 func manejar_input_quieto(delta: float):
 	var dir := obtener_direccion_input()
 	# Si no hay entrada de dirección, limpia buffers y mantiene estado Idle
@@ -118,18 +121,29 @@ func manejar_input_quieto(delta: float):
 		direccion_input = dir
 		tiempo_input = 0.0
 		return
-	# Si cambia de dirección de input repentinamente, resetea el temporizador de buffer
+	# Si cambia de dirección de input de golpe, resetea el temporizador de buffer
 	if dir != direccion_input:
 		direccion_input = dir
 		tiempo_input = 0.0
+		
 	# Acumula el tiempo que se mantiene presionada la misma tecla
 	tiempo_input += delta
-	# Si supera el umbral de retención, rompe la quietud e inicia la caminata
+	
+	# Si supera el umbral de retención, intenta romper la quietud e iniciar la caminata
 	if tiempo_input >= tiempo_para_caminar:
-		empezar_paso(dir)
+		if map_manager != null and not map_manager.puede_caminar(position, dir):
+			# Interceptamos con tu función original para que no suene el bump en la rampa
+			if map_manager.has_method("es_rampa") and map_manager.es_rampa(position, dir):
+				empezar_paso(dir)
+				return
+				
+			# Sonido continuo rítmico al quedarse corriendo contra paredes
+			if sfx_bump and not sfx_bump.playing:
+				sfx_bump.play()
+			tiempo_input = 0.0 
+		else:
+			empezar_paso(dir)
 ## Inicializa los vectores lógicos de destino para el movimiento lineal o diagonal.
-## Intercepta obstrucciones para evaluar si corresponden a eventos de salto (rampas) o escaleras.
-## Inicializa los vectores lógicos de destino para el movimiento lineal.
 func empezar_paso(dir: Vector2):
 	# 1. Interceptamos si el destino es una escalera lateral ANTES de evaluar colisiones normales
 	if map_manager != null and map_manager.has_method("obtener_tipo_escalera"):
@@ -138,15 +152,22 @@ func empezar_paso(dir: Vector2):
 			ejecutar_paso_escalera(dir, tipo)
 			return
 
-	# 2. Si no es escalera, ejecuta tu validador de colisiones estándar
-	if map_manager != null and not map_manager.puede_caminar(position, dir):
-		if map_manager.has_method("es_rampa") and map_manager.es_rampa(position, dir):
+	# 2. Interceptamos si el destino es una rampa (Usando tu función original del MapManager)
+	if map_manager != null and map_manager.has_method("es_rampa"):
+		if map_manager.es_rampa(position, dir):
 			ejecutar_salto_rampa(dir)
 			return
+	# NOTA: Si luego implementas el salto direccional que hablamos, cambias "es_rampa" por "validar_salto_rampa"
+
+	# 3. Validador de colisión estándar para muros ordinarios
+	if map_manager != null and not map_manager.puede_caminar(position, dir):
+		# ¡BUMP! Chocamos de golpe en el primer frame
+		if sfx_bump and not sfx_bump.playing:
+			sfx_bump.play()
 		mostrar_idle(direccion)
 		return
 	
-	# 3. Flujo normal para suelo plano ordinario
+	# 4. Flujo normal para suelo plano ordinario libre
 	direccion = dir
 	direccion_input = dir
 	tiempo_input = 0.0
@@ -157,48 +178,25 @@ func empezar_paso(dir: Vector2):
 	moviendose = true
 
 	reproducir_caminata(dir)
-	# Valida colisiones estándar a través del MapManager
-	if map_manager != null and not map_manager.puede_caminar(position, dir):
-		#print("¡Bloqueo detectado! Revisando si es rampa...")
-		# Intercepción: Si el obstáculo es una rampa transitable, salta en lugar de frenar
-		if map_manager.has_method("es_rampa"):
-			var es_una_rampa = map_manager.es_rampa(position, dir)
-			#print("¿El MapManager dice que es rampa?: ", es_una_rampa)
-			
-			if es_una_rampa:
-				ejecutar_salto_rampa(dir)
-				return
-		#else:
-			#print("ALERTA: El MapManager no tiene el método 'es_rampa'")
-			
-		mostrar_idle(direccion)
-		return
-	# Configura los parámetros para el inicio del ciclo del Lerp estándar
-	direccion = dir
-	direccion_input = dir
-	tiempo_input = 0.0
-
-	posicion_inicio = position
-	posicion_obj = position + dir * tile_block # Avanza exactamente 1 baldosa
-	tiempo_paso = 0.0
-	moviendose = true
-
-	reproducir_caminata(dir)
 
 ## Ejecuta la rutina especial de salto de repisas.
 ## Modifica la lógica física para avanzar 2 baldosas de golpe mientras altera
 ## la posición local del Sprite2D de forma parabólica para simular altura.
+## Ejecuta la rutina especial de salto de repisas.
 func ejecutar_salto_rampa(dir: Vector2):
 	moviendose = true
 	direccion = dir
 	tiempo_input = 0.0
-	
 	posicion_inicio = position
-	# Saltamos 2 casillas para pasar el obstáculo y caer en el suelo libre
-	posicion_obj = position + dir * (tile_block * 2) # Avance lógico de 2 baldosas (cruza la rampa)
+	
+	# Saltamos 2 casillas de golpe
+	posicion_obj = position + dir * (tile_block * 2) 
 	tiempo_paso = 0.0
 	
-	# Ajusta la velocidad temporal del paso para dar efecto dinámico al salto
+	# 🔥 ¡REPRODUCIR SONIDO DE SALTO AQUÍ!
+	if sfx_jump and not sfx_jump.playing:
+		sfx_jump.play()
+	
 	var duracion_original = duracion_paso
 	duracion_paso = 0.40 
 	
@@ -208,12 +206,11 @@ func ejecutar_salto_rampa(dir: Vector2):
 	var sprite = $Sprite2D 
 	if sprite:
 		var tween_arco = create_tween() 
-		# Curvatura parabólica: resta Y local (sube en pantalla) y luego regresa a 0 (baja al suelo)
 		tween_arco.tween_property(sprite, "position:y", -14, duracion_paso / 2.0).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_OUT)
 		tween_arco.tween_property(sprite, "position:y", 0, duracion_paso / 2.0).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_IN)
-	# Mantiene bloqueado el flujo del código hasta que el Lerp de actualizar_movimiento finalice
+		
 	await self.paso_terminado
-	duracion_paso = duracion_original # Restaura el tiempo normal de caminata
+	duracion_paso = duracion_original
 ## Actualiza la orientación visual del personaje sin alterar su posición por cuadrículas.
 func mirar_hacia(dir: Vector2):
 	direccion = dir

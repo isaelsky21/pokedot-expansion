@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b5muwas71e0ad"
+path="res://.godot/imported/PRSFX- Mud Shot.wav-8bec09c512749cbd03fe49d477c85d34.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Mud Shot.wav"
+dest_files=["res://.godot/imported/PRSFX- Mud Shot.wav-8bec09c512749cbd03fe49d477c85d34.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

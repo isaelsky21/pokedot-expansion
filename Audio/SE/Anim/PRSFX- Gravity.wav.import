@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://fovw6krnjafp"
+path="res://.godot/imported/PRSFX- Gravity.wav-30ec63a2d135dcc7cd5787f07d2c3e1d.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Gravity.wav"
+dest_files=["res://.godot/imported/PRSFX- Gravity.wav-30ec63a2d135dcc7cd5787f07d2c3e1d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bu00m61r2ylbq"
+path="res://.godot/imported/PRSFX- Moonlight.wav-f6e8a867da3195aa62efdb6229dc4d02.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Moonlight.wav"
+dest_files=["res://.godot/imported/PRSFX- Moonlight.wav-f6e8a867da3195aa62efdb6229dc4d02.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

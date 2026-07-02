@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://djyq2nq3edt2r"
+path="res://.godot/imported/PRSFX- Scary Face.wav-404d26dd9864752a64be1909ad7052b0.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Scary Face.wav"
+dest_files=["res://.godot/imported/PRSFX- Scary Face.wav-404d26dd9864752a64be1909ad7052b0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

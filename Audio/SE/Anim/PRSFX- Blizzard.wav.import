@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c3ybrflnd07ng"
+path="res://.godot/imported/PRSFX- Blizzard.wav-ebbd3aee5a3a5a6d66d74e78b510e338.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Blizzard.wav"
+dest_files=["res://.godot/imported/PRSFX- Blizzard.wav-ebbd3aee5a3a5a6d66d74e78b510e338.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

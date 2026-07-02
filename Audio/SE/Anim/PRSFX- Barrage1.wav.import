@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bydy8u3rc8uie"
+path="res://.godot/imported/PRSFX- Barrage1.wav-8d3e3e53364373ddfc264fa3d1484f67.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Barrage1.wav"
+dest_files=["res://.godot/imported/PRSFX- Barrage1.wav-8d3e3e53364373ddfc264fa3d1484f67.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

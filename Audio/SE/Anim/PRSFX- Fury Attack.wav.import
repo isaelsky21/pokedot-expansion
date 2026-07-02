@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dlxr3n0dbcptc"
+path="res://.godot/imported/PRSFX- Fury Attack.wav-19b7466baf0b6f1151af2a98e6e3ef78.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Fury Attack.wav"
+dest_files=["res://.godot/imported/PRSFX- Fury Attack.wav-19b7466baf0b6f1151af2a98e6e3ef78.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://buwteo2wrfqfm"
+path="res://.godot/imported/PRSFX- Gaurdian of Alola1.ogg-35319b370ed8e4bca688ff630fd22a14.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Gaurdian of Alola1.ogg"
+dest_files=["res://.godot/imported/PRSFX- Gaurdian of Alola1.ogg-35319b370ed8e4bca688ff630fd22a14.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

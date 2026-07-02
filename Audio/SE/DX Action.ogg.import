@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dv0i82gy2fais"
+path="res://.godot/imported/DX Action.ogg-41188d7b0b560d5eb25bb60e1a4654a0.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/DX Action.ogg"
+dest_files=["res://.godot/imported/DX Action.ogg-41188d7b0b560d5eb25bb60e1a4654a0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

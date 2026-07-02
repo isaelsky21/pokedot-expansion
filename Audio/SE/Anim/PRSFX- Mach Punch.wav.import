@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bbgovl8k7ex10"
+path="res://.godot/imported/PRSFX- Mach Punch.wav-dc20f25c69c21c1a43e40a91c45c8c90.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Mach Punch.wav"
+dest_files=["res://.godot/imported/PRSFX- Mach Punch.wav-dc20f25c69c21c1a43e40a91c45c8c90.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

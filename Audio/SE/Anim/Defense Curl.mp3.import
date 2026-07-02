@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://gbwr3lix3wro"
+path="res://.godot/imported/Defense Curl.mp3-c2afa5493757740286ca48d571d5f15c.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/Defense Curl.mp3"
+dest_files=["res://.godot/imported/Defense Curl.mp3-c2afa5493757740286ca48d571d5f15c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

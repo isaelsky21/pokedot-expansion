@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cpgt4n7cpipsv"
+path="res://.godot/imported/PRSFX- Bide1.wav-0473496a05c0905a9762328c1b17707f.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Bide1.wav"
+dest_files=["res://.godot/imported/PRSFX- Bide1.wav-0473496a05c0905a9762328c1b17707f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

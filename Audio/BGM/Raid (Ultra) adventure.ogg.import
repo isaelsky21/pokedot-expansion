@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dgwl26jd7wdvx"
+path="res://.godot/imported/Raid (Ultra) adventure.ogg-dc720309a4b80b89bb4bec0b35254e0f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/Raid (Ultra) adventure.ogg"
+dest_files=["res://.godot/imported/Raid (Ultra) adventure.ogg-dc720309a4b80b89bb4bec0b35254e0f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

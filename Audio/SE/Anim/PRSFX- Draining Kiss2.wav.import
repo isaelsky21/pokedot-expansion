@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://vbnqos6juo75"
+path="res://.godot/imported/PRSFX- Draining Kiss2.wav-2369c8ca602d744a7e4b8977d526fd90.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Draining Kiss2.wav"
+dest_files=["res://.godot/imported/PRSFX- Draining Kiss2.wav-2369c8ca602d744a7e4b8977d526fd90.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b6iwt26u3x4o4"
+path="res://.godot/imported/PRSFX- String Shot2.wav-101cad924c5721d704a5b0ce644a99bd.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- String Shot2.wav"
+dest_files=["res://.godot/imported/PRSFX- String Shot2.wav-101cad924c5721d704a5b0ce644a99bd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

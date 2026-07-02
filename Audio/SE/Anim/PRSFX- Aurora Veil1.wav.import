@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cqfsquogfxdrl"
+path="res://.godot/imported/PRSFX- Aurora Veil1.wav-bef1d2b8a6ee27c9061d576a5bd0a842.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Aurora Veil1.wav"
+dest_files=["res://.godot/imported/PRSFX- Aurora Veil1.wav-bef1d2b8a6ee27c9061d576a5bd0a842.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

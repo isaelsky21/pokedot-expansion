@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c0gluubqnclf2"
+path="res://.godot/imported/PRSFX- Conversion2.wav-ce82792f0f7aa2b7b7ef3a8867a1419f.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Conversion2.wav"
+dest_files=["res://.godot/imported/PRSFX- Conversion2.wav-ce82792f0f7aa2b7b7ef3a8867a1419f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cd0nnny1q541i"
+path="res://.godot/imported/PRSFX- Storm Throw1.wav-fbf0dd3ea2027fd4302b1ebeb079a9e5.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Storm Throw1.wav"
+dest_files=["res://.godot/imported/PRSFX- Storm Throw1.wav-fbf0dd3ea2027fd4302b1ebeb079a9e5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

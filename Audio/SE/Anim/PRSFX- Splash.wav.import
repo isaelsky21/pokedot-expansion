@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://curmt6ci2utcw"
+path="res://.godot/imported/PRSFX- Splash.wav-ddde56b3e4674e9d8c8535e717966142.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Splash.wav"
+dest_files=["res://.godot/imported/PRSFX- Splash.wav-ddde56b3e4674e9d8c8535e717966142.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

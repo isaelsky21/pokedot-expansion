@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bb67q65oab3sd"
+path="res://.godot/imported/PRSFX- Grassy Terrain.wav-00ee5a9527e041965bd15f582ed56d1e.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Grassy Terrain.wav"
+dest_files=["res://.godot/imported/PRSFX- Grassy Terrain.wav-00ee5a9527e041965bd15f582ed56d1e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

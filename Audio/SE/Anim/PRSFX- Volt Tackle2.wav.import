@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://q8y4u8ncuwq"
+path="res://.godot/imported/PRSFX- Volt Tackle2.wav-06a11c7493678bf7447db2094d8399f7.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Volt Tackle2.wav"
+dest_files=["res://.godot/imported/PRSFX- Volt Tackle2.wav-06a11c7493678bf7447db2094d8399f7.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cmiv81iw325of"
+path="res://.godot/imported/Raid (Max) capture.ogg-b315b83de5e3afc2dfaba737e07c639f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/Raid (Max) capture.ogg"
+dest_files=["res://.godot/imported/Raid (Max) capture.ogg-b315b83de5e3afc2dfaba737e07c639f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

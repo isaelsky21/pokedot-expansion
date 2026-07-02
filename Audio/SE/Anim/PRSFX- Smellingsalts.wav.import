@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://e8wb5ukwso0l"
+path="res://.godot/imported/PRSFX- Smellingsalts.wav-3f810c41f58c07325dd8d6376d510cc6.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Smellingsalts.wav"
+dest_files=["res://.godot/imported/PRSFX- Smellingsalts.wav-3f810c41f58c07325dd8d6376d510cc6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://s1snysi3reuv"
+path="res://.godot/imported/PRSFX- Tearful Look1.wav-53da3f0d68ae328fc2fcd152b5d950cc.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Tearful Look1.wav"
+dest_files=["res://.godot/imported/PRSFX- Tearful Look1.wav-53da3f0d68ae328fc2fcd152b5d950cc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

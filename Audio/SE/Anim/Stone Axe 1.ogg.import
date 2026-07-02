@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b0nyi51055ypq"
+path="res://.godot/imported/Stone Axe 1.ogg-60827aeaf9d07bb9d8f7a763d29d19a8.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/Stone Axe 1.ogg"
+dest_files=["res://.godot/imported/Stone Axe 1.ogg-60827aeaf9d07bb9d8f7a763d29d19a8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

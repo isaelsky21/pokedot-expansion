@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cafjm7od1l3mu"
+path="res://.godot/imported/PRSFX- Bug Buzz.wav-b4ff62eb6f370708bf13e67f6fcd866b.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Bug Buzz.wav"
+dest_files=["res://.godot/imported/PRSFX- Bug Buzz.wav-b4ff62eb6f370708bf13e67f6fcd866b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

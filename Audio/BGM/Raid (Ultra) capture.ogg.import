@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://08wn5ddsj4g"
+path="res://.godot/imported/Raid (Ultra) capture.ogg-3a3a99bea6127b57cdb5199fba38fa71.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/Raid (Ultra) capture.ogg"
+dest_files=["res://.godot/imported/Raid (Ultra) capture.ogg-3a3a99bea6127b57cdb5199fba38fa71.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

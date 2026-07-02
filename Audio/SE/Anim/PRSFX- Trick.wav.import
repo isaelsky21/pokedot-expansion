@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://r0deao76uxq3"
+path="res://.godot/imported/PRSFX- Trick.wav-bc5b6337bcc6b2e7b472a1d07bf23d54.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Trick.wav"
+dest_files=["res://.godot/imported/PRSFX- Trick.wav-bc5b6337bcc6b2e7b472a1d07bf23d54.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

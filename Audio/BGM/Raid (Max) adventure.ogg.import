@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cxovsc4l35up1"
+path="res://.godot/imported/Raid (Max) adventure.ogg-9e96dff440357abd26f97aaa5e0eb6f3.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/Raid (Max) adventure.ogg"
+dest_files=["res://.godot/imported/Raid (Max) adventure.ogg-9e96dff440357abd26f97aaa5e0eb6f3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cns6a2yw640qx"
+path="res://.godot/imported/PRSFX- Slack Off.wav-1f79065792b4836f6834582134c211f0.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Slack Off.wav"
+dest_files=["res://.godot/imported/PRSFX- Slack Off.wav-1f79065792b4836f6834582134c211f0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqsi8ne5bskkn"
+path="res://.godot/imported/PRSFX- Frozen.wav-5683e7f58273c229a8a947e344e2e303.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Frozen.wav"
+dest_files=["res://.godot/imported/PRSFX- Frozen.wav-5683e7f58273c229a8a947e344e2e303.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

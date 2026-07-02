@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dvcj7k3hovgbn"
+path="res://.godot/imported/PRSFX- Super Fang2.wav-3c23fd39a3b84518c62b5caa070dae55.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Super Fang2.wav"
+dest_files=["res://.godot/imported/PRSFX- Super Fang2.wav-3c23fd39a3b84518c62b5caa070dae55.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cjxks371xh3jn"
+path="res://.godot/imported/PRSFX- Wish2.wav-c48c7fe4fc9b7795a46ae5c0b6ac8f79.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Wish2.wav"
+dest_files=["res://.godot/imported/PRSFX- Wish2.wav-c48c7fe4fc9b7795a46ae5c0b6ac8f79.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

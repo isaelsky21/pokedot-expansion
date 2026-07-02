@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cuwvsk80toiqu"
+path="res://.godot/imported/PRSFX- Skull Bash2.wav-509579da6093d516a5aa0e4f2f817d95.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Skull Bash2.wav"
+dest_files=["res://.godot/imported/PRSFX- Skull Bash2.wav-509579da6093d516a5aa0e4f2f817d95.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

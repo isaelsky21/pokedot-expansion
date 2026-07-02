@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bbx6jkgev1fc1"
+path="res://.godot/imported/GUI bag pocket.ogg-5ff929612e243313a5c4b9bfb996c0bf.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SE/GUI bag pocket.ogg"
+dest_files=["res://.godot/imported/GUI bag pocket.ogg-5ff929612e243313a5c4b9bfb996c0bf.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

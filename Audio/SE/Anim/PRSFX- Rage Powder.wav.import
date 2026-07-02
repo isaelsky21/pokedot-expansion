@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://5ii35sr3vw84"
+path="res://.godot/imported/PRSFX- Rage Powder.wav-528aed2902e4ea21a85a7a6e0ff6365f.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Rage Powder.wav"
+dest_files=["res://.godot/imported/PRSFX- Rage Powder.wav-528aed2902e4ea21a85a7a6e0ff6365f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

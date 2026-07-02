@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cshx6cxfpdgf2"
+path="res://.godot/imported/PRSFX- Will O Wisp1.wav-44ade34ae0091acce879d09b367a8082.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Will O Wisp1.wav"
+dest_files=["res://.godot/imported/PRSFX- Will O Wisp1.wav-44ade34ae0091acce879d09b367a8082.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

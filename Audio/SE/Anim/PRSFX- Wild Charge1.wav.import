@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://jdtn72uuipp7"
+path="res://.godot/imported/PRSFX- Wild Charge1.wav-9e5e5172e8ad6cbfe0d736e330f0287a.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Wild Charge1.wav"
+dest_files=["res://.godot/imported/PRSFX- Wild Charge1.wav-9e5e5172e8ad6cbfe0d736e330f0287a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

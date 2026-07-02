@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bgqaatcmn4ewq"
+path="res://.godot/imported/PRSFX- Night Daze1.wav-4c838c6e1c2a5635d11ab1c47eca8a34.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Anim/PRSFX- Night Daze1.wav"
+dest_files=["res://.godot/imported/PRSFX- Night Daze1.wav-4c838c6e1c2a5635d11ab1c47eca8a34.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
