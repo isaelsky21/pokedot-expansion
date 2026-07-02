@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d124o8k1n0637"
+path="res://.godot/imported/Route 2.wav-77c4f4976d8b6bdc7780833e1bacf384.sample"
+
+[deps]
+
+source_file="res://Audio/BGM/Route 2.wav"
+dest_files=["res://.godot/imported/Route 2.wav-77c4f4976d8b6bdc7780833e1bacf384.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

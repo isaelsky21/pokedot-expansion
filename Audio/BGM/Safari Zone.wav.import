@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d2dn611rkpbvb"
+path="res://.godot/imported/Safari Zone.wav-44febf9ffdfe003e88ed3c0ad03eb61c.sample"
+
+[deps]
+
+source_file="res://Audio/BGM/Safari Zone.wav"
+dest_files=["res://.godot/imported/Safari Zone.wav-44febf9ffdfe003e88ed3c0ad03eb61c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
