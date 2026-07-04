@@ -57,6 +57,7 @@ func cargar_mapa_inicial():
 			current_map.attributes.music_path,
 			current_map.attributes.silence_end
 		)
+		TimeManager.set_indoors(current_map.attributes.is_indoor)
 ## Comprueba si el jugador ha cruzado los límites lógicos del mapa actual (Norte, Sur, Este, Oeste).
 func revisar_salida_del_mapa():
 	if current_map == null:
@@ -121,6 +122,7 @@ func cambiar_mapa(_direction: String, _old_tile_pos: Vector2i):
 
 	# ✅ Música para el nuevo mapa
 	MusicManager.reproducir(current_map.attributes.music_path,current_map.attributes.silence_end)
+	TimeManager.set_indoors(current_map.attributes.is_indoor)
 ## Retorna el recurso MapConnection correspondiente a la dirección consultada.
 func obtener_conexion(_direction: String) -> MapConnection:
 	match _direction:
