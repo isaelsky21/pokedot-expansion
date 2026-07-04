@@ -20,6 +20,7 @@ config/icon="uid://dwytgt4ciynv3"
 PlayerManager="*uid://8cejyiubw1uj"
 DataBaseGlobal="*uid://bvubf21plih0r"
 SaveBlock="*uid://ds5buoumqhfsd"
+MusicManager="*uid://bi5enb2j31q5q"
 
 [display]
 

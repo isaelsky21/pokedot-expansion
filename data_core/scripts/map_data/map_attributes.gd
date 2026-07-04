@@ -20,6 +20,7 @@ class_name MapAttributes
 @export_category("Audio & Visuals")
 # Guarda el path al archivo de música para no saturar la memoria cargando el audio directo
 @export_file("*.ogg", "*.wav", "*.mp3") var music_path: String
+@export var silence_end: float = 0.0
 #@export var weather: PokemonData.Weather = PokemonData.Weather.NONE
 #@export var battle_background: MapStruct.BattleBg = MapStruct.BattleBg.GRASS
 
