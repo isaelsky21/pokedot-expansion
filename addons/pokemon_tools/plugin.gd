@@ -85,7 +85,7 @@ func _create_pokemon_resource(resource_name: String):
 	var resource := PokemonDataStruct.new()
 
 	var path := (
-		"res://Data/Pokemon/%s/%s.tres"
+		"res://data_core/pokemon/%s/%s.tres"
 		% [gen, resource_name]
 	)
 
@@ -97,7 +97,7 @@ func _create_move_resource(resource_name: String):
 	var resource := MoveData.new()
 
 	var path := (
-		"res://Data/Move/%s.tres"
+		"res://data_core/move/%s.tres"
 		% resource_name
 	)
 
@@ -109,7 +109,7 @@ func _create_ability_resource(resource_name: String):
 	var resource := AbilityData.new()
 
 	var path := (
-		"res://Data/Ability/%s.tres"
+		"res://data_core/ability/%s.tres"
 		% resource_name
 	)
 
@@ -121,7 +121,7 @@ func _create_item_resource(resource_name: String):
 	var resource := ItemData.new()
 
 	var path := (
-		"res://Data/Items/%s.tres"
+		"res://data_core/items/%s.tres"
 		% resource_name
 	)
 

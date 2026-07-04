@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://1ik06o0cxxxk"
+path="res://.godot/imported/Battle Gym Leader.wav-3a2c92ece1470333640da539b164549f.sample"
+
+[deps]
+
+source_file="res://sfx/bgm/Battle Gym Leader.wav"
+dest_files=["res://.godot/imported/Battle Gym Leader.wav-3a2c92ece1470333640da539b164549f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

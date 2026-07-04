@@ -1,14 +1,11 @@
 [gd_scene format=3 uid="uid://bhqxgiq6shwq"]
 
-[ext_resource type="Script" uid="uid://ftbtla3q57rl" path="res://Data/Scripts/Overworlds/Player_M/player_masculino.gd" id="1_ms5te"]
-[ext_resource type="AudioStream" uid="uid://cua7wek8ybp22" path="res://Audio/SE/Player bump.ogg" id="2_36uvm"]
-[ext_resource type="AudioStream" uid="uid://buuie1te0s8mx" path="res://Audio/SE/Player jump.ogg" id="3_igec0"]
+[ext_resource type="Script" uid="uid://dxqp3xbso5i0g" path="res://data_core/scripts/overworlds/player_m/male_player.gd" id="1_ms5te"]
+[ext_resource type="AudioStream" uid="uid://cua7wek8ybp22" path="res://sfx/se/Player bump.ogg" id="2_36uvm"]
+[ext_resource type="Texture2D" uid="uid://jdpwr4pgas5q" path="res://grafics/overworlds/player_m/male_player.png" id="2_ks2gj"]
+[ext_resource type="AudioStream" uid="uid://buuie1te0s8mx" path="res://sfx/se/Player jump.ogg" id="3_igec0"]
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_36uvm"]
-load_path = "res://.godot/imported/shadow_m.png-ceb5157304887f0c33bc33ed0a70d147.ctex"
-
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_rmpqd"]
-load_path = "res://.godot/imported/Player_Masculino.png-324ca3d27c9c24ae48a9e88551b1d502.ctex"
 
 [sub_resource type="Animation" id="Animation_36uvm"]
 length = 0.001
@@ -188,7 +185,7 @@ position = Vector2(-1, 11)
 texture = SubResource("CompressedTexture2D_36uvm")
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=1925944624]
-texture = SubResource("CompressedTexture2D_rmpqd")
+texture = ExtResource("2_ks2gj")
 hframes = 3
 vframes = 4
 frame = 1

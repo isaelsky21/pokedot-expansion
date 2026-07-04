@@ -17,9 +17,9 @@ config/icon="uid://dwytgt4ciynv3"
 
 [autoload]
 
-PlayerManager="*uid://bptbsomd1dkjm"
-DataBaseGlobal="*uid://b6x1kgtrxoiim"
-SaveBlock="*uid://c60w5dku26cgq"
+PlayerManager="*uid://8cejyiubw1uj"
+DataBaseGlobal="*uid://bvubf21plih0r"
+SaveBlock="*uid://ds5buoumqhfsd"
 
 [display]
 
