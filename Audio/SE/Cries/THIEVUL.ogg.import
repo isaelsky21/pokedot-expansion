@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxaa56xha0vrb"
-path="res://.godot/imported/THIEVUL.ogg-f4f7041df0fe73f43bbb4fd30faeddd9.oggvorbisstr"
+path="res://.godot/imported/THIEVUL.ogg-e68e00e8b5bb1ba6303af37409e353a9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/THIEVUL.ogg"
-dest_files=["res://.godot/imported/THIEVUL.ogg-f4f7041df0fe73f43bbb4fd30faeddd9.oggvorbisstr"]
+source_file="res://audio/se/cries/THIEVUL.ogg"
+dest_files=["res://.godot/imported/THIEVUL.ogg-e68e00e8b5bb1ba6303af37409e353a9.oggvorbisstr"]
 
 [params]
 

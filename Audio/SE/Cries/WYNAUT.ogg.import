@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://q8h66kf3ieyg"
-path="res://.godot/imported/WYNAUT.ogg-efd3ff5cca8f962e82aa45e15b912619.oggvorbisstr"
+path="res://.godot/imported/WYNAUT.ogg-343a5dffd48494c3832e4cae68e5af98.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WYNAUT.ogg"
-dest_files=["res://.godot/imported/WYNAUT.ogg-efd3ff5cca8f962e82aa45e15b912619.oggvorbisstr"]
+source_file="res://audio/se/cries/WYNAUT.ogg"
+dest_files=["res://.godot/imported/WYNAUT.ogg-343a5dffd48494c3832e4cae68e5af98.oggvorbisstr"]
 
 [params]
 

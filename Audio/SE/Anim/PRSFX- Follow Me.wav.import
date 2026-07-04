@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bqn73jws6h1k8"
-path="res://.godot/imported/PRSFX- Follow Me.wav-4b894d22c3199cb7b10c3b12be764ca3.sample"
+path="res://.godot/imported/PRSFX- Follow Me.wav-fa1394ba0540eb324a8a007bfd8630be.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Follow Me.wav"
-dest_files=["res://.godot/imported/PRSFX- Follow Me.wav-4b894d22c3199cb7b10c3b12be764ca3.sample"]
+source_file="res://audio/se/anim/PRSFX- Follow Me.wav"
+dest_files=["res://.godot/imported/PRSFX- Follow Me.wav-fa1394ba0540eb324a8a007bfd8630be.sample"]
 
 [params]
 

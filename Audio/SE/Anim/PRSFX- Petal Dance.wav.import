@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d1ljsaxubgar4"
-path="res://.godot/imported/PRSFX- Petal Dance.wav-49a148a55ec83c2bd9ef65abe7579682.sample"
+path="res://.godot/imported/PRSFX- Petal Dance.wav-5b7d905405024dd3a829aa6b2195c36a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Petal Dance.wav"
-dest_files=["res://.godot/imported/PRSFX- Petal Dance.wav-49a148a55ec83c2bd9ef65abe7579682.sample"]
+source_file="res://audio/se/anim/PRSFX- Petal Dance.wav"
+dest_files=["res://.godot/imported/PRSFX- Petal Dance.wav-5b7d905405024dd3a829aa6b2195c36a.sample"]
 
 [params]
 

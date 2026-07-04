@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://fsc8x2xckk2t"
-path="res://.godot/imported/MAUSHOLD.ogg-a551bbc6f4c4f16398fad6479974fd37.oggvorbisstr"
+path="res://.godot/imported/MAUSHOLD.ogg-fab67c46c77cdd70f2f400ce9cbabbcc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAUSHOLD.ogg"
-dest_files=["res://.godot/imported/MAUSHOLD.ogg-a551bbc6f4c4f16398fad6479974fd37.oggvorbisstr"]
+source_file="res://audio/se/cries/MAUSHOLD.ogg"
+dest_files=["res://.godot/imported/MAUSHOLD.ogg-fab67c46c77cdd70f2f400ce9cbabbcc.oggvorbisstr"]
 
 [params]
 

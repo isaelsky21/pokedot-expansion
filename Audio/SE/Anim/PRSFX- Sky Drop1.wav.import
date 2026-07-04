@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://coep85dp1cgso"
-path="res://.godot/imported/PRSFX- Sky Drop1.wav-cf1f762134b12aad715fe5df24169f46.sample"
+path="res://.godot/imported/PRSFX- Sky Drop1.wav-ec5a523ab23f8b15dbe8e021370a6d9f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sky Drop1.wav"
-dest_files=["res://.godot/imported/PRSFX- Sky Drop1.wav-cf1f762134b12aad715fe5df24169f46.sample"]
+source_file="res://audio/se/anim/PRSFX- Sky Drop1.wav"
+dest_files=["res://.godot/imported/PRSFX- Sky Drop1.wav-ec5a523ab23f8b15dbe8e021370a6d9f.sample"]
 
 [params]
 

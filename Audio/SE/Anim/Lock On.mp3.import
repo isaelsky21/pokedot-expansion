@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://b3lg25amnceo7"
-path="res://.godot/imported/Lock On.mp3-c07f9e7293944c13b66a0e8372f5ffa4.mp3str"
+path="res://.godot/imported/Lock On.mp3-149bc08cdc8777ebbeae327426d1f9c7.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Lock On.mp3"
-dest_files=["res://.godot/imported/Lock On.mp3-c07f9e7293944c13b66a0e8372f5ffa4.mp3str"]
+source_file="res://audio/se/anim/Lock On.mp3"
+dest_files=["res://.godot/imported/Lock On.mp3-149bc08cdc8777ebbeae327426d1f9c7.mp3str"]
 
 [params]
 

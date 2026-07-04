@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://j3a4871yj1yx"
-path="res://.godot/imported/WEEDLE.ogg-6189a9dd5ceebbfc82a98da0b3173c16.oggvorbisstr"
+path="res://.godot/imported/WEEDLE.ogg-4516998051e5adeca7a0e9404d19d855.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WEEDLE.ogg"
-dest_files=["res://.godot/imported/WEEDLE.ogg-6189a9dd5ceebbfc82a98da0b3173c16.oggvorbisstr"]
+source_file="res://audio/se/cries/WEEDLE.ogg"
+dest_files=["res://.godot/imported/WEEDLE.ogg-4516998051e5adeca7a0e9404d19d855.oggvorbisstr"]
 
 [params]
 

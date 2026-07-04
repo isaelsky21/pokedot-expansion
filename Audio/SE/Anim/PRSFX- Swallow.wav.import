@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://br2nuc8w0wk1w"
-path="res://.godot/imported/PRSFX- Swallow.wav-41021ad2cc86be8f42850ff000e062f1.sample"
+path="res://.godot/imported/PRSFX- Swallow.wav-4c4f82143271aa7c0677ee0c1979f4ff.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Swallow.wav"
-dest_files=["res://.godot/imported/PRSFX- Swallow.wav-41021ad2cc86be8f42850ff000e062f1.sample"]
+source_file="res://audio/se/anim/PRSFX- Swallow.wav"
+dest_files=["res://.godot/imported/PRSFX- Swallow.wav-4c4f82143271aa7c0677ee0c1979f4ff.sample"]
 
 [params]
 

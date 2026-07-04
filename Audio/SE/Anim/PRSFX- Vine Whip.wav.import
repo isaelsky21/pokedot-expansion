@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://envth6d7aju"
-path="res://.godot/imported/PRSFX- Vine Whip.wav-e9b487f6c3a7587a996affd6ca4732d0.sample"
+path="res://.godot/imported/PRSFX- Vine Whip.wav-16ba12803602043c4885a10f6479a113.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Vine Whip.wav"
-dest_files=["res://.godot/imported/PRSFX- Vine Whip.wav-e9b487f6c3a7587a996affd6ca4732d0.sample"]
+source_file="res://audio/se/anim/PRSFX- Vine Whip.wav"
+dest_files=["res://.godot/imported/PRSFX- Vine Whip.wav-16ba12803602043c4885a10f6479a113.sample"]
 
 [params]
 

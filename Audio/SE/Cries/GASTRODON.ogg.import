@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://kvr2nkj5lslt"
-path="res://.godot/imported/GASTRODON.ogg-6d2ed9b1d279cdc7bf308be933eb90cc.oggvorbisstr"
+path="res://.godot/imported/GASTRODON.ogg-44f87aee10db5d205f6f09da7fd1a929.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GASTRODON.ogg"
-dest_files=["res://.godot/imported/GASTRODON.ogg-6d2ed9b1d279cdc7bf308be933eb90cc.oggvorbisstr"]
+source_file="res://audio/se/cries/GASTRODON.ogg"
+dest_files=["res://.godot/imported/GASTRODON.ogg-44f87aee10db5d205f6f09da7fd1a929.oggvorbisstr"]
 
 [params]
 

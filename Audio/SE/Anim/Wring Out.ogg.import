@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cykcy4vs8gdjc"
-path="res://.godot/imported/Wring Out.ogg-2199a5b371c2f5ab29bb5d64d0bdf926.oggvorbisstr"
+path="res://.godot/imported/Wring Out.ogg-a018928a05bf91cd9f80edfd52c0cc24.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Wring Out.ogg"
-dest_files=["res://.godot/imported/Wring Out.ogg-2199a5b371c2f5ab29bb5d64d0bdf926.oggvorbisstr"]
+source_file="res://audio/se/anim/Wring Out.ogg"
+dest_files=["res://.godot/imported/Wring Out.ogg-a018928a05bf91cd9f80edfd52c0cc24.oggvorbisstr"]
 
 [params]
 

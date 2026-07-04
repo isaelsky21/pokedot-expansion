@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bu5g62o2r12g1"
-path="res://.godot/imported/PRSFX- Lick.wav-59470a12cddd0b1cf5a8bda6499c2b7f.sample"
+path="res://.godot/imported/PRSFX- Lick.wav-89538bc477285dae80dc4c671aeaecf0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Lick.wav"
-dest_files=["res://.godot/imported/PRSFX- Lick.wav-59470a12cddd0b1cf5a8bda6499c2b7f.sample"]
+source_file="res://audio/se/anim/PRSFX- Lick.wav"
+dest_files=["res://.godot/imported/PRSFX- Lick.wav-89538bc477285dae80dc4c671aeaecf0.sample"]
 
 [params]
 

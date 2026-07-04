@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vkngmuy5vsgp"
-path="res://.godot/imported/DRIFBLIM.ogg-fe34ca6de641302315923c1977372013.oggvorbisstr"
+path="res://.godot/imported/DRIFBLIM.ogg-a02bab72aa84f227f26d33e8a6d8553f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRIFBLIM.ogg"
-dest_files=["res://.godot/imported/DRIFBLIM.ogg-fe34ca6de641302315923c1977372013.oggvorbisstr"]
+source_file="res://audio/se/cries/DRIFBLIM.ogg"
+dest_files=["res://.godot/imported/DRIFBLIM.ogg-a02bab72aa84f227f26d33e8a6d8553f.oggvorbisstr"]
 
 [params]
 

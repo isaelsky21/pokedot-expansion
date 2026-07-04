@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bywj7nitjb18v"
-path="res://.godot/imported/PRSFX- Aurora Veil4.wav-aef547eae53fcfe325a59ee93024dedc.sample"
+path="res://.godot/imported/PRSFX- Aurora Veil4.wav-83172c2acb048c6a792b8b4bd4796789.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aurora Veil4.wav"
-dest_files=["res://.godot/imported/PRSFX- Aurora Veil4.wav-aef547eae53fcfe325a59ee93024dedc.sample"]
+source_file="res://audio/se/anim/PRSFX- Aurora Veil4.wav"
+dest_files=["res://.godot/imported/PRSFX- Aurora Veil4.wav-83172c2acb048c6a792b8b4bd4796789.sample"]
 
 [params]
 

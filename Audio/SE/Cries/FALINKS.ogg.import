@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://g7a6o4vgtftt"
-path="res://.godot/imported/FALINKS.ogg-444cf4aae2df1292468dbad55866457c.oggvorbisstr"
+path="res://.godot/imported/FALINKS.ogg-8c5777c725c9faffdf037b2715a1f491.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FALINKS.ogg"
-dest_files=["res://.godot/imported/FALINKS.ogg-444cf4aae2df1292468dbad55866457c.oggvorbisstr"]
+source_file="res://audio/se/cries/FALINKS.ogg"
+dest_files=["res://.godot/imported/FALINKS.ogg-8c5777c725c9faffdf037b2715a1f491.oggvorbisstr"]
 
 [params]
 

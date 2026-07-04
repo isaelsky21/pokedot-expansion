@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c5at44an5ge64"
-path="res://.godot/imported/PRSFX- Bloom Doom3.wav-2af4a027c14f62f2bb008d0633297483.sample"
+path="res://.godot/imported/PRSFX- Bloom Doom3.wav-e7c84075bee081bc703d712b03405c37.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bloom Doom3.wav"
-dest_files=["res://.godot/imported/PRSFX- Bloom Doom3.wav-2af4a027c14f62f2bb008d0633297483.sample"]
+source_file="res://audio/se/anim/PRSFX- Bloom Doom3.wav"
+dest_files=["res://.godot/imported/PRSFX- Bloom Doom3.wav-e7c84075bee081bc703d712b03405c37.sample"]
 
 [params]
 

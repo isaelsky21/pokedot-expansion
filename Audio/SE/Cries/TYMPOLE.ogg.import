@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://brvkhljr3j6mf"
-path="res://.godot/imported/TYMPOLE.ogg-c85ea3640d769b0dfc19a90ec3e6ed7c.oggvorbisstr"
+path="res://.godot/imported/TYMPOLE.ogg-c99d83f65593db4e90344bbdeff75d36.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TYMPOLE.ogg"
-dest_files=["res://.godot/imported/TYMPOLE.ogg-c85ea3640d769b0dfc19a90ec3e6ed7c.oggvorbisstr"]
+source_file="res://audio/se/cries/TYMPOLE.ogg"
+dest_files=["res://.godot/imported/TYMPOLE.ogg-c99d83f65593db4e90344bbdeff75d36.oggvorbisstr"]
 
 [params]
 

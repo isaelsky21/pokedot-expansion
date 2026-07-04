@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dqj5ppk0k4x6p"
-path="res://.godot/imported/GRUMPIG.ogg-5cb1b57849789ec9083db46101c6431b.oggvorbisstr"
+path="res://.godot/imported/GRUMPIG.ogg-b82569349364d7cff77af1bbf20e2e70.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GRUMPIG.ogg"
-dest_files=["res://.godot/imported/GRUMPIG.ogg-5cb1b57849789ec9083db46101c6431b.oggvorbisstr"]
+source_file="res://audio/se/cries/GRUMPIG.ogg"
+dest_files=["res://.godot/imported/GRUMPIG.ogg-b82569349364d7cff77af1bbf20e2e70.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bsb6oswxmpbx2"
-path="res://.godot/imported/SANDACONDA.ogg-813663739055968d16838d3be2595053.oggvorbisstr"
+path="res://.godot/imported/SANDACONDA.ogg-3bb5c03cf9545fe4cf750c3f150356b4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SANDACONDA.ogg"
-dest_files=["res://.godot/imported/SANDACONDA.ogg-813663739055968d16838d3be2595053.oggvorbisstr"]
+source_file="res://audio/se/cries/SANDACONDA.ogg"
+dest_files=["res://.godot/imported/SANDACONDA.ogg-3bb5c03cf9545fe4cf750c3f150356b4.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bpcfh1br1adga"
-path="res://.godot/imported/SKRELP.ogg-a97d3ec3ac9b3f9b380f218a36a0fd3d.oggvorbisstr"
+path="res://.godot/imported/SKRELP.ogg-2e68496eeedad04dc4339fc3bbf0e1ca.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SKRELP.ogg"
-dest_files=["res://.godot/imported/SKRELP.ogg-a97d3ec3ac9b3f9b380f218a36a0fd3d.oggvorbisstr"]
+source_file="res://audio/se/cries/SKRELP.ogg"
+dest_files=["res://.godot/imported/SKRELP.ogg-2e68496eeedad04dc4339fc3bbf0e1ca.oggvorbisstr"]
 
 [params]
 

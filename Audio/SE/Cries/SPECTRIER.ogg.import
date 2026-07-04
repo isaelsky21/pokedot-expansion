@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d28gfmvawpwsg"
-path="res://.godot/imported/SPECTRIER.ogg-f9e07238012006bcb22f0763bf206fa9.oggvorbisstr"
+path="res://.godot/imported/SPECTRIER.ogg-f5ad9225f6af6830bd980579ad6636a8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SPECTRIER.ogg"
-dest_files=["res://.godot/imported/SPECTRIER.ogg-f9e07238012006bcb22f0763bf206fa9.oggvorbisstr"]
+source_file="res://audio/se/cries/SPECTRIER.ogg"
+dest_files=["res://.godot/imported/SPECTRIER.ogg-f5ad9225f6af6830bd980579ad6636a8.oggvorbisstr"]
 
 [params]
 

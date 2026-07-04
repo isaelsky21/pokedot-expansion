@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dyd26gxbkmuvm"
-path="res://.godot/imported/SHINX.ogg-b5d79d9543ac52e2571584beb068782c.oggvorbisstr"
+path="res://.godot/imported/SHINX.ogg-7ce0e2dfc464a0ed8f10fdca071e34fe.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHINX.ogg"
-dest_files=["res://.godot/imported/SHINX.ogg-b5d79d9543ac52e2571584beb068782c.oggvorbisstr"]
+source_file="res://audio/se/cries/SHINX.ogg"
+dest_files=["res://.godot/imported/SHINX.ogg-7ce0e2dfc464a0ed8f10fdca071e34fe.oggvorbisstr"]
 
 [params]
 

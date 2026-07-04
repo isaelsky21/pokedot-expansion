@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccwrbc4hl72k4"
-path="res://.godot/imported/BLASTOISE.ogg-380229a390f9ce4c6c5285e5506b8293.oggvorbisstr"
+path="res://.godot/imported/BLASTOISE.ogg-7e3207263ab1e7b7ac7dde12c4b963be.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BLASTOISE.ogg"
-dest_files=["res://.godot/imported/BLASTOISE.ogg-380229a390f9ce4c6c5285e5506b8293.oggvorbisstr"]
+source_file="res://audio/se/cries/BLASTOISE.ogg"
+dest_files=["res://.godot/imported/BLASTOISE.ogg-7e3207263ab1e7b7ac7dde12c4b963be.oggvorbisstr"]
 
 [params]
 

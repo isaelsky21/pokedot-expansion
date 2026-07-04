@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cm84il7scfisa"
-path="res://.godot/imported/SHIELDON.ogg-8075f437f0aa70332f05492e9a208f46.oggvorbisstr"
+path="res://.godot/imported/SHIELDON.ogg-290c3809f15e7b23ac0beeda25a153bd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHIELDON.ogg"
-dest_files=["res://.godot/imported/SHIELDON.ogg-8075f437f0aa70332f05492e9a208f46.oggvorbisstr"]
+source_file="res://audio/se/cries/SHIELDON.ogg"
+dest_files=["res://.godot/imported/SHIELDON.ogg-290c3809f15e7b23ac0beeda25a153bd.oggvorbisstr"]
 
 [params]
 

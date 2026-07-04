@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7itye8oehhkr"
-path="res://.godot/imported/SPOINK.ogg-ba0b04af1f6e2df20fb95178da949ec5.oggvorbisstr"
+path="res://.godot/imported/SPOINK.ogg-009dc9aaa966ef78a63ede2993f78e00.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SPOINK.ogg"
-dest_files=["res://.godot/imported/SPOINK.ogg-ba0b04af1f6e2df20fb95178da949ec5.oggvorbisstr"]
+source_file="res://audio/se/cries/SPOINK.ogg"
+dest_files=["res://.godot/imported/SPOINK.ogg-009dc9aaa966ef78a63ede2993f78e00.oggvorbisstr"]
 
 [params]
 

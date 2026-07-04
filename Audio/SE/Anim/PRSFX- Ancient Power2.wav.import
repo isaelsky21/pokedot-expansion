@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ts80l1ylp5fy"
-path="res://.godot/imported/PRSFX- Ancient Power2.wav-bdb8a41fd0bb9ee6e35cccfe71685b2e.sample"
+path="res://.godot/imported/PRSFX- Ancient Power2.wav-1ede8ec70dd6342764d9bc29f2200bc4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ancient Power2.wav"
-dest_files=["res://.godot/imported/PRSFX- Ancient Power2.wav-bdb8a41fd0bb9ee6e35cccfe71685b2e.sample"]
+source_file="res://audio/se/anim/PRSFX- Ancient Power2.wav"
+dest_files=["res://.godot/imported/PRSFX- Ancient Power2.wav-1ede8ec70dd6342764d9bc29f2200bc4.sample"]
 
 [params]
 

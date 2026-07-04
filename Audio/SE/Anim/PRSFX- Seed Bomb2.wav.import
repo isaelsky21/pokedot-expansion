@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://du4617ullk06v"
-path="res://.godot/imported/PRSFX- Seed Bomb2.wav-007b1c684bf12fe8c1879e499a8fea4d.sample"
+path="res://.godot/imported/PRSFX- Seed Bomb2.wav-217a78387fe5cb97084e286c61e8b54d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Seed Bomb2.wav"
-dest_files=["res://.godot/imported/PRSFX- Seed Bomb2.wav-007b1c684bf12fe8c1879e499a8fea4d.sample"]
+source_file="res://audio/se/anim/PRSFX- Seed Bomb2.wav"
+dest_files=["res://.godot/imported/PRSFX- Seed Bomb2.wav-217a78387fe5cb97084e286c61e8b54d.sample"]
 
 [params]
 

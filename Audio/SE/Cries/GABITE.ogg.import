@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b651ospcatwkq"
-path="res://.godot/imported/GABITE.ogg-cf615821f3d2fcd938412cc4f32c4953.oggvorbisstr"
+path="res://.godot/imported/GABITE.ogg-4ae9e43b208f49a83250107091c223ae.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GABITE.ogg"
-dest_files=["res://.godot/imported/GABITE.ogg-cf615821f3d2fcd938412cc4f32c4953.oggvorbisstr"]
+source_file="res://audio/se/cries/GABITE.ogg"
+dest_files=["res://.godot/imported/GABITE.ogg-4ae9e43b208f49a83250107091c223ae.oggvorbisstr"]
 
 [params]
 

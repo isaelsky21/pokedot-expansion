@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c3j2errdyd46s"
-path="res://.godot/imported/PRSFX- Sucker Punch2.wav-50568f9df566a6588f48dc8e6c1635bc.sample"
+path="res://.godot/imported/PRSFX- Sucker Punch2.wav-5a90b475faaabc113fbffa7a54e2d376.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sucker Punch2.wav"
-dest_files=["res://.godot/imported/PRSFX- Sucker Punch2.wav-50568f9df566a6588f48dc8e6c1635bc.sample"]
+source_file="res://audio/se/anim/PRSFX- Sucker Punch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Sucker Punch2.wav-5a90b475faaabc113fbffa7a54e2d376.sample"]
 
 [params]
 

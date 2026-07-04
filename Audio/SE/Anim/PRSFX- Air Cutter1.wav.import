@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cbpfgthru4c2p"
-path="res://.godot/imported/PRSFX- Air Cutter1.wav-e212346292fc83ef31657320cd7fd0c2.sample"
+path="res://.godot/imported/PRSFX- Air Cutter1.wav-c0c8390d8a90f8b41717353e507c1a6e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Air Cutter1.wav"
-dest_files=["res://.godot/imported/PRSFX- Air Cutter1.wav-e212346292fc83ef31657320cd7fd0c2.sample"]
+source_file="res://audio/se/anim/PRSFX- Air Cutter1.wav"
+dest_files=["res://.godot/imported/PRSFX- Air Cutter1.wav-c0c8390d8a90f8b41717353e507c1a6e.sample"]
 
 [params]
 

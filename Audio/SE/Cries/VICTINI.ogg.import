@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://2mhsulq2hvis"
-path="res://.godot/imported/VICTINI.ogg-8ee1c6c18bee2a14d542fc42cb86fde7.oggvorbisstr"
+path="res://.godot/imported/VICTINI.ogg-a9b64f12464bf4900fee1ef2bd2a64eb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VICTINI.ogg"
-dest_files=["res://.godot/imported/VICTINI.ogg-8ee1c6c18bee2a14d542fc42cb86fde7.oggvorbisstr"]
+source_file="res://audio/se/cries/VICTINI.ogg"
+dest_files=["res://.godot/imported/VICTINI.ogg-a9b64f12464bf4900fee1ef2bd2a64eb.oggvorbisstr"]
 
 [params]
 

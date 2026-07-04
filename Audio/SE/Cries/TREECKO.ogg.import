@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bkx2yposo5vw"
-path="res://.godot/imported/TREECKO.ogg-8ee2ca9f8d697563f262bfc9ce182e8b.oggvorbisstr"
+path="res://.godot/imported/TREECKO.ogg-fb6bb4f30acf675c54dc7cc13626425f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TREECKO.ogg"
-dest_files=["res://.godot/imported/TREECKO.ogg-8ee2ca9f8d697563f262bfc9ce182e8b.oggvorbisstr"]
+source_file="res://audio/se/cries/TREECKO.ogg"
+dest_files=["res://.godot/imported/TREECKO.ogg-fb6bb4f30acf675c54dc7cc13626425f.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ciqbulws5darb"
-path="res://.godot/imported/PRSFX- Rainbow Field.wav-50ff681f6c5206d26f4ad5d4ac97f111.sample"
+path="res://.godot/imported/PRSFX- Rainbow Field.wav-cef4a6e84958ca3418551f81cc8af2af.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rainbow Field.wav"
-dest_files=["res://.godot/imported/PRSFX- Rainbow Field.wav-50ff681f6c5206d26f4ad5d4ac97f111.sample"]
+source_file="res://audio/se/anim/PRSFX- Rainbow Field.wav"
+dest_files=["res://.godot/imported/PRSFX- Rainbow Field.wav-cef4a6e84958ca3418551f81cc8af2af.sample"]
 
 [params]
 

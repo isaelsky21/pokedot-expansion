@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://on3qwhqggorp"
-path="res://.godot/imported/Battle Champion.wav-7101134b2b8db3bd0a7983059aa03698.sample"
+path="res://.godot/imported/Battle Champion.wav-0850ccba1c10a9905947b80153966bdb.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle Champion.wav"
-dest_files=["res://.godot/imported/Battle Champion.wav-7101134b2b8db3bd0a7983059aa03698.sample"]
+source_file="res://audio/bgm/Battle Champion.wav"
+dest_files=["res://.godot/imported/Battle Champion.wav-0850ccba1c10a9905947b80153966bdb.sample"]
 
 [params]
 

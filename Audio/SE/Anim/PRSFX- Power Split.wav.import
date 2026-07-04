@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cgqm4qr0o0iax"
-path="res://.godot/imported/PRSFX- Power Split.wav-d16457eafc112d1f25cfcb82f4876f56.sample"
+path="res://.godot/imported/PRSFX- Power Split.wav-ada5b00c59db32e15428eac43348ab58.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Power Split.wav"
-dest_files=["res://.godot/imported/PRSFX- Power Split.wav-d16457eafc112d1f25cfcb82f4876f56.sample"]
+source_file="res://audio/se/anim/PRSFX- Power Split.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Split.wav-ada5b00c59db32e15428eac43348ab58.sample"]
 
 [params]
 

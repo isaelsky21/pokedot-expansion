@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cwefv7481jmrl"
-path="res://.godot/imported/CHERUBI.ogg-68bdd16e83539122f045ffecaf5edd3b.oggvorbisstr"
+path="res://.godot/imported/CHERUBI.ogg-dab550a1eb48b79b341988eb01ccf8fd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHERUBI.ogg"
-dest_files=["res://.godot/imported/CHERUBI.ogg-68bdd16e83539122f045ffecaf5edd3b.oggvorbisstr"]
+source_file="res://audio/se/cries/CHERUBI.ogg"
+dest_files=["res://.godot/imported/CHERUBI.ogg-dab550a1eb48b79b341988eb01ccf8fd.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bpi5os1brxxf7"
-path="res://.godot/imported/PRSFX- Grass Pledge2.wav-4a94a872b1789a9cef56ce8038f0e509.sample"
+path="res://.godot/imported/PRSFX- Grass Pledge2.wav-579aea97d89ef8b9ac7fbf5fab36d236.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Grass Pledge2.wav"
-dest_files=["res://.godot/imported/PRSFX- Grass Pledge2.wav-4a94a872b1789a9cef56ce8038f0e509.sample"]
+source_file="res://audio/se/anim/PRSFX- Grass Pledge2.wav"
+dest_files=["res://.godot/imported/PRSFX- Grass Pledge2.wav-579aea97d89ef8b9ac7fbf5fab36d236.sample"]
 
 [params]
 

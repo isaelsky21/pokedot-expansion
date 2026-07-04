@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://km04ua1uq2bt"
-path="res://.godot/imported/IRONCROWN.ogg-3dc241c88c2485e94a7c78ad73f0bf50.oggvorbisstr"
+path="res://.godot/imported/IRONCROWN.ogg-53cf3608490bc797efd2f7e4484a449d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/IRONCROWN.ogg"
-dest_files=["res://.godot/imported/IRONCROWN.ogg-3dc241c88c2485e94a7c78ad73f0bf50.oggvorbisstr"]
+source_file="res://audio/se/cries/IRONCROWN.ogg"
+dest_files=["res://.godot/imported/IRONCROWN.ogg-53cf3608490bc797efd2f7e4484a449d.oggvorbisstr"]
 
 [params]
 

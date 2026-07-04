@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://igopcyub2yvy"
-path="res://.godot/imported/PRSFX- Cotton Guard.wav-ea01987ec546d6ba3b145fd8cf78e1f2.sample"
+path="res://.godot/imported/PRSFX- Cotton Guard.wav-32cf1a22256852378c4b4ec94a528b4a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Cotton Guard.wav"
-dest_files=["res://.godot/imported/PRSFX- Cotton Guard.wav-ea01987ec546d6ba3b145fd8cf78e1f2.sample"]
+source_file="res://audio/se/anim/PRSFX- Cotton Guard.wav"
+dest_files=["res://.godot/imported/PRSFX- Cotton Guard.wav-32cf1a22256852378c4b4ec94a528b4a.sample"]
 
 [params]
 

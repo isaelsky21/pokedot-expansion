@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://butgvgywiopny"
-path="res://.godot/imported/PRSFX- Water Gun.wav-26e6db70a9bde9f407b3fbc552572960.sample"
+path="res://.godot/imported/PRSFX- Water Gun.wav-ff8d9b77d449c013a3f3c91580c10c3f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Water Gun.wav"
-dest_files=["res://.godot/imported/PRSFX- Water Gun.wav-26e6db70a9bde9f407b3fbc552572960.sample"]
+source_file="res://audio/se/anim/PRSFX- Water Gun.wav"
+dest_files=["res://.godot/imported/PRSFX- Water Gun.wav-ff8d9b77d449c013a3f3c91580c10c3f.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://byrh21uxexmuc"
-path="res://.godot/imported/CLOBBOPUS.ogg-63473133fde49690aaa0f51d15511d7b.oggvorbisstr"
+path="res://.godot/imported/CLOBBOPUS.ogg-330279cc2dbf654a5030a45d159f86bb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CLOBBOPUS.ogg"
-dest_files=["res://.godot/imported/CLOBBOPUS.ogg-63473133fde49690aaa0f51d15511d7b.oggvorbisstr"]
+source_file="res://audio/se/cries/CLOBBOPUS.ogg"
+dest_files=["res://.godot/imported/CLOBBOPUS.ogg-330279cc2dbf654a5030a45d159f86bb.oggvorbisstr"]
 
 [params]
 

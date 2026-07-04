@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cdf0ig6fmcgmv"
-path="res://.godot/imported/PALPITOAD.ogg-e378469b8026b00e3876998878e84dcf.oggvorbisstr"
+path="res://.godot/imported/PALPITOAD.ogg-da2dcad3b598076f1cad9217d6f5f91e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PALPITOAD.ogg"
-dest_files=["res://.godot/imported/PALPITOAD.ogg-e378469b8026b00e3876998878e84dcf.oggvorbisstr"]
+source_file="res://audio/se/cries/PALPITOAD.ogg"
+dest_files=["res://.godot/imported/PALPITOAD.ogg-da2dcad3b598076f1cad9217d6f5f91e.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://it7u7e4wt44p"
-path="res://.godot/imported/VICTREEBEL.ogg-f4dd6f4ac34014f9e23dbc574eaca26a.oggvorbisstr"
+path="res://.godot/imported/VICTREEBEL.ogg-92b38b0dd8d8be8b11ddb8dbbb9234eb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VICTREEBEL.ogg"
-dest_files=["res://.godot/imported/VICTREEBEL.ogg-f4dd6f4ac34014f9e23dbc574eaca26a.oggvorbisstr"]
+source_file="res://audio/se/cries/VICTREEBEL.ogg"
+dest_files=["res://.godot/imported/VICTREEBEL.ogg-92b38b0dd8d8be8b11ddb8dbbb9234eb.oggvorbisstr"]
 
 [params]
 

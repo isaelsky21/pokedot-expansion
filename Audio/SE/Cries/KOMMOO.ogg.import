@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://tvs6x2gx2lfg"
-path="res://.godot/imported/KOMMOO.ogg-618cbc930855446738186b958ed4e6a6.oggvorbisstr"
+path="res://.godot/imported/KOMMOO.ogg-5c3c53f57de5b98e87671f76d6913b6e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KOMMOO.ogg"
-dest_files=["res://.godot/imported/KOMMOO.ogg-618cbc930855446738186b958ed4e6a6.oggvorbisstr"]
+source_file="res://audio/se/cries/KOMMOO.ogg"
+dest_files=["res://.godot/imported/KOMMOO.ogg-5c3c53f57de5b98e87671f76d6913b6e.oggvorbisstr"]
 
 [params]
 

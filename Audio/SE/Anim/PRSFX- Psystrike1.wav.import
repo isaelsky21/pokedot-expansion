@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dcledq2yg1wlb"
-path="res://.godot/imported/PRSFX- Psystrike1.wav-547ed4eaad0156d6fd494e76e705a758.sample"
+path="res://.godot/imported/PRSFX- Psystrike1.wav-4d702019c98677c22874b5fb29265c8e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psystrike1.wav"
-dest_files=["res://.godot/imported/PRSFX- Psystrike1.wav-547ed4eaad0156d6fd494e76e705a758.sample"]
+source_file="res://audio/se/anim/PRSFX- Psystrike1.wav"
+dest_files=["res://.godot/imported/PRSFX- Psystrike1.wav-4d702019c98677c22874b5fb29265c8e.sample"]
 
 [params]
 

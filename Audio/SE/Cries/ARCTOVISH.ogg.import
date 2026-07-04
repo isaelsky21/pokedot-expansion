@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bf7po3alfryq7"
-path="res://.godot/imported/ARCTOVISH.ogg-32f8fc24fccb9e9907b9d1bbbed726c5.oggvorbisstr"
+path="res://.godot/imported/ARCTOVISH.ogg-8f5bb02d6b55bfacd3401cbe4d219870.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARCTOVISH.ogg"
-dest_files=["res://.godot/imported/ARCTOVISH.ogg-32f8fc24fccb9e9907b9d1bbbed726c5.oggvorbisstr"]
+source_file="res://audio/se/cries/ARCTOVISH.ogg"
+dest_files=["res://.godot/imported/ARCTOVISH.ogg-8f5bb02d6b55bfacd3401cbe4d219870.oggvorbisstr"]
 
 [params]
 

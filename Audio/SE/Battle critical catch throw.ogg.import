@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://lawfuui8mwdq"
-path="res://.godot/imported/Battle critical catch throw.ogg-b50131457e880b9645a213e7667c852d.oggvorbisstr"
+path="res://.godot/imported/Battle critical catch throw.ogg-15e7d62bdc44fa62f3129098052d7689.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Battle critical catch throw.ogg"
-dest_files=["res://.godot/imported/Battle critical catch throw.ogg-b50131457e880b9645a213e7667c852d.oggvorbisstr"]
+source_file="res://audio/se/Battle critical catch throw.ogg"
+dest_files=["res://.godot/imported/Battle critical catch throw.ogg-15e7d62bdc44fa62f3129098052d7689.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ctxlcr0vuaoa3"
-path="res://.godot/imported/PRSFX- Seismic Toss1.wav-240448a1bfa7ed87b1433ecbb8842bf2.sample"
+path="res://.godot/imported/PRSFX- Seismic Toss1.wav-655885969e55befc0b06eaf7333d56b4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Seismic Toss1.wav"
-dest_files=["res://.godot/imported/PRSFX- Seismic Toss1.wav-240448a1bfa7ed87b1433ecbb8842bf2.sample"]
+source_file="res://audio/se/anim/PRSFX- Seismic Toss1.wav"
+dest_files=["res://.godot/imported/PRSFX- Seismic Toss1.wav-655885969e55befc0b06eaf7333d56b4.sample"]
 
 [params]
 

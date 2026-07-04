@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cxi3osfpl217"
-path="res://.godot/imported/ZANGOOSE.ogg-b86589fe24a1854e7dff14b4c604a783.oggvorbisstr"
+path="res://.godot/imported/ZANGOOSE.ogg-1339bce7e464a7075392e97a62ceea42.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZANGOOSE.ogg"
-dest_files=["res://.godot/imported/ZANGOOSE.ogg-b86589fe24a1854e7dff14b4c604a783.oggvorbisstr"]
+source_file="res://audio/se/cries/ZANGOOSE.ogg"
+dest_files=["res://.godot/imported/ZANGOOSE.ogg-1339bce7e464a7075392e97a62ceea42.oggvorbisstr"]
 
 [params]
 

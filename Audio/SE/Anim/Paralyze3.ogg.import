@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dhfa8ikb7xs73"
-path="res://.godot/imported/Paralyze3.ogg-b5cc506599ba9a6ee077f0555b353b73.oggvorbisstr"
+path="res://.godot/imported/Paralyze3.ogg-383a37a550fb38dd3a6b79bfce4e18d5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Paralyze3.ogg"
-dest_files=["res://.godot/imported/Paralyze3.ogg-b5cc506599ba9a6ee077f0555b353b73.oggvorbisstr"]
+source_file="res://audio/se/anim/Paralyze3.ogg"
+dest_files=["res://.godot/imported/Paralyze3.ogg-383a37a550fb38dd3a6b79bfce4e18d5.oggvorbisstr"]
 
 [params]
 

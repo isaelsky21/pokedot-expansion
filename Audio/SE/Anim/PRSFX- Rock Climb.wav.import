@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dn4y117vbq7h6"
-path="res://.godot/imported/PRSFX- Rock Climb.wav-6aa851eef65b445874be053e8bc8f7e3.sample"
+path="res://.godot/imported/PRSFX- Rock Climb.wav-aedb62be4d932a4ec114d8a5bdc6b1f0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rock Climb.wav"
-dest_files=["res://.godot/imported/PRSFX- Rock Climb.wav-6aa851eef65b445874be053e8bc8f7e3.sample"]
+source_file="res://audio/se/anim/PRSFX- Rock Climb.wav"
+dest_files=["res://.godot/imported/PRSFX- Rock Climb.wav-aedb62be4d932a4ec114d8a5bdc6b1f0.sample"]
 
 [params]
 

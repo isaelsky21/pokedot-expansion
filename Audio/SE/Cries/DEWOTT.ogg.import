@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bq3js3hepsss2"
-path="res://.godot/imported/DEWOTT.ogg-04058060ccd0ea7efec8e1fa016f7085.oggvorbisstr"
+path="res://.godot/imported/DEWOTT.ogg-fb0574d80c12cfa3c650c5d01f9b381e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DEWOTT.ogg"
-dest_files=["res://.godot/imported/DEWOTT.ogg-04058060ccd0ea7efec8e1fa016f7085.oggvorbisstr"]
+source_file="res://audio/se/cries/DEWOTT.ogg"
+dest_files=["res://.godot/imported/DEWOTT.ogg-fb0574d80c12cfa3c650c5d01f9b381e.oggvorbisstr"]
 
 [params]
 

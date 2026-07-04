@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bwckwyfx0axc3"
-path="res://.godot/imported/Scary Face.mp3-fb4891db55fa030da2754dc360bb78d9.mp3str"
+path="res://.godot/imported/Scary Face.mp3-6fb19e734896faf617003e9b9431f085.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Scary Face.mp3"
-dest_files=["res://.godot/imported/Scary Face.mp3-fb4891db55fa030da2754dc360bb78d9.mp3str"]
+source_file="res://audio/se/anim/Scary Face.mp3"
+dest_files=["res://.godot/imported/Scary Face.mp3-6fb19e734896faf617003e9b9431f085.mp3str"]
 
 [params]
 

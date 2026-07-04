@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cahiv01ws62g2"
-path="res://.godot/imported/Slots coin.ogg-61ca9444c8549452b0da168038b773e0.oggvorbisstr"
+path="res://.godot/imported/Slots coin.ogg-9128739d09540f4791e59efdd8e6de7b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Slots coin.ogg"
-dest_files=["res://.godot/imported/Slots coin.ogg-61ca9444c8549452b0da168038b773e0.oggvorbisstr"]
+source_file="res://audio/se/Slots coin.ogg"
+dest_files=["res://.godot/imported/Slots coin.ogg-9128739d09540f4791e59efdd8e6de7b.oggvorbisstr"]
 
 [params]
 

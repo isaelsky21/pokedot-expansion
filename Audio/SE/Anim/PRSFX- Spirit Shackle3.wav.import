@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bjex2dfaqrsrm"
-path="res://.godot/imported/PRSFX- Spirit Shackle3.wav-40d0488a78b07d1a07fb793a46ed67af.sample"
+path="res://.godot/imported/PRSFX- Spirit Shackle3.wav-40805236e16b33215e61a37a4a1a4591.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spirit Shackle3.wav"
-dest_files=["res://.godot/imported/PRSFX- Spirit Shackle3.wav-40d0488a78b07d1a07fb793a46ed67af.sample"]
+source_file="res://audio/se/anim/PRSFX- Spirit Shackle3.wav"
+dest_files=["res://.godot/imported/PRSFX- Spirit Shackle3.wav-40805236e16b33215e61a37a4a1a4591.sample"]
 
 [params]
 

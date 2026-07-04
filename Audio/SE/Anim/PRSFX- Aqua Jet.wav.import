@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://5bl4mi5gve46"
-path="res://.godot/imported/PRSFX- Aqua Jet.wav-d4ef96993ba4ad4b4692ff4b7d29b309.sample"
+path="res://.godot/imported/PRSFX- Aqua Jet.wav-44d8e334c40c634f971963a53eadb8fa.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aqua Jet.wav"
-dest_files=["res://.godot/imported/PRSFX- Aqua Jet.wav-d4ef96993ba4ad4b4692ff4b7d29b309.sample"]
+source_file="res://audio/se/anim/PRSFX- Aqua Jet.wav"
+dest_files=["res://.godot/imported/PRSFX- Aqua Jet.wav-44d8e334c40c634f971963a53eadb8fa.sample"]
 
 [params]
 

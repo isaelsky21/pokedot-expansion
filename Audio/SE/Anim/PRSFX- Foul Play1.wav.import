@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://1kpx46k8e1cv"
-path="res://.godot/imported/PRSFX- Foul Play1.wav-16f7c687315bc3a7f22b183eff137996.sample"
+path="res://.godot/imported/PRSFX- Foul Play1.wav-16e4958bf5c74d1d5df5e1e31893d7c9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Foul Play1.wav"
-dest_files=["res://.godot/imported/PRSFX- Foul Play1.wav-16f7c687315bc3a7f22b183eff137996.sample"]
+source_file="res://audio/se/anim/PRSFX- Foul Play1.wav"
+dest_files=["res://.godot/imported/PRSFX- Foul Play1.wav-16e4958bf5c74d1d5df5e1e31893d7c9.sample"]
 
 [params]
 

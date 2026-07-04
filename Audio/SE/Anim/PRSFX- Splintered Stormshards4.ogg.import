@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://28io4yppvuw3"
-path="res://.godot/imported/PRSFX- Splintered Stormshards4.ogg-451352d64095debfe54918bb26edbdba.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Splintered Stormshards4.ogg-7dbeedfda1704c7fc4258b961b890504.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Splintered Stormshards4.ogg"
-dest_files=["res://.godot/imported/PRSFX- Splintered Stormshards4.ogg-451352d64095debfe54918bb26edbdba.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Splintered Stormshards4.ogg"
+dest_files=["res://.godot/imported/PRSFX- Splintered Stormshards4.ogg-7dbeedfda1704c7fc4258b961b890504.oggvorbisstr"]
 
 [params]
 

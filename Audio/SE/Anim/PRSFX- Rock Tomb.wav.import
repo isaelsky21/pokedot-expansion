@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dsfwhpktiwfn0"
-path="res://.godot/imported/PRSFX- Rock Tomb.wav-c5651e65fade9fd80ebabe5b873a576f.sample"
+path="res://.godot/imported/PRSFX- Rock Tomb.wav-5c3841a3a061ea76060fa01f9023d40b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rock Tomb.wav"
-dest_files=["res://.godot/imported/PRSFX- Rock Tomb.wav-c5651e65fade9fd80ebabe5b873a576f.sample"]
+source_file="res://audio/se/anim/PRSFX- Rock Tomb.wav"
+dest_files=["res://.godot/imported/PRSFX- Rock Tomb.wav-5c3841a3a061ea76060fa01f9023d40b.sample"]
 
 [params]
 

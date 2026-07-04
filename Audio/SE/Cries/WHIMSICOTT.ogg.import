@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cnl04u2nhjnwj"
-path="res://.godot/imported/WHIMSICOTT.ogg-af8088d0af4490d2451b026289df6705.oggvorbisstr"
+path="res://.godot/imported/WHIMSICOTT.ogg-87f7211dfc45b1b4bd397cf24ca44bb4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WHIMSICOTT.ogg"
-dest_files=["res://.godot/imported/WHIMSICOTT.ogg-af8088d0af4490d2451b026289df6705.oggvorbisstr"]
+source_file="res://audio/se/cries/WHIMSICOTT.ogg"
+dest_files=["res://.godot/imported/WHIMSICOTT.ogg-87f7211dfc45b1b4bd397cf24ca44bb4.oggvorbisstr"]
 
 [params]
 

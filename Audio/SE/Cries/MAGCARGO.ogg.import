@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bm813e37qc2u8"
-path="res://.godot/imported/MAGCARGO.ogg-6c8e1f9b21a696875e8a86ba78565bf0.oggvorbisstr"
+path="res://.godot/imported/MAGCARGO.ogg-c4bdc58edbbcff1d8118cb9278add0c9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAGCARGO.ogg"
-dest_files=["res://.godot/imported/MAGCARGO.ogg-6c8e1f9b21a696875e8a86ba78565bf0.oggvorbisstr"]
+source_file="res://audio/se/cries/MAGCARGO.ogg"
+dest_files=["res://.godot/imported/MAGCARGO.ogg-c4bdc58edbbcff1d8118cb9278add0c9.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bcoxb2iuwvj64"
-path="res://.godot/imported/Gym.wav-55613531a17fe0a86588911d33009162.sample"
+path="res://.godot/imported/Gym.wav-acc778d92d009bf403aa03490f503651.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Gym.wav"
-dest_files=["res://.godot/imported/Gym.wav-55613531a17fe0a86588911d33009162.sample"]
+source_file="res://audio/bgm/Gym.wav"
+dest_files=["res://.godot/imported/Gym.wav-acc778d92d009bf403aa03490f503651.sample"]
 
 [params]
 

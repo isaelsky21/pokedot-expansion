@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://law4c7yiaakl"
-path="res://.godot/imported/SIRFETCHD.ogg-055928825c59e0226aaf89fb03972437.oggvorbisstr"
+path="res://.godot/imported/SIRFETCHD.ogg-049d2e7f2c4efd89eadc62e8ea8c3d1b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SIRFETCHD.ogg"
-dest_files=["res://.godot/imported/SIRFETCHD.ogg-055928825c59e0226aaf89fb03972437.oggvorbisstr"]
+source_file="res://audio/se/cries/SIRFETCHD.ogg"
+dest_files=["res://.godot/imported/SIRFETCHD.ogg-049d2e7f2c4efd89eadc62e8ea8c3d1b.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b3blb4kiwowel"
-path="res://.godot/imported/SKWOVET.ogg-a5e043bdd0a16311857af69184c1ad5e.oggvorbisstr"
+path="res://.godot/imported/SKWOVET.ogg-a2797bd787ac5e811d2f668ccc3a039e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SKWOVET.ogg"
-dest_files=["res://.godot/imported/SKWOVET.ogg-a5e043bdd0a16311857af69184c1ad5e.oggvorbisstr"]
+source_file="res://audio/se/cries/SKWOVET.ogg"
+dest_files=["res://.godot/imported/SKWOVET.ogg-a2797bd787ac5e811d2f668ccc3a039e.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://doxpcuefl5uax"
-path="res://.godot/imported/WHIRLIPEDE.ogg-55defe4ff3fdd39c3d32c998aba3aea5.oggvorbisstr"
+path="res://.godot/imported/WHIRLIPEDE.ogg-b535b3bb70744df833b3536a12f25149.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WHIRLIPEDE.ogg"
-dest_files=["res://.godot/imported/WHIRLIPEDE.ogg-55defe4ff3fdd39c3d32c998aba3aea5.oggvorbisstr"]
+source_file="res://audio/se/cries/WHIRLIPEDE.ogg"
+dest_files=["res://.godot/imported/WHIRLIPEDE.ogg-b535b3bb70744df833b3536a12f25149.oggvorbisstr"]
 
 [params]
 

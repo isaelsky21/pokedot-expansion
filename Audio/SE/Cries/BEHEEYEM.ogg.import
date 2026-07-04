@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cixvancd5dx03"
-path="res://.godot/imported/BEHEEYEM.ogg-7ee20ba78b1bc216bdc43798cdf8ae72.oggvorbisstr"
+path="res://.godot/imported/BEHEEYEM.ogg-f559da865ba441b784a65d5250b6c2bf.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BEHEEYEM.ogg"
-dest_files=["res://.godot/imported/BEHEEYEM.ogg-7ee20ba78b1bc216bdc43798cdf8ae72.oggvorbisstr"]
+source_file="res://audio/se/cries/BEHEEYEM.ogg"
+dest_files=["res://.godot/imported/BEHEEYEM.ogg-f559da865ba441b784a65d5250b6c2bf.oggvorbisstr"]
 
 [params]
 

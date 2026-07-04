@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b6e8qcv4tg5of"
-path="res://.godot/imported/GUI bag cursor.ogg-103ac4a453af4d8395141c100434598b.oggvorbisstr"
+path="res://.godot/imported/GUI bag cursor.ogg-e6a6a7af8a25342011285adaa99d95e6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/GUI bag cursor.ogg"
-dest_files=["res://.godot/imported/GUI bag cursor.ogg-103ac4a453af4d8395141c100434598b.oggvorbisstr"]
+source_file="res://audio/se/GUI bag cursor.ogg"
+dest_files=["res://.godot/imported/GUI bag cursor.ogg-e6a6a7af8a25342011285adaa99d95e6.oggvorbisstr"]
 
 [params]
 

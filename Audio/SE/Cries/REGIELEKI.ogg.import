@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0nf0bgt0uvv5"
-path="res://.godot/imported/REGIELEKI.ogg-a55a916fb5501e5a0c0cd531bf1ca109.oggvorbisstr"
+path="res://.godot/imported/REGIELEKI.ogg-be9264e764708d883bd1e8319655fd8b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/REGIELEKI.ogg"
-dest_files=["res://.godot/imported/REGIELEKI.ogg-a55a916fb5501e5a0c0cd531bf1ca109.oggvorbisstr"]
+source_file="res://audio/se/cries/REGIELEKI.ogg"
+dest_files=["res://.godot/imported/REGIELEKI.ogg-be9264e764708d883bd1e8319655fd8b.oggvorbisstr"]
 
 [params]
 

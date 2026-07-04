@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bly0q8pwbwns2"
-path="res://.godot/imported/DRAKLOAK.ogg-256b05b3927e9425c11ffe9a42b5e0ac.oggvorbisstr"
+path="res://.godot/imported/DRAKLOAK.ogg-d5e7db48774b3bdb62a1de8f796ebebc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRAKLOAK.ogg"
-dest_files=["res://.godot/imported/DRAKLOAK.ogg-256b05b3927e9425c11ffe9a42b5e0ac.oggvorbisstr"]
+source_file="res://audio/se/cries/DRAKLOAK.ogg"
+dest_files=["res://.godot/imported/DRAKLOAK.ogg-d5e7db48774b3bdb62a1de8f796ebebc.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5xcg0423d84y"
-path="res://.godot/imported/CHANDELURE.ogg-301ccc7fb9773482de4953f1a4ae13c4.oggvorbisstr"
+path="res://.godot/imported/CHANDELURE.ogg-952fbd67922597ac019e9e8f0af9f3ee.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHANDELURE.ogg"
-dest_files=["res://.godot/imported/CHANDELURE.ogg-301ccc7fb9773482de4953f1a4ae13c4.oggvorbisstr"]
+source_file="res://audio/se/cries/CHANDELURE.ogg"
+dest_files=["res://.godot/imported/CHANDELURE.ogg-952fbd67922597ac019e9e8f0af9f3ee.oggvorbisstr"]
 
 [params]
 

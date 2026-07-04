@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bp11m0bqr5fqd"
-path="res://.godot/imported/ALTARIA_1.ogg-7455c225db6c59525fc16cdc6363d0a6.oggvorbisstr"
+path="res://.godot/imported/ALTARIA_1.ogg-b75153bd9809d5d94b30f406bee69e91.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ALTARIA_1.ogg"
-dest_files=["res://.godot/imported/ALTARIA_1.ogg-7455c225db6c59525fc16cdc6363d0a6.oggvorbisstr"]
+source_file="res://audio/se/cries/ALTARIA_1.ogg"
+dest_files=["res://.godot/imported/ALTARIA_1.ogg-b75153bd9809d5d94b30f406bee69e91.oggvorbisstr"]
 
 [params]
 

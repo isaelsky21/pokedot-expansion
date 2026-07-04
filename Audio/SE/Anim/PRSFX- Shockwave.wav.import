@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://7ajalt60r5fx"
-path="res://.godot/imported/PRSFX- Shockwave.wav-1ff8174a44011e5adeb7089b134b30b9.sample"
+path="res://.godot/imported/PRSFX- Shockwave.wav-27198a5db957a2f8e8a68698c3dbab0e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shockwave.wav"
-dest_files=["res://.godot/imported/PRSFX- Shockwave.wav-1ff8174a44011e5adeb7089b134b30b9.sample"]
+source_file="res://audio/se/anim/PRSFX- Shockwave.wav"
+dest_files=["res://.godot/imported/PRSFX- Shockwave.wav-27198a5db957a2f8e8a68698c3dbab0e.sample"]
 
 [params]
 

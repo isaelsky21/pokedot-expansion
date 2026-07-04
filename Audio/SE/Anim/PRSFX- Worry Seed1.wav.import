@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ckm7qvdyywe2b"
-path="res://.godot/imported/PRSFX- Worry Seed1.wav-d3158b22f9a6396b355a533892d38c40.sample"
+path="res://.godot/imported/PRSFX- Worry Seed1.wav-77eaad7c732c48a21b79957fdc0f7602.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Worry Seed1.wav"
-dest_files=["res://.godot/imported/PRSFX- Worry Seed1.wav-d3158b22f9a6396b355a533892d38c40.sample"]
+source_file="res://audio/se/anim/PRSFX- Worry Seed1.wav"
+dest_files=["res://.godot/imported/PRSFX- Worry Seed1.wav-77eaad7c732c48a21b79957fdc0f7602.sample"]
 
 [params]
 

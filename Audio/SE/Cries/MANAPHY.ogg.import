@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bm0so6hqf1xn7"
-path="res://.godot/imported/MANAPHY.ogg-2ff54e4ab804bc46225d475fb4c0515d.oggvorbisstr"
+path="res://.godot/imported/MANAPHY.ogg-66a21a8dcf85502c34e8b1a018f0414a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MANAPHY.ogg"
-dest_files=["res://.godot/imported/MANAPHY.ogg-2ff54e4ab804bc46225d475fb4c0515d.oggvorbisstr"]
+source_file="res://audio/se/cries/MANAPHY.ogg"
+dest_files=["res://.godot/imported/MANAPHY.ogg-66a21a8dcf85502c34e8b1a018f0414a.oggvorbisstr"]
 
 [params]
 

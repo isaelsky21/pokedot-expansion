@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqg6wrigvy5ne"
-path="res://.godot/imported/CROCONAW.ogg-64b2498285acfa5dcc39ab57e27adf45.oggvorbisstr"
+path="res://.godot/imported/CROCONAW.ogg-1ee971e2e3835575fd06725b1df32696.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CROCONAW.ogg"
-dest_files=["res://.godot/imported/CROCONAW.ogg-64b2498285acfa5dcc39ab57e27adf45.oggvorbisstr"]
+source_file="res://audio/se/cries/CROCONAW.ogg"
+dest_files=["res://.godot/imported/CROCONAW.ogg-1ee971e2e3835575fd06725b1df32696.oggvorbisstr"]
 
 [params]
 

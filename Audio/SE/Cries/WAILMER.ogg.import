@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cfaia4x6jq4pj"
-path="res://.godot/imported/WAILMER.ogg-af8f25e3a9c0d6a2797ef2c82b6b233f.oggvorbisstr"
+path="res://.godot/imported/WAILMER.ogg-f62fae40017a28f5ab4fc688eee69a20.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WAILMER.ogg"
-dest_files=["res://.godot/imported/WAILMER.ogg-af8f25e3a9c0d6a2797ef2c82b6b233f.oggvorbisstr"]
+source_file="res://audio/se/cries/WAILMER.ogg"
+dest_files=["res://.godot/imported/WAILMER.ogg-f62fae40017a28f5ab4fc688eee69a20.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c84m1tiin10tr"
-path="res://.godot/imported/Pkmn faint.ogg-1ec2f6acc6c6ab9ee1b885f86156f8c6.oggvorbisstr"
+path="res://.godot/imported/Pkmn faint.ogg-bd2fb7083d8dc9a800b2d6593f4b4dd5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Pkmn faint.ogg"
-dest_files=["res://.godot/imported/Pkmn faint.ogg-1ec2f6acc6c6ab9ee1b885f86156f8c6.oggvorbisstr"]
+source_file="res://audio/se/Pkmn faint.ogg"
+dest_files=["res://.godot/imported/Pkmn faint.ogg-bd2fb7083d8dc9a800b2d6593f4b4dd5.oggvorbisstr"]
 
 [params]
 

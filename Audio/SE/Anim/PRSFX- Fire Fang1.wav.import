@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ddqv3h3gpjo0a"
-path="res://.godot/imported/PRSFX- Fire Fang1.wav-04739e653da432ed377b3b744f737c5d.sample"
+path="res://.godot/imported/PRSFX- Fire Fang1.wav-bdb75396ef42d959ed610f1816ca4d1b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fire Fang1.wav"
-dest_files=["res://.godot/imported/PRSFX- Fire Fang1.wav-04739e653da432ed377b3b744f737c5d.sample"]
+source_file="res://audio/se/anim/PRSFX- Fire Fang1.wav"
+dest_files=["res://.godot/imported/PRSFX- Fire Fang1.wav-bdb75396ef42d959ed610f1816ca4d1b.sample"]
 
 [params]
 

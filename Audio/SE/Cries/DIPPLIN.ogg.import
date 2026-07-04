@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://75phdj8eol8a"
-path="res://.godot/imported/DIPPLIN.ogg-d616041f43174c09867e2ad6c6e741b9.oggvorbisstr"
+path="res://.godot/imported/DIPPLIN.ogg-9d475ed3ed89b76be9da820b2cb66b2c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DIPPLIN.ogg"
-dest_files=["res://.godot/imported/DIPPLIN.ogg-d616041f43174c09867e2ad6c6e741b9.oggvorbisstr"]
+source_file="res://audio/se/cries/DIPPLIN.ogg"
+dest_files=["res://.godot/imported/DIPPLIN.ogg-9d475ed3ed89b76be9da820b2cb66b2c.oggvorbisstr"]
 
 [params]
 

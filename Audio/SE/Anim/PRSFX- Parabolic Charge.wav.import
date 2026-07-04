@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dri4qc5r7sjla"
-path="res://.godot/imported/PRSFX- Parabolic Charge.wav-b31322b521f428f1a1d22c6305c96b1c.sample"
+path="res://.godot/imported/PRSFX- Parabolic Charge.wav-a07f496829c565f6708dce2e5871358b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Parabolic Charge.wav"
-dest_files=["res://.godot/imported/PRSFX- Parabolic Charge.wav-b31322b521f428f1a1d22c6305c96b1c.sample"]
+source_file="res://audio/se/anim/PRSFX- Parabolic Charge.wav"
+dest_files=["res://.godot/imported/PRSFX- Parabolic Charge.wav-a07f496829c565f6708dce2e5871358b.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dmn7ew3uf71xv"
-path="res://.godot/imported/LUNATONE.ogg-0d58a4491e841a6abedfb34ae6ce0a4a.oggvorbisstr"
+path="res://.godot/imported/LUNATONE.ogg-53a9668d03920b05a2e02ee4e5893cfb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LUNATONE.ogg"
-dest_files=["res://.godot/imported/LUNATONE.ogg-0d58a4491e841a6abedfb34ae6ce0a4a.oggvorbisstr"]
+source_file="res://audio/se/cries/LUNATONE.ogg"
+dest_files=["res://.godot/imported/LUNATONE.ogg-53a9668d03920b05a2e02ee4e5893cfb.oggvorbisstr"]
 
 [params]
 

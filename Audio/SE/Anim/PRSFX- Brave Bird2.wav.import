@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ctnc30y1m0qoo"
-path="res://.godot/imported/PRSFX- Brave Bird2.wav-bd7f55baf80f12d36a852ef8cfc0f943.sample"
+path="res://.godot/imported/PRSFX- Brave Bird2.wav-a5af80bf1a99073459cee73d7c7221d2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Brave Bird2.wav"
-dest_files=["res://.godot/imported/PRSFX- Brave Bird2.wav-bd7f55baf80f12d36a852ef8cfc0f943.sample"]
+source_file="res://audio/se/anim/PRSFX- Brave Bird2.wav"
+dest_files=["res://.godot/imported/PRSFX- Brave Bird2.wav-a5af80bf1a99073459cee73d7c7221d2.sample"]
 
 [params]
 

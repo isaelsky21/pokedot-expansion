@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cphhp3jlxpibk"
-path="res://.godot/imported/SANDSHREW.ogg-cf23d43435b65f2d7ad344e97280128c.oggvorbisstr"
+path="res://.godot/imported/SANDSHREW.ogg-78fabd0603d294b2147d37173f23d8cb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SANDSHREW.ogg"
-dest_files=["res://.godot/imported/SANDSHREW.ogg-cf23d43435b65f2d7ad344e97280128c.oggvorbisstr"]
+source_file="res://audio/se/cries/SANDSHREW.ogg"
+dest_files=["res://.godot/imported/SANDSHREW.ogg-78fabd0603d294b2147d37173f23d8cb.oggvorbisstr"]
 
 [params]
 

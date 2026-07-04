@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccj26uy4lepro"
-path="res://.godot/imported/BEEDRILL_1.ogg-c89091c5f745c3092260ee9df5740f62.oggvorbisstr"
+path="res://.godot/imported/BEEDRILL_1.ogg-09cb8fd9b877886c4525ea3f74ab40be.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BEEDRILL_1.ogg"
-dest_files=["res://.godot/imported/BEEDRILL_1.ogg-c89091c5f745c3092260ee9df5740f62.oggvorbisstr"]
+source_file="res://audio/se/cries/BEEDRILL_1.ogg"
+dest_files=["res://.godot/imported/BEEDRILL_1.ogg-09cb8fd9b877886c4525ea3f74ab40be.oggvorbisstr"]
 
 [params]
 

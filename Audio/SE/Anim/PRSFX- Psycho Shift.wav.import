@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dm1866x3ok3th"
-path="res://.godot/imported/PRSFX- Psycho Shift.wav-dcbbdf0324691fcdeac98e799c2f20b9.sample"
+path="res://.godot/imported/PRSFX- Psycho Shift.wav-dca206c847b32da8432aed5cba72c118.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psycho Shift.wav"
-dest_files=["res://.godot/imported/PRSFX- Psycho Shift.wav-dcbbdf0324691fcdeac98e799c2f20b9.sample"]
+source_file="res://audio/se/anim/PRSFX- Psycho Shift.wav"
+dest_files=["res://.godot/imported/PRSFX- Psycho Shift.wav-dca206c847b32da8432aed5cba72c118.sample"]
 
 [params]
 

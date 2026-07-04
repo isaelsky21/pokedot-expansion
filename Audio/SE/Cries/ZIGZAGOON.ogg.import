@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cnnepfcsu3u0b"
-path="res://.godot/imported/ZIGZAGOON.ogg-0846f97a8183cc5bd36ec4ae939e7943.oggvorbisstr"
+path="res://.godot/imported/ZIGZAGOON.ogg-a9380573bbea5dd37904c357186d8474.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZIGZAGOON.ogg"
-dest_files=["res://.godot/imported/ZIGZAGOON.ogg-0846f97a8183cc5bd36ec4ae939e7943.oggvorbisstr"]
+source_file="res://audio/se/cries/ZIGZAGOON.ogg"
+dest_files=["res://.godot/imported/ZIGZAGOON.ogg-a9380573bbea5dd37904c357186d8474.oggvorbisstr"]
 
 [params]
 

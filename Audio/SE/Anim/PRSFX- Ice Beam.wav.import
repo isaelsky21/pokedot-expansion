@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://t2rwcnl2md8l"
-path="res://.godot/imported/PRSFX- Ice Beam.wav-bc317982a70fa5b086c082732fbcb612.sample"
+path="res://.godot/imported/PRSFX- Ice Beam.wav-d68d57968da46d59279550a8775d2401.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ice Beam.wav"
-dest_files=["res://.godot/imported/PRSFX- Ice Beam.wav-bc317982a70fa5b086c082732fbcb612.sample"]
+source_file="res://audio/se/anim/PRSFX- Ice Beam.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Beam.wav-d68d57968da46d59279550a8775d2401.sample"]
 
 [params]
 

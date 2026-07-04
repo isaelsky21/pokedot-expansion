@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://6ui77mcb8k0a"
-path="res://.godot/imported/PRSFX- Diamond Storm2.wav-d8894535d8a92d4904f87df17e92df5e.sample"
+path="res://.godot/imported/PRSFX- Diamond Storm2.wav-8f0eee411e991f632fb170cbe7a28f71.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Diamond Storm2.wav"
-dest_files=["res://.godot/imported/PRSFX- Diamond Storm2.wav-d8894535d8a92d4904f87df17e92df5e.sample"]
+source_file="res://audio/se/anim/PRSFX- Diamond Storm2.wav"
+dest_files=["res://.godot/imported/PRSFX- Diamond Storm2.wav-8f0eee411e991f632fb170cbe7a28f71.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bj23618m4qb0f"
-path="res://.godot/imported/PRSFX- Growth.wav-4419625832abea08dc3ef6744ebe8f52.sample"
+path="res://.godot/imported/PRSFX- Growth.wav-8519a7291b0ed2276331d37ac2c798fe.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Growth.wav"
-dest_files=["res://.godot/imported/PRSFX- Growth.wav-4419625832abea08dc3ef6744ebe8f52.sample"]
+source_file="res://audio/se/anim/PRSFX- Growth.wav"
+dest_files=["res://.godot/imported/PRSFX- Growth.wav-8519a7291b0ed2276331d37ac2c798fe.sample"]
 
 [params]
 

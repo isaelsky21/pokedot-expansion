@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dmo1o78f1rrb4"
-path="res://.godot/imported/DRATINI.ogg-db6ee7d233cbb535a11ee501a0cc419a.oggvorbisstr"
+path="res://.godot/imported/DRATINI.ogg-aca3e318d97ca0f2f798d7a6973d1a22.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRATINI.ogg"
-dest_files=["res://.godot/imported/DRATINI.ogg-db6ee7d233cbb535a11ee501a0cc419a.oggvorbisstr"]
+source_file="res://audio/se/cries/DRATINI.ogg"
+dest_files=["res://.godot/imported/DRATINI.ogg-aca3e318d97ca0f2f798d7a6973d1a22.oggvorbisstr"]
 
 [params]
 

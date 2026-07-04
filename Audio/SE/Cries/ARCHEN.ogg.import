@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ea5ay0ro4ayn"
-path="res://.godot/imported/ARCHEN.ogg-4d50f9b4dbb87844cbcb6e0d6dea4599.oggvorbisstr"
+path="res://.godot/imported/ARCHEN.ogg-6e66f84ef588901a771a845e575ae966.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARCHEN.ogg"
-dest_files=["res://.godot/imported/ARCHEN.ogg-4d50f9b4dbb87844cbcb6e0d6dea4599.oggvorbisstr"]
+source_file="res://audio/se/cries/ARCHEN.ogg"
+dest_files=["res://.godot/imported/ARCHEN.ogg-6e66f84ef588901a771a845e575ae966.oggvorbisstr"]
 
 [params]
 

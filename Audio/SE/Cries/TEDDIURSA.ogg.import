@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bqqtt23ln6mbt"
-path="res://.godot/imported/TEDDIURSA.ogg-bea7abbc863449613fdbb1a4317878e9.oggvorbisstr"
+path="res://.godot/imported/TEDDIURSA.ogg-05cb7a6c6b3b6196107e37724e1dbd3e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TEDDIURSA.ogg"
-dest_files=["res://.godot/imported/TEDDIURSA.ogg-bea7abbc863449613fdbb1a4317878e9.oggvorbisstr"]
+source_file="res://audio/se/cries/TEDDIURSA.ogg"
+dest_files=["res://.godot/imported/TEDDIURSA.ogg-05cb7a6c6b3b6196107e37724e1dbd3e.oggvorbisstr"]
 
 [params]
 

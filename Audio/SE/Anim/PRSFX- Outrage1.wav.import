@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bohadplv4hnjn"
-path="res://.godot/imported/PRSFX- Outrage1.wav-ee823035e0bbbc92b82d4282c0ee5796.sample"
+path="res://.godot/imported/PRSFX- Outrage1.wav-a73c1beaa3420e64074ca1bbe5537fbb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Outrage1.wav"
-dest_files=["res://.godot/imported/PRSFX- Outrage1.wav-ee823035e0bbbc92b82d4282c0ee5796.sample"]
+source_file="res://audio/se/anim/PRSFX- Outrage1.wav"
+dest_files=["res://.godot/imported/PRSFX- Outrage1.wav-a73c1beaa3420e64074ca1bbe5537fbb.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bnqpsf60my2a"
-path="res://.godot/imported/CASCOON.ogg-8070bafea3cb53e763f74cc7877ced92.oggvorbisstr"
+path="res://.godot/imported/CASCOON.ogg-464579e12c8676b1355d02b5f5fe3ddf.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CASCOON.ogg"
-dest_files=["res://.godot/imported/CASCOON.ogg-8070bafea3cb53e763f74cc7877ced92.oggvorbisstr"]
+source_file="res://audio/se/cries/CASCOON.ogg"
+dest_files=["res://.godot/imported/CASCOON.ogg-464579e12c8676b1355d02b5f5fe3ddf.oggvorbisstr"]
 
 [params]
 

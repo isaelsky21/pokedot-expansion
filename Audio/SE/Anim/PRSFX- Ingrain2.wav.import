@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ma8trjngxqxp"
-path="res://.godot/imported/PRSFX- Ingrain2.wav-6030b511ca3f6f8e9a38d3f93216e38c.sample"
+path="res://.godot/imported/PRSFX- Ingrain2.wav-eb6736bfe05e96d0790a5e89b3011748.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ingrain2.wav"
-dest_files=["res://.godot/imported/PRSFX- Ingrain2.wav-6030b511ca3f6f8e9a38d3f93216e38c.sample"]
+source_file="res://audio/se/anim/PRSFX- Ingrain2.wav"
+dest_files=["res://.godot/imported/PRSFX- Ingrain2.wav-eb6736bfe05e96d0790a5e89b3011748.sample"]
 
 [params]
 

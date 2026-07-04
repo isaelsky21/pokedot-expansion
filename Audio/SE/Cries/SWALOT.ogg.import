@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cue6algalj4hg"
-path="res://.godot/imported/SWALOT.ogg-46a7da130d50703a346ec524c34daebd.oggvorbisstr"
+path="res://.godot/imported/SWALOT.ogg-2207ee896b164f5e792f73d7a0809a9c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SWALOT.ogg"
-dest_files=["res://.godot/imported/SWALOT.ogg-46a7da130d50703a346ec524c34daebd.oggvorbisstr"]
+source_file="res://audio/se/cries/SWALOT.ogg"
+dest_files=["res://.godot/imported/SWALOT.ogg-2207ee896b164f5e792f73d7a0809a9c.oggvorbisstr"]
 
 [params]
 

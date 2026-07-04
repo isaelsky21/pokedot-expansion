@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dgwlya5eawjap"
-path="res://.godot/imported/PRSFX- Swagger2.wav-7880c29c689e4e7404586c7f2f33588c.sample"
+path="res://.godot/imported/PRSFX- Swagger2.wav-c385867340c69004f8e0a567f0460d94.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Swagger2.wav"
-dest_files=["res://.godot/imported/PRSFX- Swagger2.wav-7880c29c689e4e7404586c7f2f33588c.sample"]
+source_file="res://audio/se/anim/PRSFX- Swagger2.wav"
+dest_files=["res://.godot/imported/PRSFX- Swagger2.wav-c385867340c69004f8e0a567f0460d94.sample"]
 
 [params]
 

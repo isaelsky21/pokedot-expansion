@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://42acvhuifyld"
-path="res://.godot/imported/PRSFX- LTBTS4.wav-421adc3240ee5e07af58cdfa91ae7726.sample"
+path="res://.godot/imported/PRSFX- LTBTS4.wav-3432e2bf7c1b3cf12c1b8a6e924d5c96.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- LTBTS4.wav"
-dest_files=["res://.godot/imported/PRSFX- LTBTS4.wav-421adc3240ee5e07af58cdfa91ae7726.sample"]
+source_file="res://audio/se/anim/PRSFX- LTBTS4.wav"
+dest_files=["res://.godot/imported/PRSFX- LTBTS4.wav-3432e2bf7c1b3cf12c1b8a6e924d5c96.sample"]
 
 [params]
 

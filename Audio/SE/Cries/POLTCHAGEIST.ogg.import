@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cxpvj53jumec8"
-path="res://.godot/imported/POLTCHAGEIST.ogg-85c7d7765a3b3311852e90916a7b5af5.oggvorbisstr"
+path="res://.godot/imported/POLTCHAGEIST.ogg-adb435387e844a401f84367fa28add8e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/POLTCHAGEIST.ogg"
-dest_files=["res://.godot/imported/POLTCHAGEIST.ogg-85c7d7765a3b3311852e90916a7b5af5.oggvorbisstr"]
+source_file="res://audio/se/cries/POLTCHAGEIST.ogg"
+dest_files=["res://.godot/imported/POLTCHAGEIST.ogg-adb435387e844a401f84367fa28add8e.oggvorbisstr"]
 
 [params]
 

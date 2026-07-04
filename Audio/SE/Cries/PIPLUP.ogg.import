@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://64o3ya85wnmb"
-path="res://.godot/imported/PIPLUP.ogg-08146033029bf6dcde9798420282d39c.oggvorbisstr"
+path="res://.godot/imported/PIPLUP.ogg-b12d46bad5ff5ef6abf1b7a61d1f9da1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PIPLUP.ogg"
-dest_files=["res://.godot/imported/PIPLUP.ogg-08146033029bf6dcde9798420282d39c.oggvorbisstr"]
+source_file="res://audio/se/cries/PIPLUP.ogg"
+dest_files=["res://.godot/imported/PIPLUP.ogg-b12d46bad5ff5ef6abf1b7a61d1f9da1.oggvorbisstr"]
 
 [params]
 

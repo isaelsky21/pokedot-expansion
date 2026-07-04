@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://k2lw2sbvw5de"
-path="res://.godot/imported/BUTTERFREE_1.ogg-3fa551840551464074fe295bcec0756d.oggvorbisstr"
+path="res://.godot/imported/BUTTERFREE_1.ogg-b10f1c27ff94f6760f090da3cb11d4fb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BUTTERFREE_1.ogg"
-dest_files=["res://.godot/imported/BUTTERFREE_1.ogg-3fa551840551464074fe295bcec0756d.oggvorbisstr"]
+source_file="res://audio/se/cries/BUTTERFREE_1.ogg"
+dest_files=["res://.godot/imported/BUTTERFREE_1.ogg-b10f1c27ff94f6760f090da3cb11d4fb.oggvorbisstr"]
 
 [params]
 

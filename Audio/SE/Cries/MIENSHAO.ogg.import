@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ubbltg5vfm53"
-path="res://.godot/imported/MIENSHAO.ogg-58fbaad418ab2056184d09d956a95f40.oggvorbisstr"
+path="res://.godot/imported/MIENSHAO.ogg-18d80adb802863e4dd88af26a525e27a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MIENSHAO.ogg"
-dest_files=["res://.godot/imported/MIENSHAO.ogg-58fbaad418ab2056184d09d956a95f40.oggvorbisstr"]
+source_file="res://audio/se/cries/MIENSHAO.ogg"
+dest_files=["res://.godot/imported/MIENSHAO.ogg-18d80adb802863e4dd88af26a525e27a.oggvorbisstr"]
 
 [params]
 

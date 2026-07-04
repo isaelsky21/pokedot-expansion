@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://drt25bhfasq6a"
-path="res://.godot/imported/PRSFX- Instruct1.wav-28ddbae2e0fa21ca6193dff7cb1638aa.sample"
+path="res://.godot/imported/PRSFX- Instruct1.wav-e25f72f3a0619b1d3b707d78861f4700.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Instruct1.wav"
-dest_files=["res://.godot/imported/PRSFX- Instruct1.wav-28ddbae2e0fa21ca6193dff7cb1638aa.sample"]
+source_file="res://audio/se/anim/PRSFX- Instruct1.wav"
+dest_files=["res://.godot/imported/PRSFX- Instruct1.wav-e25f72f3a0619b1d3b707d78861f4700.sample"]
 
 [params]
 

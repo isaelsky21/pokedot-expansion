@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djgvy23peew5g"
-path="res://.godot/imported/BELDUM.ogg-d250c67c83bc945fb3141938e8ac4cf5.oggvorbisstr"
+path="res://.godot/imported/BELDUM.ogg-f2170ec98802752ca361a2f1053fac9a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BELDUM.ogg"
-dest_files=["res://.godot/imported/BELDUM.ogg-d250c67c83bc945fb3141938e8ac4cf5.oggvorbisstr"]
+source_file="res://audio/se/cries/BELDUM.ogg"
+dest_files=["res://.godot/imported/BELDUM.ogg-f2170ec98802752ca361a2f1053fac9a.oggvorbisstr"]
 
 [params]
 

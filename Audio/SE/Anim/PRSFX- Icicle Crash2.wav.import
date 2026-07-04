@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dndffr71ekl0"
-path="res://.godot/imported/PRSFX- Icicle Crash2.wav-b87e46360316c661da6f630d809c9c2f.sample"
+path="res://.godot/imported/PRSFX- Icicle Crash2.wav-c33f2a756b2f6645bbd28d70bcbcc243.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Icicle Crash2.wav"
-dest_files=["res://.godot/imported/PRSFX- Icicle Crash2.wav-b87e46360316c661da6f630d809c9c2f.sample"]
+source_file="res://audio/se/anim/PRSFX- Icicle Crash2.wav"
+dest_files=["res://.godot/imported/PRSFX- Icicle Crash2.wav-c33f2a756b2f6645bbd28d70bcbcc243.sample"]
 
 [params]
 

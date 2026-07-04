@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://tuetiwhs0j6v"
-path="res://.godot/imported/PRSFX- Fire Pledge.wav-f6f755957a14bcdfc37f9711879efd1a.sample"
+path="res://.godot/imported/PRSFX- Fire Pledge.wav-d92c0af21b62f331647cb4b42fc5ba46.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fire Pledge.wav"
-dest_files=["res://.godot/imported/PRSFX- Fire Pledge.wav-f6f755957a14bcdfc37f9711879efd1a.sample"]
+source_file="res://audio/se/anim/PRSFX- Fire Pledge.wav"
+dest_files=["res://.godot/imported/PRSFX- Fire Pledge.wav-d92c0af21b62f331647cb4b42fc5ba46.sample"]
 
 [params]
 

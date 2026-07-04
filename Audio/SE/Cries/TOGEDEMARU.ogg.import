@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://fw7hsvwl7fe"
-path="res://.godot/imported/TOGEDEMARU.ogg-edb18bbb870419186f22680f31a66a43.oggvorbisstr"
+path="res://.godot/imported/TOGEDEMARU.ogg-2a6007ee12122c341a7579f607c50771.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TOGEDEMARU.ogg"
-dest_files=["res://.godot/imported/TOGEDEMARU.ogg-edb18bbb870419186f22680f31a66a43.oggvorbisstr"]
+source_file="res://audio/se/cries/TOGEDEMARU.ogg"
+dest_files=["res://.godot/imported/TOGEDEMARU.ogg-2a6007ee12122c341a7579f607c50771.oggvorbisstr"]
 
 [params]
 

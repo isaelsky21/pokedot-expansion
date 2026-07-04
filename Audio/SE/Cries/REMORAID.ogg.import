@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dyd8a31gcahip"
-path="res://.godot/imported/REMORAID.ogg-e450c06bea0c5bfe6d9d4d85751364df.oggvorbisstr"
+path="res://.godot/imported/REMORAID.ogg-b0d4f50cf460f5c1939826f87049a890.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/REMORAID.ogg"
-dest_files=["res://.godot/imported/REMORAID.ogg-e450c06bea0c5bfe6d9d4d85751364df.oggvorbisstr"]
+source_file="res://audio/se/cries/REMORAID.ogg"
+dest_files=["res://.godot/imported/REMORAID.ogg-b0d4f50cf460f5c1939826f87049a890.oggvorbisstr"]
 
 [params]
 

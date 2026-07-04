@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://w2r22ohc2gu"
-path="res://.godot/imported/OVERQWIL.ogg-f4950d16a439a0f0f03baf1bf7ed8cb2.oggvorbisstr"
+path="res://.godot/imported/OVERQWIL.ogg-4079e054449def4f241450ba44b69faa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/OVERQWIL.ogg"
-dest_files=["res://.godot/imported/OVERQWIL.ogg-f4950d16a439a0f0f03baf1bf7ed8cb2.oggvorbisstr"]
+source_file="res://audio/se/cries/OVERQWIL.ogg"
+dest_files=["res://.godot/imported/OVERQWIL.ogg-4079e054449def4f241450ba44b69faa.oggvorbisstr"]
 
 [params]
 

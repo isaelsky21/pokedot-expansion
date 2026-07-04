@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dlxr3n0dbcptc"
-path="res://.godot/imported/PRSFX- Fury Attack.wav-19b7466baf0b6f1151af2a98e6e3ef78.sample"
+path="res://.godot/imported/PRSFX- Fury Attack.wav-07c7b077e3c886dd40bd4922de658d87.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fury Attack.wav"
-dest_files=["res://.godot/imported/PRSFX- Fury Attack.wav-19b7466baf0b6f1151af2a98e6e3ef78.sample"]
+source_file="res://audio/se/anim/PRSFX- Fury Attack.wav"
+dest_files=["res://.godot/imported/PRSFX- Fury Attack.wav-07c7b077e3c886dd40bd4922de658d87.sample"]
 
 [params]
 

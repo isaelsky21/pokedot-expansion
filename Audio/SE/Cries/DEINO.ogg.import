@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ci4skvh7nasgq"
-path="res://.godot/imported/DEINO.ogg-c431df87d41e8142affe92e40d1f9e7c.oggvorbisstr"
+path="res://.godot/imported/DEINO.ogg-5a611a4cccd1a9445e7d655caa8eceb6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DEINO.ogg"
-dest_files=["res://.godot/imported/DEINO.ogg-c431df87d41e8142affe92e40d1f9e7c.oggvorbisstr"]
+source_file="res://audio/se/cries/DEINO.ogg"
+dest_files=["res://.godot/imported/DEINO.ogg-5a611a4cccd1a9445e7d655caa8eceb6.oggvorbisstr"]
 
 [params]
 

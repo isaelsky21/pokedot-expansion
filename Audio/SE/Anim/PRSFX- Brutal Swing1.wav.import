@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dtwipamfhai5k"
-path="res://.godot/imported/PRSFX- Brutal Swing1.wav-656d3b97f795e9ab792c044a14749195.sample"
+path="res://.godot/imported/PRSFX- Brutal Swing1.wav-26796fa7529661739737c05a5c9badcb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Brutal Swing1.wav"
-dest_files=["res://.godot/imported/PRSFX- Brutal Swing1.wav-656d3b97f795e9ab792c044a14749195.sample"]
+source_file="res://audio/se/anim/PRSFX- Brutal Swing1.wav"
+dest_files=["res://.godot/imported/PRSFX- Brutal Swing1.wav-26796fa7529661739737c05a5c9badcb.sample"]
 
 [params]
 

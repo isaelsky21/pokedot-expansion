@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bb3hit6x8ppw2"
-path="res://.godot/imported/SKITTY.ogg-49e88356a99c0fa0ddf30316392203f5.oggvorbisstr"
+path="res://.godot/imported/SKITTY.ogg-bfb8f50481bb526cb9901bd72786beff.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SKITTY.ogg"
-dest_files=["res://.godot/imported/SKITTY.ogg-49e88356a99c0fa0ddf30316392203f5.oggvorbisstr"]
+source_file="res://audio/se/cries/SKITTY.ogg"
+dest_files=["res://.godot/imported/SKITTY.ogg-bfb8f50481bb526cb9901bd72786beff.oggvorbisstr"]
 
 [params]
 

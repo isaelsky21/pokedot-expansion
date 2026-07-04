@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgwub1ojg5vx2"
-path="res://.godot/imported/HORSEA.ogg-974bef80d398020ac591c4d24bc16084.oggvorbisstr"
+path="res://.godot/imported/HORSEA.ogg-988455ad4a029a75631a9195d2361984.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HORSEA.ogg"
-dest_files=["res://.godot/imported/HORSEA.ogg-974bef80d398020ac591c4d24bc16084.oggvorbisstr"]
+source_file="res://audio/se/cries/HORSEA.ogg"
+dest_files=["res://.godot/imported/HORSEA.ogg-988455ad4a029a75631a9195d2361984.oggvorbisstr"]
 
 [params]
 

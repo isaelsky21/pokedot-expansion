@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://chfhfocdk3ye7"
-path="res://.godot/imported/DEERLING.ogg-43f0f8fb54810e459c5b09cd6269d6b4.oggvorbisstr"
+path="res://.godot/imported/DEERLING.ogg-8e3abcc980885410eb2605f7c2404db9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DEERLING.ogg"
-dest_files=["res://.godot/imported/DEERLING.ogg-43f0f8fb54810e459c5b09cd6269d6b4.oggvorbisstr"]
+source_file="res://audio/se/cries/DEERLING.ogg"
+dest_files=["res://.godot/imported/DEERLING.ogg-8e3abcc980885410eb2605f7c2404db9.oggvorbisstr"]
 
 [params]
 

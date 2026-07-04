@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dlcccw0wi8as5"
-path="res://.godot/imported/BLAZIKEN.ogg-49ac1b368aafbbd297220b5e0c5abb19.oggvorbisstr"
+path="res://.godot/imported/BLAZIKEN.ogg-7422099c501aaff9d6cdbf5b6cc7a35a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BLAZIKEN.ogg"
-dest_files=["res://.godot/imported/BLAZIKEN.ogg-49ac1b368aafbbd297220b5e0c5abb19.oggvorbisstr"]
+source_file="res://audio/se/cries/BLAZIKEN.ogg"
+dest_files=["res://.godot/imported/BLAZIKEN.ogg-7422099c501aaff9d6cdbf5b6cc7a35a.oggvorbisstr"]
 
 [params]
 

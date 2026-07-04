@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dnpknha6qeqa6"
-path="res://.godot/imported/RILLABOOM_1.ogg-dd81961d8878938c2b5b46254b318ac5.oggvorbisstr"
+path="res://.godot/imported/RILLABOOM_1.ogg-45225adbbd20a241041a38d86f7a781d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RILLABOOM_1.ogg"
-dest_files=["res://.godot/imported/RILLABOOM_1.ogg-dd81961d8878938c2b5b46254b318ac5.oggvorbisstr"]
+source_file="res://audio/se/cries/RILLABOOM_1.ogg"
+dest_files=["res://.godot/imported/RILLABOOM_1.ogg-45225adbbd20a241041a38d86f7a781d.oggvorbisstr"]
 
 [params]
 

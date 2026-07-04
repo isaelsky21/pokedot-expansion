@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dvfhv8i3oka2r"
-path="res://.godot/imported/SPINARAK.ogg-27f3daf0c9f50b17f1fbad968d2afcc0.oggvorbisstr"
+path="res://.godot/imported/SPINARAK.ogg-bd9f2a0ebcf225df8d5a953a4a65a789.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SPINARAK.ogg"
-dest_files=["res://.godot/imported/SPINARAK.ogg-27f3daf0c9f50b17f1fbad968d2afcc0.oggvorbisstr"]
+source_file="res://audio/se/cries/SPINARAK.ogg"
+dest_files=["res://.godot/imported/SPINARAK.ogg-bd9f2a0ebcf225df8d5a953a4a65a789.oggvorbisstr"]
 
 [params]
 

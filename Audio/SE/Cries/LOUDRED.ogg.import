@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://je0y1arpp30c"
-path="res://.godot/imported/LOUDRED.ogg-b899dca98da138634fd4c5797d61721d.oggvorbisstr"
+path="res://.godot/imported/LOUDRED.ogg-e5cc80d97a718a903c4575c69c7221b0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LOUDRED.ogg"
-dest_files=["res://.godot/imported/LOUDRED.ogg-b899dca98da138634fd4c5797d61721d.oggvorbisstr"]
+source_file="res://audio/se/cries/LOUDRED.ogg"
+dest_files=["res://.godot/imported/LOUDRED.ogg-e5cc80d97a718a903c4575c69c7221b0.oggvorbisstr"]
 
 [params]
 

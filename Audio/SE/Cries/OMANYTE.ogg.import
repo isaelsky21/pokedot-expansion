@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b5bl18hdabdp4"
-path="res://.godot/imported/OMANYTE.ogg-d948e0a6fb4905a56514aa344db7dc94.oggvorbisstr"
+path="res://.godot/imported/OMANYTE.ogg-5fdd65e38e1053a2633fac9bdcd5aed3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/OMANYTE.ogg"
-dest_files=["res://.godot/imported/OMANYTE.ogg-d948e0a6fb4905a56514aa344db7dc94.oggvorbisstr"]
+source_file="res://audio/se/cries/OMANYTE.ogg"
+dest_files=["res://.godot/imported/OMANYTE.ogg-5fdd65e38e1053a2633fac9bdcd5aed3.oggvorbisstr"]
 
 [params]
 

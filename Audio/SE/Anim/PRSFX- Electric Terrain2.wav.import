@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cxuo282igxspm"
-path="res://.godot/imported/PRSFX- Electric Terrain2.wav-a0b3a9d81b9d91c83863df044e5141c4.sample"
+path="res://.godot/imported/PRSFX- Electric Terrain2.wav-1214573c317e0fc3b4060432fcc21a4f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Electric Terrain2.wav"
-dest_files=["res://.godot/imported/PRSFX- Electric Terrain2.wav-a0b3a9d81b9d91c83863df044e5141c4.sample"]
+source_file="res://audio/se/anim/PRSFX- Electric Terrain2.wav"
+dest_files=["res://.godot/imported/PRSFX- Electric Terrain2.wav-1214573c317e0fc3b4060432fcc21a4f.sample"]
 
 [params]
 

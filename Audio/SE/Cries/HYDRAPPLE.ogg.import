@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bdrmmcfkbxovd"
-path="res://.godot/imported/HYDRAPPLE.ogg-46540c0e663c131f8556bdb41dbb62dc.oggvorbisstr"
+path="res://.godot/imported/HYDRAPPLE.ogg-8447e188db5c0da283209d1cb92188a8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HYDRAPPLE.ogg"
-dest_files=["res://.godot/imported/HYDRAPPLE.ogg-46540c0e663c131f8556bdb41dbb62dc.oggvorbisstr"]
+source_file="res://audio/se/cries/HYDRAPPLE.ogg"
+dest_files=["res://.godot/imported/HYDRAPPLE.ogg-8447e188db5c0da283209d1cb92188a8.oggvorbisstr"]
 
 [params]
 

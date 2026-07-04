@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dcqr23jthrp2t"
-path="res://.godot/imported/TRUBBISH.ogg-1907f4148b4089b47916eb2aa7c941d2.oggvorbisstr"
+path="res://.godot/imported/TRUBBISH.ogg-6ca3d9a8529a084ba73475c0512c5deb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TRUBBISH.ogg"
-dest_files=["res://.godot/imported/TRUBBISH.ogg-1907f4148b4089b47916eb2aa7c941d2.oggvorbisstr"]
+source_file="res://audio/se/cries/TRUBBISH.ogg"
+dest_files=["res://.godot/imported/TRUBBISH.ogg-6ca3d9a8529a084ba73475c0512c5deb.oggvorbisstr"]
 
 [params]
 

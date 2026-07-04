@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cjylf6bfgp56r"
-path="res://.godot/imported/PRSFX- Waterfall1.wav-d163dd731946d146fb88fbe93f515286.sample"
+path="res://.godot/imported/PRSFX- Waterfall1.wav-ffc2279bc60604203ba5410545ea45b9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Waterfall1.wav"
-dest_files=["res://.godot/imported/PRSFX- Waterfall1.wav-d163dd731946d146fb88fbe93f515286.sample"]
+source_file="res://audio/se/anim/PRSFX- Waterfall1.wav"
+dest_files=["res://.godot/imported/PRSFX- Waterfall1.wav-ffc2279bc60604203ba5410545ea45b9.sample"]
 
 [params]
 

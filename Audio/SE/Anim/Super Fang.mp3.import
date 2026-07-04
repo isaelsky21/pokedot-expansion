@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dkxqwuuau0xrb"
-path="res://.godot/imported/Super Fang.mp3-d97df0a756032c0bad12f8c920050369.mp3str"
+path="res://.godot/imported/Super Fang.mp3-ee119bbb031a71b68fc373cb421a8a6f.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Super Fang.mp3"
-dest_files=["res://.godot/imported/Super Fang.mp3-d97df0a756032c0bad12f8c920050369.mp3str"]
+source_file="res://audio/se/anim/Super Fang.mp3"
+dest_files=["res://.godot/imported/Super Fang.mp3-ee119bbb031a71b68fc373cb421a8a6f.mp3str"]
 
 [params]
 

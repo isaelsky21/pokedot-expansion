@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bgyfi1d5k474i"
-path="res://.godot/imported/PRSFX- Sunny.wav-68b20d8501ac30fb0d02032d9f09bff7.sample"
+path="res://.godot/imported/PRSFX- Sunny.wav-bb4c850cfb403434d8e7ebd413db3ee3.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sunny.wav"
-dest_files=["res://.godot/imported/PRSFX- Sunny.wav-68b20d8501ac30fb0d02032d9f09bff7.sample"]
+source_file="res://audio/se/anim/PRSFX- Sunny.wav"
+dest_files=["res://.godot/imported/PRSFX- Sunny.wav-bb4c850cfb403434d8e7ebd413db3ee3.sample"]
 
 [params]
 

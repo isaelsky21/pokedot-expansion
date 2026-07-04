@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://batk17ca5sihu"
-path="res://.godot/imported/Battle Elite.wav-f68d72fe024cd13c335b37546614c281.sample"
+path="res://.godot/imported/Battle Elite.wav-8ae8971c69310d6ed654c141fda8bd44.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle Elite.wav"
-dest_files=["res://.godot/imported/Battle Elite.wav-f68d72fe024cd13c335b37546614c281.sample"]
+source_file="res://audio/bgm/Battle Elite.wav"
+dest_files=["res://.godot/imported/Battle Elite.wav-8ae8971c69310d6ed654c141fda8bd44.sample"]
 
 [params]
 

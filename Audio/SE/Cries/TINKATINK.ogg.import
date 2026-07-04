@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6nupindib0yx"
-path="res://.godot/imported/TINKATINK.ogg-d4a7d0ade858203159b441ad43874444.oggvorbisstr"
+path="res://.godot/imported/TINKATINK.ogg-50369bd26713fb173241c49068189eec.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TINKATINK.ogg"
-dest_files=["res://.godot/imported/TINKATINK.ogg-d4a7d0ade858203159b441ad43874444.oggvorbisstr"]
+source_file="res://audio/se/cries/TINKATINK.ogg"
+dest_files=["res://.godot/imported/TINKATINK.ogg-50369bd26713fb173241c49068189eec.oggvorbisstr"]
 
 [params]
 

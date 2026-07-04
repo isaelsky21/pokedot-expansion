@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1ehc2noembbv"
-path="res://.godot/imported/STUNKY.ogg-c06e0c8fa9f0ab7224cb65af95459ce0.oggvorbisstr"
+path="res://.godot/imported/STUNKY.ogg-3a2aeff3161b2ca2500069ec441b7c95.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/STUNKY.ogg"
-dest_files=["res://.godot/imported/STUNKY.ogg-c06e0c8fa9f0ab7224cb65af95459ce0.oggvorbisstr"]
+source_file="res://audio/se/cries/STUNKY.ogg"
+dest_files=["res://.godot/imported/STUNKY.ogg-3a2aeff3161b2ca2500069ec441b7c95.oggvorbisstr"]
 
 [params]
 

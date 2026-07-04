@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ba36pshapglod"
-path="res://.godot/imported/PARASECT.ogg-af57cdad3c8e7bf21371145de6b0070b.oggvorbisstr"
+path="res://.godot/imported/PARASECT.ogg-4db81210d2f31b4e3a52c5859d659999.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PARASECT.ogg"
-dest_files=["res://.godot/imported/PARASECT.ogg-af57cdad3c8e7bf21371145de6b0070b.oggvorbisstr"]
+source_file="res://audio/se/cries/PARASECT.ogg"
+dest_files=["res://.godot/imported/PARASECT.ogg-4db81210d2f31b4e3a52c5859d659999.oggvorbisstr"]
 
 [params]
 

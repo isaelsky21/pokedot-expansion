@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://byuboynkyabrk"
-path="res://.godot/imported/Stone Axe 2.wav-9aa4a93b6dc4fb7afcfa76fcca319b49.sample"
+path="res://.godot/imported/Stone Axe 2.wav-23b94f91d0be0b2f30d1b2bfa79c0ed4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Stone Axe 2.wav"
-dest_files=["res://.godot/imported/Stone Axe 2.wav-9aa4a93b6dc4fb7afcfa76fcca319b49.sample"]
+source_file="res://audio/se/anim/Stone Axe 2.wav"
+dest_files=["res://.godot/imported/Stone Axe 2.wav-23b94f91d0be0b2f30d1b2bfa79c0ed4.sample"]
 
 [params]
 

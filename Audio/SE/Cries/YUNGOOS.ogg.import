@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qrp2sd1bqpc1"
-path="res://.godot/imported/YUNGOOS.ogg-2c93636812cb6bae7d81cd79049be200.oggvorbisstr"
+path="res://.godot/imported/YUNGOOS.ogg-3e3eb93cb22273ce15c5f6e109bb187d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/YUNGOOS.ogg"
-dest_files=["res://.godot/imported/YUNGOOS.ogg-2c93636812cb6bae7d81cd79049be200.oggvorbisstr"]
+source_file="res://audio/se/cries/YUNGOOS.ogg"
+dest_files=["res://.godot/imported/YUNGOOS.ogg-3e3eb93cb22273ce15c5f6e109bb187d.oggvorbisstr"]
 
 [params]
 

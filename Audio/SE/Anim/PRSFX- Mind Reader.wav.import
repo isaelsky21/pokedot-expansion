@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cadfja4dteued"
-path="res://.godot/imported/PRSFX- Mind Reader.wav-c1161accfad6e0dcbe1a88e0dc4538df.sample"
+path="res://.godot/imported/PRSFX- Mind Reader.wav-28817f08382ef4f84b0d97ea139bc3ce.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mind Reader.wav"
-dest_files=["res://.godot/imported/PRSFX- Mind Reader.wav-c1161accfad6e0dcbe1a88e0dc4538df.sample"]
+source_file="res://audio/se/anim/PRSFX- Mind Reader.wav"
+dest_files=["res://.godot/imported/PRSFX- Mind Reader.wav-28817f08382ef4f84b0d97ea139bc3ce.sample"]
 
 [params]
 

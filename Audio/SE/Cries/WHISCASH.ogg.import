@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d2ahko60y15lk"
-path="res://.godot/imported/WHISCASH.ogg-8fb0ae80ce53d7f10fe23b652cc1a8ef.oggvorbisstr"
+path="res://.godot/imported/WHISCASH.ogg-b6a60be16a43f79e313a4b805b682e3e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WHISCASH.ogg"
-dest_files=["res://.godot/imported/WHISCASH.ogg-8fb0ae80ce53d7f10fe23b652cc1a8ef.oggvorbisstr"]
+source_file="res://audio/se/cries/WHISCASH.ogg"
+dest_files=["res://.godot/imported/WHISCASH.ogg-b6a60be16a43f79e313a4b805b682e3e.oggvorbisstr"]
 
 [params]
 

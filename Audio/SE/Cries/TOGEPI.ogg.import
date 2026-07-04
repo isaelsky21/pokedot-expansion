@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://plabp7edxpyc"
-path="res://.godot/imported/TOGEPI.ogg-410f7143c0f70248b8177a5fdf6af95c.oggvorbisstr"
+path="res://.godot/imported/TOGEPI.ogg-5fa5e6fc7118169829114af5c10830b7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TOGEPI.ogg"
-dest_files=["res://.godot/imported/TOGEPI.ogg-410f7143c0f70248b8177a5fdf6af95c.oggvorbisstr"]
+source_file="res://audio/se/cries/TOGEPI.ogg"
+dest_files=["res://.godot/imported/TOGEPI.ogg-5fa5e6fc7118169829114af5c10830b7.oggvorbisstr"]
 
 [params]
 

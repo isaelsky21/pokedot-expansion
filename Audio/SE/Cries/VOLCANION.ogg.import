@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgu4ng6ed5mnw"
-path="res://.godot/imported/VOLCANION.ogg-cc328ce00e5931ffaeb588aade6cec4d.oggvorbisstr"
+path="res://.godot/imported/VOLCANION.ogg-22edc10c503f5f8844eb4493c06f7491.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VOLCANION.ogg"
-dest_files=["res://.godot/imported/VOLCANION.ogg-cc328ce00e5931ffaeb588aade6cec4d.oggvorbisstr"]
+source_file="res://audio/se/cries/VOLCANION.ogg"
+dest_files=["res://.godot/imported/VOLCANION.ogg-22edc10c503f5f8844eb4493c06f7491.oggvorbisstr"]
 
 [params]
 

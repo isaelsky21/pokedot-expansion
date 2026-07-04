@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://crdqvwdn6666o"
-path="res://.godot/imported/TAPUBULU.ogg-3df3fb9b50feb4358e09234ce9178ba0.oggvorbisstr"
+path="res://.godot/imported/TAPUBULU.ogg-ea54872ac00056260d9755c609de852c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TAPUBULU.ogg"
-dest_files=["res://.godot/imported/TAPUBULU.ogg-3df3fb9b50feb4358e09234ce9178ba0.oggvorbisstr"]
+source_file="res://audio/se/cries/TAPUBULU.ogg"
+dest_files=["res://.godot/imported/TAPUBULU.ogg-ea54872ac00056260d9755c609de852c.oggvorbisstr"]
 
 [params]
 

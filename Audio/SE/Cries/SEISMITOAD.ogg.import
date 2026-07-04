@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://evahmebtm61y"
-path="res://.godot/imported/SEISMITOAD.ogg-bf83d5fc8770d29186ba55bd65e7e978.oggvorbisstr"
+path="res://.godot/imported/SEISMITOAD.ogg-e4558fe35e1e0dca4cf792d809cd4ab3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SEISMITOAD.ogg"
-dest_files=["res://.godot/imported/SEISMITOAD.ogg-bf83d5fc8770d29186ba55bd65e7e978.oggvorbisstr"]
+source_file="res://audio/se/cries/SEISMITOAD.ogg"
+dest_files=["res://.godot/imported/SEISMITOAD.ogg-e4558fe35e1e0dca4cf792d809cd4ab3.oggvorbisstr"]
 
 [params]
 

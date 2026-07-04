@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dbvq5e3amv0dl"
-path="res://.godot/imported/YAMASK.ogg-b529a5d983d4dc50f24528cdf63c5fa6.oggvorbisstr"
+path="res://.godot/imported/YAMASK.ogg-55263fdd8f992338adef444cfb7af741.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/YAMASK.ogg"
-dest_files=["res://.godot/imported/YAMASK.ogg-b529a5d983d4dc50f24528cdf63c5fa6.oggvorbisstr"]
+source_file="res://audio/se/cries/YAMASK.ogg"
+dest_files=["res://.godot/imported/YAMASK.ogg-55263fdd8f992338adef444cfb7af741.oggvorbisstr"]
 
 [params]
 

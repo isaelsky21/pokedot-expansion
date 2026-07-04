@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://br86fdeijjbeq"
-path="res://.godot/imported/CALYREX_1.ogg-8ba8ee6b3f59372f6638d1c54624a32d.oggvorbisstr"
+path="res://.godot/imported/CALYREX_1.ogg-557a835b8c5e9da057bec68a9a65db49.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CALYREX_1.ogg"
-dest_files=["res://.godot/imported/CALYREX_1.ogg-8ba8ee6b3f59372f6638d1c54624a32d.oggvorbisstr"]
+source_file="res://audio/se/cries/CALYREX_1.ogg"
+dest_files=["res://.godot/imported/CALYREX_1.ogg-557a835b8c5e9da057bec68a9a65db49.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dywwh7lxvvjoh"
-path="res://.godot/imported/PRSFX- Petal Blizzard2.wav-dccddf5819c183cf59f9116253b4dc1f.sample"
+path="res://.godot/imported/PRSFX- Petal Blizzard2.wav-122eb035fad794f6485a089b014aa2b4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Petal Blizzard2.wav"
-dest_files=["res://.godot/imported/PRSFX- Petal Blizzard2.wav-dccddf5819c183cf59f9116253b4dc1f.sample"]
+source_file="res://audio/se/anim/PRSFX- Petal Blizzard2.wav"
+dest_files=["res://.godot/imported/PRSFX- Petal Blizzard2.wav-122eb035fad794f6485a089b014aa2b4.sample"]
 
 [params]
 

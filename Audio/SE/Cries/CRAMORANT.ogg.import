@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bri8bbihw4roo"
-path="res://.godot/imported/CRAMORANT.ogg-86ce2c714161572e7fcda63842c3c84c.oggvorbisstr"
+path="res://.godot/imported/CRAMORANT.ogg-a9a5b10892c7a0b13ac4dfbdd0c22140.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CRAMORANT.ogg"
-dest_files=["res://.godot/imported/CRAMORANT.ogg-86ce2c714161572e7fcda63842c3c84c.oggvorbisstr"]
+source_file="res://audio/se/cries/CRAMORANT.ogg"
+dest_files=["res://.godot/imported/CRAMORANT.ogg-a9a5b10892c7a0b13ac4dfbdd0c22140.oggvorbisstr"]
 
 [params]
 

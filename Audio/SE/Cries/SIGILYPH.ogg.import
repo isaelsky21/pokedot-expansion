@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://88r1mpxej5s7"
-path="res://.godot/imported/SIGILYPH.ogg-ed6d8f809e77aa0edddd497f6d4e6c4d.oggvorbisstr"
+path="res://.godot/imported/SIGILYPH.ogg-7c8d764727889807b004945dfe635ed6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SIGILYPH.ogg"
-dest_files=["res://.godot/imported/SIGILYPH.ogg-ed6d8f809e77aa0edddd497f6d4e6c4d.oggvorbisstr"]
+source_file="res://audio/se/cries/SIGILYPH.ogg"
+dest_files=["res://.godot/imported/SIGILYPH.ogg-7c8d764727889807b004945dfe635ed6.oggvorbisstr"]
 
 [params]
 

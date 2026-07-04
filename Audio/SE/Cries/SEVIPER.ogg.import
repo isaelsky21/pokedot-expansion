@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b24ttoy4xgfuy"
-path="res://.godot/imported/SEVIPER.ogg-5186787c65fb54c273d10374df0b8a20.oggvorbisstr"
+path="res://.godot/imported/SEVIPER.ogg-5e45ee3ed8231b34c31684d3b02898ff.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SEVIPER.ogg"
-dest_files=["res://.godot/imported/SEVIPER.ogg-5186787c65fb54c273d10374df0b8a20.oggvorbisstr"]
+source_file="res://audio/se/cries/SEVIPER.ogg"
+dest_files=["res://.godot/imported/SEVIPER.ogg-5e45ee3ed8231b34c31684d3b02898ff.oggvorbisstr"]
 
 [params]
 

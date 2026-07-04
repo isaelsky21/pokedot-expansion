@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://u777w5yswlae"
-path="res://.godot/imported/BRELOOM.ogg-844b1554d4dc11665bd4d146a60f6d4e.oggvorbisstr"
+path="res://.godot/imported/BRELOOM.ogg-377052b9cf9b34f52d68e93b2ae8409d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BRELOOM.ogg"
-dest_files=["res://.godot/imported/BRELOOM.ogg-844b1554d4dc11665bd4d146a60f6d4e.oggvorbisstr"]
+source_file="res://audio/se/cries/BRELOOM.ogg"
+dest_files=["res://.godot/imported/BRELOOM.ogg-377052b9cf9b34f52d68e93b2ae8409d.oggvorbisstr"]
 
 [params]
 

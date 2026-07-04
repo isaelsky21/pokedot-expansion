@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://by5k10kb2o26v"
-path="res://.godot/imported/LATIOS.ogg-6f060ac366d1be173bb7397bea3b8738.oggvorbisstr"
+path="res://.godot/imported/LATIOS.ogg-aabb119ab58148f7a125442ee0576aed.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LATIOS.ogg"
-dest_files=["res://.godot/imported/LATIOS.ogg-6f060ac366d1be173bb7397bea3b8738.oggvorbisstr"]
+source_file="res://audio/se/cries/LATIOS.ogg"
+dest_files=["res://.godot/imported/LATIOS.ogg-aabb119ab58148f7a125442ee0576aed.oggvorbisstr"]
 
 [params]
 

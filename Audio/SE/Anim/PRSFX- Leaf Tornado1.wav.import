@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://r2k7j6exx8s4"
-path="res://.godot/imported/PRSFX- Leaf Tornado1.wav-3a4e7fe879adbc0f3571f8742506fc3b.sample"
+path="res://.godot/imported/PRSFX- Leaf Tornado1.wav-b32137e7e76cbc7fc1457c8a6a2ea797.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Leaf Tornado1.wav"
-dest_files=["res://.godot/imported/PRSFX- Leaf Tornado1.wav-3a4e7fe879adbc0f3571f8742506fc3b.sample"]
+source_file="res://audio/se/anim/PRSFX- Leaf Tornado1.wav"
+dest_files=["res://.godot/imported/PRSFX- Leaf Tornado1.wav-b32137e7e76cbc7fc1457c8a6a2ea797.sample"]
 
 [params]
 

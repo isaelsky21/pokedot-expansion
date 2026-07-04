@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bsdkx52k4x7r7"
-path="res://.godot/imported/PRSFX- Baneful Bunker2.wav-2c05679d2cf19923b3b253716b4b7c7c.sample"
+path="res://.godot/imported/PRSFX- Baneful Bunker2.wav-ddd6e6f89b4761bd5275deb4891cc273.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Baneful Bunker2.wav"
-dest_files=["res://.godot/imported/PRSFX- Baneful Bunker2.wav-2c05679d2cf19923b3b253716b4b7c7c.sample"]
+source_file="res://audio/se/anim/PRSFX- Baneful Bunker2.wav"
+dest_files=["res://.godot/imported/PRSFX- Baneful Bunker2.wav-ddd6e6f89b4761bd5275deb4891cc273.sample"]
 
 [params]
 

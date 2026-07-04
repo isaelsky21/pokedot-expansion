@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://coihtt04wyous"
-path="res://.godot/imported/KYOGRE.ogg-6a4b49d91bded140148f3cfdecb77574.oggvorbisstr"
+path="res://.godot/imported/KYOGRE.ogg-365bc9d05ff87d901e6f610c8b172548.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KYOGRE.ogg"
-dest_files=["res://.godot/imported/KYOGRE.ogg-6a4b49d91bded140148f3cfdecb77574.oggvorbisstr"]
+source_file="res://audio/se/cries/KYOGRE.ogg"
+dest_files=["res://.godot/imported/KYOGRE.ogg-365bc9d05ff87d901e6f610c8b172548.oggvorbisstr"]
 
 [params]
 

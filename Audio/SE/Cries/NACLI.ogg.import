@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cxcdqeerkdox0"
-path="res://.godot/imported/NACLI.ogg-2f9e50a01bba5ab665f196de1c6e4d90.oggvorbisstr"
+path="res://.godot/imported/NACLI.ogg-10d5bdb5698ca94c77b81a15ee476c60.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NACLI.ogg"
-dest_files=["res://.godot/imported/NACLI.ogg-2f9e50a01bba5ab665f196de1c6e4d90.oggvorbisstr"]
+source_file="res://audio/se/cries/NACLI.ogg"
+dest_files=["res://.godot/imported/NACLI.ogg-10d5bdb5698ca94c77b81a15ee476c60.oggvorbisstr"]
 
 [params]
 

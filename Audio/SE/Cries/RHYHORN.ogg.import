@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cj1x58le6mnkf"
-path="res://.godot/imported/RHYHORN.ogg-69fa0e981f594f8dbea246ffa55908f9.oggvorbisstr"
+path="res://.godot/imported/RHYHORN.ogg-458ed0eabf06999f4fe6d2c615788a43.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RHYHORN.ogg"
-dest_files=["res://.godot/imported/RHYHORN.ogg-69fa0e981f594f8dbea246ffa55908f9.oggvorbisstr"]
+source_file="res://audio/se/cries/RHYHORN.ogg"
+dest_files=["res://.godot/imported/RHYHORN.ogg-458ed0eabf06999f4fe6d2c615788a43.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://mjfd82hlaw1c"
-path="res://.godot/imported/CACTURNE.ogg-de310004cfec2ed20f63994ae9bd00c3.oggvorbisstr"
+path="res://.godot/imported/CACTURNE.ogg-7f2a28892adc19178915302927515f00.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CACTURNE.ogg"
-dest_files=["res://.godot/imported/CACTURNE.ogg-de310004cfec2ed20f63994ae9bd00c3.oggvorbisstr"]
+source_file="res://audio/se/cries/CACTURNE.ogg"
+dest_files=["res://.godot/imported/CACTURNE.ogg-7f2a28892adc19178915302927515f00.oggvorbisstr"]
 
 [params]
 

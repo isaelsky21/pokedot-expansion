@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccvw5qjffqad0"
-path="res://.godot/imported/Sweet Scent.ogg-900ca5a945eae8e62b7a1c2e86dc9693.oggvorbisstr"
+path="res://.godot/imported/Sweet Scent.ogg-7342ab555a9ce8f863bcf5e51f3b833b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Sweet Scent.ogg"
-dest_files=["res://.godot/imported/Sweet Scent.ogg-900ca5a945eae8e62b7a1c2e86dc9693.oggvorbisstr"]
+source_file="res://audio/se/anim/Sweet Scent.ogg"
+dest_files=["res://.godot/imported/Sweet Scent.ogg-7342ab555a9ce8f863bcf5e51f3b833b.oggvorbisstr"]
 
 [params]
 

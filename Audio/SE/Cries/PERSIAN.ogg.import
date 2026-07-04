@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxulwy6cirmri"
-path="res://.godot/imported/PERSIAN.ogg-70c050f8350f3095212f57c06ad62ffc.oggvorbisstr"
+path="res://.godot/imported/PERSIAN.ogg-a474513e0ada6f4feab3b9d7486e73d7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PERSIAN.ogg"
-dest_files=["res://.godot/imported/PERSIAN.ogg-70c050f8350f3095212f57c06ad62ffc.oggvorbisstr"]
+source_file="res://audio/se/cries/PERSIAN.ogg"
+dest_files=["res://.godot/imported/PERSIAN.ogg-a474513e0ada6f4feab3b9d7486e73d7.oggvorbisstr"]
 
 [params]
 

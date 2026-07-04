@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bbgovl8k7ex10"
-path="res://.godot/imported/PRSFX- Mach Punch.wav-dc20f25c69c21c1a43e40a91c45c8c90.sample"
+path="res://.godot/imported/PRSFX- Mach Punch.wav-c0b21b73964de386dea6d3a15f2d8535.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mach Punch.wav"
-dest_files=["res://.godot/imported/PRSFX- Mach Punch.wav-dc20f25c69c21c1a43e40a91c45c8c90.sample"]
+source_file="res://audio/se/anim/PRSFX- Mach Punch.wav"
+dest_files=["res://.godot/imported/PRSFX- Mach Punch.wav-c0b21b73964de386dea6d3a15f2d8535.sample"]
 
 [params]
 

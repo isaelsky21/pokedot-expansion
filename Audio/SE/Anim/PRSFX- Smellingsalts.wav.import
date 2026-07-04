@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://e8wb5ukwso0l"
-path="res://.godot/imported/PRSFX- Smellingsalts.wav-3f810c41f58c07325dd8d6376d510cc6.sample"
+path="res://.godot/imported/PRSFX- Smellingsalts.wav-810414452c18795faece34c891501eb5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Smellingsalts.wav"
-dest_files=["res://.godot/imported/PRSFX- Smellingsalts.wav-3f810c41f58c07325dd8d6376d510cc6.sample"]
+source_file="res://audio/se/anim/PRSFX- Smellingsalts.wav"
+dest_files=["res://.godot/imported/PRSFX- Smellingsalts.wav-810414452c18795faece34c891501eb5.sample"]
 
 [params]
 

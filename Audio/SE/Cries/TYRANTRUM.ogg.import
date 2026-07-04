@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://csd6fcr8rodwm"
-path="res://.godot/imported/TYRANTRUM.ogg-65ecc7dd2eb5b0ec90ef31a5b2389906.oggvorbisstr"
+path="res://.godot/imported/TYRANTRUM.ogg-8c72afd8942f1fedd20ec32c76deec24.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TYRANTRUM.ogg"
-dest_files=["res://.godot/imported/TYRANTRUM.ogg-65ecc7dd2eb5b0ec90ef31a5b2389906.oggvorbisstr"]
+source_file="res://audio/se/cries/TYRANTRUM.ogg"
+dest_files=["res://.godot/imported/TYRANTRUM.ogg-8c72afd8942f1fedd20ec32c76deec24.oggvorbisstr"]
 
 [params]
 

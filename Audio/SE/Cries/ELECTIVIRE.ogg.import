@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bl0ux1ld2inel"
-path="res://.godot/imported/ELECTIVIRE.ogg-756c6d201733dc5f337213ce6869562c.oggvorbisstr"
+path="res://.godot/imported/ELECTIVIRE.ogg-8ce4875b7666fe978f917f276a813f49.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ELECTIVIRE.ogg"
-dest_files=["res://.godot/imported/ELECTIVIRE.ogg-756c6d201733dc5f337213ce6869562c.oggvorbisstr"]
+source_file="res://audio/se/cries/ELECTIVIRE.ogg"
+dest_files=["res://.godot/imported/ELECTIVIRE.ogg-8ce4875b7666fe978f917f276a813f49.oggvorbisstr"]
 
 [params]
 

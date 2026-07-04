@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bwnva1lup0462"
-path="res://.godot/imported/DELPHOX.ogg-6c5ec3fe61a149bd27282555048720f8.oggvorbisstr"
+path="res://.godot/imported/DELPHOX.ogg-97a815e437cd8143f0554813b7b2410b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DELPHOX.ogg"
-dest_files=["res://.godot/imported/DELPHOX.ogg-6c5ec3fe61a149bd27282555048720f8.oggvorbisstr"]
+source_file="res://audio/se/cries/DELPHOX.ogg"
+dest_files=["res://.godot/imported/DELPHOX.ogg-97a815e437cd8143f0554813b7b2410b.oggvorbisstr"]
 
 [params]
 

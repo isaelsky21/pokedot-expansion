@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b8ffijmg0ncud"
-path="res://.godot/imported/LUDICOLO.ogg-4be51dc22f6e51e520a94603bee14516.oggvorbisstr"
+path="res://.godot/imported/LUDICOLO.ogg-4aa12372b419052b1cc3093269f78c2c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LUDICOLO.ogg"
-dest_files=["res://.godot/imported/LUDICOLO.ogg-4be51dc22f6e51e520a94603bee14516.oggvorbisstr"]
+source_file="res://audio/se/cries/LUDICOLO.ogg"
+dest_files=["res://.godot/imported/LUDICOLO.ogg-4aa12372b419052b1cc3093269f78c2c.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://t6bug2g3lrbx"
-path="res://.godot/imported/GOUGINGFIRE.ogg-a609828caea7088a350fce58b6d6a8da.oggvorbisstr"
+path="res://.godot/imported/GOUGINGFIRE.ogg-e9b3f53bbf957c200c2678f0fa390adc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOUGINGFIRE.ogg"
-dest_files=["res://.godot/imported/GOUGINGFIRE.ogg-a609828caea7088a350fce58b6d6a8da.oggvorbisstr"]
+source_file="res://audio/se/cries/GOUGINGFIRE.ogg"
+dest_files=["res://.godot/imported/GOUGINGFIRE.ogg-e9b3f53bbf957c200c2678f0fa390adc.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://tavx7hduf2c1"
-path="res://.godot/imported/RABSCA.ogg-4798ba475e1b10e96b7098977d3ae0e5.oggvorbisstr"
+path="res://.godot/imported/RABSCA.ogg-64f927a043993392b25d3f8cc2986aa1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RABSCA.ogg"
-dest_files=["res://.godot/imported/RABSCA.ogg-4798ba475e1b10e96b7098977d3ae0e5.oggvorbisstr"]
+source_file="res://audio/se/cries/RABSCA.ogg"
+dest_files=["res://.godot/imported/RABSCA.ogg-64f927a043993392b25d3f8cc2986aa1.oggvorbisstr"]
 
 [params]
 

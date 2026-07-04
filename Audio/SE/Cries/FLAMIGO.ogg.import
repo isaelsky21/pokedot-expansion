@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bq147iut2blgn"
-path="res://.godot/imported/FLAMIGO.ogg-b10c672a07cf848023b8141c5f02fbe9.oggvorbisstr"
+path="res://.godot/imported/FLAMIGO.ogg-5970b3b2f301879b50c79e9c7543d07f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLAMIGO.ogg"
-dest_files=["res://.godot/imported/FLAMIGO.ogg-b10c672a07cf848023b8141c5f02fbe9.oggvorbisstr"]
+source_file="res://audio/se/cries/FLAMIGO.ogg"
+dest_files=["res://.godot/imported/FLAMIGO.ogg-5970b3b2f301879b50c79e9c7543d07f.oggvorbisstr"]
 
 [params]
 

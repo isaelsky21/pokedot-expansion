@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cn41nwwjvmtg3"
-path="res://.godot/imported/GARDEVOIR.ogg-8a81f684f12aab89075cfd593a7a76e8.oggvorbisstr"
+path="res://.godot/imported/GARDEVOIR.ogg-b9bd0afa0ac4583ea9d8e0fad6f572ee.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GARDEVOIR.ogg"
-dest_files=["res://.godot/imported/GARDEVOIR.ogg-8a81f684f12aab89075cfd593a7a76e8.oggvorbisstr"]
+source_file="res://audio/se/cries/GARDEVOIR.ogg"
+dest_files=["res://.godot/imported/GARDEVOIR.ogg-b9bd0afa0ac4583ea9d8e0fad6f572ee.oggvorbisstr"]
 
 [params]
 

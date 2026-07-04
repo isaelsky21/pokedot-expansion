@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d32otycs63jst"
-path="res://.godot/imported/MARSHTOMP.ogg-bd5d1fde1e70525bdbb55ea53ca6224f.oggvorbisstr"
+path="res://.godot/imported/MARSHTOMP.ogg-e6a4256f76c9c5216eb13c49f1dc5997.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MARSHTOMP.ogg"
-dest_files=["res://.godot/imported/MARSHTOMP.ogg-bd5d1fde1e70525bdbb55ea53ca6224f.oggvorbisstr"]
+source_file="res://audio/se/cries/MARSHTOMP.ogg"
+dest_files=["res://.godot/imported/MARSHTOMP.ogg-e6a4256f76c9c5216eb13c49f1dc5997.oggvorbisstr"]
 
 [params]
 

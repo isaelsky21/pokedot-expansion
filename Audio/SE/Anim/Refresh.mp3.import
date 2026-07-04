@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://qj5cwtohims4"
-path="res://.godot/imported/Refresh.mp3-68c72819ac4d15b18b45b1a10ca74b91.mp3str"
+path="res://.godot/imported/Refresh.mp3-04f77dc9fc46f6191b7cc3e162d05c5d.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Refresh.mp3"
-dest_files=["res://.godot/imported/Refresh.mp3-68c72819ac4d15b18b45b1a10ca74b91.mp3str"]
+source_file="res://audio/se/anim/Refresh.mp3"
+dest_files=["res://.godot/imported/Refresh.mp3-04f77dc9fc46f6191b7cc3e162d05c5d.mp3str"]
 
 [params]
 

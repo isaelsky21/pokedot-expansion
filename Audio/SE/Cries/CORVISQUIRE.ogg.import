@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b8texywnlurxi"
-path="res://.godot/imported/CORVISQUIRE.ogg-4b0a68ae51a48a5f8b385e5492df5272.oggvorbisstr"
+path="res://.godot/imported/CORVISQUIRE.ogg-7f04e1699f7cbcac18f2b4893bbcfbaa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CORVISQUIRE.ogg"
-dest_files=["res://.godot/imported/CORVISQUIRE.ogg-4b0a68ae51a48a5f8b385e5492df5272.oggvorbisstr"]
+source_file="res://audio/se/cries/CORVISQUIRE.ogg"
+dest_files=["res://.godot/imported/CORVISQUIRE.ogg-7f04e1699f7cbcac18f2b4893bbcfbaa.oggvorbisstr"]
 
 [params]
 

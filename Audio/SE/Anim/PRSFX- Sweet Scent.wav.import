@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ce6a5irwbdv7s"
-path="res://.godot/imported/PRSFX- Sweet Scent.wav-fcb1b224bc71f73536b5b9129dd40842.sample"
+path="res://.godot/imported/PRSFX- Sweet Scent.wav-9ddafcfa66335b7f399cf4576ad56b7d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sweet Scent.wav"
-dest_files=["res://.godot/imported/PRSFX- Sweet Scent.wav-fcb1b224bc71f73536b5b9129dd40842.sample"]
+source_file="res://audio/se/anim/PRSFX- Sweet Scent.wav"
+dest_files=["res://.godot/imported/PRSFX- Sweet Scent.wav-9ddafcfa66335b7f399cf4576ad56b7d.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djt6431qvgstg"
-path="res://.godot/imported/MASQUERAIN.ogg-e94074c7866d2eafebb4ded7ca2f14c0.oggvorbisstr"
+path="res://.godot/imported/MASQUERAIN.ogg-74ee4017cd234383f2e58ade93b96a0a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MASQUERAIN.ogg"
-dest_files=["res://.godot/imported/MASQUERAIN.ogg-e94074c7866d2eafebb4ded7ca2f14c0.oggvorbisstr"]
+source_file="res://audio/se/cries/MASQUERAIN.ogg"
+dest_files=["res://.godot/imported/MASQUERAIN.ogg-74ee4017cd234383f2e58ade93b96a0a.oggvorbisstr"]
 
 [params]
 

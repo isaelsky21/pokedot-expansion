@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c4fw15a3446nc"
-path="res://.godot/imported/TSAREENA.ogg-e71654698204c66ba8e3775e896f7e52.oggvorbisstr"
+path="res://.godot/imported/TSAREENA.ogg-448bf99bbb2b83dfb4c0a7d77ae9b3ba.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TSAREENA.ogg"
-dest_files=["res://.godot/imported/TSAREENA.ogg-e71654698204c66ba8e3775e896f7e52.oggvorbisstr"]
+source_file="res://audio/se/cries/TSAREENA.ogg"
+dest_files=["res://.godot/imported/TSAREENA.ogg-448bf99bbb2b83dfb4c0a7d77ae9b3ba.oggvorbisstr"]
 
 [params]
 

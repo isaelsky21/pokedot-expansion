@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dh1xsc17b20fs"
-path="res://.godot/imported/PRSFX- Fairy Lock.wav-dee0c616c1c1c7bde4ae0eb3bb3d4dd6.sample"
+path="res://.godot/imported/PRSFX- Fairy Lock.wav-7d32d789df6e634ba62020c58c63595b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fairy Lock.wav"
-dest_files=["res://.godot/imported/PRSFX- Fairy Lock.wav-dee0c616c1c1c7bde4ae0eb3bb3d4dd6.sample"]
+source_file="res://audio/se/anim/PRSFX- Fairy Lock.wav"
+dest_files=["res://.godot/imported/PRSFX- Fairy Lock.wav-7d32d789df6e634ba62020c58c63595b.sample"]
 
 [params]
 

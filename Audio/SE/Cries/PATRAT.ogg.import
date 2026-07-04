@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxjm2f7klo72r"
-path="res://.godot/imported/PATRAT.ogg-b82b6a3770dc5ceb2868c9a26c8840b2.oggvorbisstr"
+path="res://.godot/imported/PATRAT.ogg-f84f96b5edcc85ebee7a9909d649c03b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PATRAT.ogg"
-dest_files=["res://.godot/imported/PATRAT.ogg-b82b6a3770dc5ceb2868c9a26c8840b2.oggvorbisstr"]
+source_file="res://audio/se/cries/PATRAT.ogg"
+dest_files=["res://.godot/imported/PATRAT.ogg-f84f96b5edcc85ebee7a9909d649c03b.oggvorbisstr"]
 
 [params]
 

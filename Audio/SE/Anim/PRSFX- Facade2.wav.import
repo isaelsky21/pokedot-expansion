@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://7gr76irfgp0"
-path="res://.godot/imported/PRSFX- Facade2.wav-06e374752da32f703079fa0d2d8a5a64.sample"
+path="res://.godot/imported/PRSFX- Facade2.wav-6fdf02d704d3bf7a25415c6d45135492.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Facade2.wav"
-dest_files=["res://.godot/imported/PRSFX- Facade2.wav-06e374752da32f703079fa0d2d8a5a64.sample"]
+source_file="res://audio/se/anim/PRSFX- Facade2.wav"
+dest_files=["res://.godot/imported/PRSFX- Facade2.wav-6fdf02d704d3bf7a25415c6d45135492.sample"]
 
 [params]
 

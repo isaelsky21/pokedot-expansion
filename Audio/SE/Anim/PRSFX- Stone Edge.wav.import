@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cdsrejbfwwb8e"
-path="res://.godot/imported/PRSFX- Stone Edge.wav-b088483522b2fa7d0a26724e51332b1e.sample"
+path="res://.godot/imported/PRSFX- Stone Edge.wav-4cb6c6d6b07c6f176edecf731f6d01e8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Stone Edge.wav"
-dest_files=["res://.godot/imported/PRSFX- Stone Edge.wav-b088483522b2fa7d0a26724e51332b1e.sample"]
+source_file="res://audio/se/anim/PRSFX- Stone Edge.wav"
+dest_files=["res://.godot/imported/PRSFX- Stone Edge.wav-4cb6c6d6b07c6f176edecf731f6d01e8.sample"]
 
 [params]
 

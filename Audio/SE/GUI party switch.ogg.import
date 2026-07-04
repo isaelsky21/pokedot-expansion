@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://duwdmuywsa53f"
-path="res://.godot/imported/GUI party switch.ogg-ecf82524f6bed7f74379fd337b04229a.oggvorbisstr"
+path="res://.godot/imported/GUI party switch.ogg-9952d3a7e00079ae62edf53d7582812b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/GUI party switch.ogg"
-dest_files=["res://.godot/imported/GUI party switch.ogg-ecf82524f6bed7f74379fd337b04229a.oggvorbisstr"]
+source_file="res://audio/se/GUI party switch.ogg"
+dest_files=["res://.godot/imported/GUI party switch.ogg-9952d3a7e00079ae62edf53d7582812b.oggvorbisstr"]
 
 [params]
 

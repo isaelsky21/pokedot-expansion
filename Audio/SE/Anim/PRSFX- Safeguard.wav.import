@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dlhw8a3ipn5m6"
-path="res://.godot/imported/PRSFX- Safeguard.wav-831bf1150d515ad8a62e258462b37a18.sample"
+path="res://.godot/imported/PRSFX- Safeguard.wav-67999d262f2bc97a5ca662ec03c35102.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Safeguard.wav"
-dest_files=["res://.godot/imported/PRSFX- Safeguard.wav-831bf1150d515ad8a62e258462b37a18.sample"]
+source_file="res://audio/se/anim/PRSFX- Safeguard.wav"
+dest_files=["res://.godot/imported/PRSFX- Safeguard.wav-67999d262f2bc97a5ca662ec03c35102.sample"]
 
 [params]
 

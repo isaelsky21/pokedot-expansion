@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c8qmnys0dr1kv"
-path="res://.godot/imported/PRSFX- Misty Terrain.wav-c2f816b2e8e1a7b97c321b09f0ab5fe8.sample"
+path="res://.godot/imported/PRSFX- Misty Terrain.wav-154e9ca5d6cfaddc4fdc0292578ef7d7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Misty Terrain.wav"
-dest_files=["res://.godot/imported/PRSFX- Misty Terrain.wav-c2f816b2e8e1a7b97c321b09f0ab5fe8.sample"]
+source_file="res://audio/se/anim/PRSFX- Misty Terrain.wav"
+dest_files=["res://.godot/imported/PRSFX- Misty Terrain.wav-154e9ca5d6cfaddc4fdc0292578ef7d7.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bjb8vqwsajk0y"
-path="res://.godot/imported/INTELEON.ogg-6c655ede238609273eb3c7423e573853.oggvorbisstr"
+path="res://.godot/imported/INTELEON.ogg-dbae09620203a6e071d96ea6fcd83aef.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/INTELEON.ogg"
-dest_files=["res://.godot/imported/INTELEON.ogg-6c655ede238609273eb3c7423e573853.oggvorbisstr"]
+source_file="res://audio/se/cries/INTELEON.ogg"
+dest_files=["res://.godot/imported/INTELEON.ogg-dbae09620203a6e071d96ea6fcd83aef.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cr86d724lijwf"
-path="res://.godot/imported/PRSFX- Flame Burst.wav-7accea35b5b47110153ad6e3eb9f261c.sample"
+path="res://.godot/imported/PRSFX- Flame Burst.wav-a95d482f9da374f7231c0034f15f5aab.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Flame Burst.wav"
-dest_files=["res://.godot/imported/PRSFX- Flame Burst.wav-7accea35b5b47110153ad6e3eb9f261c.sample"]
+source_file="res://audio/se/anim/PRSFX- Flame Burst.wav"
+dest_files=["res://.godot/imported/PRSFX- Flame Burst.wav-a95d482f9da374f7231c0034f15f5aab.sample"]
 
 [params]
 

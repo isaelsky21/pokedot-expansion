@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cy2d6xhugtf2g"
-path="res://.godot/imported/TOUCANNON.ogg-b205c4b75f6047eab1689901a60ac6ba.oggvorbisstr"
+path="res://.godot/imported/TOUCANNON.ogg-c3fdcbf736543cfc12fc2c1aa63bbd07.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TOUCANNON.ogg"
-dest_files=["res://.godot/imported/TOUCANNON.ogg-b205c4b75f6047eab1689901a60ac6ba.oggvorbisstr"]
+source_file="res://audio/se/cries/TOUCANNON.ogg"
+dest_files=["res://.godot/imported/TOUCANNON.ogg-c3fdcbf736543cfc12fc2c1aa63bbd07.oggvorbisstr"]
 
 [params]
 

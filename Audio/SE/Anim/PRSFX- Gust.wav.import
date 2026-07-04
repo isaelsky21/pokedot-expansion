@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://outny7guydrg"
-path="res://.godot/imported/PRSFX- Gust.wav-f1785ef268b6d39c4e42fae00092b2f9.sample"
+path="res://.godot/imported/PRSFX- Gust.wav-6d597ed538fa84b452e4ecb671b89ae7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gust.wav"
-dest_files=["res://.godot/imported/PRSFX- Gust.wav-f1785ef268b6d39c4e42fae00092b2f9.sample"]
+source_file="res://audio/se/anim/PRSFX- Gust.wav"
+dest_files=["res://.godot/imported/PRSFX- Gust.wav-6d597ed538fa84b452e4ecb671b89ae7.sample"]
 
 [params]
 

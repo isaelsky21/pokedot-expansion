@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bt5h1fbw0dsbv"
-path="res://.godot/imported/DUGTRIO.ogg-8994d0f0c60b0447304b43abedf05eee.oggvorbisstr"
+path="res://.godot/imported/DUGTRIO.ogg-e845d2cd11e66eedcd1fbf1ac0e4d6b2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DUGTRIO.ogg"
-dest_files=["res://.godot/imported/DUGTRIO.ogg-8994d0f0c60b0447304b43abedf05eee.oggvorbisstr"]
+source_file="res://audio/se/cries/DUGTRIO.ogg"
+dest_files=["res://.godot/imported/DUGTRIO.ogg-e845d2cd11e66eedcd1fbf1ac0e4d6b2.oggvorbisstr"]
 
 [params]
 

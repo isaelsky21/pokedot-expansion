@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://clqno487l71mc"
-path="res://.godot/imported/Exclaim.ogg-4e723e52387d2786e58daf4df2d4b426.oggvorbisstr"
+path="res://.godot/imported/Exclaim.ogg-f128852e6748475d5fe4f9a7daa544e1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Exclaim.ogg"
-dest_files=["res://.godot/imported/Exclaim.ogg-4e723e52387d2786e58daf4df2d4b426.oggvorbisstr"]
+source_file="res://audio/se/Exclaim.ogg"
+dest_files=["res://.godot/imported/Exclaim.ogg-f128852e6748475d5fe4f9a7daa544e1.oggvorbisstr"]
 
 [params]
 

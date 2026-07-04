@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://q3tajd75b6ik"
-path="res://.godot/imported/POLIWHIRL.ogg-78fa0e5be25b482c142c64c48efff19c.oggvorbisstr"
+path="res://.godot/imported/POLIWHIRL.ogg-fa7d9bd04a4398efdd281bfcfe85ef32.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/POLIWHIRL.ogg"
-dest_files=["res://.godot/imported/POLIWHIRL.ogg-78fa0e5be25b482c142c64c48efff19c.oggvorbisstr"]
+source_file="res://audio/se/cries/POLIWHIRL.ogg"
+dest_files=["res://.godot/imported/POLIWHIRL.ogg-fa7d9bd04a4398efdd281bfcfe85ef32.oggvorbisstr"]
 
 [params]
 

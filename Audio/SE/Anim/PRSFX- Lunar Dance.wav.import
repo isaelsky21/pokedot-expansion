@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://7bdmwgwicxev"
-path="res://.godot/imported/PRSFX- Lunar Dance.wav-b93a2de878913c211c6f8ce5c3a33edc.sample"
+path="res://.godot/imported/PRSFX- Lunar Dance.wav-16c690d6cd6fabfe41c1e053b73f6239.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Lunar Dance.wav"
-dest_files=["res://.godot/imported/PRSFX- Lunar Dance.wav-b93a2de878913c211c6f8ce5c3a33edc.sample"]
+source_file="res://audio/se/anim/PRSFX- Lunar Dance.wav"
+dest_files=["res://.godot/imported/PRSFX- Lunar Dance.wav-16c690d6cd6fabfe41c1e053b73f6239.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c1qq58cbndbe6"
-path="res://.godot/imported/PRSFX- Double Slap.wav-06f9c938c99c8ca305976cf22ba499dc.sample"
+path="res://.godot/imported/PRSFX- Double Slap.wav-980ba91ad6b23f23584af2337864d723.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Double Slap.wav"
-dest_files=["res://.godot/imported/PRSFX- Double Slap.wav-06f9c938c99c8ca305976cf22ba499dc.sample"]
+source_file="res://audio/se/anim/PRSFX- Double Slap.wav"
+dest_files=["res://.godot/imported/PRSFX- Double Slap.wav-980ba91ad6b23f23584af2337864d723.sample"]
 
 [params]
 

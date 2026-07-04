@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://db66osryqxpea"
-path="res://.godot/imported/MACHOKE.ogg-932554a2602d78705c83e55bda1c1ca2.oggvorbisstr"
+path="res://.godot/imported/MACHOKE.ogg-eebc1cde4b638b917cb9439225980114.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MACHOKE.ogg"
-dest_files=["res://.godot/imported/MACHOKE.ogg-932554a2602d78705c83e55bda1c1ca2.oggvorbisstr"]
+source_file="res://audio/se/cries/MACHOKE.ogg"
+dest_files=["res://.godot/imported/MACHOKE.ogg-eebc1cde4b638b917cb9439225980114.oggvorbisstr"]
 
 [params]
 

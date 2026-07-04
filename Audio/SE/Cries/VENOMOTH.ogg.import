@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://brxa0dclgu83s"
-path="res://.godot/imported/VENOMOTH.ogg-89872c5b5a6b3e5c23256804dcaffc33.oggvorbisstr"
+path="res://.godot/imported/VENOMOTH.ogg-2f7eb2ca0c38261194772c09fccbd83d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VENOMOTH.ogg"
-dest_files=["res://.godot/imported/VENOMOTH.ogg-89872c5b5a6b3e5c23256804dcaffc33.oggvorbisstr"]
+source_file="res://audio/se/cries/VENOMOTH.ogg"
+dest_files=["res://.godot/imported/VENOMOTH.ogg-2f7eb2ca0c38261194772c09fccbd83d.oggvorbisstr"]
 
 [params]
 

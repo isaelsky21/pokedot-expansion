@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bv7kcis1g3yu2"
-path="res://.godot/imported/PRSFX- Ice Burn4.wav-41adc131fbe6c5b4d7cfb3f9e141af1e.sample"
+path="res://.godot/imported/PRSFX- Ice Burn4.wav-2348bd2117ac8df495c6d3a6ad581f7b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ice Burn4.wav"
-dest_files=["res://.godot/imported/PRSFX- Ice Burn4.wav-41adc131fbe6c5b4d7cfb3f9e141af1e.sample"]
+source_file="res://audio/se/anim/PRSFX- Ice Burn4.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Burn4.wav-2348bd2117ac8df495c6d3a6ad581f7b.sample"]
 
 [params]
 

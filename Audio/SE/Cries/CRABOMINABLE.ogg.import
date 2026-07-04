@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bcxlw2hhlytr6"
-path="res://.godot/imported/CRABOMINABLE.ogg-57a0a29cbdf1538208d84553c23482f8.oggvorbisstr"
+path="res://.godot/imported/CRABOMINABLE.ogg-c31eeddaee7403cb75741ff44d905e64.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CRABOMINABLE.ogg"
-dest_files=["res://.godot/imported/CRABOMINABLE.ogg-57a0a29cbdf1538208d84553c23482f8.oggvorbisstr"]
+source_file="res://audio/se/cries/CRABOMINABLE.ogg"
+dest_files=["res://.godot/imported/CRABOMINABLE.ogg-c31eeddaee7403cb75741ff44d905e64.oggvorbisstr"]
 
 [params]
 

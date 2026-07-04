@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b4y7a1v7w1v2r"
-path="res://.godot/imported/NIDOQUEEN.ogg-fd63afe0f4c6a2b020ca15f89e0903d2.oggvorbisstr"
+path="res://.godot/imported/NIDOQUEEN.ogg-bd26765cf77308223a2abe5f3dee9cd0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NIDOQUEEN.ogg"
-dest_files=["res://.godot/imported/NIDOQUEEN.ogg-fd63afe0f4c6a2b020ca15f89e0903d2.oggvorbisstr"]
+source_file="res://audio/se/cries/NIDOQUEEN.ogg"
+dest_files=["res://.godot/imported/NIDOQUEEN.ogg-bd26765cf77308223a2abe5f3dee9cd0.oggvorbisstr"]
 
 [params]
 

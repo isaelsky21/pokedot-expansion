@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://2q2v5fma8bfw"
-path="res://.godot/imported/SHAYMIN.ogg-81c23f4a4dca8eb13afffeaec14cbbfd.oggvorbisstr"
+path="res://.godot/imported/SHAYMIN.ogg-fec48367de4bb124824a93c9c3521a17.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHAYMIN.ogg"
-dest_files=["res://.godot/imported/SHAYMIN.ogg-81c23f4a4dca8eb13afffeaec14cbbfd.oggvorbisstr"]
+source_file="res://audio/se/cries/SHAYMIN.ogg"
+dest_files=["res://.godot/imported/SHAYMIN.ogg-fec48367de4bb124824a93c9c3521a17.oggvorbisstr"]
 
 [params]
 

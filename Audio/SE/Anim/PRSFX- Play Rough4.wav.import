@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://o6obl1xw6aot"
-path="res://.godot/imported/PRSFX- Play Rough4.wav-04c88b6f58cc3cdde9014a88e87ff286.sample"
+path="res://.godot/imported/PRSFX- Play Rough4.wav-72e7e969424b7dd2504a783876dce236.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Play Rough4.wav"
-dest_files=["res://.godot/imported/PRSFX- Play Rough4.wav-04c88b6f58cc3cdde9014a88e87ff286.sample"]
+source_file="res://audio/se/anim/PRSFX- Play Rough4.wav"
+dest_files=["res://.godot/imported/PRSFX- Play Rough4.wav-72e7e969424b7dd2504a783876dce236.sample"]
 
 [params]
 

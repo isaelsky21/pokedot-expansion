@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://brjbyqb33yh2f"
-path="res://.godot/imported/SUNKERN.ogg-e26e85271c6d552668e16a538a2688a9.oggvorbisstr"
+path="res://.godot/imported/SUNKERN.ogg-d1a6faf3cd95eac74f757ba841ea5cf9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SUNKERN.ogg"
-dest_files=["res://.godot/imported/SUNKERN.ogg-e26e85271c6d552668e16a538a2688a9.oggvorbisstr"]
+source_file="res://audio/se/cries/SUNKERN.ogg"
+dest_files=["res://.godot/imported/SUNKERN.ogg-d1a6faf3cd95eac74f757ba841ea5cf9.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://p88hohogg8oy"
-path="res://.godot/imported/Door exit.ogg-b0e36117b86df096db547d437541ee3e.oggvorbisstr"
+path="res://.godot/imported/Door exit.ogg-de09cbbb0d87973f06d31bc5073786ed.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Door exit.ogg"
-dest_files=["res://.godot/imported/Door exit.ogg-b0e36117b86df096db547d437541ee3e.oggvorbisstr"]
+source_file="res://audio/se/Door exit.ogg"
+dest_files=["res://.godot/imported/Door exit.ogg-de09cbbb0d87973f06d31bc5073786ed.oggvorbisstr"]
 
 [params]
 

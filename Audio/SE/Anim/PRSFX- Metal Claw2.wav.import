@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bawpbjfqmc5o2"
-path="res://.godot/imported/PRSFX- Metal Claw2.wav-c257a5096c72fbcdd4ed456d609a6a6f.sample"
+path="res://.godot/imported/PRSFX- Metal Claw2.wav-f8aa75585f8a8802f0230a53f2712cb1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Metal Claw2.wav"
-dest_files=["res://.godot/imported/PRSFX- Metal Claw2.wav-c257a5096c72fbcdd4ed456d609a6a6f.sample"]
+source_file="res://audio/se/anim/PRSFX- Metal Claw2.wav"
+dest_files=["res://.godot/imported/PRSFX- Metal Claw2.wav-f8aa75585f8a8802f0230a53f2712cb1.sample"]
 
 [params]
 

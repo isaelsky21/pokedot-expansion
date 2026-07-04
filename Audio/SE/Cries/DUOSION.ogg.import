@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctarg58ac3qfb"
-path="res://.godot/imported/DUOSION.ogg-178b3bb5afe25038abd05d1df7f6aac9.oggvorbisstr"
+path="res://.godot/imported/DUOSION.ogg-62ef6f50a251713c257cd60ab738f365.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DUOSION.ogg"
-dest_files=["res://.godot/imported/DUOSION.ogg-178b3bb5afe25038abd05d1df7f6aac9.oggvorbisstr"]
+source_file="res://audio/se/cries/DUOSION.ogg"
+dest_files=["res://.godot/imported/DUOSION.ogg-62ef6f50a251713c257cd60ab738f365.oggvorbisstr"]
 
 [params]
 

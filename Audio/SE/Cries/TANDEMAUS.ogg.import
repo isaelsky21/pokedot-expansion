@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vtbf80oro7h1"
-path="res://.godot/imported/TANDEMAUS.ogg-b02dbfe46c1a09bc9a667f80920a3348.oggvorbisstr"
+path="res://.godot/imported/TANDEMAUS.ogg-4a631a85d6b8ef18e5cef338af326a4e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TANDEMAUS.ogg"
-dest_files=["res://.godot/imported/TANDEMAUS.ogg-b02dbfe46c1a09bc9a667f80920a3348.oggvorbisstr"]
+source_file="res://audio/se/cries/TANDEMAUS.ogg"
+dest_files=["res://.godot/imported/TANDEMAUS.ogg-4a631a85d6b8ef18e5cef338af326a4e.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://y3fb37tfulrg"
-path="res://.godot/imported/NAGANADEL.ogg-16526b0db6db97e18c7c9eabe2823f3c.oggvorbisstr"
+path="res://.godot/imported/NAGANADEL.ogg-bdfdc310ff8e042139d680c2df02710b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NAGANADEL.ogg"
-dest_files=["res://.godot/imported/NAGANADEL.ogg-16526b0db6db97e18c7c9eabe2823f3c.oggvorbisstr"]
+source_file="res://audio/se/cries/NAGANADEL.ogg"
+dest_files=["res://.godot/imported/NAGANADEL.ogg-bdfdc310ff8e042139d680c2df02710b.oggvorbisstr"]
 
 [params]
 

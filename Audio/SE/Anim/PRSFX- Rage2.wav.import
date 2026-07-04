@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://xh1tpibbf4oc"
-path="res://.godot/imported/PRSFX- Rage2.wav-a9deee57d3dfaad358d92d7f8d67d8a3.sample"
+path="res://.godot/imported/PRSFX- Rage2.wav-af53263693bda15d83bb4b6bb87214ef.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rage2.wav"
-dest_files=["res://.godot/imported/PRSFX- Rage2.wav-a9deee57d3dfaad358d92d7f8d67d8a3.sample"]
+source_file="res://audio/se/anim/PRSFX- Rage2.wav"
+dest_files=["res://.godot/imported/PRSFX- Rage2.wav-af53263693bda15d83bb4b6bb87214ef.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cr42mwgr8vwhk"
-path="res://.godot/imported/Fury Swipes.ogg-c0bc0799dc44ddc6e91214da64f9ebd3.oggvorbisstr"
+path="res://.godot/imported/Fury Swipes.ogg-e04898c217ae0e7479090d28e39ab87e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Fury Swipes.ogg"
-dest_files=["res://.godot/imported/Fury Swipes.ogg-c0bc0799dc44ddc6e91214da64f9ebd3.oggvorbisstr"]
+source_file="res://audio/se/anim/Fury Swipes.ogg"
+dest_files=["res://.godot/imported/Fury Swipes.ogg-e04898c217ae0e7479090d28e39ab87e.oggvorbisstr"]
 
 [params]
 

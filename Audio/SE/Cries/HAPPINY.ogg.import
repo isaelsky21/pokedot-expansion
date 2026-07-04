@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccfb7otenrnot"
-path="res://.godot/imported/HAPPINY.ogg-551a46d1c5bd9d674603b76e3e214fa6.oggvorbisstr"
+path="res://.godot/imported/HAPPINY.ogg-d134b5421b7c99dde2b6b05201367c9e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HAPPINY.ogg"
-dest_files=["res://.godot/imported/HAPPINY.ogg-551a46d1c5bd9d674603b76e3e214fa6.oggvorbisstr"]
+source_file="res://audio/se/cries/HAPPINY.ogg"
+dest_files=["res://.godot/imported/HAPPINY.ogg-d134b5421b7c99dde2b6b05201367c9e.oggvorbisstr"]
 
 [params]
 

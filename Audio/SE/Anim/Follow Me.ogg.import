@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://jjfih2vg1pl2"
-path="res://.godot/imported/Follow Me.ogg-86d0153fcf41a174f29b5cd4e133f720.oggvorbisstr"
+path="res://.godot/imported/Follow Me.ogg-2d8c240329a9e5abfadc67ab8f00a2ba.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Follow Me.ogg"
-dest_files=["res://.godot/imported/Follow Me.ogg-86d0153fcf41a174f29b5cd4e133f720.oggvorbisstr"]
+source_file="res://audio/se/anim/Follow Me.ogg"
+dest_files=["res://.godot/imported/Follow Me.ogg-2d8c240329a9e5abfadc67ab8f00a2ba.oggvorbisstr"]
 
 [params]
 

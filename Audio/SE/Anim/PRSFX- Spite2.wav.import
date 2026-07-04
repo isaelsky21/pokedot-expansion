@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://vdb6tvomyqrw"
-path="res://.godot/imported/PRSFX- Spite2.wav-cf461b1d8e4f4c408ef625f8c9efed9e.sample"
+path="res://.godot/imported/PRSFX- Spite2.wav-cf01f956fe708bb342c1fa9d52bf3e91.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spite2.wav"
-dest_files=["res://.godot/imported/PRSFX- Spite2.wav-cf461b1d8e4f4c408ef625f8c9efed9e.sample"]
+source_file="res://audio/se/anim/PRSFX- Spite2.wav"
+dest_files=["res://.godot/imported/PRSFX- Spite2.wav-cf01f956fe708bb342c1fa9d52bf3e91.sample"]
 
 [params]
 

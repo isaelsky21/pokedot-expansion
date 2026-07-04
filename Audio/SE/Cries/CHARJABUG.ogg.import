@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://721poxm1kvm5"
-path="res://.godot/imported/CHARJABUG.ogg-4b2adeea6c3b54e12ce60cccb20ca0fb.oggvorbisstr"
+path="res://.godot/imported/CHARJABUG.ogg-6cc9e5949bd42102eb602e3039be0282.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHARJABUG.ogg"
-dest_files=["res://.godot/imported/CHARJABUG.ogg-4b2adeea6c3b54e12ce60cccb20ca0fb.oggvorbisstr"]
+source_file="res://audio/se/cries/CHARJABUG.ogg"
+dest_files=["res://.godot/imported/CHARJABUG.ogg-6cc9e5949bd42102eb602e3039be0282.oggvorbisstr"]
 
 [params]
 

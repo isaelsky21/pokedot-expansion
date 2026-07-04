@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://baill0tpijxrx"
-path="res://.godot/imported/PRSFX- Perish Song.wav-afda0b58dcc55eb4fe5fb463f23810ba.sample"
+path="res://.godot/imported/PRSFX- Perish Song.wav-f1fc046ba4e1c9b1532de50337a0b8e4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Perish Song.wav"
-dest_files=["res://.godot/imported/PRSFX- Perish Song.wav-afda0b58dcc55eb4fe5fb463f23810ba.sample"]
+source_file="res://audio/se/anim/PRSFX- Perish Song.wav"
+dest_files=["res://.godot/imported/PRSFX- Perish Song.wav-f1fc046ba4e1c9b1532de50337a0b8e4.sample"]
 
 [params]
 

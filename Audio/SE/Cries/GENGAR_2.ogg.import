@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cko6ylq7tposf"
-path="res://.godot/imported/GENGAR_2.ogg-d3238494107873fc891d09e925525c8b.oggvorbisstr"
+path="res://.godot/imported/GENGAR_2.ogg-984e828bd623435787e102356fa5d623.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GENGAR_2.ogg"
-dest_files=["res://.godot/imported/GENGAR_2.ogg-d3238494107873fc891d09e925525c8b.oggvorbisstr"]
+source_file="res://audio/se/cries/GENGAR_2.ogg"
+dest_files=["res://.godot/imported/GENGAR_2.ogg-984e828bd623435787e102356fa5d623.oggvorbisstr"]
 
 [params]
 

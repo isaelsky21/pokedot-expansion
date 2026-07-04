@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dnwp5ajebjc4w"
-path="res://.godot/imported/PRSFX- Mystical Fire1.wav-81c0acc9f126c0f01ae0263b48626aa2.sample"
+path="res://.godot/imported/PRSFX- Mystical Fire1.wav-eabb7bce6f31b78921c8216933d7d4eb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mystical Fire1.wav"
-dest_files=["res://.godot/imported/PRSFX- Mystical Fire1.wav-81c0acc9f126c0f01ae0263b48626aa2.sample"]
+source_file="res://audio/se/anim/PRSFX- Mystical Fire1.wav"
+dest_files=["res://.godot/imported/PRSFX- Mystical Fire1.wav-eabb7bce6f31b78921c8216933d7d4eb.sample"]
 
 [params]
 

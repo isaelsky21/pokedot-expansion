@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://j4sjkyuivb2"
-path="res://.godot/imported/SILCOON.ogg-3c1f7fc00631b249a9162f475be28c72.oggvorbisstr"
+path="res://.godot/imported/SILCOON.ogg-4e31894d6920c3017d898a620f3d19a4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SILCOON.ogg"
-dest_files=["res://.godot/imported/SILCOON.ogg-3c1f7fc00631b249a9162f475be28c72.oggvorbisstr"]
+source_file="res://audio/se/cries/SILCOON.ogg"
+dest_files=["res://.godot/imported/SILCOON.ogg-4e31894d6920c3017d898a620f3d19a4.oggvorbisstr"]
 
 [params]
 

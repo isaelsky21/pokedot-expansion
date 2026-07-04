@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bdn4hpyfff6j8"
-path="res://.godot/imported/SNEASLER.ogg-7a49237ee90e75be145fbc3ed81e5709.oggvorbisstr"
+path="res://.godot/imported/SNEASLER.ogg-e211d0173554ed3c2c12231e36ff3ac6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SNEASLER.ogg"
-dest_files=["res://.godot/imported/SNEASLER.ogg-7a49237ee90e75be145fbc3ed81e5709.oggvorbisstr"]
+source_file="res://audio/se/cries/SNEASLER.ogg"
+dest_files=["res://.godot/imported/SNEASLER.ogg-e211d0173554ed3c2c12231e36ff3ac6.oggvorbisstr"]
 
 [params]
 

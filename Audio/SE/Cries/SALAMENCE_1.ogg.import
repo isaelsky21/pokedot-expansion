@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ble6on5w2h541"
-path="res://.godot/imported/SALAMENCE_1.ogg-b1e054197dc57f785b919e2d860a7e06.oggvorbisstr"
+path="res://.godot/imported/SALAMENCE_1.ogg-acc4b00ad605c61d8210d5b72e0967cc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SALAMENCE_1.ogg"
-dest_files=["res://.godot/imported/SALAMENCE_1.ogg-b1e054197dc57f785b919e2d860a7e06.oggvorbisstr"]
+source_file="res://audio/se/cries/SALAMENCE_1.ogg"
+dest_files=["res://.godot/imported/SALAMENCE_1.ogg-acc4b00ad605c61d8210d5b72e0967cc.oggvorbisstr"]
 
 [params]
 

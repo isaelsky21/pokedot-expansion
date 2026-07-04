@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b7v2it0fph76l"
-path="res://.godot/imported/PRSFX- Endure.wav-f3009cf7800d573f86c7bf520fe1f776.sample"
+path="res://.godot/imported/PRSFX- Endure.wav-a6c9fe94599b434e64e4a5641b4ffbb1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Endure.wav"
-dest_files=["res://.godot/imported/PRSFX- Endure.wav-f3009cf7800d573f86c7bf520fe1f776.sample"]
+source_file="res://audio/se/anim/PRSFX- Endure.wav"
+dest_files=["res://.godot/imported/PRSFX- Endure.wav-a6c9fe94599b434e64e4a5641b4ffbb1.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d4dim17bkjeiy"
-path="res://.godot/imported/PRSFX- Leech Seed2.wav-7641c8de926b4be7ba9ddbec0228c5e4.sample"
+path="res://.godot/imported/PRSFX- Leech Seed2.wav-6d9466e6944147be0b3a5fa9c403150c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Leech Seed2.wav"
-dest_files=["res://.godot/imported/PRSFX- Leech Seed2.wav-7641c8de926b4be7ba9ddbec0228c5e4.sample"]
+source_file="res://audio/se/anim/PRSFX- Leech Seed2.wav"
+dest_files=["res://.godot/imported/PRSFX- Leech Seed2.wav-6d9466e6944147be0b3a5fa9c403150c.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dlnjgxfh41d8d"
-path="res://.godot/imported/PRSFX- Thousand Arrows1.wav-6f4490cb6a5eccec16e1aee0d2ab2eb5.sample"
+path="res://.godot/imported/PRSFX- Thousand Arrows1.wav-b0defd85573a4d23e7ece93163bdb494.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thousand Arrows1.wav"
-dest_files=["res://.godot/imported/PRSFX- Thousand Arrows1.wav-6f4490cb6a5eccec16e1aee0d2ab2eb5.sample"]
+source_file="res://audio/se/anim/PRSFX- Thousand Arrows1.wav"
+dest_files=["res://.godot/imported/PRSFX- Thousand Arrows1.wav-b0defd85573a4d23e7ece93163bdb494.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dwwsnbu8xbcma"
-path="res://.godot/imported/PRSFX- Light Screen.wav-a32b38f04ad2d0fc0f48df83a568487b.sample"
+path="res://.godot/imported/PRSFX- Light Screen.wav-815d6da6758f200bdaf6ab86ba8a908f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Light Screen.wav"
-dest_files=["res://.godot/imported/PRSFX- Light Screen.wav-a32b38f04ad2d0fc0f48df83a568487b.sample"]
+source_file="res://audio/se/anim/PRSFX- Light Screen.wav"
+dest_files=["res://.godot/imported/PRSFX- Light Screen.wav-815d6da6758f200bdaf6ab86ba8a908f.sample"]
 
 [params]
 

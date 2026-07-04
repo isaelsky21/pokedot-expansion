@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://r4wsfb7d1rw0"
-path="res://.godot/imported/PRSFX- Fiery Dance1.wav-34ff11d34c1fb6ae2587ad4b3c4dcf35.sample"
+path="res://.godot/imported/PRSFX- Fiery Dance1.wav-8e2a6d8823fd6d5e6a5dbf262da22265.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fiery Dance1.wav"
-dest_files=["res://.godot/imported/PRSFX- Fiery Dance1.wav-34ff11d34c1fb6ae2587ad4b3c4dcf35.sample"]
+source_file="res://audio/se/anim/PRSFX- Fiery Dance1.wav"
+dest_files=["res://.godot/imported/PRSFX- Fiery Dance1.wav-8e2a6d8823fd6d5e6a5dbf262da22265.sample"]
 
 [params]
 

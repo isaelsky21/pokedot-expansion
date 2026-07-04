@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cgijsnn277jb4"
-path="res://.godot/imported/PRSFX- Hypnosis.wav-773873d882f513dc2ef5701f0051df61.sample"
+path="res://.godot/imported/PRSFX- Hypnosis.wav-bf58fa6996894c11fa006c28da2da3e1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hypnosis.wav"
-dest_files=["res://.godot/imported/PRSFX- Hypnosis.wav-773873d882f513dc2ef5701f0051df61.sample"]
+source_file="res://audio/se/anim/PRSFX- Hypnosis.wav"
+dest_files=["res://.godot/imported/PRSFX- Hypnosis.wav-bf58fa6996894c11fa006c28da2da3e1.sample"]
 
 [params]
 

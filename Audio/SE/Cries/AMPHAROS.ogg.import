@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cms1wdd10qp0s"
-path="res://.godot/imported/AMPHAROS.ogg-1c524c047e6950189a64be5a3dbee57f.oggvorbisstr"
+path="res://.godot/imported/AMPHAROS.ogg-88ffc82097452bc229eab8c467b59c6d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AMPHAROS.ogg"
-dest_files=["res://.godot/imported/AMPHAROS.ogg-1c524c047e6950189a64be5a3dbee57f.oggvorbisstr"]
+source_file="res://audio/se/cries/AMPHAROS.ogg"
+dest_files=["res://.godot/imported/AMPHAROS.ogg-88ffc82097452bc229eab8c467b59c6d.oggvorbisstr"]
 
 [params]
 

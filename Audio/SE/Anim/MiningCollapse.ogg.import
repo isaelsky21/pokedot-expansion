@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bxs2nh4ul5noj"
-path="res://.godot/imported/MiningCollapse.ogg-44513d2b9c98461a3c4d0cf9a8b670fe.oggvorbisstr"
+path="res://.godot/imported/MiningCollapse.ogg-2096134126f10589f5e65a8d40812efd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/MiningCollapse.ogg"
-dest_files=["res://.godot/imported/MiningCollapse.ogg-44513d2b9c98461a3c4d0cf9a8b670fe.oggvorbisstr"]
+source_file="res://audio/se/anim/MiningCollapse.ogg"
+dest_files=["res://.godot/imported/MiningCollapse.ogg-2096134126f10589f5e65a8d40812efd.oggvorbisstr"]
 
 [params]
 

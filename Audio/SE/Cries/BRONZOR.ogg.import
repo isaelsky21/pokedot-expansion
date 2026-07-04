@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://olly8767tii3"
-path="res://.godot/imported/BRONZOR.ogg-51325e6b8a8463b3e1f26c4b6a595fda.oggvorbisstr"
+path="res://.godot/imported/BRONZOR.ogg-e35839eb5e42c83a0930b55cce6d49c8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BRONZOR.ogg"
-dest_files=["res://.godot/imported/BRONZOR.ogg-51325e6b8a8463b3e1f26c4b6a595fda.oggvorbisstr"]
+source_file="res://audio/se/cries/BRONZOR.ogg"
+dest_files=["res://.godot/imported/BRONZOR.ogg-e35839eb5e42c83a0930b55cce6d49c8.oggvorbisstr"]
 
 [params]
 

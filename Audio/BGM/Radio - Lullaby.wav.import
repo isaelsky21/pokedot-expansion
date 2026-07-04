@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://3isvngdxpap2"
-path="res://.godot/imported/Radio - Lullaby.wav-172b81d935ec476d3a31740152ddfc8a.sample"
+path="res://.godot/imported/Radio - Lullaby.wav-d21dd59cdbabde9004a9fbdf27d31d2a.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Radio - Lullaby.wav"
-dest_files=["res://.godot/imported/Radio - Lullaby.wav-172b81d935ec476d3a31740152ddfc8a.sample"]
+source_file="res://audio/bgm/Radio - Lullaby.wav"
+dest_files=["res://.godot/imported/Radio - Lullaby.wav-d21dd59cdbabde9004a9fbdf27d31d2a.sample"]
 
 [params]
 

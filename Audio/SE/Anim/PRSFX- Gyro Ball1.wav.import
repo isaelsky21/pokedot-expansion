@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cgdym8khbof1y"
-path="res://.godot/imported/PRSFX- Gyro Ball1.wav-d152de17e9e2a69e9bddbc5889e3ba90.sample"
+path="res://.godot/imported/PRSFX- Gyro Ball1.wav-dfde1e999bf6fc96d34d5379d254b296.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gyro Ball1.wav"
-dest_files=["res://.godot/imported/PRSFX- Gyro Ball1.wav-d152de17e9e2a69e9bddbc5889e3ba90.sample"]
+source_file="res://audio/se/anim/PRSFX- Gyro Ball1.wav"
+dest_files=["res://.godot/imported/PRSFX- Gyro Ball1.wav-dfde1e999bf6fc96d34d5379d254b296.sample"]
 
 [params]
 

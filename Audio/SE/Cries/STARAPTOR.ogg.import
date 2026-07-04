@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6c3q68x8kpys"
-path="res://.godot/imported/STARAPTOR.ogg-c4f63e8adbf12d634a3ee5c844272b8e.oggvorbisstr"
+path="res://.godot/imported/STARAPTOR.ogg-03a5d07f2e8fc694966576414c8ee31c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/STARAPTOR.ogg"
-dest_files=["res://.godot/imported/STARAPTOR.ogg-c4f63e8adbf12d634a3ee5c844272b8e.oggvorbisstr"]
+source_file="res://audio/se/cries/STARAPTOR.ogg"
+dest_files=["res://.godot/imported/STARAPTOR.ogg-03a5d07f2e8fc694966576414c8ee31c.oggvorbisstr"]
 
 [params]
 

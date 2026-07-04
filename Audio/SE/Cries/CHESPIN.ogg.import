@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://8xc0y3kgampe"
-path="res://.godot/imported/CHESPIN.ogg-6bb788b1a6e96175b33aa6a010316d5c.oggvorbisstr"
+path="res://.godot/imported/CHESPIN.ogg-16dde66e47d6216364a04521b29cf741.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHESPIN.ogg"
-dest_files=["res://.godot/imported/CHESPIN.ogg-6bb788b1a6e96175b33aa6a010316d5c.oggvorbisstr"]
+source_file="res://audio/se/cries/CHESPIN.ogg"
+dest_files=["res://.godot/imported/CHESPIN.ogg-16dde66e47d6216364a04521b29cf741.oggvorbisstr"]
 
 [params]
 

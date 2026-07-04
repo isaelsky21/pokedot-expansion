@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ene58bjt6he8"
-path="res://.godot/imported/GROTLE.ogg-3dd87b1a0b4d0b391fb3ca702bd29a10.oggvorbisstr"
+path="res://.godot/imported/GROTLE.ogg-7ea2233f7f2b6063c5ee3029a8d2f169.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GROTLE.ogg"
-dest_files=["res://.godot/imported/GROTLE.ogg-3dd87b1a0b4d0b391fb3ca702bd29a10.oggvorbisstr"]
+source_file="res://audio/se/cries/GROTLE.ogg"
+dest_files=["res://.godot/imported/GROTLE.ogg-7ea2233f7f2b6063c5ee3029a8d2f169.oggvorbisstr"]
 
 [params]
 

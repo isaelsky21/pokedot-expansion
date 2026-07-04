@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://biquvfq4d4dba"
-path="res://.godot/imported/PRSFX- Psych Up.wav-b5a1dfaa09c9bf3a7afc57c7a744e6d8.sample"
+path="res://.godot/imported/PRSFX- Psych Up.wav-378a5a5a921b1c64500a7a60409294f7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psych Up.wav"
-dest_files=["res://.godot/imported/PRSFX- Psych Up.wav-b5a1dfaa09c9bf3a7afc57c7a744e6d8.sample"]
+source_file="res://audio/se/anim/PRSFX- Psych Up.wav"
+dest_files=["res://.godot/imported/PRSFX- Psych Up.wav-378a5a5a921b1c64500a7a60409294f7.sample"]
 
 [params]
 

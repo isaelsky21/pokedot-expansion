@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bay5d8c7p7rdc"
-path="res://.godot/imported/GUI sel cancel.ogg-a247b7acfa4d2acc7f09ab5ab1f18cbe.oggvorbisstr"
+path="res://.godot/imported/GUI sel cancel.ogg-90ea578dff1db300840e3b1b336e5180.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/GUI sel cancel.ogg"
-dest_files=["res://.godot/imported/GUI sel cancel.ogg-a247b7acfa4d2acc7f09ab5ab1f18cbe.oggvorbisstr"]
+source_file="res://audio/se/GUI sel cancel.ogg"
+dest_files=["res://.godot/imported/GUI sel cancel.ogg-90ea578dff1db300840e3b1b336e5180.oggvorbisstr"]
 
 [params]
 

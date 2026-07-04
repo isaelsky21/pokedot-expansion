@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://nk0henwv81au"
-path="res://.godot/imported/PRSFX- Sparkling Aria2.wav-1fc6cdda1ca8f7d1c70d4e955ebdbb64.sample"
+path="res://.godot/imported/PRSFX- Sparkling Aria2.wav-05c0902f78136d8b0b84623ed8722be9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sparkling Aria2.wav"
-dest_files=["res://.godot/imported/PRSFX- Sparkling Aria2.wav-1fc6cdda1ca8f7d1c70d4e955ebdbb64.sample"]
+source_file="res://audio/se/anim/PRSFX- Sparkling Aria2.wav"
+dest_files=["res://.godot/imported/PRSFX- Sparkling Aria2.wav-05c0902f78136d8b0b84623ed8722be9.sample"]
 
 [params]
 

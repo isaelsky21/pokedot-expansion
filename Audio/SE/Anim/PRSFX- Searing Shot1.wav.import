@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://osgouhfgyy78"
-path="res://.godot/imported/PRSFX- Searing Shot1.wav-e7f36ee357b6edc9ee2233862b9e6c29.sample"
+path="res://.godot/imported/PRSFX- Searing Shot1.wav-9899411466f7e66a0819feea8b0641f9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Searing Shot1.wav"
-dest_files=["res://.godot/imported/PRSFX- Searing Shot1.wav-e7f36ee357b6edc9ee2233862b9e6c29.sample"]
+source_file="res://audio/se/anim/PRSFX- Searing Shot1.wav"
+dest_files=["res://.godot/imported/PRSFX- Searing Shot1.wav-9899411466f7e66a0819feea8b0641f9.sample"]
 
 [params]
 

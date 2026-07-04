@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://752l4b1r3rn4"
-path="res://.godot/imported/BRAMBLIN.ogg-5797f41ca7f974a7f573e913d97c8082.oggvorbisstr"
+path="res://.godot/imported/BRAMBLIN.ogg-b5cdb5b4a18a39434c2b551679675270.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BRAMBLIN.ogg"
-dest_files=["res://.godot/imported/BRAMBLIN.ogg-5797f41ca7f974a7f573e913d97c8082.oggvorbisstr"]
+source_file="res://audio/se/cries/BRAMBLIN.ogg"
+dest_files=["res://.godot/imported/BRAMBLIN.ogg-b5cdb5b4a18a39434c2b551679675270.oggvorbisstr"]
 
 [params]
 

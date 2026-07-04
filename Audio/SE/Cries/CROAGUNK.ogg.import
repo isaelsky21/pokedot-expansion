@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dobj8xewxy5lk"
-path="res://.godot/imported/CROAGUNK.ogg-8519badc44b8a5279d63b30d0eb64f90.oggvorbisstr"
+path="res://.godot/imported/CROAGUNK.ogg-9370e09416761bb7c81315a37d3ff765.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CROAGUNK.ogg"
-dest_files=["res://.godot/imported/CROAGUNK.ogg-8519badc44b8a5279d63b30d0eb64f90.oggvorbisstr"]
+source_file="res://audio/se/cries/CROAGUNK.ogg"
+dest_files=["res://.godot/imported/CROAGUNK.ogg-9370e09416761bb7c81315a37d3ff765.oggvorbisstr"]
 
 [params]
 

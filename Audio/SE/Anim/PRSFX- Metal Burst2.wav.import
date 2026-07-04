@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://1nlvy4pl4bcq"
-path="res://.godot/imported/PRSFX- Metal Burst2.wav-8d0f11f1ed8fbd33c063ab60d26e9ae5.sample"
+path="res://.godot/imported/PRSFX- Metal Burst2.wav-b9e463d539f468c8f833e9fa4586672e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Metal Burst2.wav"
-dest_files=["res://.godot/imported/PRSFX- Metal Burst2.wav-8d0f11f1ed8fbd33c063ab60d26e9ae5.sample"]
+source_file="res://audio/se/anim/PRSFX- Metal Burst2.wav"
+dest_files=["res://.godot/imported/PRSFX- Metal Burst2.wav-b9e463d539f468c8f833e9fa4586672e.sample"]
 
 [params]
 

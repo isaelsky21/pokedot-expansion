@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b0w561xd2nn4b"
-path="res://.godot/imported/Triple Triad.wav-d0af1babf9437fd2fc22fdc9f8301c85.sample"
+path="res://.godot/imported/Triple Triad.wav-fa10f9b27835efc0c2d50e7e020cab55.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Triple Triad.wav"
-dest_files=["res://.godot/imported/Triple Triad.wav-d0af1babf9437fd2fc22fdc9f8301c85.sample"]
+source_file="res://audio/bgm/Triple Triad.wav"
+dest_files=["res://.godot/imported/Triple Triad.wav-fa10f9b27835efc0c2d50e7e020cab55.sample"]
 
 [params]
 

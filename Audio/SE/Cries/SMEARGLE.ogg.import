@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bf51dx8f5skc4"
-path="res://.godot/imported/SMEARGLE.ogg-b41cb6b044c79e9c586f685a799a6535.oggvorbisstr"
+path="res://.godot/imported/SMEARGLE.ogg-f8e42e0221e2339ce807f960180ea2df.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SMEARGLE.ogg"
-dest_files=["res://.godot/imported/SMEARGLE.ogg-b41cb6b044c79e9c586f685a799a6535.oggvorbisstr"]
+source_file="res://audio/se/cries/SMEARGLE.ogg"
+dest_files=["res://.godot/imported/SMEARGLE.ogg-f8e42e0221e2339ce807f960180ea2df.oggvorbisstr"]
 
 [params]
 

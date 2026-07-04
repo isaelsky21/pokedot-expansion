@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://byu10u3lss2es"
-path="res://.godot/imported/PRSFX- Poison Jab2.wav-819ff16b68863ff00223965be6e81837.sample"
+path="res://.godot/imported/PRSFX- Poison Jab2.wav-550adb1d27fd9513287edf2e242c3548.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Poison Jab2.wav"
-dest_files=["res://.godot/imported/PRSFX- Poison Jab2.wav-819ff16b68863ff00223965be6e81837.sample"]
+source_file="res://audio/se/anim/PRSFX- Poison Jab2.wav"
+dest_files=["res://.godot/imported/PRSFX- Poison Jab2.wav-550adb1d27fd9513287edf2e242c3548.sample"]
 
 [params]
 

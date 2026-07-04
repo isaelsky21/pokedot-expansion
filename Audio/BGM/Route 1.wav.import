@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ds4r6u132ivfj"
-path="res://.godot/imported/Route 1.wav-7185821609c3345fc711c7aa689188f1.sample"
+path="res://.godot/imported/Route 1.wav-b3c0cc871892d35d8640d2434b9328b2.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Route 1.wav"
-dest_files=["res://.godot/imported/Route 1.wav-7185821609c3345fc711c7aa689188f1.sample"]
+source_file="res://audio/bgm/Route 1.wav"
+dest_files=["res://.godot/imported/Route 1.wav-b3c0cc871892d35d8640d2434b9328b2.sample"]
 
 [params]
 

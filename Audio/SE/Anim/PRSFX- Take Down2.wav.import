@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dt22vdlo0xjp8"
-path="res://.godot/imported/PRSFX- Take Down2.wav-4829e24845aa23a98b0acd645d18cbae.sample"
+path="res://.godot/imported/PRSFX- Take Down2.wav-fe4317704a040f822ba4845d6161a6f1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Take Down2.wav"
-dest_files=["res://.godot/imported/PRSFX- Take Down2.wav-4829e24845aa23a98b0acd645d18cbae.sample"]
+source_file="res://audio/se/anim/PRSFX- Take Down2.wav"
+dest_files=["res://.godot/imported/PRSFX- Take Down2.wav-fe4317704a040f822ba4845d6161a6f1.sample"]
 
 [params]
 

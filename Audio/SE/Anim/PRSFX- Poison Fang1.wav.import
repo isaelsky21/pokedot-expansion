@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://4ads2ey2uyjn"
-path="res://.godot/imported/PRSFX- Poison Fang1.wav-f490afe6596647edc15a6a1a285e5a2b.sample"
+path="res://.godot/imported/PRSFX- Poison Fang1.wav-735676b232e6bd3cbd95abda94980325.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Poison Fang1.wav"
-dest_files=["res://.godot/imported/PRSFX- Poison Fang1.wav-f490afe6596647edc15a6a1a285e5a2b.sample"]
+source_file="res://audio/se/anim/PRSFX- Poison Fang1.wav"
+dest_files=["res://.godot/imported/PRSFX- Poison Fang1.wav-735676b232e6bd3cbd95abda94980325.sample"]
 
 [params]
 

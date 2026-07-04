@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://befmhbf5aiwsv"
-path="res://.godot/imported/BIBAREL.ogg-f2f1f4c9ab9c004b6bbbbc4c21bbf12c.oggvorbisstr"
+path="res://.godot/imported/BIBAREL.ogg-a8dc2cf93dcf810f41efa7bbb72a5bce.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BIBAREL.ogg"
-dest_files=["res://.godot/imported/BIBAREL.ogg-f2f1f4c9ab9c004b6bbbbc4c21bbf12c.oggvorbisstr"]
+source_file="res://audio/se/cries/BIBAREL.ogg"
+dest_files=["res://.godot/imported/BIBAREL.ogg-a8dc2cf93dcf810f41efa7bbb72a5bce.oggvorbisstr"]
 
 [params]
 

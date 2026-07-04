@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://coup143q0er4q"
-path="res://.godot/imported/PRSFX- Burn Up1.wav-5daf24428d7f34c6ac0368aa5c065dce.sample"
+path="res://.godot/imported/PRSFX- Burn Up1.wav-30731675fe07e046c8c43a7954c54109.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Burn Up1.wav"
-dest_files=["res://.godot/imported/PRSFX- Burn Up1.wav-5daf24428d7f34c6ac0368aa5c065dce.sample"]
+source_file="res://audio/se/anim/PRSFX- Burn Up1.wav"
+dest_files=["res://.godot/imported/PRSFX- Burn Up1.wav-30731675fe07e046c8c43a7954c54109.sample"]
 
 [params]
 

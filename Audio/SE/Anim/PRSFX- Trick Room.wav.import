@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bp3f5w4mfrc36"
-path="res://.godot/imported/PRSFX- Trick Room.wav-972cbef93da0acd807345f7a26fbb690.sample"
+path="res://.godot/imported/PRSFX- Trick Room.wav-2dfccd8cf89c58b46c769802ef45aa0e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Trick Room.wav"
-dest_files=["res://.godot/imported/PRSFX- Trick Room.wav-972cbef93da0acd807345f7a26fbb690.sample"]
+source_file="res://audio/se/anim/PRSFX- Trick Room.wav"
+dest_files=["res://.godot/imported/PRSFX- Trick Room.wav-2dfccd8cf89c58b46c769802ef45aa0e.sample"]
 
 [params]
 

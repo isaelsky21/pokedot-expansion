@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ru3qmwg4aso2"
-path="res://.godot/imported/STAKATAKA.ogg-2a37501d20de6c08fb6b42cee9e911c3.oggvorbisstr"
+path="res://.godot/imported/STAKATAKA.ogg-c694946add10b76c68465ac8203897ab.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/STAKATAKA.ogg"
-dest_files=["res://.godot/imported/STAKATAKA.ogg-2a37501d20de6c08fb6b42cee9e911c3.oggvorbisstr"]
+source_file="res://audio/se/cries/STAKATAKA.ogg"
+dest_files=["res://.godot/imported/STAKATAKA.ogg-c694946add10b76c68465ac8203897ab.oggvorbisstr"]
 
 [params]
 

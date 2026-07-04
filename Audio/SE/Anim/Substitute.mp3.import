@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://daefd2iavqlqh"
-path="res://.godot/imported/Substitute.mp3-ea818e9d3be0d17ee140a8bce3a923c2.mp3str"
+path="res://.godot/imported/Substitute.mp3-6337b6fed91c2228e2cd628de1dec759.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Substitute.mp3"
-dest_files=["res://.godot/imported/Substitute.mp3-ea818e9d3be0d17ee140a8bce3a923c2.mp3str"]
+source_file="res://audio/se/anim/Substitute.mp3"
+dest_files=["res://.godot/imported/Substitute.mp3-6337b6fed91c2228e2cd628de1dec759.mp3str"]
 
 [params]
 

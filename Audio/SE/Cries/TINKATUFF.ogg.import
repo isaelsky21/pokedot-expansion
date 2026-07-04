@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bljptncgynycc"
-path="res://.godot/imported/TINKATUFF.ogg-3a69bd2ff51f29c88e98ef4a4de34855.oggvorbisstr"
+path="res://.godot/imported/TINKATUFF.ogg-fa12c8a78aa202ae7f4c24352a00bdd2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TINKATUFF.ogg"
-dest_files=["res://.godot/imported/TINKATUFF.ogg-3a69bd2ff51f29c88e98ef4a4de34855.oggvorbisstr"]
+source_file="res://audio/se/cries/TINKATUFF.ogg"
+dest_files=["res://.godot/imported/TINKATUFF.ogg-fa12c8a78aa202ae7f4c24352a00bdd2.oggvorbisstr"]
 
 [params]
 

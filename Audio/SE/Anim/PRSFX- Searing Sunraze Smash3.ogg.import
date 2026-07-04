@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://fbphy664tq0s"
-path="res://.godot/imported/PRSFX- Searing Sunraze Smash3.ogg-79289f1fccb604c23beb0fe6b92d2325.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Searing Sunraze Smash3.ogg-60083c1a3f28758e2449c343977a148f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Searing Sunraze Smash3.ogg"
-dest_files=["res://.godot/imported/PRSFX- Searing Sunraze Smash3.ogg-79289f1fccb604c23beb0fe6b92d2325.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Searing Sunraze Smash3.ogg"
+dest_files=["res://.godot/imported/PRSFX- Searing Sunraze Smash3.ogg-60083c1a3f28758e2449c343977a148f.oggvorbisstr"]
 
 [params]
 

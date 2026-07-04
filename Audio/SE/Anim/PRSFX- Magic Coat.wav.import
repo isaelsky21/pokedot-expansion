@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b8seb4knhvoco"
-path="res://.godot/imported/PRSFX- Magic Coat.wav-65b481639e707dae593d931f71a057db.sample"
+path="res://.godot/imported/PRSFX- Magic Coat.wav-28b0b41c89ea181bb719cfb503ba9b98.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Magic Coat.wav"
-dest_files=["res://.godot/imported/PRSFX- Magic Coat.wav-65b481639e707dae593d931f71a057db.sample"]
+source_file="res://audio/se/anim/PRSFX- Magic Coat.wav"
+dest_files=["res://.godot/imported/PRSFX- Magic Coat.wav-28b0b41c89ea181bb719cfb503ba9b98.sample"]
 
 [params]
 

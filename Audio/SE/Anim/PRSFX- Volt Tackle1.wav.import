@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b52xy56kh0qmn"
-path="res://.godot/imported/PRSFX- Volt Tackle1.wav-78a7ce8e7c70dda6ef5d1d77ed15220d.sample"
+path="res://.godot/imported/PRSFX- Volt Tackle1.wav-35e1714979bd434a53182d75c6bf43fa.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Volt Tackle1.wav"
-dest_files=["res://.godot/imported/PRSFX- Volt Tackle1.wav-78a7ce8e7c70dda6ef5d1d77ed15220d.sample"]
+source_file="res://audio/se/anim/PRSFX- Volt Tackle1.wav"
+dest_files=["res://.godot/imported/PRSFX- Volt Tackle1.wav-35e1714979bd434a53182d75c6bf43fa.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bluolq4gdpkrp"
-path="res://.godot/imported/INCINEROAR.ogg-392ecb315320813874e289559b59ae31.oggvorbisstr"
+path="res://.godot/imported/INCINEROAR.ogg-d79c0354773e97b9178bf014e8375bfb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/INCINEROAR.ogg"
-dest_files=["res://.godot/imported/INCINEROAR.ogg-392ecb315320813874e289559b59ae31.oggvorbisstr"]
+source_file="res://audio/se/cries/INCINEROAR.ogg"
+dest_files=["res://.godot/imported/INCINEROAR.ogg-d79c0354773e97b9178bf014e8375bfb.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cj8kap7rqmcjb"
-path="res://.godot/imported/PRSFX- Sludge Wave.wav-7e3fc4fc19fa3745155e410f00790812.sample"
+path="res://.godot/imported/PRSFX- Sludge Wave.wav-e07016f7268694d1f49bad4cb4c0e224.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sludge Wave.wav"
-dest_files=["res://.godot/imported/PRSFX- Sludge Wave.wav-7e3fc4fc19fa3745155e410f00790812.sample"]
+source_file="res://audio/se/anim/PRSFX- Sludge Wave.wav"
+dest_files=["res://.godot/imported/PRSFX- Sludge Wave.wav-e07016f7268694d1f49bad4cb4c0e224.sample"]
 
 [params]
 

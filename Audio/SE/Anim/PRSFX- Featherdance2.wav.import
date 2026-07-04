@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b6n3i18j5in4l"
-path="res://.godot/imported/PRSFX- Featherdance2.wav-9e704cacf87e46cf9459ec4210eeca63.sample"
+path="res://.godot/imported/PRSFX- Featherdance2.wav-68d45877321a66651d79ee7ba2e1d975.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Featherdance2.wav"
-dest_files=["res://.godot/imported/PRSFX- Featherdance2.wav-9e704cacf87e46cf9459ec4210eeca63.sample"]
+source_file="res://audio/se/anim/PRSFX- Featherdance2.wav"
+dest_files=["res://.godot/imported/PRSFX- Featherdance2.wav-68d45877321a66651d79ee7ba2e1d975.sample"]
 
 [params]
 

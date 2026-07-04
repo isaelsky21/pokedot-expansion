@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dygrahdm70lyi"
-path="res://.godot/imported/HATENNA.ogg-166c3e64a20c0a7a24f17763ca29d995.oggvorbisstr"
+path="res://.godot/imported/HATENNA.ogg-4b6f9e491cc10ddedcc0a78802e4067b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HATENNA.ogg"
-dest_files=["res://.godot/imported/HATENNA.ogg-166c3e64a20c0a7a24f17763ca29d995.oggvorbisstr"]
+source_file="res://audio/se/cries/HATENNA.ogg"
+dest_files=["res://.godot/imported/HATENNA.ogg-4b6f9e491cc10ddedcc0a78802e4067b.oggvorbisstr"]
 
 [params]
 

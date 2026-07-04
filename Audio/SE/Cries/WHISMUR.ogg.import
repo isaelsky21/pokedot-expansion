@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dq018fe5e2d7x"
-path="res://.godot/imported/WHISMUR.ogg-08e47bee20132c0c1d7c2101da20cdac.oggvorbisstr"
+path="res://.godot/imported/WHISMUR.ogg-a3e75b539d3899e66a212ca97ec632b8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WHISMUR.ogg"
-dest_files=["res://.godot/imported/WHISMUR.ogg-08e47bee20132c0c1d7c2101da20cdac.oggvorbisstr"]
+source_file="res://audio/se/cries/WHISMUR.ogg"
+dest_files=["res://.godot/imported/WHISMUR.ogg-a3e75b539d3899e66a212ca97ec632b8.oggvorbisstr"]
 
 [params]
 

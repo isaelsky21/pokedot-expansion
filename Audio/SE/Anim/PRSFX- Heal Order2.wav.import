@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bskgnh4jquxc6"
-path="res://.godot/imported/PRSFX- Heal Order2.wav-bc30c55a150b7cdcd5eb3c68c7a9387b.sample"
+path="res://.godot/imported/PRSFX- Heal Order2.wav-e97dd7d820207e0597288a2c22838c35.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Heal Order2.wav"
-dest_files=["res://.godot/imported/PRSFX- Heal Order2.wav-bc30c55a150b7cdcd5eb3c68c7a9387b.sample"]
+source_file="res://audio/se/anim/PRSFX- Heal Order2.wav"
+dest_files=["res://.godot/imported/PRSFX- Heal Order2.wav-e97dd7d820207e0597288a2c22838c35.sample"]
 
 [params]
 

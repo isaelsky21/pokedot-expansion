@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ddd5bu5bge01c"
-path="res://.godot/imported/WATCHOG.ogg-b685f2387431bf78696684aa2243adfb.oggvorbisstr"
+path="res://.godot/imported/WATCHOG.ogg-c60f79f8de1a2162721c5945bb897633.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WATCHOG.ogg"
-dest_files=["res://.godot/imported/WATCHOG.ogg-b685f2387431bf78696684aa2243adfb.oggvorbisstr"]
+source_file="res://audio/se/cries/WATCHOG.ogg"
+dest_files=["res://.godot/imported/WATCHOG.ogg-c60f79f8de1a2162721c5945bb897633.oggvorbisstr"]
 
 [params]
 

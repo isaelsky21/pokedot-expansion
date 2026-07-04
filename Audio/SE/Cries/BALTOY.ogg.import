@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dm50tlkfuqv5"
-path="res://.godot/imported/BALTOY.ogg-69054f72ca1a340f1a3e4b2737fd40ba.oggvorbisstr"
+path="res://.godot/imported/BALTOY.ogg-a49f54decde3aee4e73545410e3805a4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BALTOY.ogg"
-dest_files=["res://.godot/imported/BALTOY.ogg-69054f72ca1a340f1a3e4b2737fd40ba.oggvorbisstr"]
+source_file="res://audio/se/cries/BALTOY.ogg"
+dest_files=["res://.godot/imported/BALTOY.ogg-a49f54decde3aee4e73545410e3805a4.oggvorbisstr"]
 
 [params]
 

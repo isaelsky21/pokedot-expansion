@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b1synu61dvkad"
-path="res://.godot/imported/PRSFX- Flying Press3.wav-3debf00d786e1bad33c5b015f6ce3b64.sample"
+path="res://.godot/imported/PRSFX- Flying Press3.wav-e64c650b0c9266634e47617ae956637b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Flying Press3.wav"
-dest_files=["res://.godot/imported/PRSFX- Flying Press3.wav-3debf00d786e1bad33c5b015f6ce3b64.sample"]
+source_file="res://audio/se/anim/PRSFX- Flying Press3.wav"
+dest_files=["res://.godot/imported/PRSFX- Flying Press3.wav-e64c650b0c9266634e47617ae956637b.sample"]
 
 [params]
 

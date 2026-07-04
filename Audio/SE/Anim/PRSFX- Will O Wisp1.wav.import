@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cshx6cxfpdgf2"
-path="res://.godot/imported/PRSFX- Will O Wisp1.wav-44ade34ae0091acce879d09b367a8082.sample"
+path="res://.godot/imported/PRSFX- Will O Wisp1.wav-2f839e4c3eceee55772181daf5acb39a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Will O Wisp1.wav"
-dest_files=["res://.godot/imported/PRSFX- Will O Wisp1.wav-44ade34ae0091acce879d09b367a8082.sample"]
+source_file="res://audio/se/anim/PRSFX- Will O Wisp1.wav"
+dest_files=["res://.godot/imported/PRSFX- Will O Wisp1.wav-2f839e4c3eceee55772181daf5acb39a.sample"]
 
 [params]
 

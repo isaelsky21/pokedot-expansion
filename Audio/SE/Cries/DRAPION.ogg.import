@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dsbwl5emes4ga"
-path="res://.godot/imported/DRAPION.ogg-9a377ca57c4e01d29ef7f9b5adbf7c90.oggvorbisstr"
+path="res://.godot/imported/DRAPION.ogg-3e1f819335e9fb64ca737273fee85e3a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRAPION.ogg"
-dest_files=["res://.godot/imported/DRAPION.ogg-9a377ca57c4e01d29ef7f9b5adbf7c90.oggvorbisstr"]
+source_file="res://audio/se/cries/DRAPION.ogg"
+dest_files=["res://.godot/imported/DRAPION.ogg-3e1f819335e9fb64ca737273fee85e3a.oggvorbisstr"]
 
 [params]
 

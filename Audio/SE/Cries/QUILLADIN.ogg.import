@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bcf5s7fv5rrv5"
-path="res://.godot/imported/QUILLADIN.ogg-097cf0e2a72b3a1594a26ffad6e1a03f.oggvorbisstr"
+path="res://.godot/imported/QUILLADIN.ogg-519c2ea3de148900b32f89216edb54ef.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/QUILLADIN.ogg"
-dest_files=["res://.godot/imported/QUILLADIN.ogg-097cf0e2a72b3a1594a26ffad6e1a03f.oggvorbisstr"]
+source_file="res://audio/se/cries/QUILLADIN.ogg"
+dest_files=["res://.godot/imported/QUILLADIN.ogg-519c2ea3de148900b32f89216edb54ef.oggvorbisstr"]
 
 [params]
 

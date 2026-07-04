@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dfg6366r1m5hc"
-path="res://.godot/imported/PRSFX- Acupressure1.wav-48bc9dc56a24fa9321aefb1389eb9731.sample"
+path="res://.godot/imported/PRSFX- Acupressure1.wav-6b1573aceabcda8bdcac635043cec647.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Acupressure1.wav"
-dest_files=["res://.godot/imported/PRSFX- Acupressure1.wav-48bc9dc56a24fa9321aefb1389eb9731.sample"]
+source_file="res://audio/se/anim/PRSFX- Acupressure1.wav"
+dest_files=["res://.godot/imported/PRSFX- Acupressure1.wav-6b1573aceabcda8bdcac635043cec647.sample"]
 
 [params]
 

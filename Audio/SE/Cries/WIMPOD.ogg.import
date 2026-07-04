@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://pas3yw2hceis"
-path="res://.godot/imported/WIMPOD.ogg-e36096b4fa1564bf195e92aee6588746.oggvorbisstr"
+path="res://.godot/imported/WIMPOD.ogg-679f5105ce8eaabf15d7a0ab8f4f694c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WIMPOD.ogg"
-dest_files=["res://.godot/imported/WIMPOD.ogg-e36096b4fa1564bf195e92aee6588746.oggvorbisstr"]
+source_file="res://audio/se/cries/WIMPOD.ogg"
+dest_files=["res://.godot/imported/WIMPOD.ogg-679f5105ce8eaabf15d7a0ab8f4f694c.oggvorbisstr"]
 
 [params]
 

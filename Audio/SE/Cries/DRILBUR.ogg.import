@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://xabp3wxrw13s"
-path="res://.godot/imported/DRILBUR.ogg-144bae7f9033741f920c0893f90fe61a.oggvorbisstr"
+path="res://.godot/imported/DRILBUR.ogg-0b662cafa3dc8f6614b131a19116a781.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRILBUR.ogg"
-dest_files=["res://.godot/imported/DRILBUR.ogg-144bae7f9033741f920c0893f90fe61a.oggvorbisstr"]
+source_file="res://audio/se/cries/DRILBUR.ogg"
+dest_files=["res://.godot/imported/DRILBUR.ogg-0b662cafa3dc8f6614b131a19116a781.oggvorbisstr"]
 
 [params]
 

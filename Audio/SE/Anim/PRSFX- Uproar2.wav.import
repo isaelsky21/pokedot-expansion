@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://3bcfwtsnk1r8"
-path="res://.godot/imported/PRSFX- Uproar2.wav-11a388aca23c683fe5b5a001f1f64f01.sample"
+path="res://.godot/imported/PRSFX- Uproar2.wav-198c41962fe8bcd3dc3c152376651efa.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Uproar2.wav"
-dest_files=["res://.godot/imported/PRSFX- Uproar2.wav-11a388aca23c683fe5b5a001f1f64f01.sample"]
+source_file="res://audio/se/anim/PRSFX- Uproar2.wav"
+dest_files=["res://.godot/imported/PRSFX- Uproar2.wav-198c41962fe8bcd3dc3c152376651efa.sample"]
 
 [params]
 

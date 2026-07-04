@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bf6b5hrn82gro"
-path="res://.godot/imported/CUTIEFLY.ogg-be41f601539f3fd7ae1eda7172a301e3.oggvorbisstr"
+path="res://.godot/imported/CUTIEFLY.ogg-c66d6fe58213c75349b04d919b0c79cd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CUTIEFLY.ogg"
-dest_files=["res://.godot/imported/CUTIEFLY.ogg-be41f601539f3fd7ae1eda7172a301e3.oggvorbisstr"]
+source_file="res://audio/se/cries/CUTIEFLY.ogg"
+dest_files=["res://.godot/imported/CUTIEFLY.ogg-c66d6fe58213c75349b04d919b0c79cd.oggvorbisstr"]
 
 [params]
 

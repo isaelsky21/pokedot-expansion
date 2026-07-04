@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://rtynmwga6rug"
-path="res://.godot/imported/PRSFX- Lucky Chant.wav-56b5a3dca9bc264f9c5b804d822d3fd9.sample"
+path="res://.godot/imported/PRSFX- Lucky Chant.wav-9f714989cc822e3b1efd34e5c7a429c0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Lucky Chant.wav"
-dest_files=["res://.godot/imported/PRSFX- Lucky Chant.wav-56b5a3dca9bc264f9c5b804d822d3fd9.sample"]
+source_file="res://audio/se/anim/PRSFX- Lucky Chant.wav"
+dest_files=["res://.godot/imported/PRSFX- Lucky Chant.wav-9f714989cc822e3b1efd34e5c7a429c0.sample"]
 
 [params]
 

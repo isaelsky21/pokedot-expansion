@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dlghysj4o3ren"
-path="res://.godot/imported/SPEWPA.ogg-a605e4f154a8bf0054496bb37b4e34be.oggvorbisstr"
+path="res://.godot/imported/SPEWPA.ogg-cfb1b08349c7f1d8e78adabf9f41e526.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SPEWPA.ogg"
-dest_files=["res://.godot/imported/SPEWPA.ogg-a605e4f154a8bf0054496bb37b4e34be.oggvorbisstr"]
+source_file="res://audio/se/cries/SPEWPA.ogg"
+dest_files=["res://.godot/imported/SPEWPA.ogg-cfb1b08349c7f1d8e78adabf9f41e526.oggvorbisstr"]
 
 [params]
 

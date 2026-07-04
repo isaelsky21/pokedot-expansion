@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://1cmtdmdo22q2"
-path="res://.godot/imported/PRSFX- Crush Grip1.wav-2a46c875f4c7b192222358fc74e6964f.sample"
+path="res://.godot/imported/PRSFX- Crush Grip1.wav-bba8c9eae98cc5bdd8184d18792b7894.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Crush Grip1.wav"
-dest_files=["res://.godot/imported/PRSFX- Crush Grip1.wav-2a46c875f4c7b192222358fc74e6964f.sample"]
+source_file="res://audio/se/anim/PRSFX- Crush Grip1.wav"
+dest_files=["res://.godot/imported/PRSFX- Crush Grip1.wav-bba8c9eae98cc5bdd8184d18792b7894.sample"]
 
 [params]
 

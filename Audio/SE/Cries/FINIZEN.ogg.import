@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c227v467emlej"
-path="res://.godot/imported/FINIZEN.ogg-80f71854d7e79fb25e96249a3d523bbe.oggvorbisstr"
+path="res://.godot/imported/FINIZEN.ogg-740417c16424e27c727524f449d21249.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FINIZEN.ogg"
-dest_files=["res://.godot/imported/FINIZEN.ogg-80f71854d7e79fb25e96249a3d523bbe.oggvorbisstr"]
+source_file="res://audio/se/cries/FINIZEN.ogg"
+dest_files=["res://.godot/imported/FINIZEN.ogg-740417c16424e27c727524f449d21249.oggvorbisstr"]
 
 [params]
 

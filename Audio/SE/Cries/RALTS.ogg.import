@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhjymextlexmk"
-path="res://.godot/imported/RALTS.ogg-377d1f437352f11b157e92a0d1455fc8.oggvorbisstr"
+path="res://.godot/imported/RALTS.ogg-5fa8c67799c456b7bf4b0229625cc7cd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RALTS.ogg"
-dest_files=["res://.godot/imported/RALTS.ogg-377d1f437352f11b157e92a0d1455fc8.oggvorbisstr"]
+source_file="res://audio/se/cries/RALTS.ogg"
+dest_files=["res://.godot/imported/RALTS.ogg-5fa8c67799c456b7bf4b0229625cc7cd.oggvorbisstr"]
 
 [params]
 

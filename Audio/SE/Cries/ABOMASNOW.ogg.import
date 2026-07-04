@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dl65dc1twl81j"
-path="res://.godot/imported/ABOMASNOW.ogg-8ed867524aa17d1e64d2d3232508888d.oggvorbisstr"
+path="res://.godot/imported/ABOMASNOW.ogg-ff496447c15e489e0682997ab9e0a752.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ABOMASNOW.ogg"
-dest_files=["res://.godot/imported/ABOMASNOW.ogg-8ed867524aa17d1e64d2d3232508888d.oggvorbisstr"]
+source_file="res://audio/se/cries/ABOMASNOW.ogg"
+dest_files=["res://.godot/imported/ABOMASNOW.ogg-ff496447c15e489e0682997ab9e0a752.oggvorbisstr"]
 
 [params]
 

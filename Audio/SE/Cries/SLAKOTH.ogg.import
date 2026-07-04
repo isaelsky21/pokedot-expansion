@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://0qyv7hg2wvu0"
-path="res://.godot/imported/SLAKOTH.ogg-0d777702db855752eb0a27fd0bb1c326.oggvorbisstr"
+path="res://.godot/imported/SLAKOTH.ogg-d526c489d2fc9790ab10c2bea8c93caa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SLAKOTH.ogg"
-dest_files=["res://.godot/imported/SLAKOTH.ogg-0d777702db855752eb0a27fd0bb1c326.oggvorbisstr"]
+source_file="res://audio/se/cries/SLAKOTH.ogg"
+dest_files=["res://.godot/imported/SLAKOTH.ogg-d526c489d2fc9790ab10c2bea8c93caa.oggvorbisstr"]
 
 [params]
 

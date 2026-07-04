@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dokgif2glq2x4"
-path="res://.godot/imported/PRSFX- Shadow Punch2.wav-085e0359b6ca832324cbe8468800d675.sample"
+path="res://.godot/imported/PRSFX- Shadow Punch2.wav-b827b5eedb07e35bc0ba0951d8379386.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shadow Punch2.wav"
-dest_files=["res://.godot/imported/PRSFX- Shadow Punch2.wav-085e0359b6ca832324cbe8468800d675.sample"]
+source_file="res://audio/se/anim/PRSFX- Shadow Punch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Shadow Punch2.wav-b827b5eedb07e35bc0ba0951d8379386.sample"]
 
 [params]
 

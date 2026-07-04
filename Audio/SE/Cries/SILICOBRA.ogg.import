@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://df2sgv4iohfi7"
-path="res://.godot/imported/SILICOBRA.ogg-ca14183493c082b32f1beb9cfadbe603.oggvorbisstr"
+path="res://.godot/imported/SILICOBRA.ogg-b5845ab03bb6312149cb0b5592b5540e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SILICOBRA.ogg"
-dest_files=["res://.godot/imported/SILICOBRA.ogg-ca14183493c082b32f1beb9cfadbe603.oggvorbisstr"]
+source_file="res://audio/se/cries/SILICOBRA.ogg"
+dest_files=["res://.godot/imported/SILICOBRA.ogg-b5845ab03bb6312149cb0b5592b5540e.oggvorbisstr"]
 
 [params]
 

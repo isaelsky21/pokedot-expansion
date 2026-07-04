@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cvvt8uxoexqlu"
-path="res://.godot/imported/PRSFX- Karate Chop1.wav-e18ed41ce7e09eecce9a09d28ad5ac5a.sample"
+path="res://.godot/imported/PRSFX- Karate Chop1.wav-2200a341dbe9ca52d551fd099ef692c1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Karate Chop1.wav"
-dest_files=["res://.godot/imported/PRSFX- Karate Chop1.wav-e18ed41ce7e09eecce9a09d28ad5ac5a.sample"]
+source_file="res://audio/se/anim/PRSFX- Karate Chop1.wav"
+dest_files=["res://.godot/imported/PRSFX- Karate Chop1.wav-2200a341dbe9ca52d551fd099ef692c1.sample"]
 
 [params]
 

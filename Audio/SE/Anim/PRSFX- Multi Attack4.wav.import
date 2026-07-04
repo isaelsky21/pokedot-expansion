@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://uboi1g1377hv"
-path="res://.godot/imported/PRSFX- Multi Attack4.wav-6f9b18381819fc5e63f99c59af6a9b43.sample"
+path="res://.godot/imported/PRSFX- Multi Attack4.wav-5a26892d9e195d65df8cbe13f27c11f2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Multi Attack4.wav"
-dest_files=["res://.godot/imported/PRSFX- Multi Attack4.wav-6f9b18381819fc5e63f99c59af6a9b43.sample"]
+source_file="res://audio/se/anim/PRSFX- Multi Attack4.wav"
+dest_files=["res://.godot/imported/PRSFX- Multi Attack4.wav-5a26892d9e195d65df8cbe13f27c11f2.sample"]
 
 [params]
 

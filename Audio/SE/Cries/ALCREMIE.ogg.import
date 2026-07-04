@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cv8rer62cvmek"
-path="res://.godot/imported/ALCREMIE.ogg-929e8f2be902783ce5b5d7b24466abf6.oggvorbisstr"
+path="res://.godot/imported/ALCREMIE.ogg-1e3746f4616eb2b58b07036fd54755c6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ALCREMIE.ogg"
-dest_files=["res://.godot/imported/ALCREMIE.ogg-929e8f2be902783ce5b5d7b24466abf6.oggvorbisstr"]
+source_file="res://audio/se/cries/ALCREMIE.ogg"
+dest_files=["res://.godot/imported/ALCREMIE.ogg-1e3746f4616eb2b58b07036fd54755c6.oggvorbisstr"]
 
 [params]
 

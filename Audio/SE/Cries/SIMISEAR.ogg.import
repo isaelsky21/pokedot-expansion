@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://o6a7cfnhbwfh"
-path="res://.godot/imported/SIMISEAR.ogg-cabc1a8898736e97676e4ca395daa188.oggvorbisstr"
+path="res://.godot/imported/SIMISEAR.ogg-d3f4fb3bc5e9c286f28cdbd3dad44ca0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SIMISEAR.ogg"
-dest_files=["res://.godot/imported/SIMISEAR.ogg-cabc1a8898736e97676e4ca395daa188.oggvorbisstr"]
+source_file="res://audio/se/cries/SIMISEAR.ogg"
+dest_files=["res://.godot/imported/SIMISEAR.ogg-d3f4fb3bc5e9c286f28cdbd3dad44ca0.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://byphqlrs2hn7c"
-path="res://.godot/imported/PRSFX- Plasma Fist1.wav-beb86a1aa3a54ecd04caa0193fc5ed03.sample"
+path="res://.godot/imported/PRSFX- Plasma Fist1.wav-62438c7a494b7d7911ddda920638b852.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Plasma Fist1.wav"
-dest_files=["res://.godot/imported/PRSFX- Plasma Fist1.wav-beb86a1aa3a54ecd04caa0193fc5ed03.sample"]
+source_file="res://audio/se/anim/PRSFX- Plasma Fist1.wav"
+dest_files=["res://.godot/imported/PRSFX- Plasma Fist1.wav-62438c7a494b7d7911ddda920638b852.sample"]
 
 [params]
 

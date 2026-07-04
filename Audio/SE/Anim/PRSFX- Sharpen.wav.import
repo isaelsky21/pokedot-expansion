@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bvxm1ainuq8k8"
-path="res://.godot/imported/PRSFX- Sharpen.wav-9eaeb9dd464d256f79ac50587ee56839.sample"
+path="res://.godot/imported/PRSFX- Sharpen.wav-849e3b9fc21ca5d793f73bc509153f04.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sharpen.wav"
-dest_files=["res://.godot/imported/PRSFX- Sharpen.wav-9eaeb9dd464d256f79ac50587ee56839.sample"]
+source_file="res://audio/se/anim/PRSFX- Sharpen.wav"
+dest_files=["res://.godot/imported/PRSFX- Sharpen.wav-849e3b9fc21ca5d793f73bc509153f04.sample"]
 
 [params]
 

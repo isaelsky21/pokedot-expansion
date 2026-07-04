@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dfupm5jojjep8"
-path="res://.godot/imported/DRACOZOLT.ogg-0deed7cc41964ff57e44f0b3be7c6242.oggvorbisstr"
+path="res://.godot/imported/DRACOZOLT.ogg-63215ae6c134c5a49dcba9bb4baa4702.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRACOZOLT.ogg"
-dest_files=["res://.godot/imported/DRACOZOLT.ogg-0deed7cc41964ff57e44f0b3be7c6242.oggvorbisstr"]
+source_file="res://audio/se/cries/DRACOZOLT.ogg"
+dest_files=["res://.godot/imported/DRACOZOLT.ogg-63215ae6c134c5a49dcba9bb4baa4702.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bfkad4d4nw236"
-path="res://.godot/imported/PRSFX- King's Shield1.wav-b74fabcd63c8923fab47378cfed84cd6.sample"
+path="res://.godot/imported/PRSFX- King's Shield1.wav-853c116b2fd0740bda5cc6b8e7112d7a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- King's Shield1.wav"
-dest_files=["res://.godot/imported/PRSFX- King's Shield1.wav-b74fabcd63c8923fab47378cfed84cd6.sample"]
+source_file="res://audio/se/anim/PRSFX- King's Shield1.wav"
+dest_files=["res://.godot/imported/PRSFX- King's Shield1.wav-853c116b2fd0740bda5cc6b8e7112d7a.sample"]
 
 [params]
 

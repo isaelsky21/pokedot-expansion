@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://2x3feep8kqco"
-path="res://.godot/imported/EELEKTRIK.ogg-f6ee15b0395e050be0f6eb951e7a0c1c.oggvorbisstr"
+path="res://.godot/imported/EELEKTRIK.ogg-9bf57002bbe7285c7bf8b6792d1310bb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/EELEKTRIK.ogg"
-dest_files=["res://.godot/imported/EELEKTRIK.ogg-f6ee15b0395e050be0f6eb951e7a0c1c.oggvorbisstr"]
+source_file="res://audio/se/cries/EELEKTRIK.ogg"
+dest_files=["res://.godot/imported/EELEKTRIK.ogg-9bf57002bbe7285c7bf8b6792d1310bb.oggvorbisstr"]
 
 [params]
 

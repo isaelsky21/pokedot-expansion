@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cnysrf0e8p1bb"
-path="res://.godot/imported/PRSFX- Fusion Flare3.wav-0d6f12b9129675855490fff86626a335.sample"
+path="res://.godot/imported/PRSFX- Fusion Flare3.wav-0981a4bddfe297b689e809b66f1aa1f8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fusion Flare3.wav"
-dest_files=["res://.godot/imported/PRSFX- Fusion Flare3.wav-0d6f12b9129675855490fff86626a335.sample"]
+source_file="res://audio/se/anim/PRSFX- Fusion Flare3.wav"
+dest_files=["res://.godot/imported/PRSFX- Fusion Flare3.wav-0981a4bddfe297b689e809b66f1aa1f8.sample"]
 
 [params]
 

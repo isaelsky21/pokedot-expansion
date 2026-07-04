@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://fswpnhp5rulw"
-path="res://.godot/imported/PRSFX- Zing Zap4.wav-41a7b41e56f48a332afd0d7912c09f9a.sample"
+path="res://.godot/imported/PRSFX- Zing Zap4.wav-8925aba3a92218bab06c75be56c0971a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Zing Zap4.wav"
-dest_files=["res://.godot/imported/PRSFX- Zing Zap4.wav-41a7b41e56f48a332afd0d7912c09f9a.sample"]
+source_file="res://audio/se/anim/PRSFX- Zing Zap4.wav"
+dest_files=["res://.godot/imported/PRSFX- Zing Zap4.wav-8925aba3a92218bab06c75be56c0971a.sample"]
 
 [params]
 

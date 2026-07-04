@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d134o7yk0scf"
-path="res://.godot/imported/KADABRA.ogg-43873c7bdd4909188a7ba199679c3af9.oggvorbisstr"
+path="res://.godot/imported/KADABRA.ogg-76065027b48010f78ba43a3dc913b978.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KADABRA.ogg"
-dest_files=["res://.godot/imported/KADABRA.ogg-43873c7bdd4909188a7ba199679c3af9.oggvorbisstr"]
+source_file="res://audio/se/cries/KADABRA.ogg"
+dest_files=["res://.godot/imported/KADABRA.ogg-76065027b48010f78ba43a3dc913b978.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dabe1hnd0qotd"
-path="res://.godot/imported/HIPPOPOTAS.ogg-90f276e7716642aa234b42413252967d.oggvorbisstr"
+path="res://.godot/imported/HIPPOPOTAS.ogg-08af7895097055dca0395cc18a5a1057.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HIPPOPOTAS.ogg"
-dest_files=["res://.godot/imported/HIPPOPOTAS.ogg-90f276e7716642aa234b42413252967d.oggvorbisstr"]
+source_file="res://audio/se/cries/HIPPOPOTAS.ogg"
+dest_files=["res://.godot/imported/HIPPOPOTAS.ogg-08af7895097055dca0395cc18a5a1057.oggvorbisstr"]
 
 [params]
 

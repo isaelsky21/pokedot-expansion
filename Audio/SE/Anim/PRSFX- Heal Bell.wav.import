@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bfu8ras7ltujw"
-path="res://.godot/imported/PRSFX- Heal Bell.wav-97cdc6e82ad9dcbe6ec2142d9089b37f.sample"
+path="res://.godot/imported/PRSFX- Heal Bell.wav-71861fb205b012750cbdd4e2bf650fee.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Heal Bell.wav"
-dest_files=["res://.godot/imported/PRSFX- Heal Bell.wav-97cdc6e82ad9dcbe6ec2142d9089b37f.sample"]
+source_file="res://audio/se/anim/PRSFX- Heal Bell.wav"
+dest_files=["res://.godot/imported/PRSFX- Heal Bell.wav-71861fb205b012750cbdd4e2bf650fee.sample"]
 
 [params]
 

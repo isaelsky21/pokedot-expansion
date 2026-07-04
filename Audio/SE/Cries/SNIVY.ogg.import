@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cboesnlq3xetc"
-path="res://.godot/imported/SNIVY.ogg-34e3ad6eda5364edf1a22898e6122e87.oggvorbisstr"
+path="res://.godot/imported/SNIVY.ogg-0fb1b0027a35c0731e9fbd8cd495dd05.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SNIVY.ogg"
-dest_files=["res://.godot/imported/SNIVY.ogg-34e3ad6eda5364edf1a22898e6122e87.oggvorbisstr"]
+source_file="res://audio/se/cries/SNIVY.ogg"
+dest_files=["res://.godot/imported/SNIVY.ogg-0fb1b0027a35c0731e9fbd8cd495dd05.oggvorbisstr"]
 
 [params]
 

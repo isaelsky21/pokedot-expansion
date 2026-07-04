@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bl2jc0gr3gmmv"
-path="res://.godot/imported/PRSFX- Fire Punch2.wav-cacfce25f467a1dc2688e135fdec89e4.sample"
+path="res://.godot/imported/PRSFX- Fire Punch2.wav-c52faa09fcdc557566b83d40e8a08fa9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fire Punch2.wav"
-dest_files=["res://.godot/imported/PRSFX- Fire Punch2.wav-cacfce25f467a1dc2688e135fdec89e4.sample"]
+source_file="res://audio/se/anim/PRSFX- Fire Punch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Fire Punch2.wav-c52faa09fcdc557566b83d40e8a08fa9.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://con58c0fb87li"
-path="res://.godot/imported/GARGANACL.ogg-9068becf805998847b7e7f2a1fc9860f.oggvorbisstr"
+path="res://.godot/imported/GARGANACL.ogg-f90e69ca702352d549dbe0fac4dca0c9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GARGANACL.ogg"
-dest_files=["res://.godot/imported/GARGANACL.ogg-9068becf805998847b7e7f2a1fc9860f.oggvorbisstr"]
+source_file="res://audio/se/cries/GARGANACL.ogg"
+dest_files=["res://.godot/imported/GARGANACL.ogg-f90e69ca702352d549dbe0fac4dca0c9.oggvorbisstr"]
 
 [params]
 

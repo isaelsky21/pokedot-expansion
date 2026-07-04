@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://l7s0ah8whupa"
-path="res://.godot/imported/COPPERAJAH.ogg-fb34c4d5b48d036cd0645e1bb5233369.oggvorbisstr"
+path="res://.godot/imported/COPPERAJAH.ogg-45b7a4ce4cc08c58f54415a0fb23ba53.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/COPPERAJAH.ogg"
-dest_files=["res://.godot/imported/COPPERAJAH.ogg-fb34c4d5b48d036cd0645e1bb5233369.oggvorbisstr"]
+source_file="res://audio/se/cries/COPPERAJAH.ogg"
+dest_files=["res://.godot/imported/COPPERAJAH.ogg-45b7a4ce4cc08c58f54415a0fb23ba53.oggvorbisstr"]
 
 [params]
 

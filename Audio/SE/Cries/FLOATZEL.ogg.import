@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dmqouwvihp8ff"
-path="res://.godot/imported/FLOATZEL.ogg-f9a5e80af78e3acf996ef7a9f0b0e096.oggvorbisstr"
+path="res://.godot/imported/FLOATZEL.ogg-c0f54577aaaef750b16abcd0ee4d55bd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLOATZEL.ogg"
-dest_files=["res://.godot/imported/FLOATZEL.ogg-f9a5e80af78e3acf996ef7a9f0b0e096.oggvorbisstr"]
+source_file="res://audio/se/cries/FLOATZEL.ogg"
+dest_files=["res://.godot/imported/FLOATZEL.ogg-c0f54577aaaef750b16abcd0ee4d55bd.oggvorbisstr"]
 
 [params]
 

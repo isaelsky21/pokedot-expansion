@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://baxpuwlsc0vfi"
-path="res://.godot/imported/PECHARUNT.ogg-cf60f560046c3b86c499fe031c0402dc.oggvorbisstr"
+path="res://.godot/imported/PECHARUNT.ogg-015036de044a51f2dd1377efd66dc37e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PECHARUNT.ogg"
-dest_files=["res://.godot/imported/PECHARUNT.ogg-cf60f560046c3b86c499fe031c0402dc.oggvorbisstr"]
+source_file="res://audio/se/cries/PECHARUNT.ogg"
+dest_files=["res://.godot/imported/PECHARUNT.ogg-015036de044a51f2dd1377efd66dc37e.oggvorbisstr"]
 
 [params]
 

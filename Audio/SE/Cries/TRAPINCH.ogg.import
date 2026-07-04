@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dhodfcmvywjve"
-path="res://.godot/imported/TRAPINCH.ogg-71094616a546a2f7eb53ee18f720239c.oggvorbisstr"
+path="res://.godot/imported/TRAPINCH.ogg-da879b04ed004e0f2bd330e934abdc25.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TRAPINCH.ogg"
-dest_files=["res://.godot/imported/TRAPINCH.ogg-71094616a546a2f7eb53ee18f720239c.oggvorbisstr"]
+source_file="res://audio/se/cries/TRAPINCH.ogg"
+dest_files=["res://.godot/imported/TRAPINCH.ogg-da879b04ed004e0f2bd330e934abdc25.oggvorbisstr"]
 
 [params]
 

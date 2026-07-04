@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dv30acebrevfe"
-path="res://.godot/imported/PRSFX- Shell Smash2.wav-0d4a4f953f45245401a16456dc7db432.sample"
+path="res://.godot/imported/PRSFX- Shell Smash2.wav-7c0fd7a0a9b384012ccf52028ee910ab.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shell Smash2.wav"
-dest_files=["res://.godot/imported/PRSFX- Shell Smash2.wav-0d4a4f953f45245401a16456dc7db432.sample"]
+source_file="res://audio/se/anim/PRSFX- Shell Smash2.wav"
+dest_files=["res://.godot/imported/PRSFX- Shell Smash2.wav-7c0fd7a0a9b384012ccf52028ee910ab.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cv72o8k5dt28y"
-path="res://.godot/imported/FROSMOTH.ogg-deb2e6cef7b5ee3912622d5d6162f93d.oggvorbisstr"
+path="res://.godot/imported/FROSMOTH.ogg-d30fac606d25138be73c50cf46e75670.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FROSMOTH.ogg"
-dest_files=["res://.godot/imported/FROSMOTH.ogg-deb2e6cef7b5ee3912622d5d6162f93d.oggvorbisstr"]
+source_file="res://audio/se/cries/FROSMOTH.ogg"
+dest_files=["res://.godot/imported/FROSMOTH.ogg-d30fac606d25138be73c50cf46e75670.oggvorbisstr"]
 
 [params]
 

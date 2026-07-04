@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cas3atufxxvnr"
-path="res://.godot/imported/Islands.wav-a4a9940039a35fd356f5b7e4e759ea99.sample"
+path="res://.godot/imported/Islands.wav-73faee81c576ed0b4b23127a1304a890.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Islands.wav"
-dest_files=["res://.godot/imported/Islands.wav-a4a9940039a35fd356f5b7e4e759ea99.sample"]
+source_file="res://audio/bgm/Islands.wav"
+dest_files=["res://.godot/imported/Islands.wav-73faee81c576ed0b4b23127a1304a890.sample"]
 
 [params]
 

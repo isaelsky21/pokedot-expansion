@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cdh8frkkqjbmu"
-path="res://.godot/imported/GARBODOR.ogg-82e5b0ccc6d9af01470b7d3288558259.oggvorbisstr"
+path="res://.godot/imported/GARBODOR.ogg-6784fb815d7d34d64865d56e4407e941.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GARBODOR.ogg"
-dest_files=["res://.godot/imported/GARBODOR.ogg-82e5b0ccc6d9af01470b7d3288558259.oggvorbisstr"]
+source_file="res://audio/se/cries/GARBODOR.ogg"
+dest_files=["res://.godot/imported/GARBODOR.ogg-6784fb815d7d34d64865d56e4407e941.oggvorbisstr"]
 
 [params]
 

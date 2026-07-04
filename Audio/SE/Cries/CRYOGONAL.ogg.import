@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://oxce2nsybd21"
-path="res://.godot/imported/CRYOGONAL.ogg-29871207fc91bee5932e993ba69f8cf8.oggvorbisstr"
+path="res://.godot/imported/CRYOGONAL.ogg-c376db963919738fd7080f2ecab8c5a2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CRYOGONAL.ogg"
-dest_files=["res://.godot/imported/CRYOGONAL.ogg-29871207fc91bee5932e993ba69f8cf8.oggvorbisstr"]
+source_file="res://audio/se/cries/CRYOGONAL.ogg"
+dest_files=["res://.godot/imported/CRYOGONAL.ogg-c376db963919738fd7080f2ecab8c5a2.oggvorbisstr"]
 
 [params]
 

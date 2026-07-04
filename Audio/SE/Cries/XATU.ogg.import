@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cnpw8u3k7xtyd"
-path="res://.godot/imported/XATU.ogg-f45b68d5a559720158114e6eddf1062a.oggvorbisstr"
+path="res://.godot/imported/XATU.ogg-00d20fd7d2961dbfd228104029b3ac54.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/XATU.ogg"
-dest_files=["res://.godot/imported/XATU.ogg-f45b68d5a559720158114e6eddf1062a.oggvorbisstr"]
+source_file="res://audio/se/cries/XATU.ogg"
+dest_files=["res://.godot/imported/XATU.ogg-00d20fd7d2961dbfd228104029b3ac54.oggvorbisstr"]
 
 [params]
 

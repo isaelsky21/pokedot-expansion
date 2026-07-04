@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://gr33b3txtlpp"
-path="res://.godot/imported/PRSFX- Crabhammer.wav-fdf3f4acb3008d0b0737b1667282d879.sample"
+path="res://.godot/imported/PRSFX- Crabhammer.wav-b3c3bb3e3f1de0719b8b7735a6f193e4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Crabhammer.wav"
-dest_files=["res://.godot/imported/PRSFX- Crabhammer.wav-fdf3f4acb3008d0b0737b1667282d879.sample"]
+source_file="res://audio/se/anim/PRSFX- Crabhammer.wav"
+dest_files=["res://.godot/imported/PRSFX- Crabhammer.wav-b3c3bb3e3f1de0719b8b7735a6f193e4.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dxktsplj8hsci"
-path="res://.godot/imported/PRSFX- Double Edge1.wav-6370ca71df3554f3a20f581a2630bcc1.sample"
+path="res://.godot/imported/PRSFX- Double Edge1.wav-ed0e342bb2deff9d23e66963ed100495.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Double Edge1.wav"
-dest_files=["res://.godot/imported/PRSFX- Double Edge1.wav-6370ca71df3554f3a20f581a2630bcc1.sample"]
+source_file="res://audio/se/anim/PRSFX- Double Edge1.wav"
+dest_files=["res://.godot/imported/PRSFX- Double Edge1.wav-ed0e342bb2deff9d23e66963ed100495.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bq7w3mhwjbc8f"
-path="res://.godot/imported/CONKELDURR.ogg-fe84d28fad5419cc0ca88330ce5b75c7.oggvorbisstr"
+path="res://.godot/imported/CONKELDURR.ogg-df3d65bfe9e869bbd8a6c3cc4b1d634e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CONKELDURR.ogg"
-dest_files=["res://.godot/imported/CONKELDURR.ogg-fe84d28fad5419cc0ca88330ce5b75c7.oggvorbisstr"]
+source_file="res://audio/se/cries/CONKELDURR.ogg"
+dest_files=["res://.godot/imported/CONKELDURR.ogg-df3d65bfe9e869bbd8a6c3cc4b1d634e.oggvorbisstr"]
 
 [params]
 

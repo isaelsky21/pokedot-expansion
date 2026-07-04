@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cic1r83bt51e7"
-path="res://.godot/imported/PRSFX- Flame Wheel1.wav-95867bf5ee63fda6d1babdd8c93e4374.sample"
+path="res://.godot/imported/PRSFX- Flame Wheel1.wav-acd80c7718d501055b9e5439ef94baf7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Flame Wheel1.wav"
-dest_files=["res://.godot/imported/PRSFX- Flame Wheel1.wav-95867bf5ee63fda6d1babdd8c93e4374.sample"]
+source_file="res://audio/se/anim/PRSFX- Flame Wheel1.wav"
+dest_files=["res://.godot/imported/PRSFX- Flame Wheel1.wav-acd80c7718d501055b9e5439ef94baf7.sample"]
 
 [params]
 

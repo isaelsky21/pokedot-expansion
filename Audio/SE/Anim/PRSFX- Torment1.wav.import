@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c2ouha1l6bmp0"
-path="res://.godot/imported/PRSFX- Torment1.wav-e147babeca866be2f04a33a61b7b78ea.sample"
+path="res://.godot/imported/PRSFX- Torment1.wav-fe4d48bbac818bc22090d0341f614893.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Torment1.wav"
-dest_files=["res://.godot/imported/PRSFX- Torment1.wav-e147babeca866be2f04a33a61b7b78ea.sample"]
+source_file="res://audio/se/anim/PRSFX- Torment1.wav"
+dest_files=["res://.godot/imported/PRSFX- Torment1.wav-fe4d48bbac818bc22090d0341f614893.sample"]
 
 [params]
 

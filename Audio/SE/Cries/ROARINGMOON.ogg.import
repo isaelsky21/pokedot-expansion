@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cdves7rc2ams5"
-path="res://.godot/imported/ROARINGMOON.ogg-9a9595b9bbf48c2b49b316824b95f7e2.oggvorbisstr"
+path="res://.godot/imported/ROARINGMOON.ogg-9a97181ae262c5d91435fd00c6bb680c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ROARINGMOON.ogg"
-dest_files=["res://.godot/imported/ROARINGMOON.ogg-9a9595b9bbf48c2b49b316824b95f7e2.oggvorbisstr"]
+source_file="res://audio/se/cries/ROARINGMOON.ogg"
+dest_files=["res://.godot/imported/ROARINGMOON.ogg-9a97181ae262c5d91435fd00c6bb680c.oggvorbisstr"]
 
 [params]
 

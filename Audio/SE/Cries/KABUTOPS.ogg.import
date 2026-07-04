@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bs0vhp75l318f"
-path="res://.godot/imported/KABUTOPS.ogg-a073da1a807962f4548b948d1f38f8ba.oggvorbisstr"
+path="res://.godot/imported/KABUTOPS.ogg-a805602c0dfeb8104d582b1e6c5027d1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KABUTOPS.ogg"
-dest_files=["res://.godot/imported/KABUTOPS.ogg-a073da1a807962f4548b948d1f38f8ba.oggvorbisstr"]
+source_file="res://audio/se/cries/KABUTOPS.ogg"
+dest_files=["res://.godot/imported/KABUTOPS.ogg-a805602c0dfeb8104d582b1e6c5027d1.oggvorbisstr"]
 
 [params]
 

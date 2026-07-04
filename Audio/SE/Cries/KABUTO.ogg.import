@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0lni10gcsu8l"
-path="res://.godot/imported/KABUTO.ogg-acb3fa75eea1ccba50ed62796280ef9c.oggvorbisstr"
+path="res://.godot/imported/KABUTO.ogg-9820c444e41262e7c6d2ce3ab5c1af91.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KABUTO.ogg"
-dest_files=["res://.godot/imported/KABUTO.ogg-acb3fa75eea1ccba50ed62796280ef9c.oggvorbisstr"]
+source_file="res://audio/se/cries/KABUTO.ogg"
+dest_files=["res://.godot/imported/KABUTO.ogg-9820c444e41262e7c6d2ce3ab5c1af91.oggvorbisstr"]
 
 [params]
 

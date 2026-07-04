@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d06prkofvba4y"
-path="res://.godot/imported/PRSFX- Power Up Punch1.wav-1b8960cf2d15b093a74ecd81b4e7b03b.sample"
+path="res://.godot/imported/PRSFX- Power Up Punch1.wav-d2e60758ccb29861e7cb67a1e4a645d6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Power Up Punch1.wav"
-dest_files=["res://.godot/imported/PRSFX- Power Up Punch1.wav-1b8960cf2d15b093a74ecd81b4e7b03b.sample"]
+source_file="res://audio/se/anim/PRSFX- Power Up Punch1.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Up Punch1.wav-d2e60758ccb29861e7cb67a1e4a645d6.sample"]
 
 [params]
 

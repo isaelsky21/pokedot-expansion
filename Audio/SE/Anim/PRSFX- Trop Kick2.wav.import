@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dharkhe6f45x4"
-path="res://.godot/imported/PRSFX- Trop Kick2.wav-a3183149d68639756153f0be10371366.sample"
+path="res://.godot/imported/PRSFX- Trop Kick2.wav-819790b81dc7686d595453c3c8cc3b4f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Trop Kick2.wav"
-dest_files=["res://.godot/imported/PRSFX- Trop Kick2.wav-a3183149d68639756153f0be10371366.sample"]
+source_file="res://audio/se/anim/PRSFX- Trop Kick2.wav"
+dest_files=["res://.godot/imported/PRSFX- Trop Kick2.wav-819790b81dc7686d595453c3c8cc3b4f.sample"]
 
 [params]
 

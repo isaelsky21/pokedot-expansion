@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://4hd8v3cm0jd1"
-path="res://.godot/imported/PRSFX- Oblivion Wing1.wav-5396bc9649860f13b82b18ced12bff76.sample"
+path="res://.godot/imported/PRSFX- Oblivion Wing1.wav-c20f347a01fa7f8c2670a1f66f62a3e8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Oblivion Wing1.wav"
-dest_files=["res://.godot/imported/PRSFX- Oblivion Wing1.wav-5396bc9649860f13b82b18ced12bff76.sample"]
+source_file="res://audio/se/anim/PRSFX- Oblivion Wing1.wav"
+dest_files=["res://.godot/imported/PRSFX- Oblivion Wing1.wav-c20f347a01fa7f8c2670a1f66f62a3e8.sample"]
 
 [params]
 

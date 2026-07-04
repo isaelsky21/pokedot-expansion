@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqchbrvcbasy7"
-path="res://.godot/imported/QUAQUAVAL.ogg-3aadfd711889d521cddabb205abe55db.oggvorbisstr"
+path="res://.godot/imported/QUAQUAVAL.ogg-bfa908ece91f9a329e065459ec5d8054.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/QUAQUAVAL.ogg"
-dest_files=["res://.godot/imported/QUAQUAVAL.ogg-3aadfd711889d521cddabb205abe55db.oggvorbisstr"]
+source_file="res://audio/se/cries/QUAQUAVAL.ogg"
+dest_files=["res://.godot/imported/QUAQUAVAL.ogg-bfa908ece91f9a329e065459ec5d8054.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c88yjge6v60sj"
-path="res://.godot/imported/TOXTRICITY.ogg-0710f505daf944aed5a31215d7783dec.oggvorbisstr"
+path="res://.godot/imported/TOXTRICITY.ogg-c3a211f409892007eca21be63c80ffb5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TOXTRICITY.ogg"
-dest_files=["res://.godot/imported/TOXTRICITY.ogg-0710f505daf944aed5a31215d7783dec.oggvorbisstr"]
+source_file="res://audio/se/cries/TOXTRICITY.ogg"
+dest_files=["res://.godot/imported/TOXTRICITY.ogg-c3a211f409892007eca21be63c80ffb5.oggvorbisstr"]
 
 [params]
 

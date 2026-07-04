@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cp32ahfm24wbu"
-path="res://.godot/imported/RAIKOU.ogg-e78eba9318427e6828c849dfd14fea2a.oggvorbisstr"
+path="res://.godot/imported/RAIKOU.ogg-d0249c9f73016dbb4a3b139474693828.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RAIKOU.ogg"
-dest_files=["res://.godot/imported/RAIKOU.ogg-e78eba9318427e6828c849dfd14fea2a.oggvorbisstr"]
+source_file="res://audio/se/cries/RAIKOU.ogg"
+dest_files=["res://.godot/imported/RAIKOU.ogg-d0249c9f73016dbb4a3b139474693828.oggvorbisstr"]
 
 [params]
 

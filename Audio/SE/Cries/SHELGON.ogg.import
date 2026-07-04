@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cgtc8cn5g2vyi"
-path="res://.godot/imported/SHELGON.ogg-7384ae3d44641052d6d8583ff366e391.oggvorbisstr"
+path="res://.godot/imported/SHELGON.ogg-35fa8b1ff8343f3ec0a51a97dd1941d4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHELGON.ogg"
-dest_files=["res://.godot/imported/SHELGON.ogg-7384ae3d44641052d6d8583ff366e391.oggvorbisstr"]
+source_file="res://audio/se/cries/SHELGON.ogg"
+dest_files=["res://.godot/imported/SHELGON.ogg-35fa8b1ff8343f3ec0a51a97dd1941d4.oggvorbisstr"]
 
 [params]
 

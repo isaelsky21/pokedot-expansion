@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d0a1gwmdc4sbk"
-path="res://.godot/imported/PRSFX- Octazooka.wav-ec1fef60f309924c0a44f204ac7d1687.sample"
+path="res://.godot/imported/PRSFX- Octazooka.wav-72d67f5c928a6f057862d964440cb227.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Octazooka.wav"
-dest_files=["res://.godot/imported/PRSFX- Octazooka.wav-ec1fef60f309924c0a44f204ac7d1687.sample"]
+source_file="res://audio/se/anim/PRSFX- Octazooka.wav"
+dest_files=["res://.godot/imported/PRSFX- Octazooka.wav-72d67f5c928a6f057862d964440cb227.sample"]
 
 [params]
 

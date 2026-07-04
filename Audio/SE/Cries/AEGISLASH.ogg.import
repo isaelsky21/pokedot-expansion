@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://di5nqix3hyw6k"
-path="res://.godot/imported/AEGISLASH.ogg-e9a2a97218d8f51c4b89749d06f46cfe.oggvorbisstr"
+path="res://.godot/imported/AEGISLASH.ogg-b6c3ed720513fcbecbdc05e08a063299.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AEGISLASH.ogg"
-dest_files=["res://.godot/imported/AEGISLASH.ogg-e9a2a97218d8f51c4b89749d06f46cfe.oggvorbisstr"]
+source_file="res://audio/se/cries/AEGISLASH.ogg"
+dest_files=["res://.godot/imported/AEGISLASH.ogg-b6c3ed720513fcbecbdc05e08a063299.oggvorbisstr"]
 
 [params]
 

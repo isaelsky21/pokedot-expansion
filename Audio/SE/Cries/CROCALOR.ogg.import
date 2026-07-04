@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bgf1fhgbd1hpv"
-path="res://.godot/imported/CROCALOR.ogg-fff78c26a320c6e5d53c9cdb7d31506c.oggvorbisstr"
+path="res://.godot/imported/CROCALOR.ogg-ddae9aa4e61d6d55a51f6160c3366288.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CROCALOR.ogg"
-dest_files=["res://.godot/imported/CROCALOR.ogg-fff78c26a320c6e5d53c9cdb7d31506c.oggvorbisstr"]
+source_file="res://audio/se/cries/CROCALOR.ogg"
+dest_files=["res://.godot/imported/CROCALOR.ogg-ddae9aa4e61d6d55a51f6160c3366288.oggvorbisstr"]
 
 [params]
 

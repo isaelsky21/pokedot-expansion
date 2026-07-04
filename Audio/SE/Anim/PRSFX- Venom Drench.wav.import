@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cja5r1hydkfap"
-path="res://.godot/imported/PRSFX- Venom Drench.wav-62c0c735779566b2aece11ff086deab4.sample"
+path="res://.godot/imported/PRSFX- Venom Drench.wav-1d59365b3d1a64e063f419d183610f95.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Venom Drench.wav"
-dest_files=["res://.godot/imported/PRSFX- Venom Drench.wav-62c0c735779566b2aece11ff086deab4.sample"]
+source_file="res://audio/se/anim/PRSFX- Venom Drench.wav"
+dest_files=["res://.godot/imported/PRSFX- Venom Drench.wav-1d59365b3d1a64e063f419d183610f95.sample"]
 
 [params]
 

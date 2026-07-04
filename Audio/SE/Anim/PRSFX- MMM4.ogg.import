@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://biilherpa4r6l"
-path="res://.godot/imported/PRSFX- MMM4.ogg-7ca79ab743a3a2f7fd0803b9c2fd3558.oggvorbisstr"
+path="res://.godot/imported/PRSFX- MMM4.ogg-e02441fc87103c9110a44766c5b281bb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- MMM4.ogg"
-dest_files=["res://.godot/imported/PRSFX- MMM4.ogg-7ca79ab743a3a2f7fd0803b9c2fd3558.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- MMM4.ogg"
+dest_files=["res://.godot/imported/PRSFX- MMM4.ogg-e02441fc87103c9110a44766c5b281bb.oggvorbisstr"]
 
 [params]
 

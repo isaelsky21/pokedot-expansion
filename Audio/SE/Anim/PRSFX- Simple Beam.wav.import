@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dlt6e1lbctmfo"
-path="res://.godot/imported/PRSFX- Simple Beam.wav-d53899eaa623746a62ebd3aa28c5d3cc.sample"
+path="res://.godot/imported/PRSFX- Simple Beam.wav-4dac0fc9e87a55e56e3136eec1b39fcf.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Simple Beam.wav"
-dest_files=["res://.godot/imported/PRSFX- Simple Beam.wav-d53899eaa623746a62ebd3aa28c5d3cc.sample"]
+source_file="res://audio/se/anim/PRSFX- Simple Beam.wav"
+dest_files=["res://.godot/imported/PRSFX- Simple Beam.wav-4dac0fc9e87a55e56e3136eec1b39fcf.sample"]
 
 [params]
 

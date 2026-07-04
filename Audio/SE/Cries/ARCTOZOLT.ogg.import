@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dx32dfyvkhpyb"
-path="res://.godot/imported/ARCTOZOLT.ogg-62d26ca4335c384af64083db8cf2f06e.oggvorbisstr"
+path="res://.godot/imported/ARCTOZOLT.ogg-4f59fa5b8011013b050aec012909acc4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARCTOZOLT.ogg"
-dest_files=["res://.godot/imported/ARCTOZOLT.ogg-62d26ca4335c384af64083db8cf2f06e.oggvorbisstr"]
+source_file="res://audio/se/cries/ARCTOZOLT.ogg"
+dest_files=["res://.godot/imported/ARCTOZOLT.ogg-4f59fa5b8011013b050aec012909acc4.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5eni52nso3me"
-path="res://.godot/imported/PALKIA.ogg-9ee566a8c1e099aa21157ccff7d1d9f7.oggvorbisstr"
+path="res://.godot/imported/PALKIA.ogg-4f16440063cd092340c99b7d78965cce.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PALKIA.ogg"
-dest_files=["res://.godot/imported/PALKIA.ogg-9ee566a8c1e099aa21157ccff7d1d9f7.oggvorbisstr"]
+source_file="res://audio/se/cries/PALKIA.ogg"
+dest_files=["res://.godot/imported/PALKIA.ogg-4f16440063cd092340c99b7d78965cce.oggvorbisstr"]
 
 [params]
 

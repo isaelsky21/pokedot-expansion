@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bopl72x4qe0df"
-path="res://.godot/imported/Mega Punch.ogg-54d1f57450c07ecebf9f5206d34aaab2.oggvorbisstr"
+path="res://.godot/imported/Mega Punch.ogg-7daa23c8fc3bce4885f07111633a67f6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Mega Punch.ogg"
-dest_files=["res://.godot/imported/Mega Punch.ogg-54d1f57450c07ecebf9f5206d34aaab2.oggvorbisstr"]
+source_file="res://audio/se/anim/Mega Punch.ogg"
+dest_files=["res://.godot/imported/Mega Punch.ogg-7daa23c8fc3bce4885f07111633a67f6.oggvorbisstr"]
 
 [params]
 

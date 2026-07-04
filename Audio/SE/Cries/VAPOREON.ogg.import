@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cyfn3mpddeayl"
-path="res://.godot/imported/VAPOREON.ogg-f2122c054933ee2803c545841e160775.oggvorbisstr"
+path="res://.godot/imported/VAPOREON.ogg-6608a42cf425843d5f7e4eb719d7048f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VAPOREON.ogg"
-dest_files=["res://.godot/imported/VAPOREON.ogg-f2122c054933ee2803c545841e160775.oggvorbisstr"]
+source_file="res://audio/se/cries/VAPOREON.ogg"
+dest_files=["res://.godot/imported/VAPOREON.ogg-6608a42cf425843d5f7e4eb719d7048f.oggvorbisstr"]
 
 [params]
 

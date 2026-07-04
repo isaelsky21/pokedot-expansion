@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bnqo4h2v8fj51"
-path="res://.godot/imported/DOTTLER.ogg-15130b162f0328ae1074094cc2de6dbc.oggvorbisstr"
+path="res://.godot/imported/DOTTLER.ogg-aead50542f78199cbec6b391fe522e20.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DOTTLER.ogg"
-dest_files=["res://.godot/imported/DOTTLER.ogg-15130b162f0328ae1074094cc2de6dbc.oggvorbisstr"]
+source_file="res://audio/se/cries/DOTTLER.ogg"
+dest_files=["res://.godot/imported/DOTTLER.ogg-aead50542f78199cbec6b391fe522e20.oggvorbisstr"]
 
 [params]
 

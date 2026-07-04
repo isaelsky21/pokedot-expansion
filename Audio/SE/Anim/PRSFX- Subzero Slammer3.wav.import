@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b6wqfrk2kroil"
-path="res://.godot/imported/PRSFX- Subzero Slammer3.wav-fa019688de2bb575d49814af6cad9c0b.sample"
+path="res://.godot/imported/PRSFX- Subzero Slammer3.wav-71786926ee83ad346f704af9ca0765a4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Subzero Slammer3.wav"
-dest_files=["res://.godot/imported/PRSFX- Subzero Slammer3.wav-fa019688de2bb575d49814af6cad9c0b.sample"]
+source_file="res://audio/se/anim/PRSFX- Subzero Slammer3.wav"
+dest_files=["res://.godot/imported/PRSFX- Subzero Slammer3.wav-71786926ee83ad346f704af9ca0765a4.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c3vi0rtb7rdpo"
-path="res://.godot/imported/QWILFISH.ogg-e5acc9e66ed32a3bd32717fd932d36e9.oggvorbisstr"
+path="res://.godot/imported/QWILFISH.ogg-e4c9a1867b9eb89e19d34dae1b8ee34a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/QWILFISH.ogg"
-dest_files=["res://.godot/imported/QWILFISH.ogg-e5acc9e66ed32a3bd32717fd932d36e9.oggvorbisstr"]
+source_file="res://audio/se/cries/QWILFISH.ogg"
+dest_files=["res://.godot/imported/QWILFISH.ogg-e4c9a1867b9eb89e19d34dae1b8ee34a.oggvorbisstr"]
 
 [params]
 

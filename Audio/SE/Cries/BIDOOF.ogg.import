@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bbvvk6mpb7kj2"
-path="res://.godot/imported/BIDOOF.ogg-44ff9dddc030230d7e41c871b22defbe.oggvorbisstr"
+path="res://.godot/imported/BIDOOF.ogg-74fa2f5653b5e85b0646a7665e05e397.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BIDOOF.ogg"
-dest_files=["res://.godot/imported/BIDOOF.ogg-44ff9dddc030230d7e41c871b22defbe.oggvorbisstr"]
+source_file="res://audio/se/cries/BIDOOF.ogg"
+dest_files=["res://.godot/imported/BIDOOF.ogg-74fa2f5653b5e85b0646a7665e05e397.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://1jha8xjld2vd"
-path="res://.godot/imported/Vice Grip.ogg-7cce6f8077811ba318d1dd626c0e9418.oggvorbisstr"
+path="res://.godot/imported/Vice Grip.ogg-290c659574c1182e447f9d2fbd9a6865.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Vice Grip.ogg"
-dest_files=["res://.godot/imported/Vice Grip.ogg-7cce6f8077811ba318d1dd626c0e9418.oggvorbisstr"]
+source_file="res://audio/se/anim/Vice Grip.ogg"
+dest_files=["res://.godot/imported/Vice Grip.ogg-290c659574c1182e447f9d2fbd9a6865.oggvorbisstr"]
 
 [params]
 

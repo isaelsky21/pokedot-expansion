@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://br3ma7epqcetf"
-path="res://.godot/imported/PRSFX- Thunder Punch1.wav-026f4a542212548acd7fdf0b2916872a.sample"
+path="res://.godot/imported/PRSFX- Thunder Punch1.wav-134fcf1bdb7a339253c66f0f30b61351.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thunder Punch1.wav"
-dest_files=["res://.godot/imported/PRSFX- Thunder Punch1.wav-026f4a542212548acd7fdf0b2916872a.sample"]
+source_file="res://audio/se/anim/PRSFX- Thunder Punch1.wav"
+dest_files=["res://.godot/imported/PRSFX- Thunder Punch1.wav-134fcf1bdb7a339253c66f0f30b61351.sample"]
 
 [params]
 

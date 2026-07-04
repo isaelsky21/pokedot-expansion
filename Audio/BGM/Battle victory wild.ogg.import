@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://co5qgbo84lres"
-path="res://.godot/imported/Battle victory wild.ogg-325b1ab6725b9bfd7f39d7c6b80b178b.oggvorbisstr"
+path="res://.godot/imported/Battle victory wild.ogg-d57b7d031cf0cc908e7a1263fec554ba.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle victory wild.ogg"
-dest_files=["res://.godot/imported/Battle victory wild.ogg-325b1ab6725b9bfd7f39d7c6b80b178b.oggvorbisstr"]
+source_file="res://audio/bgm/Battle victory wild.ogg"
+dest_files=["res://.godot/imported/Battle victory wild.ogg-d57b7d031cf0cc908e7a1263fec554ba.oggvorbisstr"]
 
 [params]
 

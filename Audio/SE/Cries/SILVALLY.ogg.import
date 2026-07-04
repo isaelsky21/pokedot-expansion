@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vfty721tydgt"
-path="res://.godot/imported/SILVALLY.ogg-8630b7595d14d3ad2c96a97214960cb7.oggvorbisstr"
+path="res://.godot/imported/SILVALLY.ogg-f70bad27af4be32236bfa63d4a6c1cd0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SILVALLY.ogg"
-dest_files=["res://.godot/imported/SILVALLY.ogg-8630b7595d14d3ad2c96a97214960cb7.oggvorbisstr"]
+source_file="res://audio/se/cries/SILVALLY.ogg"
+dest_files=["res://.godot/imported/SILVALLY.ogg-f70bad27af4be32236bfa63d4a6c1cd0.oggvorbisstr"]
 
 [params]
 

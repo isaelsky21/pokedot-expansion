@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dee2fi8b7afho"
-path="res://.godot/imported/PRSFX- Smart Strike4.wav-1c53670ab2b887dbed3b0286a3dd4487.sample"
+path="res://.godot/imported/PRSFX- Smart Strike4.wav-c3865deb1ed3e11bef540dc895a57cd3.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Smart Strike4.wav"
-dest_files=["res://.godot/imported/PRSFX- Smart Strike4.wav-1c53670ab2b887dbed3b0286a3dd4487.sample"]
+source_file="res://audio/se/anim/PRSFX- Smart Strike4.wav"
+dest_files=["res://.godot/imported/PRSFX- Smart Strike4.wav-c3865deb1ed3e11bef540dc895a57cd3.sample"]
 
 [params]
 

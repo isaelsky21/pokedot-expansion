@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dg4v70b38whav"
-path="res://.godot/imported/PRSFX- Dizzy Punch2.wav-b6bd5f044f0d1c1a6bae1239f79ba79f.sample"
+path="res://.godot/imported/PRSFX- Dizzy Punch2.wav-14f1f1986f4d99b70ff4124dd713d5ed.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dizzy Punch2.wav"
-dest_files=["res://.godot/imported/PRSFX- Dizzy Punch2.wav-b6bd5f044f0d1c1a6bae1239f79ba79f.sample"]
+source_file="res://audio/se/anim/PRSFX- Dizzy Punch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Dizzy Punch2.wav-14f1f1986f4d99b70ff4124dd713d5ed.sample"]
 
 [params]
 

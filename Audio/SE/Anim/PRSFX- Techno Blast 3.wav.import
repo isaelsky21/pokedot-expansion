@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cs13l7hw5tyo8"
-path="res://.godot/imported/PRSFX- Techno Blast 3.wav-02135ed3e8473d7b8a3aec54716d1884.sample"
+path="res://.godot/imported/PRSFX- Techno Blast 3.wav-18064a4255b153137928a0cbf125afcf.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Techno Blast 3.wav"
-dest_files=["res://.godot/imported/PRSFX- Techno Blast 3.wav-02135ed3e8473d7b8a3aec54716d1884.sample"]
+source_file="res://audio/se/anim/PRSFX- Techno Blast 3.wav"
+dest_files=["res://.godot/imported/PRSFX- Techno Blast 3.wav-18064a4255b153137928a0cbf125afcf.sample"]
 
 [params]
 

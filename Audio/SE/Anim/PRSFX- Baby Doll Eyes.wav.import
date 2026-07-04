@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ddgcfi6yp1tc1"
-path="res://.godot/imported/PRSFX- Baby Doll Eyes.wav-98d8cca7794d562f232263ed89026ef1.sample"
+path="res://.godot/imported/PRSFX- Baby Doll Eyes.wav-862b5c687445bd2cbc681be435e7cf6d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Baby Doll Eyes.wav"
-dest_files=["res://.godot/imported/PRSFX- Baby Doll Eyes.wav-98d8cca7794d562f232263ed89026ef1.sample"]
+source_file="res://audio/se/anim/PRSFX- Baby Doll Eyes.wav"
+dest_files=["res://.godot/imported/PRSFX- Baby Doll Eyes.wav-862b5c687445bd2cbc681be435e7cf6d.sample"]
 
 [params]
 

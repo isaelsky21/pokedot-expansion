@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://37urdf66umbp"
-path="res://.godot/imported/PRSFX- Shadow Claw1.wav-11e11b39adec91f585867ae2a3aeb3e8.sample"
+path="res://.godot/imported/PRSFX- Shadow Claw1.wav-d11e4102236661b6ae8c7ff22ad011f3.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shadow Claw1.wav"
-dest_files=["res://.godot/imported/PRSFX- Shadow Claw1.wav-11e11b39adec91f585867ae2a3aeb3e8.sample"]
+source_file="res://audio/se/anim/PRSFX- Shadow Claw1.wav"
+dest_files=["res://.godot/imported/PRSFX- Shadow Claw1.wav-d11e4102236661b6ae8c7ff22ad011f3.sample"]
 
 [params]
 

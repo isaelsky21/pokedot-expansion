@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://pvab0vkrrp0p"
-path="res://.godot/imported/Bicycle_n.wav-04b03beeb5862dfa58507f3a4fb49227.sample"
+path="res://.godot/imported/Bicycle_n.wav-26a1e1bf9b07fe0cb78b25fbec60d188.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Bicycle_n.wav"
-dest_files=["res://.godot/imported/Bicycle_n.wav-04b03beeb5862dfa58507f3a4fb49227.sample"]
+source_file="res://audio/bgm/Bicycle_n.wav"
+dest_files=["res://.godot/imported/Bicycle_n.wav-26a1e1bf9b07fe0cb78b25fbec60d188.sample"]
 
 [params]
 

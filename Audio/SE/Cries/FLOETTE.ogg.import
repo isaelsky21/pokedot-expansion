@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qtio6itq2dqo"
-path="res://.godot/imported/FLOETTE.ogg-c35eee734cb1487dd6e09be96eb41610.oggvorbisstr"
+path="res://.godot/imported/FLOETTE.ogg-d022e5a97cde0d33e1944008e3eb35bf.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLOETTE.ogg"
-dest_files=["res://.godot/imported/FLOETTE.ogg-c35eee734cb1487dd6e09be96eb41610.oggvorbisstr"]
+source_file="res://audio/se/cries/FLOETTE.ogg"
+dest_files=["res://.godot/imported/FLOETTE.ogg-d022e5a97cde0d33e1944008e3eb35bf.oggvorbisstr"]
 
 [params]
 

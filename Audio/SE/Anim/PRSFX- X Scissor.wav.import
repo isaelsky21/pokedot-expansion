@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bs8irbxrxbnuk"
-path="res://.godot/imported/PRSFX- X Scissor.wav-8481a1ba4c7e86419bae79decd541343.sample"
+path="res://.godot/imported/PRSFX- X Scissor.wav-c22f6a7487a8c79df4f92b0a3d78452f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- X Scissor.wav"
-dest_files=["res://.godot/imported/PRSFX- X Scissor.wav-8481a1ba4c7e86419bae79decd541343.sample"]
+source_file="res://audio/se/anim/PRSFX- X Scissor.wav"
+dest_files=["res://.godot/imported/PRSFX- X Scissor.wav-c22f6a7487a8c79df4f92b0a3d78452f.sample"]
 
 [params]
 

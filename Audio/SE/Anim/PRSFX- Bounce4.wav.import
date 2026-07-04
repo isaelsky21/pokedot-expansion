@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://daylvtkd04xp5"
-path="res://.godot/imported/PRSFX- Bounce4.wav-af786516671ab2189df688a74f064890.sample"
+path="res://.godot/imported/PRSFX- Bounce4.wav-46d8f884edff40c8e6bf8e898c5515c6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bounce4.wav"
-dest_files=["res://.godot/imported/PRSFX- Bounce4.wav-af786516671ab2189df688a74f064890.sample"]
+source_file="res://audio/se/anim/PRSFX- Bounce4.wav"
+dest_files=["res://.godot/imported/PRSFX- Bounce4.wav-46d8f884edff40c8e6bf8e898c5515c6.sample"]
 
 [params]
 

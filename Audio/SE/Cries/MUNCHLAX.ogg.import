@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://da1rocea73rbr"
-path="res://.godot/imported/MUNCHLAX.ogg-dc32020eaac44cbff243b3b5ab13634d.oggvorbisstr"
+path="res://.godot/imported/MUNCHLAX.ogg-db7cf498e52d375f4ede4aeb657ad24c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MUNCHLAX.ogg"
-dest_files=["res://.godot/imported/MUNCHLAX.ogg-dc32020eaac44cbff243b3b5ab13634d.oggvorbisstr"]
+source_file="res://audio/se/cries/MUNCHLAX.ogg"
+dest_files=["res://.godot/imported/MUNCHLAX.ogg-db7cf498e52d375f4ede4aeb657ad24c.oggvorbisstr"]
 
 [params]
 

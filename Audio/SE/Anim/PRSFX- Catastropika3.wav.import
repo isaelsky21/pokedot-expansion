@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dec7vp4ygveol"
-path="res://.godot/imported/PRSFX- Catastropika3.wav-4823adb550bf2bcd7aba0172d413ca7f.sample"
+path="res://.godot/imported/PRSFX- Catastropika3.wav-1e6123f101f6cfdcd54f4a6ce3bf3417.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Catastropika3.wav"
-dest_files=["res://.godot/imported/PRSFX- Catastropika3.wav-4823adb550bf2bcd7aba0172d413ca7f.sample"]
+source_file="res://audio/se/anim/PRSFX- Catastropika3.wav"
+dest_files=["res://.godot/imported/PRSFX- Catastropika3.wav-1e6123f101f6cfdcd54f4a6ce3bf3417.sample"]
 
 [params]
 

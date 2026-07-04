@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dqiuldj3kbo86"
-path="res://.godot/imported/AGGRON_1.ogg-ba4032829455e152640ac047efca4849.oggvorbisstr"
+path="res://.godot/imported/AGGRON_1.ogg-560f0e19f94912252b3c008e92b12c74.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AGGRON_1.ogg"
-dest_files=["res://.godot/imported/AGGRON_1.ogg-ba4032829455e152640ac047efca4849.oggvorbisstr"]
+source_file="res://audio/se/cries/AGGRON_1.ogg"
+dest_files=["res://.godot/imported/AGGRON_1.ogg-560f0e19f94912252b3c008e92b12c74.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3is8081wkj08"
-path="res://.godot/imported/SLITHERWING.ogg-50be01f6c29045056aa73478f8d9bd77.oggvorbisstr"
+path="res://.godot/imported/SLITHERWING.ogg-a7cffd0420681e4f049373274f0431a1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SLITHERWING.ogg"
-dest_files=["res://.godot/imported/SLITHERWING.ogg-50be01f6c29045056aa73478f8d9bd77.oggvorbisstr"]
+source_file="res://audio/se/cries/SLITHERWING.ogg"
+dest_files=["res://.godot/imported/SLITHERWING.ogg-a7cffd0420681e4f049373274f0431a1.oggvorbisstr"]
 
 [params]
 

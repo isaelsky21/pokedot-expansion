@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cv0oomktw4lk7"
-path="res://.godot/imported/MAGMAR.ogg-f56b518d040c6a044cfcab97aa6bd76e.oggvorbisstr"
+path="res://.godot/imported/MAGMAR.ogg-136a2d618b2d7b9aa2e8ce398b53200b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAGMAR.ogg"
-dest_files=["res://.godot/imported/MAGMAR.ogg-f56b518d040c6a044cfcab97aa6bd76e.oggvorbisstr"]
+source_file="res://audio/se/cries/MAGMAR.ogg"
+dest_files=["res://.godot/imported/MAGMAR.ogg-136a2d618b2d7b9aa2e8ce398b53200b.oggvorbisstr"]
 
 [params]
 

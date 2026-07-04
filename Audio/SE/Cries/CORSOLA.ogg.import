@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://nhtqkwlt23si"
-path="res://.godot/imported/CORSOLA.ogg-349207f0dade62fbf34270a0c30f806d.oggvorbisstr"
+path="res://.godot/imported/CORSOLA.ogg-2a0887ed1a0ddb195b6ca3ac3836e236.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CORSOLA.ogg"
-dest_files=["res://.godot/imported/CORSOLA.ogg-349207f0dade62fbf34270a0c30f806d.oggvorbisstr"]
+source_file="res://audio/se/cries/CORSOLA.ogg"
+dest_files=["res://.godot/imported/CORSOLA.ogg-2a0887ed1a0ddb195b6ca3ac3836e236.oggvorbisstr"]
 
 [params]
 

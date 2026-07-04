@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://0qfxqslnisg3"
-path="res://.godot/imported/PRSFX- Focus Blast2.wav-d8c5de1be11caf08eb2c688565d82bd4.sample"
+path="res://.godot/imported/PRSFX- Focus Blast2.wav-486121403a845ed72b5f5d25fb16645a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Focus Blast2.wav"
-dest_files=["res://.godot/imported/PRSFX- Focus Blast2.wav-d8c5de1be11caf08eb2c688565d82bd4.sample"]
+source_file="res://audio/se/anim/PRSFX- Focus Blast2.wav"
+dest_files=["res://.godot/imported/PRSFX- Focus Blast2.wav-486121403a845ed72b5f5d25fb16645a.sample"]
 
 [params]
 

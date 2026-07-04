@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://d0pjxnpm5lsbm"
-path="res://.godot/imported/Smokescreen.mp3-42b45ce7ae43326ceabc76ec8ac5ce19.mp3str"
+path="res://.godot/imported/Smokescreen.mp3-c82c68603e27bd5cb918642454489411.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Smokescreen.mp3"
-dest_files=["res://.godot/imported/Smokescreen.mp3-42b45ce7ae43326ceabc76ec8ac5ce19.mp3str"]
+source_file="res://audio/se/anim/Smokescreen.mp3"
+dest_files=["res://.godot/imported/Smokescreen.mp3-c82c68603e27bd5cb918642454489411.mp3str"]
 
 [params]
 

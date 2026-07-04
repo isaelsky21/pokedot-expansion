@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6el11ux5oat6"
-path="res://.godot/imported/YVELTAL.ogg-4c05caaf853210eedf5a3b4bb198e1d4.oggvorbisstr"
+path="res://.godot/imported/YVELTAL.ogg-7c1bb6a49dc6ad5aa561400c988b80cb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/YVELTAL.ogg"
-dest_files=["res://.godot/imported/YVELTAL.ogg-4c05caaf853210eedf5a3b4bb198e1d4.oggvorbisstr"]
+source_file="res://audio/se/cries/YVELTAL.ogg"
+dest_files=["res://.godot/imported/YVELTAL.ogg-7c1bb6a49dc6ad5aa561400c988b80cb.oggvorbisstr"]
 
 [params]
 

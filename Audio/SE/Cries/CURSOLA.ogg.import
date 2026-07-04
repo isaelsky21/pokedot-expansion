@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://r6jthwjtqob0"
-path="res://.godot/imported/CURSOLA.ogg-50659a61401417cd45a18e76ae6bd7f4.oggvorbisstr"
+path="res://.godot/imported/CURSOLA.ogg-3b8100a2f96998934e78cd8195b5bf2c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CURSOLA.ogg"
-dest_files=["res://.godot/imported/CURSOLA.ogg-50659a61401417cd45a18e76ae6bd7f4.oggvorbisstr"]
+source_file="res://audio/se/cries/CURSOLA.ogg"
+dest_files=["res://.godot/imported/CURSOLA.ogg-3b8100a2f96998934e78cd8195b5bf2c.oggvorbisstr"]
 
 [params]
 

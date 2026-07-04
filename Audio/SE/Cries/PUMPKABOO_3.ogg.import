@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhvsb5oi778d6"
-path="res://.godot/imported/PUMPKABOO_3.ogg-dab163129d7c8d55394b8f663b2877ba.oggvorbisstr"
+path="res://.godot/imported/PUMPKABOO_3.ogg-62b161997b6de3344950af9f3a89be87.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PUMPKABOO_3.ogg"
-dest_files=["res://.godot/imported/PUMPKABOO_3.ogg-dab163129d7c8d55394b8f663b2877ba.oggvorbisstr"]
+source_file="res://audio/se/cries/PUMPKABOO_3.ogg"
+dest_files=["res://.godot/imported/PUMPKABOO_3.ogg-62b161997b6de3344950af9f3a89be87.oggvorbisstr"]
 
 [params]
 

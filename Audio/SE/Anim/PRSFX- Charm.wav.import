@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c0coomsct4wbo"
-path="res://.godot/imported/PRSFX- Charm.wav-aaa20498ff4951589de6cd304f8cbb4d.sample"
+path="res://.godot/imported/PRSFX- Charm.wav-25f84b8c7ba0ed301e8d93680f3b7555.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Charm.wav"
-dest_files=["res://.godot/imported/PRSFX- Charm.wav-aaa20498ff4951589de6cd304f8cbb4d.sample"]
+source_file="res://audio/se/anim/PRSFX- Charm.wav"
+dest_files=["res://.godot/imported/PRSFX- Charm.wav-25f84b8c7ba0ed301e8d93680f3b7555.sample"]
 
 [params]
 

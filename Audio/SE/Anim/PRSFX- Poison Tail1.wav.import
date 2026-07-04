@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://5pkp0r61xxet"
-path="res://.godot/imported/PRSFX- Poison Tail1.wav-e5b4197a336a192e8f0584c625f36e80.sample"
+path="res://.godot/imported/PRSFX- Poison Tail1.wav-cf0d9fb55a6829bc667303edfefff708.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Poison Tail1.wav"
-dest_files=["res://.godot/imported/PRSFX- Poison Tail1.wav-e5b4197a336a192e8f0584c625f36e80.sample"]
+source_file="res://audio/se/anim/PRSFX- Poison Tail1.wav"
+dest_files=["res://.godot/imported/PRSFX- Poison Tail1.wav-cf0d9fb55a6829bc667303edfefff708.sample"]
 
 [params]
 

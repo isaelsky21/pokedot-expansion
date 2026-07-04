@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c58o5ck1c1ida"
-path="res://.godot/imported/PRSFX- Flare Blitz3.wav-a26577ab11793c23790ccf7937e7a73e.sample"
+path="res://.godot/imported/PRSFX- Flare Blitz3.wav-9b3f2d48855c95922808ade2e1531f58.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Flare Blitz3.wav"
-dest_files=["res://.godot/imported/PRSFX- Flare Blitz3.wav-a26577ab11793c23790ccf7937e7a73e.sample"]
+source_file="res://audio/se/anim/PRSFX- Flare Blitz3.wav"
+dest_files=["res://.godot/imported/PRSFX- Flare Blitz3.wav-9b3f2d48855c95922808ade2e1531f58.sample"]
 
 [params]
 

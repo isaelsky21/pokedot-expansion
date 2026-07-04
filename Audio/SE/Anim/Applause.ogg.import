@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqs6g2jrktv1h"
-path="res://.godot/imported/Applause.ogg-3590fcad88baccdb2f86efa7df8c74b5.oggvorbisstr"
+path="res://.godot/imported/Applause.ogg-37487b01e12a47cd6d46812b82a5aee6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Applause.ogg"
-dest_files=["res://.godot/imported/Applause.ogg-3590fcad88baccdb2f86efa7df8c74b5.oggvorbisstr"]
+source_file="res://audio/se/anim/Applause.ogg"
+dest_files=["res://.godot/imported/Applause.ogg-37487b01e12a47cd6d46812b82a5aee6.oggvorbisstr"]
 
 [params]
 

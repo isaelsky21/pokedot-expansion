@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://je3v6ij4n0a2"
-path="res://.godot/imported/ZARUDE.ogg-b7e14ee87d955461e2be34f8920b4df1.oggvorbisstr"
+path="res://.godot/imported/ZARUDE.ogg-0b54829a04864b84d29bc1552fdbab4f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZARUDE.ogg"
-dest_files=["res://.godot/imported/ZARUDE.ogg-b7e14ee87d955461e2be34f8920b4df1.oggvorbisstr"]
+source_file="res://audio/se/cries/ZARUDE.ogg"
+dest_files=["res://.godot/imported/ZARUDE.ogg-0b54829a04864b84d29bc1552fdbab4f.oggvorbisstr"]
 
 [params]
 

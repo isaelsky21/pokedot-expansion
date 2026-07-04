@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://coc667eooplkd"
-path="res://.godot/imported/PRSFX- Ice Shard.wav-54817fa3275f96c7a0f72ef335b55100.sample"
+path="res://.godot/imported/PRSFX- Ice Shard.wav-44b90abeed6d2fe3de0239e0a68db846.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ice Shard.wav"
-dest_files=["res://.godot/imported/PRSFX- Ice Shard.wav-54817fa3275f96c7a0f72ef335b55100.sample"]
+source_file="res://audio/se/anim/PRSFX- Ice Shard.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Shard.wav-44b90abeed6d2fe3de0239e0a68db846.sample"]
 
 [params]
 

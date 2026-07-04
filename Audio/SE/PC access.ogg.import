@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dltcgohtcptm6"
-path="res://.godot/imported/PC access.ogg-654995b56a8782df78a30e1f3ab962ad.oggvorbisstr"
+path="res://.godot/imported/PC access.ogg-01fcc0023e1343fd76abeac500eaf213.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/PC access.ogg"
-dest_files=["res://.godot/imported/PC access.ogg-654995b56a8782df78a30e1f3ab962ad.oggvorbisstr"]
+source_file="res://audio/se/PC access.ogg"
+dest_files=["res://.godot/imported/PC access.ogg-01fcc0023e1343fd76abeac500eaf213.oggvorbisstr"]
 
 [params]
 

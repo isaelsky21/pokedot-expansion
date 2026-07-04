@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://157lur6elhql"
-path="res://.godot/imported/PRSFX- Noble Roar1.wav-03edadcf2c9aac178b3925f283cc7953.sample"
+path="res://.godot/imported/PRSFX- Noble Roar1.wav-f043b4686aa1fccab1c2fcb953d5fa46.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Noble Roar1.wav"
-dest_files=["res://.godot/imported/PRSFX- Noble Roar1.wav-03edadcf2c9aac178b3925f283cc7953.sample"]
+source_file="res://audio/se/anim/PRSFX- Noble Roar1.wav"
+dest_files=["res://.godot/imported/PRSFX- Noble Roar1.wav-f043b4686aa1fccab1c2fcb953d5fa46.sample"]
 
 [params]
 

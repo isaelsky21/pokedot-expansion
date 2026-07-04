@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dovmewbuvy1hs"
-path="res://.godot/imported/PRSFX- Spiky Shield1.wav-ec7e820949f0111c5c087ecccb464a46.sample"
+path="res://.godot/imported/PRSFX- Spiky Shield1.wav-f3546210bc2fc3b8ff5eb6ce1a4d1e7e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spiky Shield1.wav"
-dest_files=["res://.godot/imported/PRSFX- Spiky Shield1.wav-ec7e820949f0111c5c087ecccb464a46.sample"]
+source_file="res://audio/se/anim/PRSFX- Spiky Shield1.wav"
+dest_files=["res://.godot/imported/PRSFX- Spiky Shield1.wav-f3546210bc2fc3b8ff5eb6ce1a4d1e7e.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vtn5s0oxntu0"
-path="res://.godot/imported/RATTATA.ogg-364a57752d92848a5baee4585a5e86f8.oggvorbisstr"
+path="res://.godot/imported/RATTATA.ogg-b4f98579679285e72cad0da5fd6559e7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RATTATA.ogg"
-dest_files=["res://.godot/imported/RATTATA.ogg-364a57752d92848a5baee4585a5e86f8.oggvorbisstr"]
+source_file="res://audio/se/cries/RATTATA.ogg"
+dest_files=["res://.godot/imported/RATTATA.ogg-b4f98579679285e72cad0da5fd6559e7.oggvorbisstr"]
 
 [params]
 

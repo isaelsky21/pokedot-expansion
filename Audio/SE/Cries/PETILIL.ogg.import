@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://fsdxr31drdky"
-path="res://.godot/imported/PETILIL.ogg-3e8f2ff89398b1d2de217ef65308b53e.oggvorbisstr"
+path="res://.godot/imported/PETILIL.ogg-2ed8f8d97855e57e55df216b70717046.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PETILIL.ogg"
-dest_files=["res://.godot/imported/PETILIL.ogg-3e8f2ff89398b1d2de217ef65308b53e.oggvorbisstr"]
+source_file="res://audio/se/cries/PETILIL.ogg"
+dest_files=["res://.godot/imported/PETILIL.ogg-2ed8f8d97855e57e55df216b70717046.oggvorbisstr"]
 
 [params]
 

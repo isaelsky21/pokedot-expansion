@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d3ad36uvt36m2"
-path="res://.godot/imported/PRSFX- Endeavor1.wav-9c8e88024319055a0c6334a26428bf63.sample"
+path="res://.godot/imported/PRSFX- Endeavor1.wav-89a4f72df93135d491e92fbc00377b32.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Endeavor1.wav"
-dest_files=["res://.godot/imported/PRSFX- Endeavor1.wav-9c8e88024319055a0c6334a26428bf63.sample"]
+source_file="res://audio/se/anim/PRSFX- Endeavor1.wav"
+dest_files=["res://.godot/imported/PRSFX- Endeavor1.wav-89a4f72df93135d491e92fbc00377b32.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b44gnrxn42vt6"
-path="res://.godot/imported/PRSFX- Softboiled2.wav-d88ebdca3b266ea33c79e82105895fd9.sample"
+path="res://.godot/imported/PRSFX- Softboiled2.wav-b52fd2a4ee09aa615cd7f5e66d43ae2b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Softboiled2.wav"
-dest_files=["res://.godot/imported/PRSFX- Softboiled2.wav-d88ebdca3b266ea33c79e82105895fd9.sample"]
+source_file="res://audio/se/anim/PRSFX- Softboiled2.wav"
+dest_files=["res://.godot/imported/PRSFX- Softboiled2.wav-b52fd2a4ee09aa615cd7f5e66d43ae2b.sample"]
 
 [params]
 

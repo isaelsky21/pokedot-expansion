@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cem00hd1v4nbc"
-path="res://.godot/imported/PRSFX- Teeter Dance.wav-258ef5c989b8815cce73b598b67ff236.sample"
+path="res://.godot/imported/PRSFX- Teeter Dance.wav-e2de6e5e6da536d841f579f202fb394f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Teeter Dance.wav"
-dest_files=["res://.godot/imported/PRSFX- Teeter Dance.wav-258ef5c989b8815cce73b598b67ff236.sample"]
+source_file="res://audio/se/anim/PRSFX- Teeter Dance.wav"
+dest_files=["res://.godot/imported/PRSFX- Teeter Dance.wav-e2de6e5e6da536d841f579f202fb394f.sample"]
 
 [params]
 

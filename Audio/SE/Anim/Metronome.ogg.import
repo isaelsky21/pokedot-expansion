@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cnm85ectqf5oe"
-path="res://.godot/imported/Metronome.ogg-74d51e65b6ccef2ffd236424983d34f3.oggvorbisstr"
+path="res://.godot/imported/Metronome.ogg-5cab274ef1412af02b78868cdef616dc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Metronome.ogg"
-dest_files=["res://.godot/imported/Metronome.ogg-74d51e65b6ccef2ffd236424983d34f3.oggvorbisstr"]
+source_file="res://audio/se/anim/Metronome.ogg"
+dest_files=["res://.godot/imported/Metronome.ogg-5cab274ef1412af02b78868cdef616dc.oggvorbisstr"]
 
 [params]
 

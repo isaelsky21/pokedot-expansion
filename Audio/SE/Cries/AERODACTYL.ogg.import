@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://duflmj8ih2jyn"
-path="res://.godot/imported/AERODACTYL.ogg-906b1c54baafbbde4038b6d48eab4a52.oggvorbisstr"
+path="res://.godot/imported/AERODACTYL.ogg-054d6fa8c6428ed93a2b42134f6be77f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AERODACTYL.ogg"
-dest_files=["res://.godot/imported/AERODACTYL.ogg-906b1c54baafbbde4038b6d48eab4a52.oggvorbisstr"]
+source_file="res://audio/se/cries/AERODACTYL.ogg"
+dest_files=["res://.godot/imported/AERODACTYL.ogg-054d6fa8c6428ed93a2b42134f6be77f.oggvorbisstr"]
 
 [params]
 

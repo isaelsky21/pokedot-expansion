@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dfrsei44fh7jc"
-path="res://.godot/imported/PRSFX- Kinesis.wav-216613d8816f07b197b177c6daba697e.sample"
+path="res://.godot/imported/PRSFX- Kinesis.wav-b2dd66d591c6262c62eeb6add72f53a8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Kinesis.wav"
-dest_files=["res://.godot/imported/PRSFX- Kinesis.wav-216613d8816f07b197b177c6daba697e.sample"]
+source_file="res://audio/se/anim/PRSFX- Kinesis.wav"
+dest_files=["res://.godot/imported/PRSFX- Kinesis.wav-b2dd66d591c6262c62eeb6add72f53a8.sample"]
 
 [params]
 

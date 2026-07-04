@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dc3p0p1tn5sfp"
-path="res://.godot/imported/RIBOMBEE.ogg-603c7b78a27a75312d57506d34fe44ed.oggvorbisstr"
+path="res://.godot/imported/RIBOMBEE.ogg-c67b0fc35c4100d9992e28549ad69ac4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RIBOMBEE.ogg"
-dest_files=["res://.godot/imported/RIBOMBEE.ogg-603c7b78a27a75312d57506d34fe44ed.oggvorbisstr"]
+source_file="res://audio/se/cries/RIBOMBEE.ogg"
+dest_files=["res://.godot/imported/RIBOMBEE.ogg-c67b0fc35c4100d9992e28549ad69ac4.oggvorbisstr"]
 
 [params]
 

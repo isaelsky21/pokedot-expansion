@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c87jq8s07yyx3"
-path="res://.godot/imported/Voltorb Flip Mark.wav-e13896b5f39310250bebf507a98807f4.sample"
+path="res://.godot/imported/Voltorb Flip Mark.wav-047b6f1e1d3c31acd507a2adafdadffb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Voltorb Flip Mark.wav"
-dest_files=["res://.godot/imported/Voltorb Flip Mark.wav-e13896b5f39310250bebf507a98807f4.sample"]
+source_file="res://audio/se/anim/Voltorb Flip Mark.wav"
+dest_files=["res://.godot/imported/Voltorb Flip Mark.wav-047b6f1e1d3c31acd507a2adafdadffb.sample"]
 
 [params]
 

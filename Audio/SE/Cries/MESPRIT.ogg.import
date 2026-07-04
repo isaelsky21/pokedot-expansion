@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bp5p1nc7a8aiq"
-path="res://.godot/imported/MESPRIT.ogg-c84d444fb938d1775e3554ca333e1177.oggvorbisstr"
+path="res://.godot/imported/MESPRIT.ogg-db60f0658437e848a9bc6757d196f0ff.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MESPRIT.ogg"
-dest_files=["res://.godot/imported/MESPRIT.ogg-c84d444fb938d1775e3554ca333e1177.oggvorbisstr"]
+source_file="res://audio/se/cries/MESPRIT.ogg"
+dest_files=["res://.godot/imported/MESPRIT.ogg-db60f0658437e848a9bc6757d196f0ff.oggvorbisstr"]
 
 [params]
 

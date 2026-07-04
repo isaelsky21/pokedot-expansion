@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dd8rpjkbetugh"
-path="res://.godot/imported/Slots big win.ogg-b27541756b984844e8d5ceac0da0840d.oggvorbisstr"
+path="res://.godot/imported/Slots big win.ogg-ffd76342f7d193b3bf18241f43b02713.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/ME/Slots big win.ogg"
-dest_files=["res://.godot/imported/Slots big win.ogg-b27541756b984844e8d5ceac0da0840d.oggvorbisstr"]
+source_file="res://audio/me/Slots big win.ogg"
+dest_files=["res://.godot/imported/Slots big win.ogg-ffd76342f7d193b3bf18241f43b02713.oggvorbisstr"]
 
 [params]
 

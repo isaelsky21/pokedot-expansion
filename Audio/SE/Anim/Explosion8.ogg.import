@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://222m5e4boh8t"
-path="res://.godot/imported/Explosion8.ogg-8a5ca0e9821496c951a0f98003824a7f.oggvorbisstr"
+path="res://.godot/imported/Explosion8.ogg-84398d2046c3a7a1d2291ceecf8fbc86.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Explosion8.ogg"
-dest_files=["res://.godot/imported/Explosion8.ogg-8a5ca0e9821496c951a0f98003824a7f.oggvorbisstr"]
+source_file="res://audio/se/anim/Explosion8.ogg"
+dest_files=["res://.godot/imported/Explosion8.ogg-84398d2046c3a7a1d2291ceecf8fbc86.oggvorbisstr"]
 
 [params]
 

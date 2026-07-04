@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cyrbpcvhqt0bi"
-path="res://.godot/imported/RAGINGBOLT.ogg-289e67b2d98c56d31e34e865fffc1308.oggvorbisstr"
+path="res://.godot/imported/RAGINGBOLT.ogg-1176ec29d3afddbaacbb504e90470fdc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RAGINGBOLT.ogg"
-dest_files=["res://.godot/imported/RAGINGBOLT.ogg-289e67b2d98c56d31e34e865fffc1308.oggvorbisstr"]
+source_file="res://audio/se/cries/RAGINGBOLT.ogg"
+dest_files=["res://.godot/imported/RAGINGBOLT.ogg-1176ec29d3afddbaacbb504e90470fdc.oggvorbisstr"]
 
 [params]
 

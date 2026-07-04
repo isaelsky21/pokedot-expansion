@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ddom308l2uhrw"
-path="res://.godot/imported/WUGTRIO.ogg-35b54e7d827671132e56145f7e2f2c6e.oggvorbisstr"
+path="res://.godot/imported/WUGTRIO.ogg-c085ad4d208b5acdba7e328792b43d60.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WUGTRIO.ogg"
-dest_files=["res://.godot/imported/WUGTRIO.ogg-35b54e7d827671132e56145f7e2f2c6e.oggvorbisstr"]
+source_file="res://audio/se/cries/WUGTRIO.ogg"
+dest_files=["res://.godot/imported/WUGTRIO.ogg-c085ad4d208b5acdba7e328792b43d60.oggvorbisstr"]
 
 [params]
 

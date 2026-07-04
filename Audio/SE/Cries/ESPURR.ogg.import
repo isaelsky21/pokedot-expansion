@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bwqyjaytuyhgc"
-path="res://.godot/imported/ESPURR.ogg-cd389aab24fede4322e6f0aebd462db8.oggvorbisstr"
+path="res://.godot/imported/ESPURR.ogg-19ef3454ef5e005d01337d994d0dd222.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ESPURR.ogg"
-dest_files=["res://.godot/imported/ESPURR.ogg-cd389aab24fede4322e6f0aebd462db8.oggvorbisstr"]
+source_file="res://audio/se/cries/ESPURR.ogg"
+dest_files=["res://.godot/imported/ESPURR.ogg-19ef3454ef5e005d01337d994d0dd222.oggvorbisstr"]
 
 [params]
 

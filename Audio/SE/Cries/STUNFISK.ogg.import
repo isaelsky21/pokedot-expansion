@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bh8yr57jdi2x"
-path="res://.godot/imported/STUNFISK.ogg-43356da44e3a2c2d0f515b2b4d756326.oggvorbisstr"
+path="res://.godot/imported/STUNFISK.ogg-1bead84165fcb477b8c528d923606051.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/STUNFISK.ogg"
-dest_files=["res://.godot/imported/STUNFISK.ogg-43356da44e3a2c2d0f515b2b4d756326.oggvorbisstr"]
+source_file="res://audio/se/cries/STUNFISK.ogg"
+dest_files=["res://.godot/imported/STUNFISK.ogg-1bead84165fcb477b8c528d923606051.oggvorbisstr"]
 
 [params]
 

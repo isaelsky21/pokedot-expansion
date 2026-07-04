@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bs04tjp8dpvlu"
-path="res://.godot/imported/PRSFX- Blue Flare2.wav-04bf041d11574efcbe4a9fde0a4ce4a2.sample"
+path="res://.godot/imported/PRSFX- Blue Flare2.wav-cdc43c84ae31938de023e72210ca99df.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Blue Flare2.wav"
-dest_files=["res://.godot/imported/PRSFX- Blue Flare2.wav-04bf041d11574efcbe4a9fde0a4ce4a2.sample"]
+source_file="res://audio/se/anim/PRSFX- Blue Flare2.wav"
+dest_files=["res://.godot/imported/PRSFX- Blue Flare2.wav-cdc43c84ae31938de023e72210ca99df.sample"]
 
 [params]
 

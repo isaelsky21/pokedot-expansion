@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bskb51k1ojex2"
-path="res://.godot/imported/SPHEAL.ogg-77c8a9d263a0fdb350819136196c87cd.oggvorbisstr"
+path="res://.godot/imported/SPHEAL.ogg-27e101f79a167f947ffdcea009f14508.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SPHEAL.ogg"
-dest_files=["res://.godot/imported/SPHEAL.ogg-77c8a9d263a0fdb350819136196c87cd.oggvorbisstr"]
+source_file="res://audio/se/cries/SPHEAL.ogg"
+dest_files=["res://.godot/imported/SPHEAL.ogg-27e101f79a167f947ffdcea009f14508.oggvorbisstr"]
 
 [params]
 

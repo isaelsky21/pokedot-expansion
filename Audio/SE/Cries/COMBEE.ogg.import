@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0skn7fgue1ne"
-path="res://.godot/imported/COMBEE.ogg-6267b22684493eb02ee485f46b358e1a.oggvorbisstr"
+path="res://.godot/imported/COMBEE.ogg-13bd240cd1f313b7c4aae76887b056f0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/COMBEE.ogg"
-dest_files=["res://.godot/imported/COMBEE.ogg-6267b22684493eb02ee485f46b358e1a.oggvorbisstr"]
+source_file="res://audio/se/cries/COMBEE.ogg"
+dest_files=["res://.godot/imported/COMBEE.ogg-13bd240cd1f313b7c4aae76887b056f0.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dp3dgqybo1p2v"
-path="res://.godot/imported/Poke Mart.wav-12c6f4ffcfc22d5788daaeb5cb108b28.sample"
+path="res://.godot/imported/Poke Mart.wav-c3a5bb7ffbdaea96dfedf2a1f7ae7c0a.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Poke Mart.wav"
-dest_files=["res://.godot/imported/Poke Mart.wav-12c6f4ffcfc22d5788daaeb5cb108b28.sample"]
+source_file="res://audio/bgm/Poke Mart.wav"
+dest_files=["res://.godot/imported/Poke Mart.wav-c3a5bb7ffbdaea96dfedf2a1f7ae7c0a.sample"]
 
 [params]
 

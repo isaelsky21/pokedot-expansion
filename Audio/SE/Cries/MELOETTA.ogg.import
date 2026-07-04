@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dnx8ypvdj1lnb"
-path="res://.godot/imported/MELOETTA.ogg-1e265d4af5905d3ed576bb66d7f0922b.oggvorbisstr"
+path="res://.godot/imported/MELOETTA.ogg-92b9b5c5941da0dd7277bd1fa0e38dd8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MELOETTA.ogg"
-dest_files=["res://.godot/imported/MELOETTA.ogg-1e265d4af5905d3ed576bb66d7f0922b.oggvorbisstr"]
+source_file="res://audio/se/cries/MELOETTA.ogg"
+dest_files=["res://.godot/imported/MELOETTA.ogg-92b9b5c5941da0dd7277bd1fa0e38dd8.oggvorbisstr"]
 
 [params]
 

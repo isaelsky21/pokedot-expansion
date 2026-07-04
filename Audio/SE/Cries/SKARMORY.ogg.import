@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c70tntrqri48j"
-path="res://.godot/imported/SKARMORY.ogg-0e6ebc12261f024caecde4fae850f2f7.oggvorbisstr"
+path="res://.godot/imported/SKARMORY.ogg-683d1bc548dd2794705d5908b31763c2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SKARMORY.ogg"
-dest_files=["res://.godot/imported/SKARMORY.ogg-0e6ebc12261f024caecde4fae850f2f7.oggvorbisstr"]
+source_file="res://audio/se/cries/SKARMORY.ogg"
+dest_files=["res://.godot/imported/SKARMORY.ogg-683d1bc548dd2794705d5908b31763c2.oggvorbisstr"]
 
 [params]
 

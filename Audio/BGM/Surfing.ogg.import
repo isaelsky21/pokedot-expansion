@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dd30td0n4t8cc"
-path="res://.godot/imported/Surfing.ogg-6bf2217812863db79ad3ec2ab4fb61ae.oggvorbisstr"
+path="res://.godot/imported/Surfing.ogg-474dc483f2d55d97aa2357e673160b4d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/BGM/Surfing.ogg"
-dest_files=["res://.godot/imported/Surfing.ogg-6bf2217812863db79ad3ec2ab4fb61ae.oggvorbisstr"]
+source_file="res://audio/bgm/Surfing.ogg"
+dest_files=["res://.godot/imported/Surfing.ogg-474dc483f2d55d97aa2357e673160b4d.oggvorbisstr"]
 
 [params]
 

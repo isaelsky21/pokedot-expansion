@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://brd65n2su1l8w"
-path="res://.godot/imported/PRSFX- Cross Chop2.wav-1c5bf2e1c4a0fb94a1af59b075877ffc.sample"
+path="res://.godot/imported/PRSFX- Cross Chop2.wav-e3955d99e5853fb46f48037197e17171.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Cross Chop2.wav"
-dest_files=["res://.godot/imported/PRSFX- Cross Chop2.wav-1c5bf2e1c4a0fb94a1af59b075877ffc.sample"]
+source_file="res://audio/se/anim/PRSFX- Cross Chop2.wav"
+dest_files=["res://.godot/imported/PRSFX- Cross Chop2.wav-e3955d99e5853fb46f48037197e17171.sample"]
 
 [params]
 

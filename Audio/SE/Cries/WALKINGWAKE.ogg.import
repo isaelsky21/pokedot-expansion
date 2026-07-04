@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b1ol6vr0s5vyh"
-path="res://.godot/imported/WALKINGWAKE.ogg-7308b3e550f2380ee1bc1c1357a4bc11.oggvorbisstr"
+path="res://.godot/imported/WALKINGWAKE.ogg-51279adf41f2cdbb3e8b4978e08ba106.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WALKINGWAKE.ogg"
-dest_files=["res://.godot/imported/WALKINGWAKE.ogg-7308b3e550f2380ee1bc1c1357a4bc11.oggvorbisstr"]
+source_file="res://audio/se/cries/WALKINGWAKE.ogg"
+dest_files=["res://.godot/imported/WALKINGWAKE.ogg-51279adf41f2cdbb3e8b4978e08ba106.oggvorbisstr"]
 
 [params]
 

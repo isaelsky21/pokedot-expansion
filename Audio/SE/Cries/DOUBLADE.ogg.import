@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cy77wuourlf2t"
-path="res://.godot/imported/DOUBLADE.ogg-39fcf7623edcb548634b9340b37fc667.oggvorbisstr"
+path="res://.godot/imported/DOUBLADE.ogg-37bd9b7a2c1ea040989ce951e0eebb97.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DOUBLADE.ogg"
-dest_files=["res://.godot/imported/DOUBLADE.ogg-39fcf7623edcb548634b9340b37fc667.oggvorbisstr"]
+source_file="res://audio/se/cries/DOUBLADE.ogg"
+dest_files=["res://.godot/imported/DOUBLADE.ogg-37bd9b7a2c1ea040989ce951e0eebb97.oggvorbisstr"]
 
 [params]
 

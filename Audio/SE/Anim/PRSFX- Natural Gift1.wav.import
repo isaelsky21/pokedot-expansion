@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b6f6uwokbt3wk"
-path="res://.godot/imported/PRSFX- Natural Gift1.wav-c27aff6c367dec5650e6e61b95ea0fe4.sample"
+path="res://.godot/imported/PRSFX- Natural Gift1.wav-5e63e87d2765440a97fedf3e9a72076b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Natural Gift1.wav"
-dest_files=["res://.godot/imported/PRSFX- Natural Gift1.wav-c27aff6c367dec5650e6e61b95ea0fe4.sample"]
+source_file="res://audio/se/anim/PRSFX- Natural Gift1.wav"
+dest_files=["res://.godot/imported/PRSFX- Natural Gift1.wav-5e63e87d2765440a97fedf3e9a72076b.sample"]
 
 [params]
 

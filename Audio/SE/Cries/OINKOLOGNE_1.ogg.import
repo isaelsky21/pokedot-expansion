@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c0kii3jw1u70v"
-path="res://.godot/imported/OINKOLOGNE_1.ogg-91ad00ef6ce4d0a05152d41017055a57.oggvorbisstr"
+path="res://.godot/imported/OINKOLOGNE_1.ogg-cb3daf5f453efe080015b9cc7c78b9db.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/OINKOLOGNE_1.ogg"
-dest_files=["res://.godot/imported/OINKOLOGNE_1.ogg-91ad00ef6ce4d0a05152d41017055a57.oggvorbisstr"]
+source_file="res://audio/se/cries/OINKOLOGNE_1.ogg"
+dest_files=["res://.godot/imported/OINKOLOGNE_1.ogg-cb3daf5f453efe080015b9cc7c78b9db.oggvorbisstr"]
 
 [params]
 

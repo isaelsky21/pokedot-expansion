@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c56lnjijbedgv"
-path="res://.godot/imported/NATU.ogg-45278579d5070a27a34164e04f32a81a.oggvorbisstr"
+path="res://.godot/imported/NATU.ogg-4671859827339b9a0707d081f2879dfb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NATU.ogg"
-dest_files=["res://.godot/imported/NATU.ogg-45278579d5070a27a34164e04f32a81a.oggvorbisstr"]
+source_file="res://audio/se/cries/NATU.ogg"
+dest_files=["res://.godot/imported/NATU.ogg-4671859827339b9a0707d081f2879dfb.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://uh70iqwqt563"
-path="res://.godot/imported/ANORITH.ogg-bc784b604fb74b9f368d134d7715a085.oggvorbisstr"
+path="res://.godot/imported/ANORITH.ogg-159dd87dda0f08a3f40c648831ff2900.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ANORITH.ogg"
-dest_files=["res://.godot/imported/ANORITH.ogg-bc784b604fb74b9f368d134d7715a085.oggvorbisstr"]
+source_file="res://audio/se/cries/ANORITH.ogg"
+dest_files=["res://.godot/imported/ANORITH.ogg-159dd87dda0f08a3f40c648831ff2900.oggvorbisstr"]
 
 [params]
 

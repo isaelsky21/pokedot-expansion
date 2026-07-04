@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dyjaqdxsnmpyn"
-path="res://.godot/imported/PRSFX- Low Kick.wav-33a54c1d4703c06a565937f035fd2a12.sample"
+path="res://.godot/imported/PRSFX- Low Kick.wav-96919a2cfbff0e59470d5e2251bf961c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Low Kick.wav"
-dest_files=["res://.godot/imported/PRSFX- Low Kick.wav-33a54c1d4703c06a565937f035fd2a12.sample"]
+source_file="res://audio/se/anim/PRSFX- Low Kick.wav"
+dest_files=["res://.godot/imported/PRSFX- Low Kick.wav-96919a2cfbff0e59470d5e2251bf961c.sample"]
 
 [params]
 

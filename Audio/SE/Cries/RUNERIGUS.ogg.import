@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dajb3nvcbq7h"
-path="res://.godot/imported/RUNERIGUS.ogg-4c04a3065c565d1ab2534ed68bc9523e.oggvorbisstr"
+path="res://.godot/imported/RUNERIGUS.ogg-43847f2f0d51fc42deb8695074c4e5dc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RUNERIGUS.ogg"
-dest_files=["res://.godot/imported/RUNERIGUS.ogg-4c04a3065c565d1ab2534ed68bc9523e.oggvorbisstr"]
+source_file="res://audio/se/cries/RUNERIGUS.ogg"
+dest_files=["res://.godot/imported/RUNERIGUS.ogg-43847f2f0d51fc42deb8695074c4e5dc.oggvorbisstr"]
 
 [params]
 

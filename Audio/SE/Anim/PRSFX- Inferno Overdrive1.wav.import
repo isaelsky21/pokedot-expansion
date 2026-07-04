@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bb5f6h3qfi2bs"
-path="res://.godot/imported/PRSFX- Inferno Overdrive1.wav-d46a3336ae09b51d5c8c7846058d8d40.sample"
+path="res://.godot/imported/PRSFX- Inferno Overdrive1.wav-d15c0a41922c537006deb130880bed61.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Inferno Overdrive1.wav"
-dest_files=["res://.godot/imported/PRSFX- Inferno Overdrive1.wav-d46a3336ae09b51d5c8c7846058d8d40.sample"]
+source_file="res://audio/se/anim/PRSFX- Inferno Overdrive1.wav"
+dest_files=["res://.godot/imported/PRSFX- Inferno Overdrive1.wav-d15c0a41922c537006deb130880bed61.sample"]
 
 [params]
 

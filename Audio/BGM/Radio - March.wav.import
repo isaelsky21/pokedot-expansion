@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ccgvkl0n1a8xq"
-path="res://.godot/imported/Radio - March.wav-8667ad694ebf47b1054abc4ac964e141.sample"
+path="res://.godot/imported/Radio - March.wav-650952bbd2bb53bc7f28d63635010de7.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Radio - March.wav"
-dest_files=["res://.godot/imported/Radio - March.wav-8667ad694ebf47b1054abc4ac964e141.sample"]
+source_file="res://audio/bgm/Radio - March.wav"
+dest_files=["res://.godot/imported/Radio - March.wav-650952bbd2bb53bc7f28d63635010de7.sample"]
 
 [params]
 

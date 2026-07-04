@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cj40sa4p65vwv"
-path="res://.godot/imported/PRSFX- Geomancy.wav-c92e1ee136ea154d413fcf5ed3865519.sample"
+path="res://.godot/imported/PRSFX- Geomancy.wav-3742cb7bef276dfa7911f1fd36848c03.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Geomancy.wav"
-dest_files=["res://.godot/imported/PRSFX- Geomancy.wav-c92e1ee136ea154d413fcf5ed3865519.sample"]
+source_file="res://audio/se/anim/PRSFX- Geomancy.wav"
+dest_files=["res://.godot/imported/PRSFX- Geomancy.wav-3742cb7bef276dfa7911f1fd36848c03.sample"]
 
 [params]
 

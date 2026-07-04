@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7i1xeyq7ldg"
-path="res://.godot/imported/DUDUNSPARCE.ogg-51b4f6b3f8b80c69adc46a0b4753d949.oggvorbisstr"
+path="res://.godot/imported/DUDUNSPARCE.ogg-5859ce90423f934bc3a81a90ba50af38.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DUDUNSPARCE.ogg"
-dest_files=["res://.godot/imported/DUDUNSPARCE.ogg-51b4f6b3f8b80c69adc46a0b4753d949.oggvorbisstr"]
+source_file="res://audio/se/cries/DUDUNSPARCE.ogg"
+dest_files=["res://.godot/imported/DUDUNSPARCE.ogg-5859ce90423f934bc3a81a90ba50af38.oggvorbisstr"]
 
 [params]
 

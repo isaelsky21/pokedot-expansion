@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dg5044kn5a0ok"
-path="res://.godot/imported/SCREAMTAIL.ogg-bf5c7e24afc77a674fa8caf38108f1cf.oggvorbisstr"
+path="res://.godot/imported/SCREAMTAIL.ogg-1e6ba18f6caab15ef6452527771eace2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SCREAMTAIL.ogg"
-dest_files=["res://.godot/imported/SCREAMTAIL.ogg-bf5c7e24afc77a674fa8caf38108f1cf.oggvorbisstr"]
+source_file="res://audio/se/cries/SCREAMTAIL.ogg"
+dest_files=["res://.godot/imported/SCREAMTAIL.ogg-1e6ba18f6caab15ef6452527771eace2.oggvorbisstr"]
 
 [params]
 

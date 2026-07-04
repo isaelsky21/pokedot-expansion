@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bceyc6snhrrqc"
-path="res://.godot/imported/PRSFX- Supersonic.wav-effdc25b1b6c30025453ca7bbf77ce75.sample"
+path="res://.godot/imported/PRSFX- Supersonic.wav-d8a6f8143928e458b0befe8b917ece17.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Supersonic.wav"
-dest_files=["res://.godot/imported/PRSFX- Supersonic.wav-effdc25b1b6c30025453ca7bbf77ce75.sample"]
+source_file="res://audio/se/anim/PRSFX- Supersonic.wav"
+dest_files=["res://.godot/imported/PRSFX- Supersonic.wav-d8a6f8143928e458b0befe8b917ece17.sample"]
 
 [params]
 

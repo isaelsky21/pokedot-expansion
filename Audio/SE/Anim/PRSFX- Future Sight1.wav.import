@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c2xuexjcpr62r"
-path="res://.godot/imported/PRSFX- Future Sight1.wav-daec20a0a144a792a9a41d97bda4adbe.sample"
+path="res://.godot/imported/PRSFX- Future Sight1.wav-b787aebfa48b96ee8745636b8af06167.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Future Sight1.wav"
-dest_files=["res://.godot/imported/PRSFX- Future Sight1.wav-daec20a0a144a792a9a41d97bda4adbe.sample"]
+source_file="res://audio/se/anim/PRSFX- Future Sight1.wav"
+dest_files=["res://.godot/imported/PRSFX- Future Sight1.wav-b787aebfa48b96ee8745636b8af06167.sample"]
 
 [params]
 

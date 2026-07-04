@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bu6lppm4x12r3"
-path="res://.godot/imported/PRSFX- Stoked Sparksurfer5.ogg-ea75ca3b2bc347fdc1d6e011b4025b26.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Stoked Sparksurfer5.ogg-e6e744f242ca5abccfe16814ff712f1c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Stoked Sparksurfer5.ogg"
-dest_files=["res://.godot/imported/PRSFX- Stoked Sparksurfer5.ogg-ea75ca3b2bc347fdc1d6e011b4025b26.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Stoked Sparksurfer5.ogg"
+dest_files=["res://.godot/imported/PRSFX- Stoked Sparksurfer5.ogg-e6e744f242ca5abccfe16814ff712f1c.oggvorbisstr"]
 
 [params]
 

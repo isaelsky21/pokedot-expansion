@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ntx60k1sbedi"
-path="res://.godot/imported/SWINUB.ogg-877133610b8ffdf35a52fc28a1619733.oggvorbisstr"
+path="res://.godot/imported/SWINUB.ogg-55fa577e90223556f32af40473138e57.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SWINUB.ogg"
-dest_files=["res://.godot/imported/SWINUB.ogg-877133610b8ffdf35a52fc28a1619733.oggvorbisstr"]
+source_file="res://audio/se/cries/SWINUB.ogg"
+dest_files=["res://.godot/imported/SWINUB.ogg-55fa577e90223556f32af40473138e57.oggvorbisstr"]
 
 [params]
 

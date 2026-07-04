@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dblb53kdhdi7f"
-path="res://.godot/imported/LEDIAN.ogg-98a08fe9d66547fc951fff952f756d46.oggvorbisstr"
+path="res://.godot/imported/LEDIAN.ogg-c3522d0efa7a264177f6d85ac2177fc6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LEDIAN.ogg"
-dest_files=["res://.godot/imported/LEDIAN.ogg-98a08fe9d66547fc951fff952f756d46.oggvorbisstr"]
+source_file="res://audio/se/cries/LEDIAN.ogg"
+dest_files=["res://.godot/imported/LEDIAN.ogg-c3522d0efa7a264177f6d85ac2177fc6.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bj26a4wysawq6"
-path="res://.godot/imported/STARLY.ogg-afbcc60d711c56e265f95701ca1db0bb.oggvorbisstr"
+path="res://.godot/imported/STARLY.ogg-0cb09b00881db50e1da1f6ea7580f76c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/STARLY.ogg"
-dest_files=["res://.godot/imported/STARLY.ogg-afbcc60d711c56e265f95701ca1db0bb.oggvorbisstr"]
+source_file="res://audio/se/cries/STARLY.ogg"
+dest_files=["res://.godot/imported/STARLY.ogg-0cb09b00881db50e1da1f6ea7580f76c.oggvorbisstr"]
 
 [params]
 

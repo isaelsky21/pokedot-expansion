@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bkhk7fnvbbssn"
-path="res://.godot/imported/LUXIO.ogg-0325c4e5a7852b07411eacef849e55cd.oggvorbisstr"
+path="res://.godot/imported/LUXIO.ogg-4cf3bfd7b8ded33e4f5861a7c1116970.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LUXIO.ogg"
-dest_files=["res://.godot/imported/LUXIO.ogg-0325c4e5a7852b07411eacef849e55cd.oggvorbisstr"]
+source_file="res://audio/se/cries/LUXIO.ogg"
+dest_files=["res://.godot/imported/LUXIO.ogg-4cf3bfd7b8ded33e4f5861a7c1116970.oggvorbisstr"]
 
 [params]
 

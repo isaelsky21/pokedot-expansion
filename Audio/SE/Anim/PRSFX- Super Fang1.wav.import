@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cmvyjyr5lksgw"
-path="res://.godot/imported/PRSFX- Super Fang1.wav-a91c6d57b39c0375a57535e8915e99dc.sample"
+path="res://.godot/imported/PRSFX- Super Fang1.wav-537dab9aa31b1e50f20cacf729e7a524.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Super Fang1.wav"
-dest_files=["res://.godot/imported/PRSFX- Super Fang1.wav-a91c6d57b39c0375a57535e8915e99dc.sample"]
+source_file="res://audio/se/anim/PRSFX- Super Fang1.wav"
+dest_files=["res://.godot/imported/PRSFX- Super Fang1.wav-537dab9aa31b1e50f20cacf729e7a524.sample"]
 
 [params]
 

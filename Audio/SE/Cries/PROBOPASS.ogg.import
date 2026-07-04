@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1ir6hbdfedso"
-path="res://.godot/imported/PROBOPASS.ogg-816452fab5aa4ea989f6a659c2e802ac.oggvorbisstr"
+path="res://.godot/imported/PROBOPASS.ogg-d8ff539c763580b00aeecde41990396e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PROBOPASS.ogg"
-dest_files=["res://.godot/imported/PROBOPASS.ogg-816452fab5aa4ea989f6a659c2e802ac.oggvorbisstr"]
+source_file="res://audio/se/cries/PROBOPASS.ogg"
+dest_files=["res://.godot/imported/PROBOPASS.ogg-d8ff539c763580b00aeecde41990396e.oggvorbisstr"]
 
 [params]
 

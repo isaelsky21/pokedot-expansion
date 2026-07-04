@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dd6jmutli8vai"
-path="res://.godot/imported/TALONFLAME.ogg-7d6217c54a7c5f8f27ef0a47297845ea.oggvorbisstr"
+path="res://.godot/imported/TALONFLAME.ogg-463a0549b3ebb25d43e96937e948be39.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TALONFLAME.ogg"
-dest_files=["res://.godot/imported/TALONFLAME.ogg-7d6217c54a7c5f8f27ef0a47297845ea.oggvorbisstr"]
+source_file="res://audio/se/cries/TALONFLAME.ogg"
+dest_files=["res://.godot/imported/TALONFLAME.ogg-463a0549b3ebb25d43e96937e948be39.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cicyk76f7pjhk"
-path="res://.godot/imported/LUVDISC.ogg-30bef34c007d7134bc0fa47f93468405.oggvorbisstr"
+path="res://.godot/imported/LUVDISC.ogg-bbed1811612e44db4af115a514c265b9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LUVDISC.ogg"
-dest_files=["res://.godot/imported/LUVDISC.ogg-30bef34c007d7134bc0fa47f93468405.oggvorbisstr"]
+source_file="res://audio/se/cries/LUVDISC.ogg"
+dest_files=["res://.godot/imported/LUVDISC.ogg-bbed1811612e44db4af115a514c265b9.oggvorbisstr"]
 
 [params]
 

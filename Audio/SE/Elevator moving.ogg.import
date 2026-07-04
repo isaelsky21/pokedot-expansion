@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bndtmmubi7yrh"
-path="res://.godot/imported/Elevator moving.ogg-47dae960319b841437543c72e4d516c0.oggvorbisstr"
+path="res://.godot/imported/Elevator moving.ogg-fb8f23e97a74dc263838698e36db1301.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Elevator moving.ogg"
-dest_files=["res://.godot/imported/Elevator moving.ogg-47dae960319b841437543c72e4d516c0.oggvorbisstr"]
+source_file="res://audio/se/Elevator moving.ogg"
+dest_files=["res://.godot/imported/Elevator moving.ogg-fb8f23e97a74dc263838698e36db1301.oggvorbisstr"]
 
 [params]
 

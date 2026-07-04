@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cb316bbwh5rwc"
-path="res://.godot/imported/OMASTAR.ogg-a24558d39bd90bf217a630064e71653a.oggvorbisstr"
+path="res://.godot/imported/OMASTAR.ogg-7018a8bbfa4af3b10ccc2e5f2c994fee.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/OMASTAR.ogg"
-dest_files=["res://.godot/imported/OMASTAR.ogg-a24558d39bd90bf217a630064e71653a.oggvorbisstr"]
+source_file="res://audio/se/cries/OMASTAR.ogg"
+dest_files=["res://.godot/imported/OMASTAR.ogg-7018a8bbfa4af3b10ccc2e5f2c994fee.oggvorbisstr"]
 
 [params]
 

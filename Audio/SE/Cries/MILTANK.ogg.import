@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://clglbtwiyngel"
-path="res://.godot/imported/MILTANK.ogg-6e9fc1c087f0ea0d6906f2d957ccd4db.oggvorbisstr"
+path="res://.godot/imported/MILTANK.ogg-d0e8ea5bcea863e664a6829ab0eec106.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MILTANK.ogg"
-dest_files=["res://.godot/imported/MILTANK.ogg-6e9fc1c087f0ea0d6906f2d957ccd4db.oggvorbisstr"]
+source_file="res://audio/se/cries/MILTANK.ogg"
+dest_files=["res://.godot/imported/MILTANK.ogg-d0e8ea5bcea863e664a6829ab0eec106.oggvorbisstr"]
 
 [params]
 

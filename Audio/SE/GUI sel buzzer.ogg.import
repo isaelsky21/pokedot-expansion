@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bi17cqvu7hw6s"
-path="res://.godot/imported/GUI sel buzzer.ogg-58e157c1a5a68f12b20db46118bb1a4f.oggvorbisstr"
+path="res://.godot/imported/GUI sel buzzer.ogg-0c9e328f111570b5bf52bed959b8bd9b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/GUI sel buzzer.ogg"
-dest_files=["res://.godot/imported/GUI sel buzzer.ogg-58e157c1a5a68f12b20db46118bb1a4f.oggvorbisstr"]
+source_file="res://audio/se/GUI sel buzzer.ogg"
+dest_files=["res://.godot/imported/GUI sel buzzer.ogg-0c9e328f111570b5bf52bed959b8bd9b.oggvorbisstr"]
 
 [params]
 

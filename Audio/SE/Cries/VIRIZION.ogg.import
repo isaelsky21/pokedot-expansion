@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cup2a8fb2ywbw"
-path="res://.godot/imported/VIRIZION.ogg-a2bde98b8d37efa1f3d7f407997d3985.oggvorbisstr"
+path="res://.godot/imported/VIRIZION.ogg-6c45f616c0359e9f24b9cb3ad1ce3c47.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VIRIZION.ogg"
-dest_files=["res://.godot/imported/VIRIZION.ogg-a2bde98b8d37efa1f3d7f407997d3985.oggvorbisstr"]
+source_file="res://audio/se/cries/VIRIZION.ogg"
+dest_files=["res://.godot/imported/VIRIZION.ogg-6c45f616c0359e9f24b9cb3ad1ce3c47.oggvorbisstr"]
 
 [params]
 

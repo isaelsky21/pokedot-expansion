@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cd5ivhlpnkfa"
-path="res://.godot/imported/TADBULB.ogg-a77b183fcbf39aa87875a98312e669ea.oggvorbisstr"
+path="res://.godot/imported/TADBULB.ogg-ea19d30abe19fbcd53fca030da23ca68.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TADBULB.ogg"
-dest_files=["res://.godot/imported/TADBULB.ogg-a77b183fcbf39aa87875a98312e669ea.oggvorbisstr"]
+source_file="res://audio/se/cries/TADBULB.ogg"
+dest_files=["res://.godot/imported/TADBULB.ogg-ea19d30abe19fbcd53fca030da23ca68.oggvorbisstr"]
 
 [params]
 

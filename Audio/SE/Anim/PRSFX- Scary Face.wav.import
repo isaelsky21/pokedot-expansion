@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://djyq2nq3edt2r"
-path="res://.godot/imported/PRSFX- Scary Face.wav-404d26dd9864752a64be1909ad7052b0.sample"
+path="res://.godot/imported/PRSFX- Scary Face.wav-05aaffc097a058b30e582e2c7542030d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Scary Face.wav"
-dest_files=["res://.godot/imported/PRSFX- Scary Face.wav-404d26dd9864752a64be1909ad7052b0.sample"]
+source_file="res://audio/se/anim/PRSFX- Scary Face.wav"
+dest_files=["res://.godot/imported/PRSFX- Scary Face.wav-05aaffc097a058b30e582e2c7542030d.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://jgtmvitu4i3y"
-path="res://.godot/imported/Confuse.ogg-625c96c7330dc466cc538e4ea4af0374.oggvorbisstr"
+path="res://.godot/imported/Confuse.ogg-41daca00c60c2faf93fc26a8443ca565.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Confuse.ogg"
-dest_files=["res://.godot/imported/Confuse.ogg-625c96c7330dc466cc538e4ea4af0374.oggvorbisstr"]
+source_file="res://audio/se/anim/Confuse.ogg"
+dest_files=["res://.godot/imported/Confuse.ogg-41daca00c60c2faf93fc26a8443ca565.oggvorbisstr"]
 
 [params]
 

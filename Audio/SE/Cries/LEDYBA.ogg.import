@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://8ftsfp3u7egv"
-path="res://.godot/imported/LEDYBA.ogg-86aad178773ef749cde176f74fb97a47.oggvorbisstr"
+path="res://.godot/imported/LEDYBA.ogg-ae96d81da2689ece09253de4cf2014fa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LEDYBA.ogg"
-dest_files=["res://.godot/imported/LEDYBA.ogg-86aad178773ef749cde176f74fb97a47.oggvorbisstr"]
+source_file="res://audio/se/cries/LEDYBA.ogg"
+dest_files=["res://.godot/imported/LEDYBA.ogg-ae96d81da2689ece09253de4cf2014fa.oggvorbisstr"]
 
 [params]
 

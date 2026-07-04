@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b47jlpmx6skpo"
-path="res://.godot/imported/TOEDSCRUEL.ogg-2ee7c90da39ddf14a5a5ed318473f02a.oggvorbisstr"
+path="res://.godot/imported/TOEDSCRUEL.ogg-e6017ca6b3d52f17f0b58a63f9357ece.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TOEDSCRUEL.ogg"
-dest_files=["res://.godot/imported/TOEDSCRUEL.ogg-2ee7c90da39ddf14a5a5ed318473f02a.oggvorbisstr"]
+source_file="res://audio/se/cries/TOEDSCRUEL.ogg"
+dest_files=["res://.godot/imported/TOEDSCRUEL.ogg-e6017ca6b3d52f17f0b58a63f9357ece.oggvorbisstr"]
 
 [params]
 

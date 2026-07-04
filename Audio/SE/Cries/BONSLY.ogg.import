@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dm31s7awn63x6"
-path="res://.godot/imported/BONSLY.ogg-3d31a05e8d6ef9c4dc41d650abdae0fb.oggvorbisstr"
+path="res://.godot/imported/BONSLY.ogg-e072ea4d618804256658f22582b5973e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BONSLY.ogg"
-dest_files=["res://.godot/imported/BONSLY.ogg-3d31a05e8d6ef9c4dc41d650abdae0fb.oggvorbisstr"]
+source_file="res://audio/se/cries/BONSLY.ogg"
+dest_files=["res://.godot/imported/BONSLY.ogg-e072ea4d618804256658f22582b5973e.oggvorbisstr"]
 
 [params]
 

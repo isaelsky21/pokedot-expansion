@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://brai7xftcwnr3"
-path="res://.godot/imported/KOFFING.ogg-a7c00cfff93d7ee43cd59dcd4792ba4b.oggvorbisstr"
+path="res://.godot/imported/KOFFING.ogg-bcd465e88da4a3cb13e9ad34e3c507f4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KOFFING.ogg"
-dest_files=["res://.godot/imported/KOFFING.ogg-a7c00cfff93d7ee43cd59dcd4792ba4b.oggvorbisstr"]
+source_file="res://audio/se/cries/KOFFING.ogg"
+dest_files=["res://.godot/imported/KOFFING.ogg-bcd465e88da4a3cb13e9ad34e3c507f4.oggvorbisstr"]
 
 [params]
 

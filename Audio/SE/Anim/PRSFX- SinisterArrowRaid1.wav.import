@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bq6juninerrr"
-path="res://.godot/imported/PRSFX- SinisterArrowRaid1.wav-d75ca01c8005cdd6b1bc80c290a4a385.sample"
+path="res://.godot/imported/PRSFX- SinisterArrowRaid1.wav-b652a79e674489834a7db5c7d7e96291.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- SinisterArrowRaid1.wav"
-dest_files=["res://.godot/imported/PRSFX- SinisterArrowRaid1.wav-d75ca01c8005cdd6b1bc80c290a4a385.sample"]
+source_file="res://audio/se/anim/PRSFX- SinisterArrowRaid1.wav"
+dest_files=["res://.godot/imported/PRSFX- SinisterArrowRaid1.wav-b652a79e674489834a7db5c7d7e96291.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://iqt6hx7gn67n"
-path="res://.godot/imported/PRSFX- Acid Downpour3.ogg-b8132334a3706376b56d3e375e0a8886.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Acid Downpour3.ogg-48b06226ecd9d377cd1e985e2affc40e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Acid Downpour3.ogg"
-dest_files=["res://.godot/imported/PRSFX- Acid Downpour3.ogg-b8132334a3706376b56d3e375e0a8886.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Acid Downpour3.ogg"
+dest_files=["res://.godot/imported/PRSFX- Acid Downpour3.ogg-48b06226ecd9d377cd1e985e2affc40e.oggvorbisstr"]
 
 [params]
 

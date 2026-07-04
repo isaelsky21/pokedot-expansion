@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://p2u4h1y53wib"
-path="res://.godot/imported/RHYDON.ogg-5a42b434b5f7b7cd18b6c3057ee89e45.oggvorbisstr"
+path="res://.godot/imported/RHYDON.ogg-f6c7e5b15ca84ccb1c75e82caa7bbcf9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RHYDON.ogg"
-dest_files=["res://.godot/imported/RHYDON.ogg-5a42b434b5f7b7cd18b6c3057ee89e45.oggvorbisstr"]
+source_file="res://audio/se/cries/RHYDON.ogg"
+dest_files=["res://.godot/imported/RHYDON.ogg-f6c7e5b15ca84ccb1c75e82caa7bbcf9.oggvorbisstr"]
 
 [params]
 

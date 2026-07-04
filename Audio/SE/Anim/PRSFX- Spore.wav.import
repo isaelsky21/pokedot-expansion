@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://demleabvehro3"
-path="res://.godot/imported/PRSFX- Spore.wav-c2b24e65f33a4eacb74f4846cff55303.sample"
+path="res://.godot/imported/PRSFX- Spore.wav-c03fe5a72cf077c2b5619de16e00a330.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spore.wav"
-dest_files=["res://.godot/imported/PRSFX- Spore.wav-c2b24e65f33a4eacb74f4846cff55303.sample"]
+source_file="res://audio/se/anim/PRSFX- Spore.wav"
+dest_files=["res://.godot/imported/PRSFX- Spore.wav-c03fe5a72cf077c2b5619de16e00a330.sample"]
 
 [params]
 

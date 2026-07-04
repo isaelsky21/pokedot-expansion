@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://r5ial8ynvqr7"
-path="res://.godot/imported/Whirlwind.mp3-94e1fd9caf2d29118a5b5a301fccb254.mp3str"
+path="res://.godot/imported/Whirlwind.mp3-0d7ae9aea4b1cf30389e0a7b676f196e.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Whirlwind.mp3"
-dest_files=["res://.godot/imported/Whirlwind.mp3-94e1fd9caf2d29118a5b5a301fccb254.mp3str"]
+source_file="res://audio/se/anim/Whirlwind.mp3"
+dest_files=["res://.godot/imported/Whirlwind.mp3-0d7ae9aea4b1cf30389e0a7b676f196e.mp3str"]
 
 [params]
 

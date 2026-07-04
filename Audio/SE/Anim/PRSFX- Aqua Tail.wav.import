@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dny8csj3t67i"
-path="res://.godot/imported/PRSFX- Aqua Tail.wav-753952ecfa0d672bb1ddee106d25e7b1.sample"
+path="res://.godot/imported/PRSFX- Aqua Tail.wav-668961ff88b6c0c07f960c85d5907c88.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aqua Tail.wav"
-dest_files=["res://.godot/imported/PRSFX- Aqua Tail.wav-753952ecfa0d672bb1ddee106d25e7b1.sample"]
+source_file="res://audio/se/anim/PRSFX- Aqua Tail.wav"
+dest_files=["res://.godot/imported/PRSFX- Aqua Tail.wav-668961ff88b6c0c07f960c85d5907c88.sample"]
 
 [params]
 

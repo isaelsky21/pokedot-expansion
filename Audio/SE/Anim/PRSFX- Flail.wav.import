@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dd8yabxa4djwe"
-path="res://.godot/imported/PRSFX- Flail.wav-ac6e9a3b4bd73b965290e1264b6a5b38.sample"
+path="res://.godot/imported/PRSFX- Flail.wav-00ca43a96c0ad37873d52adb3224a58a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Flail.wav"
-dest_files=["res://.godot/imported/PRSFX- Flail.wav-ac6e9a3b4bd73b965290e1264b6a5b38.sample"]
+source_file="res://audio/se/anim/PRSFX- Flail.wav"
+dest_files=["res://.godot/imported/PRSFX- Flail.wav-00ca43a96c0ad37873d52adb3224a58a.sample"]
 
 [params]
 

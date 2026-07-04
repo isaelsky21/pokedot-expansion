@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bm0t6sd8yy4dw"
-path="res://.godot/imported/TAPULELE.ogg-d605dc080e2be1d4d69632ac581ec65d.oggvorbisstr"
+path="res://.godot/imported/TAPULELE.ogg-efb34109a10701f62b808834f38487e2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TAPULELE.ogg"
-dest_files=["res://.godot/imported/TAPULELE.ogg-d605dc080e2be1d4d69632ac581ec65d.oggvorbisstr"]
+source_file="res://audio/se/cries/TAPULELE.ogg"
+dest_files=["res://.godot/imported/TAPULELE.ogg-efb34109a10701f62b808834f38487e2.oggvorbisstr"]
 
 [params]
 

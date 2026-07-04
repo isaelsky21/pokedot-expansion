@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cg4r0iob6bhah"
-path="res://.godot/imported/PRSFX- Yawn.wav-6b73b42b1647430e76a416177cd342a5.sample"
+path="res://.godot/imported/PRSFX- Yawn.wav-9834b116b16a248cc4e0f86956179d11.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Yawn.wav"
-dest_files=["res://.godot/imported/PRSFX- Yawn.wav-6b73b42b1647430e76a416177cd342a5.sample"]
+source_file="res://audio/se/anim/PRSFX- Yawn.wav"
+dest_files=["res://.godot/imported/PRSFX- Yawn.wav-9834b116b16a248cc4e0f86956179d11.sample"]
 
 [params]
 

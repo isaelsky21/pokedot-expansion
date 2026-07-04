@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://csyru0ne10ium"
-path="res://.godot/imported/Credits.wav-610282d32cfb7a668a8e0cbc0bc7bdfc.sample"
+path="res://.godot/imported/Credits.wav-0f8298f9252c056e1cf3666f1da2feab.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Credits.wav"
-dest_files=["res://.godot/imported/Credits.wav-610282d32cfb7a668a8e0cbc0bc7bdfc.sample"]
+source_file="res://audio/bgm/Credits.wav"
+dest_files=["res://.godot/imported/Credits.wav-0f8298f9252c056e1cf3666f1da2feab.sample"]
 
 [params]
 

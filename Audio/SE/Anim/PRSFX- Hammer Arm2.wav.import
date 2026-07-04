@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://chjakj6cudeqq"
-path="res://.godot/imported/PRSFX- Hammer Arm2.wav-a00daaf3bcf241d92a189b7bd9d9d8c1.sample"
+path="res://.godot/imported/PRSFX- Hammer Arm2.wav-ec60e55a028d8b40ae7a2abeb6030f42.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hammer Arm2.wav"
-dest_files=["res://.godot/imported/PRSFX- Hammer Arm2.wav-a00daaf3bcf241d92a189b7bd9d9d8c1.sample"]
+source_file="res://audio/se/anim/PRSFX- Hammer Arm2.wav"
+dest_files=["res://.godot/imported/PRSFX- Hammer Arm2.wav-ec60e55a028d8b40ae7a2abeb6030f42.sample"]
 
 [params]
 

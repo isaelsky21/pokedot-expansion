@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b3bc60ncy3rts"
-path="res://.godot/imported/PRSFX- Aromatic Mist.wav-f51640356265effc7762b1956750b1db.sample"
+path="res://.godot/imported/PRSFX- Aromatic Mist.wav-15e1cf70d404d076ef9a3a6a2e5ca199.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aromatic Mist.wav"
-dest_files=["res://.godot/imported/PRSFX- Aromatic Mist.wav-f51640356265effc7762b1956750b1db.sample"]
+source_file="res://audio/se/anim/PRSFX- Aromatic Mist.wav"
+dest_files=["res://.godot/imported/PRSFX- Aromatic Mist.wav-15e1cf70d404d076ef9a3a6a2e5ca199.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cml5dekciu7m5"
-path="res://.godot/imported/GRIMER.ogg-cd6f03765dfef4ec8bd38271a255207a.oggvorbisstr"
+path="res://.godot/imported/GRIMER.ogg-44b54d0e29348d8ba81bcebce51ebcca.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GRIMER.ogg"
-dest_files=["res://.godot/imported/GRIMER.ogg-cd6f03765dfef4ec8bd38271a255207a.oggvorbisstr"]
+source_file="res://audio/se/cries/GRIMER.ogg"
+dest_files=["res://.godot/imported/GRIMER.ogg-44b54d0e29348d8ba81bcebce51ebcca.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dh4ph2s458qjn"
-path="res://.godot/imported/DROWZEE.ogg-f33d34cde9a070dab5c113123aaaa7a4.oggvorbisstr"
+path="res://.godot/imported/DROWZEE.ogg-9304312b3ea73fae92da1d95e3bc2cb8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DROWZEE.ogg"
-dest_files=["res://.godot/imported/DROWZEE.ogg-f33d34cde9a070dab5c113123aaaa7a4.oggvorbisstr"]
+source_file="res://audio/se/cries/DROWZEE.ogg"
+dest_files=["res://.godot/imported/DROWZEE.ogg-9304312b3ea73fae92da1d95e3bc2cb8.oggvorbisstr"]
 
 [params]
 

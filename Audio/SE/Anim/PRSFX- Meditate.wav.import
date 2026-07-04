@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://5illrcgkt4bb"
-path="res://.godot/imported/PRSFX- Meditate.wav-d1fedc39727261556a94d8e77d328429.sample"
+path="res://.godot/imported/PRSFX- Meditate.wav-0103c5061179e7e36c75643b9e2a9cdc.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Meditate.wav"
-dest_files=["res://.godot/imported/PRSFX- Meditate.wav-d1fedc39727261556a94d8e77d328429.sample"]
+source_file="res://audio/se/anim/PRSFX- Meditate.wav"
+dest_files=["res://.godot/imported/PRSFX- Meditate.wav-0103c5061179e7e36c75643b9e2a9cdc.sample"]
 
 [params]
 

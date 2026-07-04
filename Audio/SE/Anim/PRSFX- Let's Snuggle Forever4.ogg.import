@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqhytjbcrmadl"
-path="res://.godot/imported/PRSFX- Let's Snuggle Forever4.ogg-3da75ad8d51a5463c7d5921339617b27.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Let's Snuggle Forever4.ogg-bf1fd793595096170e8a2540a24714b9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Let's Snuggle Forever4.ogg"
-dest_files=["res://.godot/imported/PRSFX- Let's Snuggle Forever4.ogg-3da75ad8d51a5463c7d5921339617b27.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Let's Snuggle Forever4.ogg"
+dest_files=["res://.godot/imported/PRSFX- Let's Snuggle Forever4.ogg-bf1fd793595096170e8a2540a24714b9.oggvorbisstr"]
 
 [params]
 

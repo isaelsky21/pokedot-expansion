@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://lvjoentcposs"
-path="res://.godot/imported/CHARMANDER.ogg-16297324d73b786891fddd47938f5b97.oggvorbisstr"
+path="res://.godot/imported/CHARMANDER.ogg-bee51a204457c662d63c8bfa7ccb9ba6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHARMANDER.ogg"
-dest_files=["res://.godot/imported/CHARMANDER.ogg-16297324d73b786891fddd47938f5b97.oggvorbisstr"]
+source_file="res://audio/se/cries/CHARMANDER.ogg"
+dest_files=["res://.godot/imported/CHARMANDER.ogg-bee51a204457c662d63c8bfa7ccb9ba6.oggvorbisstr"]
 
 [params]
 

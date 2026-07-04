@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b5b3f0u57daba"
-path="res://.godot/imported/Battle ability.ogg-fc116ac99607c936dd51f26b2ba3205a.oggvorbisstr"
+path="res://.godot/imported/Battle ability.ogg-5e4f55965228fb564171368c4500a3d5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Battle ability.ogg"
-dest_files=["res://.godot/imported/Battle ability.ogg-fc116ac99607c936dd51f26b2ba3205a.oggvorbisstr"]
+source_file="res://audio/se/Battle ability.ogg"
+dest_files=["res://.godot/imported/Battle ability.ogg-5e4f55965228fb564171368c4500a3d5.oggvorbisstr"]
 
 [params]
 

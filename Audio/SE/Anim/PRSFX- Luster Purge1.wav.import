@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bbba81pbbptbg"
-path="res://.godot/imported/PRSFX- Luster Purge1.wav-04a5f63dfbea75f233aa117bfd3f23b0.sample"
+path="res://.godot/imported/PRSFX- Luster Purge1.wav-272930d9efbfce4faa737bc1ba7a1f95.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Luster Purge1.wav"
-dest_files=["res://.godot/imported/PRSFX- Luster Purge1.wav-04a5f63dfbea75f233aa117bfd3f23b0.sample"]
+source_file="res://audio/se/anim/PRSFX- Luster Purge1.wav"
+dest_files=["res://.godot/imported/PRSFX- Luster Purge1.wav-272930d9efbfce4faa737bc1ba7a1f95.sample"]
 
 [params]
 

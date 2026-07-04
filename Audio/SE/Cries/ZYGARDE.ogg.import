@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://co6h1qhli333o"
-path="res://.godot/imported/ZYGARDE.ogg-d4415bce8e2e11fbf3ecf791077ad901.oggvorbisstr"
+path="res://.godot/imported/ZYGARDE.ogg-b41dd44e57478b9cbe30f944e0b3946b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZYGARDE.ogg"
-dest_files=["res://.godot/imported/ZYGARDE.ogg-d4415bce8e2e11fbf3ecf791077ad901.oggvorbisstr"]
+source_file="res://audio/se/cries/ZYGARDE.ogg"
+dest_files=["res://.godot/imported/ZYGARDE.ogg-b41dd44e57478b9cbe30f944e0b3946b.oggvorbisstr"]
 
 [params]
 

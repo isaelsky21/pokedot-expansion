@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://da6hycs8jk2ws"
-path="res://.godot/imported/Battle ball shake.ogg-a9d053ed0bae75694d0e96c3191bba57.oggvorbisstr"
+path="res://.godot/imported/Battle ball shake.ogg-bddf15b06d0659785b2e74fbeef32bd0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Battle ball shake.ogg"
-dest_files=["res://.godot/imported/Battle ball shake.ogg-a9d053ed0bae75694d0e96c3191bba57.oggvorbisstr"]
+source_file="res://audio/se/Battle ball shake.ogg"
+dest_files=["res://.godot/imported/Battle ball shake.ogg-bddf15b06d0659785b2e74fbeef32bd0.oggvorbisstr"]
 
 [params]
 

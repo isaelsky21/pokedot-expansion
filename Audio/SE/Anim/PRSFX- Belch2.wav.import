@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c6icra1wthlkh"
-path="res://.godot/imported/PRSFX- Belch2.wav-81c1c4c2237663cb9ea4b4e62e44f207.sample"
+path="res://.godot/imported/PRSFX- Belch2.wav-da295108c15f5887ed19570490dfa3b7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Belch2.wav"
-dest_files=["res://.godot/imported/PRSFX- Belch2.wav-81c1c4c2237663cb9ea4b4e62e44f207.sample"]
+source_file="res://audio/se/anim/PRSFX- Belch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Belch2.wav-da295108c15f5887ed19570490dfa3b7.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7bsrk7ap4ljl"
-path="res://.godot/imported/CLAWITZER.ogg-4f64888533bedd1815ea431067ec0dea.oggvorbisstr"
+path="res://.godot/imported/CLAWITZER.ogg-2cc9432cf6c3c1cd7ac04e20539af86c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CLAWITZER.ogg"
-dest_files=["res://.godot/imported/CLAWITZER.ogg-4f64888533bedd1815ea431067ec0dea.oggvorbisstr"]
+source_file="res://audio/se/cries/CLAWITZER.ogg"
+dest_files=["res://.godot/imported/CLAWITZER.ogg-2cc9432cf6c3c1cd7ac04e20539af86c.oggvorbisstr"]
 
 [params]
 

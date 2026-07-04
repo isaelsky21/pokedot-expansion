@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dd0nri3yeagyn"
-path="res://.godot/imported/GOURGEIST_3.ogg-86651689b84e3a9888bae37f40736455.oggvorbisstr"
+path="res://.godot/imported/GOURGEIST_3.ogg-4d18ec615e31d99ad0e5b2b8c2029c9f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOURGEIST_3.ogg"
-dest_files=["res://.godot/imported/GOURGEIST_3.ogg-86651689b84e3a9888bae37f40736455.oggvorbisstr"]
+source_file="res://audio/se/cries/GOURGEIST_3.ogg"
+dest_files=["res://.godot/imported/GOURGEIST_3.ogg-4d18ec615e31d99ad0e5b2b8c2029c9f.oggvorbisstr"]
 
 [params]
 

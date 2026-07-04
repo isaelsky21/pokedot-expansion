@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cewyxajkkbgtq"
-path="res://.godot/imported/PRSFX- Sky Uppercut2.wav-d349f9860e19e55c00ecd0fba7476162.sample"
+path="res://.godot/imported/PRSFX- Sky Uppercut2.wav-3e93dc8056127147fd8676f823052d5e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sky Uppercut2.wav"
-dest_files=["res://.godot/imported/PRSFX- Sky Uppercut2.wav-d349f9860e19e55c00ecd0fba7476162.sample"]
+source_file="res://audio/se/anim/PRSFX- Sky Uppercut2.wav"
+dest_files=["res://.godot/imported/PRSFX- Sky Uppercut2.wav-3e93dc8056127147fd8676f823052d5e.sample"]
 
 [params]
 

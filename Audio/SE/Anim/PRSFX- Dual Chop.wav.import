@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cr6vcshqn3f5p"
-path="res://.godot/imported/PRSFX- Dual Chop.wav-b4f336ec440bd794f6831a7c3ffcebab.sample"
+path="res://.godot/imported/PRSFX- Dual Chop.wav-0451c1e3b70af6610beede7cf4c42ffe.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dual Chop.wav"
-dest_files=["res://.godot/imported/PRSFX- Dual Chop.wav-b4f336ec440bd794f6831a7c3ffcebab.sample"]
+source_file="res://audio/se/anim/PRSFX- Dual Chop.wav"
+dest_files=["res://.godot/imported/PRSFX- Dual Chop.wav-0451c1e3b70af6610beede7cf4c42ffe.sample"]
 
 [params]
 

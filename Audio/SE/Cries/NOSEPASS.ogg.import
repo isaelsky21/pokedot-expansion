@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c5e673mohnpvt"
-path="res://.godot/imported/NOSEPASS.ogg-76342febcfde6d0bb739002470fff771.oggvorbisstr"
+path="res://.godot/imported/NOSEPASS.ogg-dc7b25d744243102c965523590587612.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NOSEPASS.ogg"
-dest_files=["res://.godot/imported/NOSEPASS.ogg-76342febcfde6d0bb739002470fff771.oggvorbisstr"]
+source_file="res://audio/se/cries/NOSEPASS.ogg"
+dest_files=["res://.godot/imported/NOSEPASS.ogg-dc7b25d744243102c965523590587612.oggvorbisstr"]
 
 [params]
 

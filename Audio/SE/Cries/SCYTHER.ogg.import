@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bwf4yncanbxpr"
-path="res://.godot/imported/SCYTHER.ogg-d5998998298e59307d7011859c3f6d42.oggvorbisstr"
+path="res://.godot/imported/SCYTHER.ogg-d8c12ad0e27312e9d84a03914b8e36ad.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SCYTHER.ogg"
-dest_files=["res://.godot/imported/SCYTHER.ogg-d5998998298e59307d7011859c3f6d42.oggvorbisstr"]
+source_file="res://audio/se/cries/SCYTHER.ogg"
+dest_files=["res://.godot/imported/SCYTHER.ogg-d8c12ad0e27312e9d84a03914b8e36ad.oggvorbisstr"]
 
 [params]
 

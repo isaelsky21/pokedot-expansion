@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://clqfudoicr3nr"
-path="res://.godot/imported/PRSFX- Boomburst.wav-9f220c1b9a36188d1ae1de6277fd5c99.sample"
+path="res://.godot/imported/PRSFX- Boomburst.wav-bc8d99ec2c61b50d13e77fda10750051.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Boomburst.wav"
-dest_files=["res://.godot/imported/PRSFX- Boomburst.wav-9f220c1b9a36188d1ae1de6277fd5c99.sample"]
+source_file="res://audio/se/anim/PRSFX- Boomburst.wav"
+dest_files=["res://.godot/imported/PRSFX- Boomburst.wav-bc8d99ec2c61b50d13e77fda10750051.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c2n7a71ywum0i"
-path="res://.godot/imported/PRSFX- Dragon Tail.wav-14a5d0f786a4897070a29cea480b6bba.sample"
+path="res://.godot/imported/PRSFX- Dragon Tail.wav-ced3eb1671c63eb53a01b53a49d6a6ab.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dragon Tail.wav"
-dest_files=["res://.godot/imported/PRSFX- Dragon Tail.wav-14a5d0f786a4897070a29cea480b6bba.sample"]
+source_file="res://audio/se/anim/PRSFX- Dragon Tail.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Tail.wav-ced3eb1671c63eb53a01b53a49d6a6ab.sample"]
 
 [params]
 

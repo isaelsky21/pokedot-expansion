@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vd1utdk6shc0"
-path="res://.godot/imported/BEAUTIFLY.ogg-3fa67d0544d1b0a34f89f1b07b6dde1f.oggvorbisstr"
+path="res://.godot/imported/BEAUTIFLY.ogg-9a97c9e0d17fdd7e3f5f76e6686cef33.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BEAUTIFLY.ogg"
-dest_files=["res://.godot/imported/BEAUTIFLY.ogg-3fa67d0544d1b0a34f89f1b07b6dde1f.oggvorbisstr"]
+source_file="res://audio/se/cries/BEAUTIFLY.ogg"
+dest_files=["res://.godot/imported/BEAUTIFLY.ogg-9a97c9e0d17fdd7e3f5f76e6686cef33.oggvorbisstr"]
 
 [params]
 

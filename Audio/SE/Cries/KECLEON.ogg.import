@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ce8bakc83fg2l"
-path="res://.godot/imported/KECLEON.ogg-82dc20e5b727cb998942249a7ca8e727.oggvorbisstr"
+path="res://.godot/imported/KECLEON.ogg-f40d94134415f45c2d698e35b0278e7b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KECLEON.ogg"
-dest_files=["res://.godot/imported/KECLEON.ogg-82dc20e5b727cb998942249a7ca8e727.oggvorbisstr"]
+source_file="res://audio/se/cries/KECLEON.ogg"
+dest_files=["res://.godot/imported/KECLEON.ogg-f40d94134415f45c2d698e35b0278e7b.oggvorbisstr"]
 
 [params]
 

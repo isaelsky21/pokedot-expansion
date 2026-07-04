@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://coby28j8dy4aq"
-path="res://.godot/imported/PRSFX- Last Resort1.wav-c7dad4e82fa09a070c7b9c7a4690f0e3.sample"
+path="res://.godot/imported/PRSFX- Last Resort1.wav-1fe33d68aacdc64c8ddf713d01e01cb6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Last Resort1.wav"
-dest_files=["res://.godot/imported/PRSFX- Last Resort1.wav-c7dad4e82fa09a070c7b9c7a4690f0e3.sample"]
+source_file="res://audio/se/anim/PRSFX- Last Resort1.wav"
+dest_files=["res://.godot/imported/PRSFX- Last Resort1.wav-1fe33d68aacdc64c8ddf713d01e01cb6.sample"]
 
 [params]
 

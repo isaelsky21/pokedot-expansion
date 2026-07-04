@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ct7mn8tlwf6mv"
-path="res://.godot/imported/PRSFX- Horn Attack.wav-025b04c8e5553dd607ae2e7212b2018a.sample"
+path="res://.godot/imported/PRSFX- Horn Attack.wav-c4a41aa06a141f096f3c7556527ade28.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Horn Attack.wav"
-dest_files=["res://.godot/imported/PRSFX- Horn Attack.wav-025b04c8e5553dd607ae2e7212b2018a.sample"]
+source_file="res://audio/se/anim/PRSFX- Horn Attack.wav"
+dest_files=["res://.godot/imported/PRSFX- Horn Attack.wav-c4a41aa06a141f096f3c7556527ade28.sample"]
 
 [params]
 

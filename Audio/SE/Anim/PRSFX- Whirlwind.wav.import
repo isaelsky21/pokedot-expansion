@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c48b335q2c4ld"
-path="res://.godot/imported/PRSFX- Whirlwind.wav-346b2b9861da19520d666572021a5cca.sample"
+path="res://.godot/imported/PRSFX- Whirlwind.wav-51410c93cf31d426db94029935984702.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Whirlwind.wav"
-dest_files=["res://.godot/imported/PRSFX- Whirlwind.wav-346b2b9861da19520d666572021a5cca.sample"]
+source_file="res://audio/se/anim/PRSFX- Whirlwind.wav"
+dest_files=["res://.godot/imported/PRSFX- Whirlwind.wav-51410c93cf31d426db94029935984702.sample"]
 
 [params]
 

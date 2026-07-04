@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://sks0lugxe0es"
-path="res://.godot/imported/Water3.ogg-62e69bf3a248136b5bd63a737d4b8ae0.oggvorbisstr"
+path="res://.godot/imported/Water3.ogg-80706ea400aaeacfa19b77af289850da.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Water3.ogg"
-dest_files=["res://.godot/imported/Water3.ogg-62e69bf3a248136b5bd63a737d4b8ae0.oggvorbisstr"]
+source_file="res://audio/se/anim/Water3.ogg"
+dest_files=["res://.godot/imported/Water3.ogg-80706ea400aaeacfa19b77af289850da.oggvorbisstr"]
 
 [params]
 

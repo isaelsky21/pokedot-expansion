@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cd0nnny1q541i"
-path="res://.godot/imported/PRSFX- Storm Throw1.wav-fbf0dd3ea2027fd4302b1ebeb079a9e5.sample"
+path="res://.godot/imported/PRSFX- Storm Throw1.wav-ef7b6ff24a9bd9dd24135614743cb514.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Storm Throw1.wav"
-dest_files=["res://.godot/imported/PRSFX- Storm Throw1.wav-fbf0dd3ea2027fd4302b1ebeb079a9e5.sample"]
+source_file="res://audio/se/anim/PRSFX- Storm Throw1.wav"
+dest_files=["res://.godot/imported/PRSFX- Storm Throw1.wav-ef7b6ff24a9bd9dd24135614743cb514.sample"]
 
 [params]
 

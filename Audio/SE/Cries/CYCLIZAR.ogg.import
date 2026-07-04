@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://chn37pj1gak4e"
-path="res://.godot/imported/CYCLIZAR.ogg-cab0994bd315a7baf54963f306a97438.oggvorbisstr"
+path="res://.godot/imported/CYCLIZAR.ogg-a0374407b9fe267643acb7a3b9ebf565.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CYCLIZAR.ogg"
-dest_files=["res://.godot/imported/CYCLIZAR.ogg-cab0994bd315a7baf54963f306a97438.oggvorbisstr"]
+source_file="res://audio/se/cries/CYCLIZAR.ogg"
+dest_files=["res://.godot/imported/CYCLIZAR.ogg-a0374407b9fe267643acb7a3b9ebf565.oggvorbisstr"]
 
 [params]
 

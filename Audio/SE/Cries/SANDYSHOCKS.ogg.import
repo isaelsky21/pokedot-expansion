@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://glvy2kfs2xb0"
-path="res://.godot/imported/SANDYSHOCKS.ogg-6672fd317ca3662ec9b7c6989f59ec86.oggvorbisstr"
+path="res://.godot/imported/SANDYSHOCKS.ogg-4602de1f42c12d34d4baa1d835ac3e20.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SANDYSHOCKS.ogg"
-dest_files=["res://.godot/imported/SANDYSHOCKS.ogg-6672fd317ca3662ec9b7c6989f59ec86.oggvorbisstr"]
+source_file="res://audio/se/cries/SANDYSHOCKS.ogg"
+dest_files=["res://.godot/imported/SANDYSHOCKS.ogg-4602de1f42c12d34d4baa1d835ac3e20.oggvorbisstr"]
 
 [params]
 

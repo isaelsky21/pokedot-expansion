@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b317d5hqd45cx"
-path="res://.godot/imported/PRSFX- Head Charge.wav-9570867c2a114af0bc29b9ec143f8bec.sample"
+path="res://.godot/imported/PRSFX- Head Charge.wav-656956ecae34e6e3cf7bdbb8bbe35319.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Head Charge.wav"
-dest_files=["res://.godot/imported/PRSFX- Head Charge.wav-9570867c2a114af0bc29b9ec143f8bec.sample"]
+source_file="res://audio/se/anim/PRSFX- Head Charge.wav"
+dest_files=["res://.godot/imported/PRSFX- Head Charge.wav-656956ecae34e6e3cf7bdbb8bbe35319.sample"]
 
 [params]
 

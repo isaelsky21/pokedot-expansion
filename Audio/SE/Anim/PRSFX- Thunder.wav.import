@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://w282tq7v7gr5"
-path="res://.godot/imported/PRSFX- Thunder.wav-1cb164a6905cfa6bf428d0d646e6e338.sample"
+path="res://.godot/imported/PRSFX- Thunder.wav-07b613868fd0a26e60a919fbfb9effb2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thunder.wav"
-dest_files=["res://.godot/imported/PRSFX- Thunder.wav-1cb164a6905cfa6bf428d0d646e6e338.sample"]
+source_file="res://audio/se/anim/PRSFX- Thunder.wav"
+dest_files=["res://.godot/imported/PRSFX- Thunder.wav-07b613868fd0a26e60a919fbfb9effb2.sample"]
 
 [params]
 

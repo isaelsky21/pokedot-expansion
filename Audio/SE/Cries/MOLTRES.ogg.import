@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c2i4804vqqy58"
-path="res://.godot/imported/MOLTRES.ogg-bf83240c7fdd0d39310e0e3e6fff8b85.oggvorbisstr"
+path="res://.godot/imported/MOLTRES.ogg-cdbf18d8c98fcd3db6a817665f0ca24f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MOLTRES.ogg"
-dest_files=["res://.godot/imported/MOLTRES.ogg-bf83240c7fdd0d39310e0e3e6fff8b85.oggvorbisstr"]
+source_file="res://audio/se/cries/MOLTRES.ogg"
+dest_files=["res://.godot/imported/MOLTRES.ogg-cdbf18d8c98fcd3db6a817665f0ca24f.oggvorbisstr"]
 
 [params]
 

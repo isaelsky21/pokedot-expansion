@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://blbwbq7vro7uw"
-path="res://.godot/imported/Raid (Tera) capture.ogg-74ffee1942deaec83c07b78ae9747f32.oggvorbisstr"
+path="res://.godot/imported/Raid (Tera) capture.ogg-78e15518838cf1453e788d120cc41d60.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/BGM/Raid (Tera) capture.ogg"
-dest_files=["res://.godot/imported/Raid (Tera) capture.ogg-74ffee1942deaec83c07b78ae9747f32.oggvorbisstr"]
+source_file="res://audio/bgm/Raid (Tera) capture.ogg"
+dest_files=["res://.godot/imported/Raid (Tera) capture.ogg-78e15518838cf1453e788d120cc41d60.oggvorbisstr"]
 
 [params]
 

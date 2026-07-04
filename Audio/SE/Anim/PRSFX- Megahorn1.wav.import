@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ceyh0t70307ig"
-path="res://.godot/imported/PRSFX- Megahorn1.wav-855a2297173fb4380780d31b529dc1fa.sample"
+path="res://.godot/imported/PRSFX- Megahorn1.wav-621677b2e615cab630e9677013da2f06.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Megahorn1.wav"
-dest_files=["res://.godot/imported/PRSFX- Megahorn1.wav-855a2297173fb4380780d31b529dc1fa.sample"]
+source_file="res://audio/se/anim/PRSFX- Megahorn1.wav"
+dest_files=["res://.godot/imported/PRSFX- Megahorn1.wav-621677b2e615cab630e9677013da2f06.sample"]
 
 [params]
 

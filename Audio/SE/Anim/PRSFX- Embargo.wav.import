@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ebnbhnny1u7x"
-path="res://.godot/imported/PRSFX- Embargo.wav-8ed7bac4e978c8c24c196ab997f6051b.sample"
+path="res://.godot/imported/PRSFX- Embargo.wav-c50d9831394bc126ea10a5f8b3ef64dd.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Embargo.wav"
-dest_files=["res://.godot/imported/PRSFX- Embargo.wav-8ed7bac4e978c8c24c196ab997f6051b.sample"]
+source_file="res://audio/se/anim/PRSFX- Embargo.wav"
+dest_files=["res://.godot/imported/PRSFX- Embargo.wav-c50d9831394bc126ea10a5f8b3ef64dd.sample"]
 
 [params]
 

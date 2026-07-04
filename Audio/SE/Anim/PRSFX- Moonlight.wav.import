@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bu00m61r2ylbq"
-path="res://.godot/imported/PRSFX- Moonlight.wav-f6e8a867da3195aa62efdb6229dc4d02.sample"
+path="res://.godot/imported/PRSFX- Moonlight.wav-9e6438a6f221e25a84081fcc8571d23a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Moonlight.wav"
-dest_files=["res://.godot/imported/PRSFX- Moonlight.wav-f6e8a867da3195aa62efdb6229dc4d02.sample"]
+source_file="res://audio/se/anim/PRSFX- Moonlight.wav"
+dest_files=["res://.godot/imported/PRSFX- Moonlight.wav-9e6438a6f221e25a84081fcc8571d23a.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bugox5wtf8f2u"
-path="res://.godot/imported/PRSFX- Snore.wav-6278a961629a2368029ebe9f98a2b26c.sample"
+path="res://.godot/imported/PRSFX- Snore.wav-69f9432fae81f0540b97b01fe08b2d89.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Snore.wav"
-dest_files=["res://.godot/imported/PRSFX- Snore.wav-6278a961629a2368029ebe9f98a2b26c.sample"]
+source_file="res://audio/se/anim/PRSFX- Snore.wav"
+dest_files=["res://.godot/imported/PRSFX- Snore.wav-69f9432fae81f0540b97b01fe08b2d89.sample"]
 
 [params]
 

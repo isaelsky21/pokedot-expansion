@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d3tqg8cj3rj4n"
-path="res://.godot/imported/PRSFX- Megakick.wav-e39f24f60feb7bce9ee9584e1ff0f0f6.sample"
+path="res://.godot/imported/PRSFX- Megakick.wav-947a130b0e62bc7ab67adddd14a561c1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Megakick.wav"
-dest_files=["res://.godot/imported/PRSFX- Megakick.wav-e39f24f60feb7bce9ee9584e1ff0f0f6.sample"]
+source_file="res://audio/se/anim/PRSFX- Megakick.wav"
+dest_files=["res://.godot/imported/PRSFX- Megakick.wav-947a130b0e62bc7ab67adddd14a561c1.sample"]
 
 [params]
 

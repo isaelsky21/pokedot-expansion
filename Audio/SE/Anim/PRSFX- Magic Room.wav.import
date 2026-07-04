@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://8mdu2a4ftefw"
-path="res://.godot/imported/PRSFX- Magic Room.wav-154635300e259fc850e563be5b01aa30.sample"
+path="res://.godot/imported/PRSFX- Magic Room.wav-650247fdfcc0717e2462e706be7c92d5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Magic Room.wav"
-dest_files=["res://.godot/imported/PRSFX- Magic Room.wav-154635300e259fc850e563be5b01aa30.sample"]
+source_file="res://audio/se/anim/PRSFX- Magic Room.wav"
+dest_files=["res://.godot/imported/PRSFX- Magic Room.wav-650247fdfcc0717e2462e706be7c92d5.sample"]
 
 [params]
 

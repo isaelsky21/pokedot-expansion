@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c1g1kj7p1vvw"
-path="res://.godot/imported/PRSFX- Bug Bite.wav-96b00d028aefc0a3e0b683d5ef3dc8b7.sample"
+path="res://.godot/imported/PRSFX- Bug Bite.wav-4e8bdda8e4e764cb4e330ba687f312f0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bug Bite.wav"
-dest_files=["res://.godot/imported/PRSFX- Bug Bite.wav-96b00d028aefc0a3e0b683d5ef3dc8b7.sample"]
+source_file="res://audio/se/anim/PRSFX- Bug Bite.wav"
+dest_files=["res://.godot/imported/PRSFX- Bug Bite.wav-4e8bdda8e4e764cb4e330ba687f312f0.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bfgp73jqjiux0"
-path="res://.godot/imported/GEN8- Revelation Dance 2.ogg-06e866215e4d8c5d5f3df0c070a9c343.oggvorbisstr"
+path="res://.godot/imported/GEN8- Revelation Dance 2.ogg-cf8091b18b82a08fb43890fe3658b8e5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/GEN8- Revelation Dance 2.ogg"
-dest_files=["res://.godot/imported/GEN8- Revelation Dance 2.ogg-06e866215e4d8c5d5f3df0c070a9c343.oggvorbisstr"]
+source_file="res://audio/se/anim/GEN8- Revelation Dance 2.ogg"
+dest_files=["res://.godot/imported/GEN8- Revelation Dance 2.ogg-cf8091b18b82a08fb43890fe3658b8e5.oggvorbisstr"]
 
 [params]
 

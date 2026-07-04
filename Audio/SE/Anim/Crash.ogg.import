@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bumuafl7vlmxo"
-path="res://.godot/imported/Crash.ogg-d737748f2897b5159030f73699803f35.oggvorbisstr"
+path="res://.godot/imported/Crash.ogg-c0c9be2f36e8043800526529687bd773.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Crash.ogg"
-dest_files=["res://.godot/imported/Crash.ogg-d737748f2897b5159030f73699803f35.oggvorbisstr"]
+source_file="res://audio/se/anim/Crash.ogg"
+dest_files=["res://.godot/imported/Crash.ogg-c0c9be2f36e8043800526529687bd773.oggvorbisstr"]
 
 [params]
 

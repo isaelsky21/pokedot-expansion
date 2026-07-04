@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://fcyj3qgx8klo"
-path="res://.godot/imported/MUDBRAY.ogg-4fb7fc459f67e450d55ec152c4ea15de.oggvorbisstr"
+path="res://.godot/imported/MUDBRAY.ogg-e1aa8ab0bccabe65529963ed826dabd6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MUDBRAY.ogg"
-dest_files=["res://.godot/imported/MUDBRAY.ogg-4fb7fc459f67e450d55ec152c4ea15de.oggvorbisstr"]
+source_file="res://audio/se/cries/MUDBRAY.ogg"
+dest_files=["res://.godot/imported/MUDBRAY.ogg-e1aa8ab0bccabe65529963ed826dabd6.oggvorbisstr"]
 
 [params]
 

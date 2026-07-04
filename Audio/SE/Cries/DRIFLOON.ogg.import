@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://o5v7tp65p8rl"
-path="res://.godot/imported/DRIFLOON.ogg-78f079a944ea3adee05b9b9a83dae62c.oggvorbisstr"
+path="res://.godot/imported/DRIFLOON.ogg-9d797852a525312076d04431b7352a4b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRIFLOON.ogg"
-dest_files=["res://.godot/imported/DRIFLOON.ogg-78f079a944ea3adee05b9b9a83dae62c.oggvorbisstr"]
+source_file="res://audio/se/cries/DRIFLOON.ogg"
+dest_files=["res://.godot/imported/DRIFLOON.ogg-9d797852a525312076d04431b7352a4b.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://co362u5df3b23"
-path="res://.godot/imported/PRSFX- Aura Sphere2.wav-ce7ffce2edd4a725790e73a5b577a6c8.sample"
+path="res://.godot/imported/PRSFX- Aura Sphere2.wav-e4dbe6d106bdb72b7ab9ebc26e547469.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aura Sphere2.wav"
-dest_files=["res://.godot/imported/PRSFX- Aura Sphere2.wav-ce7ffce2edd4a725790e73a5b577a6c8.sample"]
+source_file="res://audio/se/anim/PRSFX- Aura Sphere2.wav"
+dest_files=["res://.godot/imported/PRSFX- Aura Sphere2.wav-e4dbe6d106bdb72b7ab9ebc26e547469.sample"]
 
 [params]
 

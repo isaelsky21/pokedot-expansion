@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://veaba58c88wm"
-path="res://.godot/imported/PRSFX- Guard Swap.wav-216b61a3e191e04eb77edc1a498fc6dc.sample"
+path="res://.godot/imported/PRSFX- Guard Swap.wav-28dc4fe7e5907ea08175b6916fd8d6a4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Guard Swap.wav"
-dest_files=["res://.godot/imported/PRSFX- Guard Swap.wav-216b61a3e191e04eb77edc1a498fc6dc.sample"]
+source_file="res://audio/se/anim/PRSFX- Guard Swap.wav"
+dest_files=["res://.godot/imported/PRSFX- Guard Swap.wav-28dc4fe7e5907ea08175b6916fd8d6a4.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cg5r7nbgvy5rr"
-path="res://.godot/imported/PRSFX- Grudge.wav-bb00aa36d484dd9ffbe7bbe7e49f5ae0.sample"
+path="res://.godot/imported/PRSFX- Grudge.wav-24c849bf05dbfd2bb67f8084aecee83e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Grudge.wav"
-dest_files=["res://.godot/imported/PRSFX- Grudge.wav-bb00aa36d484dd9ffbe7bbe7e49f5ae0.sample"]
+source_file="res://audio/se/anim/PRSFX- Grudge.wav"
+dest_files=["res://.godot/imported/PRSFX- Grudge.wav-24c849bf05dbfd2bb67f8084aecee83e.sample"]
 
 [params]
 

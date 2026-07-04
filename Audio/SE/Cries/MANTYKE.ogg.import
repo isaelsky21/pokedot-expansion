@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6xt8xgpfcq4w"
-path="res://.godot/imported/MANTYKE.ogg-842c99cf55fe4399c3daea190761160f.oggvorbisstr"
+path="res://.godot/imported/MANTYKE.ogg-3de0b77560920c90ad1e53abafb8e8d3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MANTYKE.ogg"
-dest_files=["res://.godot/imported/MANTYKE.ogg-842c99cf55fe4399c3daea190761160f.oggvorbisstr"]
+source_file="res://audio/se/cries/MANTYKE.ogg"
+dest_files=["res://.godot/imported/MANTYKE.ogg-3de0b77560920c90ad1e53abafb8e8d3.oggvorbisstr"]
 
 [params]
 

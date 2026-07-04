@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://btcd2uotqtyoo"
-path="res://.godot/imported/PRSFX- Drill Run.wav-bd3bfcc84411afca959882f0956065db.sample"
+path="res://.godot/imported/PRSFX- Drill Run.wav-068c18a1662795002436d89942d5268f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Drill Run.wav"
-dest_files=["res://.godot/imported/PRSFX- Drill Run.wav-bd3bfcc84411afca959882f0956065db.sample"]
+source_file="res://audio/se/anim/PRSFX- Drill Run.wav"
+dest_files=["res://.godot/imported/PRSFX- Drill Run.wav-068c18a1662795002436d89942d5268f.sample"]
 
 [params]
 

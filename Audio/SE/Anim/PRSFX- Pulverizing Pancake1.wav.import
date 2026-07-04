@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b82e6j75pkws0"
-path="res://.godot/imported/PRSFX- Pulverizing Pancake1.wav-e76737af8d10daa8347866849e18fb09.sample"
+path="res://.godot/imported/PRSFX- Pulverizing Pancake1.wav-1468c32fbd4f715ad6e1f992170f16e3.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Pulverizing Pancake1.wav"
-dest_files=["res://.godot/imported/PRSFX- Pulverizing Pancake1.wav-e76737af8d10daa8347866849e18fb09.sample"]
+source_file="res://audio/se/anim/PRSFX- Pulverizing Pancake1.wav"
+dest_files=["res://.godot/imported/PRSFX- Pulverizing Pancake1.wav-1468c32fbd4f715ad6e1f992170f16e3.sample"]
 
 [params]
 

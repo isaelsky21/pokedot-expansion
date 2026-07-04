@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1dycek8vcpxl"
-path="res://.godot/imported/LECHONK.ogg-b1dd5cb5de16f7ba8d5cc808f8e91792.oggvorbisstr"
+path="res://.godot/imported/LECHONK.ogg-bbb040a01404d3cb802719666a0a0b5a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LECHONK.ogg"
-dest_files=["res://.godot/imported/LECHONK.ogg-b1dd5cb5de16f7ba8d5cc808f8e91792.oggvorbisstr"]
+source_file="res://audio/se/cries/LECHONK.ogg"
+dest_files=["res://.godot/imported/LECHONK.ogg-bbb040a01404d3cb802719666a0a0b5a.oggvorbisstr"]
 
 [params]
 

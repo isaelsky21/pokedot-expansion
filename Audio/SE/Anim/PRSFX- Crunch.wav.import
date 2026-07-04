@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dy66qva8gxusm"
-path="res://.godot/imported/PRSFX- Crunch.wav-fc28cb4eb484871a47df1029d5cd650d.sample"
+path="res://.godot/imported/PRSFX- Crunch.wav-7cdb5108bd20befbdad948d51f9bb0ac.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Crunch.wav"
-dest_files=["res://.godot/imported/PRSFX- Crunch.wav-fc28cb4eb484871a47df1029d5cd650d.sample"]
+source_file="res://audio/se/anim/PRSFX- Crunch.wav"
+dest_files=["res://.godot/imported/PRSFX- Crunch.wav-7cdb5108bd20befbdad948d51f9bb0ac.sample"]
 
 [params]
 

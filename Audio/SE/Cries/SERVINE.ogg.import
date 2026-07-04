@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dt5586h1g8p0p"
-path="res://.godot/imported/SERVINE.ogg-5b6d7d21fa2e6521ddc2ef49ed5b6db9.oggvorbisstr"
+path="res://.godot/imported/SERVINE.ogg-da6b5cb099e7864524c9ea1485deaaec.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SERVINE.ogg"
-dest_files=["res://.godot/imported/SERVINE.ogg-5b6d7d21fa2e6521ddc2ef49ed5b6db9.oggvorbisstr"]
+source_file="res://audio/se/cries/SERVINE.ogg"
+dest_files=["res://.godot/imported/SERVINE.ogg-da6b5cb099e7864524c9ea1485deaaec.oggvorbisstr"]
 
 [params]
 

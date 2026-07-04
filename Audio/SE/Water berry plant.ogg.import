@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://0emsjsjsexo3"
-path="res://.godot/imported/Water berry plant.ogg-ad96b6ea8bb1378166e329f9b302b580.oggvorbisstr"
+path="res://.godot/imported/Water berry plant.ogg-15eb72c8c17e173fc1634b0ff26c99b3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Water berry plant.ogg"
-dest_files=["res://.godot/imported/Water berry plant.ogg-ad96b6ea8bb1378166e329f9b302b580.oggvorbisstr"]
+source_file="res://audio/se/Water berry plant.ogg"
+dest_files=["res://.godot/imported/Water berry plant.ogg-15eb72c8c17e173fc1634b0ff26c99b3.oggvorbisstr"]
 
 [params]
 

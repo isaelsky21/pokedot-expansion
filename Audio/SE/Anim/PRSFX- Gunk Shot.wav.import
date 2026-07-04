@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://be63qwy63rcdm"
-path="res://.godot/imported/PRSFX- Gunk Shot.wav-6fa43e292f8a488bb6139efb7902a094.sample"
+path="res://.godot/imported/PRSFX- Gunk Shot.wav-a10ba5633ce2802865d5a211fdfb0259.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gunk Shot.wav"
-dest_files=["res://.godot/imported/PRSFX- Gunk Shot.wav-6fa43e292f8a488bb6139efb7902a094.sample"]
+source_file="res://audio/se/anim/PRSFX- Gunk Shot.wav"
+dest_files=["res://.godot/imported/PRSFX- Gunk Shot.wav-a10ba5633ce2802865d5a211fdfb0259.sample"]
 
 [params]
 

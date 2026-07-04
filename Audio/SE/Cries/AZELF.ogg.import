@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://br8p84n0f7ekg"
-path="res://.godot/imported/AZELF.ogg-04a79949f6b0282d2d35142ea28978fb.oggvorbisstr"
+path="res://.godot/imported/AZELF.ogg-ad01dcbba782632c2403c47c2bae4319.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AZELF.ogg"
-dest_files=["res://.godot/imported/AZELF.ogg-04a79949f6b0282d2d35142ea28978fb.oggvorbisstr"]
+source_file="res://audio/se/cries/AZELF.ogg"
+dest_files=["res://.godot/imported/AZELF.ogg-ad01dcbba782632c2403c47c2bae4319.oggvorbisstr"]
 
 [params]
 

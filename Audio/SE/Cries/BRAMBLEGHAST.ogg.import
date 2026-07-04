@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://hxa6m3pkdloe"
-path="res://.godot/imported/BRAMBLEGHAST.ogg-d60e1d2dd50094c9fe3ce60830243821.oggvorbisstr"
+path="res://.godot/imported/BRAMBLEGHAST.ogg-7094d1b752d52904085e7d563dca3c7c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BRAMBLEGHAST.ogg"
-dest_files=["res://.godot/imported/BRAMBLEGHAST.ogg-d60e1d2dd50094c9fe3ce60830243821.oggvorbisstr"]
+source_file="res://audio/se/cries/BRAMBLEGHAST.ogg"
+dest_files=["res://.godot/imported/BRAMBLEGHAST.ogg-7094d1b752d52904085e7d563dca3c7c.oggvorbisstr"]
 
 [params]
 

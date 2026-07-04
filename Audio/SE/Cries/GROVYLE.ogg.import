@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c381jt60on55t"
-path="res://.godot/imported/GROVYLE.ogg-438fe174cd2dde85af2fc4f56c615c05.oggvorbisstr"
+path="res://.godot/imported/GROVYLE.ogg-ea828db9c583b856a93c0abef407a067.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GROVYLE.ogg"
-dest_files=["res://.godot/imported/GROVYLE.ogg-438fe174cd2dde85af2fc4f56c615c05.oggvorbisstr"]
+source_file="res://audio/se/cries/GROVYLE.ogg"
+dest_files=["res://.godot/imported/GROVYLE.ogg-ea828db9c583b856a93c0abef407a067.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0wmpxddlifq8"
-path="res://.godot/imported/SNORLAX_1.ogg-d8a54c0ae7e6b628c241bf04394816e5.oggvorbisstr"
+path="res://.godot/imported/SNORLAX_1.ogg-b70e924ad8ed7e85cc5b3d885e6002ca.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SNORLAX_1.ogg"
-dest_files=["res://.godot/imported/SNORLAX_1.ogg-d8a54c0ae7e6b628c241bf04394816e5.oggvorbisstr"]
+source_file="res://audio/se/cries/SNORLAX_1.ogg"
+dest_files=["res://.godot/imported/SNORLAX_1.ogg-b70e924ad8ed7e85cc5b3d885e6002ca.oggvorbisstr"]
 
 [params]
 

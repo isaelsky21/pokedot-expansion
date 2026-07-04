@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://boymfrf4mfetf"
-path="res://.godot/imported/PRSFX- Flatter.wav-5576888bd251c0814b6960ab891e09e5.sample"
+path="res://.godot/imported/PRSFX- Flatter.wav-b68701aad1724b1d2444a6806005ec08.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Flatter.wav"
-dest_files=["res://.godot/imported/PRSFX- Flatter.wav-5576888bd251c0814b6960ab891e09e5.sample"]
+source_file="res://audio/se/anim/PRSFX- Flatter.wav"
+dest_files=["res://.godot/imported/PRSFX- Flatter.wav-b68701aad1724b1d2444a6806005ec08.sample"]
 
 [params]
 

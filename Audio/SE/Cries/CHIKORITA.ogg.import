@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b7wi8mkp2tr8m"
-path="res://.godot/imported/CHIKORITA.ogg-397153f1c309ce8b59b79f47edb06cbe.oggvorbisstr"
+path="res://.godot/imported/CHIKORITA.ogg-48f9941389afc2a88448de1426b5f54a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHIKORITA.ogg"
-dest_files=["res://.godot/imported/CHIKORITA.ogg-397153f1c309ce8b59b79f47edb06cbe.oggvorbisstr"]
+source_file="res://audio/se/cries/CHIKORITA.ogg"
+dest_files=["res://.godot/imported/CHIKORITA.ogg-48f9941389afc2a88448de1426b5f54a.oggvorbisstr"]
 
 [params]
 

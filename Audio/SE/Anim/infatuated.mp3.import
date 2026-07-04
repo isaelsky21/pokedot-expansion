@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bo4bvas5u42hf"
-path="res://.godot/imported/infatuated.mp3-1982b597a7ef309ab64ca34f430a12bf.mp3str"
+path="res://.godot/imported/infatuated.mp3-03d03267ace6f1ab9217dccc110d55cc.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/infatuated.mp3"
-dest_files=["res://.godot/imported/infatuated.mp3-1982b597a7ef309ab64ca34f430a12bf.mp3str"]
+source_file="res://audio/se/anim/infatuated.mp3"
+dest_files=["res://.godot/imported/infatuated.mp3-03d03267ace6f1ab9217dccc110d55cc.mp3str"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cns6a2yw640qx"
-path="res://.godot/imported/PRSFX- Slack Off.wav-1f79065792b4836f6834582134c211f0.sample"
+path="res://.godot/imported/PRSFX- Slack Off.wav-321d39b6203dfa0bf5b47a123d2d3467.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Slack Off.wav"
-dest_files=["res://.godot/imported/PRSFX- Slack Off.wav-1f79065792b4836f6834582134c211f0.sample"]
+source_file="res://audio/se/anim/PRSFX- Slack Off.wav"
+dest_files=["res://.godot/imported/PRSFX- Slack Off.wav-321d39b6203dfa0bf5b47a123d2d3467.sample"]
 
 [params]
 

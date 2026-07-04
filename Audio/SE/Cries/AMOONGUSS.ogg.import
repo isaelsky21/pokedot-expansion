@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bs6b7iunumpb7"
-path="res://.godot/imported/AMOONGUSS.ogg-b8268afe30be5891993625ed3d28935a.oggvorbisstr"
+path="res://.godot/imported/AMOONGUSS.ogg-b2f1f1e5f1aaf54cc0daf5776bee4125.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AMOONGUSS.ogg"
-dest_files=["res://.godot/imported/AMOONGUSS.ogg-b8268afe30be5891993625ed3d28935a.oggvorbisstr"]
+source_file="res://audio/se/cries/AMOONGUSS.ogg"
+dest_files=["res://.godot/imported/AMOONGUSS.ogg-b2f1f1e5f1aaf54cc0daf5776bee4125.oggvorbisstr"]
 
 [params]
 

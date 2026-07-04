@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxes8sr2i80v1"
-path="res://.godot/imported/SOLOSIS.ogg-d88d644cb47e00b868a407d5e3485a5e.oggvorbisstr"
+path="res://.godot/imported/SOLOSIS.ogg-86061f17d300b11e98474888e1a36774.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SOLOSIS.ogg"
-dest_files=["res://.godot/imported/SOLOSIS.ogg-d88d644cb47e00b868a407d5e3485a5e.oggvorbisstr"]
+source_file="res://audio/se/cries/SOLOSIS.ogg"
+dest_files=["res://.godot/imported/SOLOSIS.ogg-86061f17d300b11e98474888e1a36774.oggvorbisstr"]
 
 [params]
 

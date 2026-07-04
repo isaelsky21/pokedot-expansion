@@ -63,7 +63,7 @@ func _process(_delta):
 			cerrar_menu()
 ## Instancia de manera dinámica el menú de pausa en la raíz de la escena.
 func abrir_menu():
-	var menu_scene = preload("res://Esenas/Menus/StartMenu/startmenu.tscn")
+	var menu_scene = preload("res://scenes/menus/start_menu/start_menu.tscn")
 	start_menu = menu_scene.instantiate()
 	get_tree().current_scene.add_child(start_menu)
 	start_menu.toggle_menu()  # <-- aquí lo activas

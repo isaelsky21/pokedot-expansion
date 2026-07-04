@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://3cipwsga0db4"
-path="res://.godot/imported/PRSFX- Freeze Shock2.wav-6d3dcf10d70fd0d143f9d0a6ca12bd12.sample"
+path="res://.godot/imported/PRSFX- Freeze Shock2.wav-78c57058ec67bbc1acc47d6d6288c22d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Freeze Shock2.wav"
-dest_files=["res://.godot/imported/PRSFX- Freeze Shock2.wav-6d3dcf10d70fd0d143f9d0a6ca12bd12.sample"]
+source_file="res://audio/se/anim/PRSFX- Freeze Shock2.wav"
+dest_files=["res://.godot/imported/PRSFX- Freeze Shock2.wav-78c57058ec67bbc1acc47d6d6288c22d.sample"]
 
 [params]
 

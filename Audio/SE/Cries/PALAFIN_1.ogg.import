@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgv4s3des7mcg"
-path="res://.godot/imported/PALAFIN_1.ogg-dbb9548a7a3196b12a8f4f0c610e997a.oggvorbisstr"
+path="res://.godot/imported/PALAFIN_1.ogg-d3a4b15c33c3268f80d8fda72d0a8677.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PALAFIN_1.ogg"
-dest_files=["res://.godot/imported/PALAFIN_1.ogg-dbb9548a7a3196b12a8f4f0c610e997a.oggvorbisstr"]
+source_file="res://audio/se/cries/PALAFIN_1.ogg"
+dest_files=["res://.godot/imported/PALAFIN_1.ogg-d3a4b15c33c3268f80d8fda72d0a8677.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ds0ak81t74kai"
-path="res://.godot/imported/PRSFX- Miracle Eye.wav-a71db2abf81e187dac9078246f3a549b.sample"
+path="res://.godot/imported/PRSFX- Miracle Eye.wav-a0fd1d96b733b3267bf91cb3e64ede51.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Miracle Eye.wav"
-dest_files=["res://.godot/imported/PRSFX- Miracle Eye.wav-a71db2abf81e187dac9078246f3a549b.sample"]
+source_file="res://audio/se/anim/PRSFX- Miracle Eye.wav"
+dest_files=["res://.godot/imported/PRSFX- Miracle Eye.wav-a0fd1d96b733b3267bf91cb3e64ede51.sample"]
 
 [params]
 

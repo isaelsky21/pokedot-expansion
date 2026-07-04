@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxc1kx453h8di"
-path="res://.godot/imported/SPEAROW.ogg-72f98c3ea949aa66aaefe202b34e4d13.oggvorbisstr"
+path="res://.godot/imported/SPEAROW.ogg-77d58b87ac8d357667656a740e8647f2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SPEAROW.ogg"
-dest_files=["res://.godot/imported/SPEAROW.ogg-72f98c3ea949aa66aaefe202b34e4d13.oggvorbisstr"]
+source_file="res://audio/se/cries/SPEAROW.ogg"
+dest_files=["res://.godot/imported/SPEAROW.ogg-77d58b87ac8d357667656a740e8647f2.oggvorbisstr"]
 
 [params]
 

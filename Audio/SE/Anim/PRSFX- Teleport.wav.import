@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c07j830xl02w7"
-path="res://.godot/imported/PRSFX- Teleport.wav-38623d1b70e45fadf56b172e1f7588f7.sample"
+path="res://.godot/imported/PRSFX- Teleport.wav-9fe3de0dfa6ecd252c6a0585092c8c98.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Teleport.wav"
-dest_files=["res://.godot/imported/PRSFX- Teleport.wav-38623d1b70e45fadf56b172e1f7588f7.sample"]
+source_file="res://audio/se/anim/PRSFX- Teleport.wav"
+dest_files=["res://.godot/imported/PRSFX- Teleport.wav-9fe3de0dfa6ecd252c6a0585092c8c98.sample"]
 
 [params]
 

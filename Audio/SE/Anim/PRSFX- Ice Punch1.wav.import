@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dda3423wqqcyw"
-path="res://.godot/imported/PRSFX- Ice Punch1.wav-c3d2303fdde011b2ba75f017117b6536.sample"
+path="res://.godot/imported/PRSFX- Ice Punch1.wav-ad5a72e2b4cee73f0d5b00bd24fd818e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ice Punch1.wav"
-dest_files=["res://.godot/imported/PRSFX- Ice Punch1.wav-c3d2303fdde011b2ba75f017117b6536.sample"]
+source_file="res://audio/se/anim/PRSFX- Ice Punch1.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Punch1.wav-ad5a72e2b4cee73f0d5b00bd24fd818e.sample"]
 
 [params]
 

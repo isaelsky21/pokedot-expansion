@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://cq6x17esly3ml"
-path="res://.godot/imported/MiningPing.mp3-a0813e9502b50cffd0293cca49151583.mp3str"
+path="res://.godot/imported/MiningPing.mp3-6ef2fc050be7e5f8f827244479ece8a9.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/MiningPing.mp3"
-dest_files=["res://.godot/imported/MiningPing.mp3-a0813e9502b50cffd0293cca49151583.mp3str"]
+source_file="res://audio/se/anim/MiningPing.mp3"
+dest_files=["res://.godot/imported/MiningPing.mp3-6ef2fc050be7e5f8f827244479ece8a9.mp3str"]
 
 [params]
 

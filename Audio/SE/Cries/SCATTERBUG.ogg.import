@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgfwlh0bsng3b"
-path="res://.godot/imported/SCATTERBUG.ogg-ce6691c9c3f8e6af71e806d421168c41.oggvorbisstr"
+path="res://.godot/imported/SCATTERBUG.ogg-2441d577076301175ef4a070dc3c4cf2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SCATTERBUG.ogg"
-dest_files=["res://.godot/imported/SCATTERBUG.ogg-ce6691c9c3f8e6af71e806d421168c41.oggvorbisstr"]
+source_file="res://audio/se/cries/SCATTERBUG.ogg"
+dest_files=["res://.godot/imported/SCATTERBUG.ogg-2441d577076301175ef4a070dc3c4cf2.oggvorbisstr"]
 
 [params]
 

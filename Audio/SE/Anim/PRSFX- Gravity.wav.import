@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://fovw6krnjafp"
-path="res://.godot/imported/PRSFX- Gravity.wav-30ec63a2d135dcc7cd5787f07d2c3e1d.sample"
+path="res://.godot/imported/PRSFX- Gravity.wav-104cae28b20c5eee28c010e74d3533e0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gravity.wav"
-dest_files=["res://.godot/imported/PRSFX- Gravity.wav-30ec63a2d135dcc7cd5787f07d2c3e1d.sample"]
+source_file="res://audio/se/anim/PRSFX- Gravity.wav"
+dest_files=["res://.godot/imported/PRSFX- Gravity.wav-104cae28b20c5eee28c010e74d3533e0.sample"]
 
 [params]
 

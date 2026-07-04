@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cuci0ljx6slaw"
-path="res://.godot/imported/ARON.ogg-7a9a6ec8b9fb9158101b209da02fccd5.oggvorbisstr"
+path="res://.godot/imported/ARON.ogg-5f17db4f0741f94d846d278a05870970.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARON.ogg"
-dest_files=["res://.godot/imported/ARON.ogg-7a9a6ec8b9fb9158101b209da02fccd5.oggvorbisstr"]
+source_file="res://audio/se/cries/ARON.ogg"
+dest_files=["res://.godot/imported/ARON.ogg-5f17db4f0741f94d846d278a05870970.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://clgbmoju5fkwo"
-path="res://.godot/imported/ZEBSTRIKA.ogg-b26d496f0e499bee384f549b077f7474.oggvorbisstr"
+path="res://.godot/imported/ZEBSTRIKA.ogg-4568b12cb5939b5bfd4ee6467052dd18.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZEBSTRIKA.ogg"
-dest_files=["res://.godot/imported/ZEBSTRIKA.ogg-b26d496f0e499bee384f549b077f7474.oggvorbisstr"]
+source_file="res://audio/se/cries/ZEBSTRIKA.ogg"
+dest_files=["res://.godot/imported/ZEBSTRIKA.ogg-4568b12cb5939b5bfd4ee6467052dd18.oggvorbisstr"]
 
 [params]
 

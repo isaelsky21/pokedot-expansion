@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dt5pddp7yy1ta"
-path="res://.godot/imported/CARRACOSTA.ogg-c740a6b3c39f2e0a134c89dc3ba32233.oggvorbisstr"
+path="res://.godot/imported/CARRACOSTA.ogg-89638fe76a8281924d8a17dee27f164c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CARRACOSTA.ogg"
-dest_files=["res://.godot/imported/CARRACOSTA.ogg-c740a6b3c39f2e0a134c89dc3ba32233.oggvorbisstr"]
+source_file="res://audio/se/cries/CARRACOSTA.ogg"
+dest_files=["res://.godot/imported/CARRACOSTA.ogg-89638fe76a8281924d8a17dee27f164c.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://de636jnpl8pqv"
-path="res://.godot/imported/Swords Dance.ogg-146fa03d3abfbae0860be696d410bd30.oggvorbisstr"
+path="res://.godot/imported/Swords Dance.ogg-73357411e0d035bb2c43316eb63386e8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Swords Dance.ogg"
-dest_files=["res://.godot/imported/Swords Dance.ogg-146fa03d3abfbae0860be696d410bd30.oggvorbisstr"]
+source_file="res://audio/se/anim/Swords Dance.ogg"
+dest_files=["res://.godot/imported/Swords Dance.ogg-73357411e0d035bb2c43316eb63386e8.oggvorbisstr"]
 
 [params]
 

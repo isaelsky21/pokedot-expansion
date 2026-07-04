@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://tkbebdirktxa"
-path="res://.godot/imported/BLIPBUG.ogg-ce721f4600be3d3c68f42cfee3c48b89.oggvorbisstr"
+path="res://.godot/imported/BLIPBUG.ogg-8a5e40689c4e05c7f5e969240679176b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BLIPBUG.ogg"
-dest_files=["res://.godot/imported/BLIPBUG.ogg-ce721f4600be3d3c68f42cfee3c48b89.oggvorbisstr"]
+source_file="res://audio/se/cries/BLIPBUG.ogg"
+dest_files=["res://.godot/imported/BLIPBUG.ogg-8a5e40689c4e05c7f5e969240679176b.oggvorbisstr"]
 
 [params]
 

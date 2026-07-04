@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c45jaluyq31r7"
-path="res://.godot/imported/SAWSBUCK.ogg-df885307f403b056ac48785b6f6778b3.oggvorbisstr"
+path="res://.godot/imported/SAWSBUCK.ogg-a89289817bd1f76d0e8874e21f0254f0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SAWSBUCK.ogg"
-dest_files=["res://.godot/imported/SAWSBUCK.ogg-df885307f403b056ac48785b6f6778b3.oggvorbisstr"]
+source_file="res://audio/se/cries/SAWSBUCK.ogg"
+dest_files=["res://.godot/imported/SAWSBUCK.ogg-a89289817bd1f76d0e8874e21f0254f0.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dkh7sn3pmsyu0"
-path="res://.godot/imported/Slash.mp3-7bbc9177c82c7312703cefdd840ffd51.mp3str"
+path="res://.godot/imported/Slash.mp3-f69fc1883505a310b09130b50e358085.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Slash.mp3"
-dest_files=["res://.godot/imported/Slash.mp3-7bbc9177c82c7312703cefdd840ffd51.mp3str"]
+source_file="res://audio/se/anim/Slash.mp3"
+dest_files=["res://.godot/imported/Slash.mp3-f69fc1883505a310b09130b50e358085.mp3str"]
 
 [params]
 

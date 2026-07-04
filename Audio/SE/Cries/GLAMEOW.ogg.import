@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bn3u0ddeqo61o"
-path="res://.godot/imported/GLAMEOW.ogg-10f13d8cba0665d4bc36d3b11c3d0ded.oggvorbisstr"
+path="res://.godot/imported/GLAMEOW.ogg-ba1f9a9c7c773953b09e853fe5a834fa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GLAMEOW.ogg"
-dest_files=["res://.godot/imported/GLAMEOW.ogg-10f13d8cba0665d4bc36d3b11c3d0ded.oggvorbisstr"]
+source_file="res://audio/se/cries/GLAMEOW.ogg"
+dest_files=["res://.godot/imported/GLAMEOW.ogg-ba1f9a9c7c773953b09e853fe5a834fa.oggvorbisstr"]
 
 [params]
 

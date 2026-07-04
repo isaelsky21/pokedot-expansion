@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ddriekcsdbt6o"
-path="res://.godot/imported/TANGELA.ogg-1b260dea7cb5b02511e16b971dd0e1cd.oggvorbisstr"
+path="res://.godot/imported/TANGELA.ogg-89657e5d5ffb85c8f018014a2a0e0c4a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TANGELA.ogg"
-dest_files=["res://.godot/imported/TANGELA.ogg-1b260dea7cb5b02511e16b971dd0e1cd.oggvorbisstr"]
+source_file="res://audio/se/cries/TANGELA.ogg"
+dest_files=["res://.godot/imported/TANGELA.ogg-89657e5d5ffb85c8f018014a2a0e0c4a.oggvorbisstr"]
 
 [params]
 

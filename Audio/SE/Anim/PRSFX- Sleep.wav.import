@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bymmkhlrolnk8"
-path="res://.godot/imported/PRSFX- Sleep.wav-411fe0bc36f9457e2b2cd1ab8457f8fc.sample"
+path="res://.godot/imported/PRSFX- Sleep.wav-0f380a1271b559bf1c35aa7a0e53b450.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sleep.wav"
-dest_files=["res://.godot/imported/PRSFX- Sleep.wav-411fe0bc36f9457e2b2cd1ab8457f8fc.sample"]
+source_file="res://audio/se/anim/PRSFX- Sleep.wav"
+dest_files=["res://.godot/imported/PRSFX- Sleep.wav-0f380a1271b559bf1c35aa7a0e53b450.sample"]
 
 [params]
 

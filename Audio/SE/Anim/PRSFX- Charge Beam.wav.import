@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bviwtf83ny5so"
-path="res://.godot/imported/PRSFX- Charge Beam.wav-aa87519fd3738c250b239f0f467c53c7.sample"
+path="res://.godot/imported/PRSFX- Charge Beam.wav-1cf5218a4fd9badb0213f146e12fa227.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Charge Beam.wav"
-dest_files=["res://.godot/imported/PRSFX- Charge Beam.wav-aa87519fd3738c250b239f0f467c53c7.sample"]
+source_file="res://audio/se/anim/PRSFX- Charge Beam.wav"
+dest_files=["res://.godot/imported/PRSFX- Charge Beam.wav-1cf5218a4fd9badb0213f146e12fa227.sample"]
 
 [params]
 

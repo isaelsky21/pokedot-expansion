@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bcxsj1s2gfuok"
-path="res://.godot/imported/SKELEDIRGE.ogg-04b649fe145e5245352e65e5accd08b9.oggvorbisstr"
+path="res://.godot/imported/SKELEDIRGE.ogg-7fc57000d03d00b8dbe432dd51741e37.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SKELEDIRGE.ogg"
-dest_files=["res://.godot/imported/SKELEDIRGE.ogg-04b649fe145e5245352e65e5accd08b9.oggvorbisstr"]
+source_file="res://audio/se/cries/SKELEDIRGE.ogg"
+dest_files=["res://.godot/imported/SKELEDIRGE.ogg-7fc57000d03d00b8dbe432dd51741e37.oggvorbisstr"]
 
 [params]
 

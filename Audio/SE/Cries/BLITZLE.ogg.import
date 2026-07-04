@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://eeob0cj0xvhl"
-path="res://.godot/imported/BLITZLE.ogg-4303ff2ed5f952b0ee15702a04e726e4.oggvorbisstr"
+path="res://.godot/imported/BLITZLE.ogg-596d484414c20b0f42463543e7ac62df.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BLITZLE.ogg"
-dest_files=["res://.godot/imported/BLITZLE.ogg-4303ff2ed5f952b0ee15702a04e726e4.oggvorbisstr"]
+source_file="res://audio/se/cries/BLITZLE.ogg"
+dest_files=["res://.godot/imported/BLITZLE.ogg-596d484414c20b0f42463543e7ac62df.oggvorbisstr"]
 
 [params]
 

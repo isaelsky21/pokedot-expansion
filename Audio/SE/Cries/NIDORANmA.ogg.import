@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://mf16cqy0r0fr"
-path="res://.godot/imported/NIDORANmA.ogg-768ae145b371591511cf5789a2e2ea21.oggvorbisstr"
+path="res://.godot/imported/NIDORANmA.ogg-f1cc1eea3c31b902f31ce5becbe90821.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NIDORANmA.ogg"
-dest_files=["res://.godot/imported/NIDORANmA.ogg-768ae145b371591511cf5789a2e2ea21.oggvorbisstr"]
+source_file="res://audio/se/cries/NIDORANmA.ogg"
+dest_files=["res://.godot/imported/NIDORANmA.ogg-f1cc1eea3c31b902f31ce5becbe90821.oggvorbisstr"]
 
 [params]
 

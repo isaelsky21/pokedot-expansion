@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://byn865ubfsnud"
-path="res://.godot/imported/HAUNTER.ogg-1c6d17356041a09cd462a249e023595d.oggvorbisstr"
+path="res://.godot/imported/HAUNTER.ogg-c3e5171e0d2cb646718d650b8124e21a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HAUNTER.ogg"
-dest_files=["res://.godot/imported/HAUNTER.ogg-1c6d17356041a09cd462a249e023595d.oggvorbisstr"]
+source_file="res://audio/se/cries/HAUNTER.ogg"
+dest_files=["res://.godot/imported/HAUNTER.ogg-c3e5171e0d2cb646718d650b8124e21a.oggvorbisstr"]
 
 [params]
 

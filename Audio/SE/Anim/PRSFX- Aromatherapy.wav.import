@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://8w6mdctri0by"
-path="res://.godot/imported/PRSFX- Aromatherapy.wav-9f4fd9614397ec9e115a8477b860f493.sample"
+path="res://.godot/imported/PRSFX- Aromatherapy.wav-956362de961fc5d1e231d168c2d6e102.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aromatherapy.wav"
-dest_files=["res://.godot/imported/PRSFX- Aromatherapy.wav-9f4fd9614397ec9e115a8477b860f493.sample"]
+source_file="res://audio/se/anim/PRSFX- Aromatherapy.wav"
+dest_files=["res://.godot/imported/PRSFX- Aromatherapy.wav-956362de961fc5d1e231d168c2d6e102.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d4ncmf1t0hwws"
-path="res://.godot/imported/AZUMARILL.ogg-7e138f328e43a217f86ccaa64fa69019.oggvorbisstr"
+path="res://.godot/imported/AZUMARILL.ogg-7df01cea84951f023ef4f11df6e10c02.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AZUMARILL.ogg"
-dest_files=["res://.godot/imported/AZUMARILL.ogg-7e138f328e43a217f86ccaa64fa69019.oggvorbisstr"]
+source_file="res://audio/se/cries/AZUMARILL.ogg"
+dest_files=["res://.godot/imported/AZUMARILL.ogg-7df01cea84951f023ef4f11df6e10c02.oggvorbisstr"]
 
 [params]
 

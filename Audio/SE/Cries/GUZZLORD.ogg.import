@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://csqobhbdaietp"
-path="res://.godot/imported/GUZZLORD.ogg-e9b01fe285f5164f01f1a8c585a2f79a.oggvorbisstr"
+path="res://.godot/imported/GUZZLORD.ogg-467f6a32d401c3c3435928b50553c84e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GUZZLORD.ogg"
-dest_files=["res://.godot/imported/GUZZLORD.ogg-e9b01fe285f5164f01f1a8c585a2f79a.oggvorbisstr"]
+source_file="res://audio/se/cries/GUZZLORD.ogg"
+dest_files=["res://.godot/imported/GUZZLORD.ogg-467f6a32d401c3c3435928b50553c84e.oggvorbisstr"]
 
 [params]
 

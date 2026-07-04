@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c6sx7xcsyi2mc"
-path="res://.godot/imported/PRSFX- Pollen Puff1.wav-3d4f85cf412edafba1dbd354d8b1848e.sample"
+path="res://.godot/imported/PRSFX- Pollen Puff1.wav-a54c2d925f4833eb16908a34090bc8af.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Pollen Puff1.wav"
-dest_files=["res://.godot/imported/PRSFX- Pollen Puff1.wav-3d4f85cf412edafba1dbd354d8b1848e.sample"]
+source_file="res://audio/se/anim/PRSFX- Pollen Puff1.wav"
+dest_files=["res://.godot/imported/PRSFX- Pollen Puff1.wav-a54c2d925f4833eb16908a34090bc8af.sample"]
 
 [params]
 

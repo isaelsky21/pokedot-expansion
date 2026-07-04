@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bkd0pi3y8ikec"
-path="res://.godot/imported/PRSFX- Acid Spray.wav-0e738eba978e46c7c7572646279c539e.sample"
+path="res://.godot/imported/PRSFX- Acid Spray.wav-c689860e5d9fd908c311aecd6f969d95.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Acid Spray.wav"
-dest_files=["res://.godot/imported/PRSFX- Acid Spray.wav-0e738eba978e46c7c7572646279c539e.sample"]
+source_file="res://audio/se/anim/PRSFX- Acid Spray.wav"
+dest_files=["res://.godot/imported/PRSFX- Acid Spray.wav-c689860e5d9fd908c311aecd6f969d95.sample"]
 
 [params]
 

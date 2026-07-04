@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dohdjjholvqdk"
-path="res://.godot/imported/Tiall.wav-b02855263560e9a6e04b9ff774d6d591.sample"
+path="res://.godot/imported/Tiall.wav-ab8e7cd21edce93e69890cbfec6096d1.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Tiall.wav"
-dest_files=["res://.godot/imported/Tiall.wav-b02855263560e9a6e04b9ff774d6d591.sample"]
+source_file="res://audio/bgm/Tiall.wav"
+dest_files=["res://.godot/imported/Tiall.wav-ab8e7cd21edce93e69890cbfec6096d1.sample"]
 
 [params]
 

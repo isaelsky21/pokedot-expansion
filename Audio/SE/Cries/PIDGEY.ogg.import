@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dawvejhmmlhw7"
-path="res://.godot/imported/PIDGEY.ogg-399dbe8f34c0de0924b606531bcaab2c.oggvorbisstr"
+path="res://.godot/imported/PIDGEY.ogg-079ed336fb0adb7ec929c46b67e20cfa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PIDGEY.ogg"
-dest_files=["res://.godot/imported/PIDGEY.ogg-399dbe8f34c0de0924b606531bcaab2c.oggvorbisstr"]
+source_file="res://audio/se/cries/PIDGEY.ogg"
+dest_files=["res://.godot/imported/PIDGEY.ogg-079ed336fb0adb7ec929c46b67e20cfa.oggvorbisstr"]
 
 [params]
 

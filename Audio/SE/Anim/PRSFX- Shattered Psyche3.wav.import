@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ded5ma3tqoi5x"
-path="res://.godot/imported/PRSFX- Shattered Psyche3.wav-df72daba3b076d24ebbcd5ad23ba4ca1.sample"
+path="res://.godot/imported/PRSFX- Shattered Psyche3.wav-1e7f1b279264f8b37691251c88bfd292.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shattered Psyche3.wav"
-dest_files=["res://.godot/imported/PRSFX- Shattered Psyche3.wav-df72daba3b076d24ebbcd5ad23ba4ca1.sample"]
+source_file="res://audio/se/anim/PRSFX- Shattered Psyche3.wav"
+dest_files=["res://.godot/imported/PRSFX- Shattered Psyche3.wav-1e7f1b279264f8b37691251c88bfd292.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://di53keqs5whcn"
-path="res://.godot/imported/GUI pokedex open.ogg-cd289fbcd49360677c09788c778bc359.oggvorbisstr"
+path="res://.godot/imported/GUI pokedex open.ogg-0ff34040c229acd0875b1c58a75b5ef2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/GUI pokedex open.ogg"
-dest_files=["res://.godot/imported/GUI pokedex open.ogg-cd289fbcd49360677c09788c778bc359.oggvorbisstr"]
+source_file="res://audio/se/GUI pokedex open.ogg"
+dest_files=["res://.godot/imported/GUI pokedex open.ogg-0ff34040c229acd0875b1c58a75b5ef2.oggvorbisstr"]
 
 [params]
 

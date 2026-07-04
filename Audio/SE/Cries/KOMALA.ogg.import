@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dnclc18teostx"
-path="res://.godot/imported/KOMALA.ogg-9282b1f6c1a74ff006e7d260e3779f41.oggvorbisstr"
+path="res://.godot/imported/KOMALA.ogg-061491c416a915275a20afa26395a401.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KOMALA.ogg"
-dest_files=["res://.godot/imported/KOMALA.ogg-9282b1f6c1a74ff006e7d260e3779f41.oggvorbisstr"]
+source_file="res://audio/se/cries/KOMALA.ogg"
+dest_files=["res://.godot/imported/KOMALA.ogg-061491c416a915275a20afa26395a401.oggvorbisstr"]
 
 [params]
 

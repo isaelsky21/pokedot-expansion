@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bem4v5ym7paxl"
-path="res://.godot/imported/KINGAMBIT.ogg-100cf517c8445eabb5de13e4662fab53.oggvorbisstr"
+path="res://.godot/imported/KINGAMBIT.ogg-34530037c645bae0dcc1a4ae62acfc09.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KINGAMBIT.ogg"
-dest_files=["res://.godot/imported/KINGAMBIT.ogg-100cf517c8445eabb5de13e4662fab53.oggvorbisstr"]
+source_file="res://audio/se/cries/KINGAMBIT.ogg"
+dest_files=["res://.godot/imported/KINGAMBIT.ogg-34530037c645bae0dcc1a4ae62acfc09.oggvorbisstr"]
 
 [params]
 

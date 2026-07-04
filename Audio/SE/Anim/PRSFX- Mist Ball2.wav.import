@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dsbrkg17jd51k"
-path="res://.godot/imported/PRSFX- Mist Ball2.wav-6d07f0486bc699fb138d023078f5a6f1.sample"
+path="res://.godot/imported/PRSFX- Mist Ball2.wav-3b67cf41a6f54fc89e4011ee5b82f71b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mist Ball2.wav"
-dest_files=["res://.godot/imported/PRSFX- Mist Ball2.wav-6d07f0486bc699fb138d023078f5a6f1.sample"]
+source_file="res://audio/se/anim/PRSFX- Mist Ball2.wav"
+dest_files=["res://.godot/imported/PRSFX- Mist Ball2.wav-3b67cf41a6f54fc89e4011ee5b82f71b.sample"]
 
 [params]
 

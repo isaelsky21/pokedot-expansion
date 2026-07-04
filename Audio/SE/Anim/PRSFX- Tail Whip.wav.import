@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bysoyqj6l2wwu"
-path="res://.godot/imported/PRSFX- Tail Whip.wav-4033a91cce4439a1597639fca095ea5b.sample"
+path="res://.godot/imported/PRSFX- Tail Whip.wav-560c1c6081679fe1722b47ec60964891.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Tail Whip.wav"
-dest_files=["res://.godot/imported/PRSFX- Tail Whip.wav-4033a91cce4439a1597639fca095ea5b.sample"]
+source_file="res://audio/se/anim/PRSFX- Tail Whip.wav"
+dest_files=["res://.godot/imported/PRSFX- Tail Whip.wav-560c1c6081679fe1722b47ec60964891.sample"]
 
 [params]
 

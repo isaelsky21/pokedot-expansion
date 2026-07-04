@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ciboagg5d3l7a"
-path="res://.godot/imported/POLIWAG.ogg-a345ea5909fcbcc4ebce075c38ad3829.oggvorbisstr"
+path="res://.godot/imported/POLIWAG.ogg-9a0e267255cca7660dfec2ab5fdf64ce.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/POLIWAG.ogg"
-dest_files=["res://.godot/imported/POLIWAG.ogg-a345ea5909fcbcc4ebce075c38ad3829.oggvorbisstr"]
+source_file="res://audio/se/cries/POLIWAG.ogg"
+dest_files=["res://.godot/imported/POLIWAG.ogg-9a0e267255cca7660dfec2ab5fdf64ce.oggvorbisstr"]
 
 [params]
 

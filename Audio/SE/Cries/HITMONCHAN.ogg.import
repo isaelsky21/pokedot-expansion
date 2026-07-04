@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cl07e7ifolkqo"
-path="res://.godot/imported/HITMONCHAN.ogg-292583a420ef97858ce88056dcc8afd9.oggvorbisstr"
+path="res://.godot/imported/HITMONCHAN.ogg-98cf69510074d451ca93df9542800760.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HITMONCHAN.ogg"
-dest_files=["res://.godot/imported/HITMONCHAN.ogg-292583a420ef97858ce88056dcc8afd9.oggvorbisstr"]
+source_file="res://audio/se/cries/HITMONCHAN.ogg"
+dest_files=["res://.godot/imported/HITMONCHAN.ogg-98cf69510074d451ca93df9542800760.oggvorbisstr"]
 
 [params]
 

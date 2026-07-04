@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6et284q3dvf0"
-path="res://.godot/imported/URSHIFU_1.ogg-cb458754e26443273b70c7b362b1ef30.oggvorbisstr"
+path="res://.godot/imported/URSHIFU_1.ogg-d5eda7900868e1d018c6b2208b3aef9c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/URSHIFU_1.ogg"
-dest_files=["res://.godot/imported/URSHIFU_1.ogg-cb458754e26443273b70c7b362b1ef30.oggvorbisstr"]
+source_file="res://audio/se/cries/URSHIFU_1.ogg"
+dest_files=["res://.godot/imported/URSHIFU_1.ogg-d5eda7900868e1d018c6b2208b3aef9c.oggvorbisstr"]
 
 [params]
 

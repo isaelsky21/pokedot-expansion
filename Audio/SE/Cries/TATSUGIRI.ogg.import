@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cdq384atxlfr2"
-path="res://.godot/imported/TATSUGIRI.ogg-095266a577d690a5e11056931cd16c70.oggvorbisstr"
+path="res://.godot/imported/TATSUGIRI.ogg-f9aff3ae77f823f5466a5a5545a9003e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TATSUGIRI.ogg"
-dest_files=["res://.godot/imported/TATSUGIRI.ogg-095266a577d690a5e11056931cd16c70.oggvorbisstr"]
+source_file="res://audio/se/cries/TATSUGIRI.ogg"
+dest_files=["res://.godot/imported/TATSUGIRI.ogg-f9aff3ae77f823f5466a5a5545a9003e.oggvorbisstr"]
 
 [params]
 

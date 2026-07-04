@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c71luxt8esb0v"
-path="res://.godot/imported/NUZLEAF.ogg-6f161b1b6e5c5c38dc468d373542da32.oggvorbisstr"
+path="res://.godot/imported/NUZLEAF.ogg-6f03909141c409f08fc04bb5a6c3c709.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NUZLEAF.ogg"
-dest_files=["res://.godot/imported/NUZLEAF.ogg-6f161b1b6e5c5c38dc468d373542da32.oggvorbisstr"]
+source_file="res://audio/se/cries/NUZLEAF.ogg"
+dest_files=["res://.godot/imported/NUZLEAF.ogg-6f03909141c409f08fc04bb5a6c3c709.oggvorbisstr"]
 
 [params]
 

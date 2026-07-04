@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://8q8dndgco6hu"
-path="res://.godot/imported/PRSFX- Heart Swap.wav-245effca7a56034737e344d7811701d1.sample"
+path="res://.godot/imported/PRSFX- Heart Swap.wav-3c35fc3e6a857cd05bc88a89ede7f325.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Heart Swap.wav"
-dest_files=["res://.godot/imported/PRSFX- Heart Swap.wav-245effca7a56034737e344d7811701d1.sample"]
+source_file="res://audio/se/anim/PRSFX- Heart Swap.wav"
+dest_files=["res://.godot/imported/PRSFX- Heart Swap.wav-3c35fc3e6a857cd05bc88a89ede7f325.sample"]
 
 [params]
 

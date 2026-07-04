@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bht3j6t0g5k5f"
-path="res://.godot/imported/TYPHLOSION.ogg-be1441782ed1fd58f8f23be41a70465b.oggvorbisstr"
+path="res://.godot/imported/TYPHLOSION.ogg-8ff0462698c6e31190e6c0c01d75f5db.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TYPHLOSION.ogg"
-dest_files=["res://.godot/imported/TYPHLOSION.ogg-be1441782ed1fd58f8f23be41a70465b.oggvorbisstr"]
+source_file="res://audio/se/cries/TYPHLOSION.ogg"
+dest_files=["res://.godot/imported/TYPHLOSION.ogg-8ff0462698c6e31190e6c0c01d75f5db.oggvorbisstr"]
 
 [params]
 

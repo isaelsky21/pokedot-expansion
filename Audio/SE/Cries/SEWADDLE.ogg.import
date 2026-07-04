@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5s0wmjn3j8a6"
-path="res://.godot/imported/SEWADDLE.ogg-a3bec62a06a9c827873cf2d872b5f835.oggvorbisstr"
+path="res://.godot/imported/SEWADDLE.ogg-0d2633d73fe1f1f17a1260a32a8653d4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SEWADDLE.ogg"
-dest_files=["res://.godot/imported/SEWADDLE.ogg-a3bec62a06a9c827873cf2d872b5f835.oggvorbisstr"]
+source_file="res://audio/se/cries/SEWADDLE.ogg"
+dest_files=["res://.godot/imported/SEWADDLE.ogg-0d2633d73fe1f1f17a1260a32a8653d4.oggvorbisstr"]
 
 [params]
 

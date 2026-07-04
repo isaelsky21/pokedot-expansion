@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccxmvhlfp6xl6"
-path="res://.godot/imported/FLITTLE.ogg-efcba3fafe8f85991df51123693d18ed.oggvorbisstr"
+path="res://.godot/imported/FLITTLE.ogg-6ec8b84426c205e5a332416cf7956e95.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLITTLE.ogg"
-dest_files=["res://.godot/imported/FLITTLE.ogg-efcba3fafe8f85991df51123693d18ed.oggvorbisstr"]
+source_file="res://audio/se/cries/FLITTLE.ogg"
+dest_files=["res://.godot/imported/FLITTLE.ogg-6ec8b84426c205e5a332416cf7956e95.oggvorbisstr"]
 
 [params]
 

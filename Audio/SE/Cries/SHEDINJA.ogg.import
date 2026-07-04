@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bl1cnn70vy4ak"
-path="res://.godot/imported/SHEDINJA.ogg-d7ada4430698081be42953edca59853d.oggvorbisstr"
+path="res://.godot/imported/SHEDINJA.ogg-780681b5016af4a43d3e1b1239f5c993.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHEDINJA.ogg"
-dest_files=["res://.godot/imported/SHEDINJA.ogg-d7ada4430698081be42953edca59853d.oggvorbisstr"]
+source_file="res://audio/se/cries/SHEDINJA.ogg"
+dest_files=["res://.godot/imported/SHEDINJA.ogg-780681b5016af4a43d3e1b1239f5c993.oggvorbisstr"]
 
 [params]
 

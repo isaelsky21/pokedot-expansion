@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://0xy4qqqxu8f4"
-path="res://.godot/imported/PRSFX- Meteor Mash1.wav-157d4e26fe611b9fc43a0e2b22109988.sample"
+path="res://.godot/imported/PRSFX- Meteor Mash1.wav-cdecaa0ceb2e077ede7dff6f4882a86d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Meteor Mash1.wav"
-dest_files=["res://.godot/imported/PRSFX- Meteor Mash1.wav-157d4e26fe611b9fc43a0e2b22109988.sample"]
+source_file="res://audio/se/anim/PRSFX- Meteor Mash1.wav"
+dest_files=["res://.godot/imported/PRSFX- Meteor Mash1.wav-cdecaa0ceb2e077ede7dff6f4882a86d.sample"]
 
 [params]
 

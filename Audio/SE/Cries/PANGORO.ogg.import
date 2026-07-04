@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ry77t6k8p1uj"
-path="res://.godot/imported/PANGORO.ogg-ba3cab183acf1a8aa66a3f835c718734.oggvorbisstr"
+path="res://.godot/imported/PANGORO.ogg-9ec4ec08e54dc69e1b45cea28985cd83.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PANGORO.ogg"
-dest_files=["res://.godot/imported/PANGORO.ogg-ba3cab183acf1a8aa66a3f835c718734.oggvorbisstr"]
+source_file="res://audio/se/cries/PANGORO.ogg"
+dest_files=["res://.godot/imported/PANGORO.ogg-9ec4ec08e54dc69e1b45cea28985cd83.oggvorbisstr"]
 
 [params]
 

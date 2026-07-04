@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c4qumb7j141ms"
-path="res://.godot/imported/PRSFX- Hyperspace Fury1.wav-d1c300bfcde5f899792b4faecb91a70e.sample"
+path="res://.godot/imported/PRSFX- Hyperspace Fury1.wav-a5befaac42ba0bb5fcc0d7dd12f1b7a8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hyperspace Fury1.wav"
-dest_files=["res://.godot/imported/PRSFX- Hyperspace Fury1.wav-d1c300bfcde5f899792b4faecb91a70e.sample"]
+source_file="res://audio/se/anim/PRSFX- Hyperspace Fury1.wav"
+dest_files=["res://.godot/imported/PRSFX- Hyperspace Fury1.wav-a5befaac42ba0bb5fcc0d7dd12f1b7a8.sample"]
 
 [params]
 

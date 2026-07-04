@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://msughwc80i1h"
-path="res://.godot/imported/PRSFX- Clear Smog.wav-71f481475d2cbb53cf9892eadc36df6b.sample"
+path="res://.godot/imported/PRSFX- Clear Smog.wav-3f035248653792c9c1b038d9e4560d3e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Clear Smog.wav"
-dest_files=["res://.godot/imported/PRSFX- Clear Smog.wav-71f481475d2cbb53cf9892eadc36df6b.sample"]
+source_file="res://audio/se/anim/PRSFX- Clear Smog.wav"
+dest_files=["res://.godot/imported/PRSFX- Clear Smog.wav-3f035248653792c9c1b038d9e4560d3e.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bb67q65oab3sd"
-path="res://.godot/imported/PRSFX- Grassy Terrain.wav-00ee5a9527e041965bd15f582ed56d1e.sample"
+path="res://.godot/imported/PRSFX- Grassy Terrain.wav-0fb4e9ca9e1ec67657ff9388539c9bfb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Grassy Terrain.wav"
-dest_files=["res://.godot/imported/PRSFX- Grassy Terrain.wav-00ee5a9527e041965bd15f582ed56d1e.sample"]
+source_file="res://audio/se/anim/PRSFX- Grassy Terrain.wav"
+dest_files=["res://.godot/imported/PRSFX- Grassy Terrain.wav-0fb4e9ca9e1ec67657ff9388539c9bfb.sample"]
 
 [params]
 

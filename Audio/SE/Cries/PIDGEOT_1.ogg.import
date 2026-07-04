@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://h254evwlewje"
-path="res://.godot/imported/PIDGEOT_1.ogg-cc6e73673b32b3597b12a36ba066c46a.oggvorbisstr"
+path="res://.godot/imported/PIDGEOT_1.ogg-8673f1e86167c99a80914bff8e70536c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PIDGEOT_1.ogg"
-dest_files=["res://.godot/imported/PIDGEOT_1.ogg-cc6e73673b32b3597b12a36ba066c46a.oggvorbisstr"]
+source_file="res://audio/se/cries/PIDGEOT_1.ogg"
+dest_files=["res://.godot/imported/PIDGEOT_1.ogg-8673f1e86167c99a80914bff8e70536c.oggvorbisstr"]
 
 [params]
 

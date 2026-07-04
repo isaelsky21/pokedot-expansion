@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c0yo5j4wv2ur4"
-path="res://.godot/imported/PRSFX- Relic Song2.wav-82a98a704ac63f79d10e975e5080c889.sample"
+path="res://.godot/imported/PRSFX- Relic Song2.wav-9fa7e6d24249edf641d2c94b0b9cfda5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Relic Song2.wav"
-dest_files=["res://.godot/imported/PRSFX- Relic Song2.wav-82a98a704ac63f79d10e975e5080c889.sample"]
+source_file="res://audio/se/anim/PRSFX- Relic Song2.wav"
+dest_files=["res://.godot/imported/PRSFX- Relic Song2.wav-9fa7e6d24249edf641d2c94b0b9cfda5.sample"]
 
 [params]
 

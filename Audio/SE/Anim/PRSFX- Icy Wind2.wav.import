@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://do1s0uuwef8ry"
-path="res://.godot/imported/PRSFX- Icy Wind2.wav-501fe3f576af45215e0bba21dbc0af7f.sample"
+path="res://.godot/imported/PRSFX- Icy Wind2.wav-d9d8923a20ce846dc4b21cc149b0ce65.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Icy Wind2.wav"
-dest_files=["res://.godot/imported/PRSFX- Icy Wind2.wav-501fe3f576af45215e0bba21dbc0af7f.sample"]
+source_file="res://audio/se/anim/PRSFX- Icy Wind2.wav"
+dest_files=["res://.godot/imported/PRSFX- Icy Wind2.wav-d9d8923a20ce846dc4b21cc149b0ce65.sample"]
 
 [params]
 

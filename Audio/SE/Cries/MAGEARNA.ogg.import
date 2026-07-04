@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5p3opy2vv5g8"
-path="res://.godot/imported/MAGEARNA.ogg-ae8347e0ab896e9623bce0b2124afa8f.oggvorbisstr"
+path="res://.godot/imported/MAGEARNA.ogg-25586c497c7f9da033eeedd5e8610cda.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAGEARNA.ogg"
-dest_files=["res://.godot/imported/MAGEARNA.ogg-ae8347e0ab896e9623bce0b2124afa8f.oggvorbisstr"]
+source_file="res://audio/se/cries/MAGEARNA.ogg"
+dest_files=["res://.godot/imported/MAGEARNA.ogg-25586c497c7f9da033eeedd5e8610cda.oggvorbisstr"]
 
 [params]
 

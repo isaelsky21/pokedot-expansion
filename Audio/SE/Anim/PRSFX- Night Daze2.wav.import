@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://jy2wra1cjcpe"
-path="res://.godot/imported/PRSFX- Night Daze2.wav-01ac111efc713223e2d3eed0493a5629.sample"
+path="res://.godot/imported/PRSFX- Night Daze2.wav-f209ca1ccd421ffaebee8f5c644f7f52.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Night Daze2.wav"
-dest_files=["res://.godot/imported/PRSFX- Night Daze2.wav-01ac111efc713223e2d3eed0493a5629.sample"]
+source_file="res://audio/se/anim/PRSFX- Night Daze2.wav"
+dest_files=["res://.godot/imported/PRSFX- Night Daze2.wav-f209ca1ccd421ffaebee8f5c644f7f52.sample"]
 
 [params]
 

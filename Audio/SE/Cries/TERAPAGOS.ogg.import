@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ckptppg24bp18"
-path="res://.godot/imported/TERAPAGOS.ogg-0b34d7e98a3d71683edb116368d0a6b7.oggvorbisstr"
+path="res://.godot/imported/TERAPAGOS.ogg-fc6974773160923f31d21f48893ff646.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TERAPAGOS.ogg"
-dest_files=["res://.godot/imported/TERAPAGOS.ogg-0b34d7e98a3d71683edb116368d0a6b7.oggvorbisstr"]
+source_file="res://audio/se/cries/TERAPAGOS.ogg"
+dest_files=["res://.godot/imported/TERAPAGOS.ogg-fc6974773160923f31d21f48893ff646.oggvorbisstr"]
 
 [params]
 

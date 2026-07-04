@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cdnrgptmp407t"
-path="res://.godot/imported/PRSFX- Circle Throw2.wav-78c3a8a25e0c9f34c657e0470b6e0720.sample"
+path="res://.godot/imported/PRSFX- Circle Throw2.wav-f0bde2375c230d417ab993083f62668c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Circle Throw2.wav"
-dest_files=["res://.godot/imported/PRSFX- Circle Throw2.wav-78c3a8a25e0c9f34c657e0470b6e0720.sample"]
+source_file="res://audio/se/anim/PRSFX- Circle Throw2.wav"
+dest_files=["res://.godot/imported/PRSFX- Circle Throw2.wav-f0bde2375c230d417ab993083f62668c.sample"]
 
 [params]
 

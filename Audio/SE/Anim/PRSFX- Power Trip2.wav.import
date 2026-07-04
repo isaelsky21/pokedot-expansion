@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://3c6yoefdrm6n"
-path="res://.godot/imported/PRSFX- Power Trip2.wav-4b5a6c53b8fc477c3fcd84e794b63896.sample"
+path="res://.godot/imported/PRSFX- Power Trip2.wav-4ff8cc8dace518c44691da82d9ef9953.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Power Trip2.wav"
-dest_files=["res://.godot/imported/PRSFX- Power Trip2.wav-4b5a6c53b8fc477c3fcd84e794b63896.sample"]
+source_file="res://audio/se/anim/PRSFX- Power Trip2.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Trip2.wav-4ff8cc8dace518c44691da82d9ef9953.sample"]
 
 [params]
 

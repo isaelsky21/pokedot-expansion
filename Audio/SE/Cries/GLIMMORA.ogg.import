@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7tsdx3td3rfm"
-path="res://.godot/imported/GLIMMORA.ogg-3c6375b02e4ffd8cc8d05f1a7844a271.oggvorbisstr"
+path="res://.godot/imported/GLIMMORA.ogg-92e972744d9da37e3d7e4bccc4de81ab.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GLIMMORA.ogg"
-dest_files=["res://.godot/imported/GLIMMORA.ogg-3c6375b02e4ffd8cc8d05f1a7844a271.oggvorbisstr"]
+source_file="res://audio/se/cries/GLIMMORA.ogg"
+dest_files=["res://.godot/imported/GLIMMORA.ogg-92e972744d9da37e3d7e4bccc4de81ab.oggvorbisstr"]
 
 [params]
 

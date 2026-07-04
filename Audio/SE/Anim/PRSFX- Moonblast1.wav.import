@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b3w2tr4aa30e5"
-path="res://.godot/imported/PRSFX- Moonblast1.wav-3cb76038b56a455ac3ec420a1c7c965f.sample"
+path="res://.godot/imported/PRSFX- Moonblast1.wav-7163125ac075571dc77bfcbf677169f6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Moonblast1.wav"
-dest_files=["res://.godot/imported/PRSFX- Moonblast1.wav-3cb76038b56a455ac3ec420a1c7c965f.sample"]
+source_file="res://audio/se/anim/PRSFX- Moonblast1.wav"
+dest_files=["res://.godot/imported/PRSFX- Moonblast1.wav-7163125ac075571dc77bfcbf677169f6.sample"]
 
 [params]
 

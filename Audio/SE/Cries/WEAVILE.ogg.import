@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b3goko3nm0yip"
-path="res://.godot/imported/WEAVILE.ogg-8a2aa115667d6296b2f63c4670941877.oggvorbisstr"
+path="res://.godot/imported/WEAVILE.ogg-716fc481697208b6bff8d1f012a3fb4b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WEAVILE.ogg"
-dest_files=["res://.godot/imported/WEAVILE.ogg-8a2aa115667d6296b2f63c4670941877.oggvorbisstr"]
+source_file="res://audio/se/cries/WEAVILE.ogg"
+dest_files=["res://.godot/imported/WEAVILE.ogg-716fc481697208b6bff8d1f012a3fb4b.oggvorbisstr"]
 
 [params]
 

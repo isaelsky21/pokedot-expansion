@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://87s4pm0sm6kp"
-path="res://.godot/imported/CLAYDOL.ogg-280986b7043c919d3126faa2e9c10596.oggvorbisstr"
+path="res://.godot/imported/CLAYDOL.ogg-dca823af41a41209595b10613339b06b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CLAYDOL.ogg"
-dest_files=["res://.godot/imported/CLAYDOL.ogg-280986b7043c919d3126faa2e9c10596.oggvorbisstr"]
+source_file="res://audio/se/cries/CLAYDOL.ogg"
+dest_files=["res://.godot/imported/CLAYDOL.ogg-dca823af41a41209595b10613339b06b.oggvorbisstr"]
 
 [params]
 

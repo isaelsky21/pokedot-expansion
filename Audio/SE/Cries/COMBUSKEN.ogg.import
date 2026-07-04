@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dw1revidycfek"
-path="res://.godot/imported/COMBUSKEN.ogg-d1d01de1c463988d9c541f9a523e587b.oggvorbisstr"
+path="res://.godot/imported/COMBUSKEN.ogg-1a7ad210193f865c678efc6513050ba6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/COMBUSKEN.ogg"
-dest_files=["res://.godot/imported/COMBUSKEN.ogg-d1d01de1c463988d9c541f9a523e587b.oggvorbisstr"]
+source_file="res://audio/se/cries/COMBUSKEN.ogg"
+dest_files=["res://.godot/imported/COMBUSKEN.ogg-1a7ad210193f865c678efc6513050ba6.oggvorbisstr"]
 
 [params]
 

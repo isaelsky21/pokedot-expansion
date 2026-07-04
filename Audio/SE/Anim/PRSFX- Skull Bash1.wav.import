@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bfudf8xm1k808"
-path="res://.godot/imported/PRSFX- Skull Bash1.wav-1b0cad509724cf4d170c02a8aa1fd5d9.sample"
+path="res://.godot/imported/PRSFX- Skull Bash1.wav-4946f982eadbcb7ef207ef9596e847f8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Skull Bash1.wav"
-dest_files=["res://.godot/imported/PRSFX- Skull Bash1.wav-1b0cad509724cf4d170c02a8aa1fd5d9.sample"]
+source_file="res://audio/se/anim/PRSFX- Skull Bash1.wav"
+dest_files=["res://.godot/imported/PRSFX- Skull Bash1.wav-4946f982eadbcb7ef207ef9596e847f8.sample"]
 
 [params]
 

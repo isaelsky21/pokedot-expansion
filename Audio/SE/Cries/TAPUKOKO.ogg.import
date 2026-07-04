@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dnx1qqvybqnqb"
-path="res://.godot/imported/TAPUKOKO.ogg-ef4353d84c14bff6dfc7753ab15ff791.oggvorbisstr"
+path="res://.godot/imported/TAPUKOKO.ogg-7b4674de9e685c7ee04b25c986a21df0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TAPUKOKO.ogg"
-dest_files=["res://.godot/imported/TAPUKOKO.ogg-ef4353d84c14bff6dfc7753ab15ff791.oggvorbisstr"]
+source_file="res://audio/se/cries/TAPUKOKO.ogg"
+dest_files=["res://.godot/imported/TAPUKOKO.ogg-7b4674de9e685c7ee04b25c986a21df0.oggvorbisstr"]
 
 [params]
 

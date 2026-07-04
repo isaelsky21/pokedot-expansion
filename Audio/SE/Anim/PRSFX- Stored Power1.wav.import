@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ccktmor2btnv8"
-path="res://.godot/imported/PRSFX- Stored Power1.wav-561353ea0caa6936ef86923762adb6f6.sample"
+path="res://.godot/imported/PRSFX- Stored Power1.wav-c2c0f394aabe6a720036b2d87c24e02d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Stored Power1.wav"
-dest_files=["res://.godot/imported/PRSFX- Stored Power1.wav-561353ea0caa6936ef86923762adb6f6.sample"]
+source_file="res://audio/se/anim/PRSFX- Stored Power1.wav"
+dest_files=["res://.godot/imported/PRSFX- Stored Power1.wav-c2c0f394aabe6a720036b2d87c24e02d.sample"]
 
 [params]
 

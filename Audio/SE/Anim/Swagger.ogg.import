@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dicg4j1sy5ry7"
-path="res://.godot/imported/Swagger.ogg-e36fc404142aa5a31209c7f234b1c650.oggvorbisstr"
+path="res://.godot/imported/Swagger.ogg-44c5da9cc3595f93ad7f6a5705deef0d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Swagger.ogg"
-dest_files=["res://.godot/imported/Swagger.ogg-e36fc404142aa5a31209c7f234b1c650.oggvorbisstr"]
+source_file="res://audio/se/anim/Swagger.ogg"
+dest_files=["res://.godot/imported/Swagger.ogg-44c5da9cc3595f93ad7f6a5705deef0d.oggvorbisstr"]
 
 [params]
 

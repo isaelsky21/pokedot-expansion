@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://rehgqsld3f4u"
-path="res://.godot/imported/SNOVER.ogg-9cf0d01a28dadab9b630cbabd0a60c0c.oggvorbisstr"
+path="res://.godot/imported/SNOVER.ogg-03400abe5e1d9e9baac46fac92cc0268.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SNOVER.ogg"
-dest_files=["res://.godot/imported/SNOVER.ogg-9cf0d01a28dadab9b630cbabd0a60c0c.oggvorbisstr"]
+source_file="res://audio/se/cries/SNOVER.ogg"
+dest_files=["res://.godot/imported/SNOVER.ogg-03400abe5e1d9e9baac46fac92cc0268.oggvorbisstr"]
 
 [params]
 

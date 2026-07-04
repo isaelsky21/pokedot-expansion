@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ce85awpsvvpjt"
-path="res://.godot/imported/PRSFX- Metronome.wav-c8ec07d5e2107802b669fa1553a49620.sample"
+path="res://.godot/imported/PRSFX- Metronome.wav-469475ff0ea3da5afe5b03ab8586c266.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Metronome.wav"
-dest_files=["res://.godot/imported/PRSFX- Metronome.wav-c8ec07d5e2107802b669fa1553a49620.sample"]
+source_file="res://audio/se/anim/PRSFX- Metronome.wav"
+dest_files=["res://.godot/imported/PRSFX- Metronome.wav-469475ff0ea3da5afe5b03ab8586c266.sample"]
 
 [params]
 

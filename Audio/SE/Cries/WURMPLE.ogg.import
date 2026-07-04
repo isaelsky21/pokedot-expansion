@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bdob5ltual7al"
-path="res://.godot/imported/WURMPLE.ogg-2d2466c7cbb8e9ef3b5a1e0da24e6e11.oggvorbisstr"
+path="res://.godot/imported/WURMPLE.ogg-983198f2e9ba1f958861d8ef4f2c7f57.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WURMPLE.ogg"
-dest_files=["res://.godot/imported/WURMPLE.ogg-2d2466c7cbb8e9ef3b5a1e0da24e6e11.oggvorbisstr"]
+source_file="res://audio/se/cries/WURMPLE.ogg"
+dest_files=["res://.godot/imported/WURMPLE.ogg-983198f2e9ba1f958861d8ef4f2c7f57.oggvorbisstr"]
 
 [params]
 

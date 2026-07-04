@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://rfh7ne6joxji"
-path="res://.godot/imported/ARCTIBAX.ogg-208efee9bf590f068a8700b433bf7899.oggvorbisstr"
+path="res://.godot/imported/ARCTIBAX.ogg-75636c3aaf1089de4145b596fe959c10.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARCTIBAX.ogg"
-dest_files=["res://.godot/imported/ARCTIBAX.ogg-208efee9bf590f068a8700b433bf7899.oggvorbisstr"]
+source_file="res://audio/se/cries/ARCTIBAX.ogg"
+dest_files=["res://.godot/imported/ARCTIBAX.ogg-75636c3aaf1089de4145b596fe959c10.oggvorbisstr"]
 
 [params]
 

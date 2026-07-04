@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bx88jo7t262jb"
-path="res://.godot/imported/PRSFX- Vital Throw1.wav-c05a36b2cf15076c8024db7a1def6338.sample"
+path="res://.godot/imported/PRSFX- Vital Throw1.wav-df52afb2aabd431b181cc8ccda229ee1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Vital Throw1.wav"
-dest_files=["res://.godot/imported/PRSFX- Vital Throw1.wav-c05a36b2cf15076c8024db7a1def6338.sample"]
+source_file="res://audio/se/anim/PRSFX- Vital Throw1.wav"
+dest_files=["res://.godot/imported/PRSFX- Vital Throw1.wav-df52afb2aabd431b181cc8ccda229ee1.sample"]
 
 [params]
 

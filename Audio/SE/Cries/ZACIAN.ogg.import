@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cew6swspjst8q"
-path="res://.godot/imported/ZACIAN.ogg-c019518baf110e98e261c9a7fe71efeb.oggvorbisstr"
+path="res://.godot/imported/ZACIAN.ogg-73e14c40a34bdf9d4ac24fc4d3be4e07.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZACIAN.ogg"
-dest_files=["res://.godot/imported/ZACIAN.ogg-c019518baf110e98e261c9a7fe71efeb.oggvorbisstr"]
+source_file="res://audio/se/cries/ZACIAN.ogg"
+dest_files=["res://.godot/imported/ZACIAN.ogg-73e14c40a34bdf9d4ac24fc4d3be4e07.oggvorbisstr"]
 
 [params]
 

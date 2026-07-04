@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://02j7wg267072"
-path="res://.godot/imported/PRSFX- Dark Void.wav-7f356ddd78033febc55e654927d9dd90.sample"
+path="res://.godot/imported/PRSFX- Dark Void.wav-55856ed8502df3ccba88803e1dc06f74.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dark Void.wav"
-dest_files=["res://.godot/imported/PRSFX- Dark Void.wav-7f356ddd78033febc55e654927d9dd90.sample"]
+source_file="res://audio/se/anim/PRSFX- Dark Void.wav"
+dest_files=["res://.godot/imported/PRSFX- Dark Void.wav-55856ed8502df3ccba88803e1dc06f74.sample"]
 
 [params]
 

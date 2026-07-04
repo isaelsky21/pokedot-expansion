@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cgtbkj32sp4j8"
-path="res://.godot/imported/KILOWATTREL.ogg-9fb84e36640028e2a53217f69eb0f167.oggvorbisstr"
+path="res://.godot/imported/KILOWATTREL.ogg-e3d812350bab709424fc7b878fd7ea2f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KILOWATTREL.ogg"
-dest_files=["res://.godot/imported/KILOWATTREL.ogg-9fb84e36640028e2a53217f69eb0f167.oggvorbisstr"]
+source_file="res://audio/se/cries/KILOWATTREL.ogg"
+dest_files=["res://.godot/imported/KILOWATTREL.ogg-e3d812350bab709424fc7b878fd7ea2f.oggvorbisstr"]
 
 [params]
 

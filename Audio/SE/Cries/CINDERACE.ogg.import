@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://wtny5lf51spu"
-path="res://.godot/imported/CINDERACE.ogg-71b371c11de6b8ac1f524d8571f73dc7.oggvorbisstr"
+path="res://.godot/imported/CINDERACE.ogg-d4e571cba06911355b6e5087d1cbc541.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CINDERACE.ogg"
-dest_files=["res://.godot/imported/CINDERACE.ogg-71b371c11de6b8ac1f524d8571f73dc7.oggvorbisstr"]
+source_file="res://audio/se/cries/CINDERACE.ogg"
+dest_files=["res://.godot/imported/CINDERACE.ogg-d4e571cba06911355b6e5087d1cbc541.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c44ai6r3rib8m"
-path="res://.godot/imported/PRSFX- Sky Attack3.wav-d4a84fadf8fe5eaac798e92968510c30.sample"
+path="res://.godot/imported/PRSFX- Sky Attack3.wav-d86cbbf09ad644a4331e2ed5685d56b4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sky Attack3.wav"
-dest_files=["res://.godot/imported/PRSFX- Sky Attack3.wav-d4a84fadf8fe5eaac798e92968510c30.sample"]
+source_file="res://audio/se/anim/PRSFX- Sky Attack3.wav"
+dest_files=["res://.godot/imported/PRSFX- Sky Attack3.wav-d86cbbf09ad644a4331e2ed5685d56b4.sample"]
 
 [params]
 

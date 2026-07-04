@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dwpdcmwh6kkk"
-path="res://.godot/imported/DIANCIE.ogg-60c0c3b52180a996fb332260c704913f.oggvorbisstr"
+path="res://.godot/imported/DIANCIE.ogg-ba4eeaef2b0b112f9cf7e1a4961b251a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DIANCIE.ogg"
-dest_files=["res://.godot/imported/DIANCIE.ogg-60c0c3b52180a996fb332260c704913f.oggvorbisstr"]
+source_file="res://audio/se/cries/DIANCIE.ogg"
+dest_files=["res://.godot/imported/DIANCIE.ogg-ba4eeaef2b0b112f9cf7e1a4961b251a.oggvorbisstr"]
 
 [params]
 

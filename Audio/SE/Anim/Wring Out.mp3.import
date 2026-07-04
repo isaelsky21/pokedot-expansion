@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://ced0cc456sock"
-path="res://.godot/imported/Wring Out.mp3-9868f2d42b839c4be0a0024d45c8e534.mp3str"
+path="res://.godot/imported/Wring Out.mp3-1a03c686efff8a5b092ada798454e618.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Wring Out.mp3"
-dest_files=["res://.godot/imported/Wring Out.mp3-9868f2d42b839c4be0a0024d45c8e534.mp3str"]
+source_file="res://audio/se/anim/Wring Out.mp3"
+dest_files=["res://.godot/imported/Wring Out.mp3-1a03c686efff8a5b092ada798454e618.mp3str"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b1l3jugo76pvr"
-path="res://.godot/imported/HYDREIGON.ogg-f39e18fad4cac5eb4d1e93433e20e52f.oggvorbisstr"
+path="res://.godot/imported/HYDREIGON.ogg-1fe20f76c0ce23a4d93ee2053c3301ea.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HYDREIGON.ogg"
-dest_files=["res://.godot/imported/HYDREIGON.ogg-f39e18fad4cac5eb4d1e93433e20e52f.oggvorbisstr"]
+source_file="res://audio/se/cries/HYDREIGON.ogg"
+dest_files=["res://.godot/imported/HYDREIGON.ogg-1fe20f76c0ce23a4d93ee2053c3301ea.oggvorbisstr"]
 
 [params]
 

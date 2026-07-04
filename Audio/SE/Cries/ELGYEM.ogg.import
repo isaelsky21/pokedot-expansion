@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://deio2ceiejd50"
-path="res://.godot/imported/ELGYEM.ogg-c0c7bf07b6e5ca8efa2112046f2b008b.oggvorbisstr"
+path="res://.godot/imported/ELGYEM.ogg-4f9a9cdca7f83f22b181a19961e56424.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ELGYEM.ogg"
-dest_files=["res://.godot/imported/ELGYEM.ogg-c0c7bf07b6e5ca8efa2112046f2b008b.oggvorbisstr"]
+source_file="res://audio/se/cries/ELGYEM.ogg"
+dest_files=["res://.godot/imported/ELGYEM.ogg-4f9a9cdca7f83f22b181a19961e56424.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0s0fji2l13m5"
-path="res://.godot/imported/ALAKAZAM_1.ogg-899b5cc7774ffb9300ae2f35d7d85531.oggvorbisstr"
+path="res://.godot/imported/ALAKAZAM_1.ogg-9b0d149cb1a505348764f79ae8418a9a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ALAKAZAM_1.ogg"
-dest_files=["res://.godot/imported/ALAKAZAM_1.ogg-899b5cc7774ffb9300ae2f35d7d85531.oggvorbisstr"]
+source_file="res://audio/se/cries/ALAKAZAM_1.ogg"
+dest_files=["res://.godot/imported/ALAKAZAM_1.ogg-9b0d149cb1a505348764f79ae8418a9a.oggvorbisstr"]
 
 [params]
 

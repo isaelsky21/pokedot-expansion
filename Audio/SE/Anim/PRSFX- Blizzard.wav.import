@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c3ybrflnd07ng"
-path="res://.godot/imported/PRSFX- Blizzard.wav-ebbd3aee5a3a5a6d66d74e78b510e338.sample"
+path="res://.godot/imported/PRSFX- Blizzard.wav-8e8f5ef2f8dc29ba2ae49bf15a8e18d5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Blizzard.wav"
-dest_files=["res://.godot/imported/PRSFX- Blizzard.wav-ebbd3aee5a3a5a6d66d74e78b510e338.sample"]
+source_file="res://audio/se/anim/PRSFX- Blizzard.wav"
+dest_files=["res://.godot/imported/PRSFX- Blizzard.wav-8e8f5ef2f8dc29ba2ae49bf15a8e18d5.sample"]
 
 [params]
 

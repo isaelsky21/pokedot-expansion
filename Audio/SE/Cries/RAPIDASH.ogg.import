@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dbpnxutna5um2"
-path="res://.godot/imported/RAPIDASH.ogg-09e2dc6df329404243ea8fbdc690b2b7.oggvorbisstr"
+path="res://.godot/imported/RAPIDASH.ogg-0a4eef975bb1733c9d6cd26e10e4107b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RAPIDASH.ogg"
-dest_files=["res://.godot/imported/RAPIDASH.ogg-09e2dc6df329404243ea8fbdc690b2b7.oggvorbisstr"]
+source_file="res://audio/se/cries/RAPIDASH.ogg"
+dest_files=["res://.godot/imported/RAPIDASH.ogg-0a4eef975bb1733c9d6cd26e10e4107b.oggvorbisstr"]
 
 [params]
 

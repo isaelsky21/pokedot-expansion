@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bei5vfmngraqn"
-path="res://.godot/imported/SIMISAGE.ogg-bc23192c12a5645556b193a49ef4c034.oggvorbisstr"
+path="res://.godot/imported/SIMISAGE.ogg-1effbdcb5ee5a2ab22cd3a688b1f9e76.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SIMISAGE.ogg"
-dest_files=["res://.godot/imported/SIMISAGE.ogg-bc23192c12a5645556b193a49ef4c034.oggvorbisstr"]
+source_file="res://audio/se/cries/SIMISAGE.ogg"
+dest_files=["res://.godot/imported/SIMISAGE.ogg-1effbdcb5ee5a2ab22cd3a688b1f9e76.oggvorbisstr"]
 
 [params]
 

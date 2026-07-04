@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5qwrp1xchghl"
-path="res://.godot/imported/KLEFKI.ogg-63c1508a4275a71c6e6317ed4f58290a.oggvorbisstr"
+path="res://.godot/imported/KLEFKI.ogg-b214d679aca6f9850c4f578663be0066.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KLEFKI.ogg"
-dest_files=["res://.godot/imported/KLEFKI.ogg-63c1508a4275a71c6e6317ed4f58290a.oggvorbisstr"]
+source_file="res://audio/se/cries/KLEFKI.ogg"
+dest_files=["res://.godot/imported/KLEFKI.ogg-b214d679aca6f9850c4f578663be0066.oggvorbisstr"]
 
 [params]
 

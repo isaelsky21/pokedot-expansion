@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://da7ppw01mqkia"
-path="res://.godot/imported/PYROAR.ogg-99f2f2aa74c5ac1a990515d9be66eb8e.oggvorbisstr"
+path="res://.godot/imported/PYROAR.ogg-17015e1b44860b9920112c9d122eb039.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PYROAR.ogg"
-dest_files=["res://.godot/imported/PYROAR.ogg-99f2f2aa74c5ac1a990515d9be66eb8e.oggvorbisstr"]
+source_file="res://audio/se/cries/PYROAR.ogg"
+dest_files=["res://.godot/imported/PYROAR.ogg-17015e1b44860b9920112c9d122eb039.oggvorbisstr"]
 
 [params]
 

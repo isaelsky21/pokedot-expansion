@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cw3bn01e1hkd8"
-path="res://.godot/imported/SOLROCK.ogg-dd815990cbe468fd8805f05c5b7c9ff7.oggvorbisstr"
+path="res://.godot/imported/SOLROCK.ogg-48c5d6038ab4353f9acbfe8100dc2422.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SOLROCK.ogg"
-dest_files=["res://.godot/imported/SOLROCK.ogg-dd815990cbe468fd8805f05c5b7c9ff7.oggvorbisstr"]
+source_file="res://audio/se/cries/SOLROCK.ogg"
+dest_files=["res://.godot/imported/SOLROCK.ogg-48c5d6038ab4353f9acbfe8100dc2422.oggvorbisstr"]
 
 [params]
 

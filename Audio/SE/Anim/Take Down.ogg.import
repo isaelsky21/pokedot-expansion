@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://clu57bpkqfoa"
-path="res://.godot/imported/Take Down.ogg-2adb8d8c45bf46dde6c835bbb6c57e26.oggvorbisstr"
+path="res://.godot/imported/Take Down.ogg-429c88353c8ce8fc24b5ea8d9067fdec.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Take Down.ogg"
-dest_files=["res://.godot/imported/Take Down.ogg-2adb8d8c45bf46dde6c835bbb6c57e26.oggvorbisstr"]
+source_file="res://audio/se/anim/Take Down.ogg"
+dest_files=["res://.godot/imported/Take Down.ogg-429c88353c8ce8fc24b5ea8d9067fdec.oggvorbisstr"]
 
 [params]
 

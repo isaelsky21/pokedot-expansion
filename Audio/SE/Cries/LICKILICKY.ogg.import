@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://blryckwjs8ub"
-path="res://.godot/imported/LICKILICKY.ogg-dfac6fa8c4704a82dd764bbd542328a1.oggvorbisstr"
+path="res://.godot/imported/LICKILICKY.ogg-9dc2455ee420ca78b8505eaff49339c9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LICKILICKY.ogg"
-dest_files=["res://.godot/imported/LICKILICKY.ogg-dfac6fa8c4704a82dd764bbd542328a1.oggvorbisstr"]
+source_file="res://audio/se/cries/LICKILICKY.ogg"
+dest_files=["res://.godot/imported/LICKILICKY.ogg-9dc2455ee420ca78b8505eaff49339c9.oggvorbisstr"]
 
 [params]
 

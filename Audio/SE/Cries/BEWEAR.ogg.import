@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0o4jnkgj3acm"
-path="res://.godot/imported/BEWEAR.ogg-03af8a418aa9fc2bd1e62dc02623489d.oggvorbisstr"
+path="res://.godot/imported/BEWEAR.ogg-0c8582f9404cd4cc0dd7c687c852d997.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BEWEAR.ogg"
-dest_files=["res://.godot/imported/BEWEAR.ogg-03af8a418aa9fc2bd1e62dc02623489d.oggvorbisstr"]
+source_file="res://audio/se/cries/BEWEAR.ogg"
+dest_files=["res://.godot/imported/BEWEAR.ogg-0c8582f9404cd4cc0dd7c687c852d997.oggvorbisstr"]
 
 [params]
 

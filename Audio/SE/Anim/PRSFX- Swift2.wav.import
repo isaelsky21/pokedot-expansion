@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://082fr2y757sx"
-path="res://.godot/imported/PRSFX- Swift2.wav-ac221447606d733dbfa56e8702763a2a.sample"
+path="res://.godot/imported/PRSFX- Swift2.wav-82a2f684cd5bb4dd3958814c636052d4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Swift2.wav"
-dest_files=["res://.godot/imported/PRSFX- Swift2.wav-ac221447606d733dbfa56e8702763a2a.sample"]
+source_file="res://audio/se/anim/PRSFX- Swift2.wav"
+dest_files=["res://.godot/imported/PRSFX- Swift2.wav-82a2f684cd5bb4dd3958814c636052d4.sample"]
 
 [params]
 

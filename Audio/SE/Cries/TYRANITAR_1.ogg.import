@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://1w2vgqoc2a0j"
-path="res://.godot/imported/TYRANITAR_1.ogg-5517d5203dea523ec53895e20b0e339d.oggvorbisstr"
+path="res://.godot/imported/TYRANITAR_1.ogg-7fb86631ac30d43ad83f60fa5b53fe49.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TYRANITAR_1.ogg"
-dest_files=["res://.godot/imported/TYRANITAR_1.ogg-5517d5203dea523ec53895e20b0e339d.oggvorbisstr"]
+source_file="res://audio/se/cries/TYRANITAR_1.ogg"
+dest_files=["res://.godot/imported/TYRANITAR_1.ogg-7fb86631ac30d43ad83f60fa5b53fe49.oggvorbisstr"]
 
 [params]
 

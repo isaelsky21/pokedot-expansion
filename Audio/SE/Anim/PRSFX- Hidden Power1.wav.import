@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://corxtiflbiqyi"
-path="res://.godot/imported/PRSFX- Hidden Power1.wav-91e17e06fe4474a24cd2677f7d14a5a7.sample"
+path="res://.godot/imported/PRSFX- Hidden Power1.wav-3778fd88efdd578c171f51798646e65a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hidden Power1.wav"
-dest_files=["res://.godot/imported/PRSFX- Hidden Power1.wav-91e17e06fe4474a24cd2677f7d14a5a7.sample"]
+source_file="res://audio/se/anim/PRSFX- Hidden Power1.wav"
+dest_files=["res://.godot/imported/PRSFX- Hidden Power1.wav-3778fd88efdd578c171f51798646e65a.sample"]
 
 [params]
 

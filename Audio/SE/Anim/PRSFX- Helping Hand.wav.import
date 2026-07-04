@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://desa1yl4gfi1k"
-path="res://.godot/imported/PRSFX- Helping Hand.wav-cca2420d0dffe7c7be4b3265ce5387d6.sample"
+path="res://.godot/imported/PRSFX- Helping Hand.wav-c15260d6561697efcd6a90ee125dd829.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Helping Hand.wav"
-dest_files=["res://.godot/imported/PRSFX- Helping Hand.wav-cca2420d0dffe7c7be4b3265ce5387d6.sample"]
+source_file="res://audio/se/anim/PRSFX- Helping Hand.wav"
+dest_files=["res://.godot/imported/PRSFX- Helping Hand.wav-c15260d6561697efcd6a90ee125dd829.sample"]
 
 [params]
 

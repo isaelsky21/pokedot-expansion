@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://rebl1u5ewivn"
-path="res://.godot/imported/PRSFX- Dragon Pulse.wav-6599496016c7d9c17fbae338e2f85842.sample"
+path="res://.godot/imported/PRSFX- Dragon Pulse.wav-faf8de84dae9c6a702fb8f0c33807a93.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dragon Pulse.wav"
-dest_files=["res://.godot/imported/PRSFX- Dragon Pulse.wav-6599496016c7d9c17fbae338e2f85842.sample"]
+source_file="res://audio/se/anim/PRSFX- Dragon Pulse.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Pulse.wav-faf8de84dae9c6a702fb8f0c33807a93.sample"]
 
 [params]
 

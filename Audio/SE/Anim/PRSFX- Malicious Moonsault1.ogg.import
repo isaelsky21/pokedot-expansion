@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8baogqbg383b"
-path="res://.godot/imported/PRSFX- Malicious Moonsault1.ogg-fea741f63bd40c95219e3a02ac61a49e.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Malicious Moonsault1.ogg-deeef2ded3f0e16c36c12f82f172128a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Malicious Moonsault1.ogg"
-dest_files=["res://.godot/imported/PRSFX- Malicious Moonsault1.ogg-fea741f63bd40c95219e3a02ac61a49e.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Malicious Moonsault1.ogg"
+dest_files=["res://.godot/imported/PRSFX- Malicious Moonsault1.ogg-deeef2ded3f0e16c36c12f82f172128a.oggvorbisstr"]
 
 [params]
 

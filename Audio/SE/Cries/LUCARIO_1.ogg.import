@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dj7oasgsdm85p"
-path="res://.godot/imported/LUCARIO_1.ogg-d75ecbe0ee052e9b31efed757f9a787d.oggvorbisstr"
+path="res://.godot/imported/LUCARIO_1.ogg-5c5423f2e68c1c3a57656b672c05636e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LUCARIO_1.ogg"
-dest_files=["res://.godot/imported/LUCARIO_1.ogg-d75ecbe0ee052e9b31efed757f9a787d.oggvorbisstr"]
+source_file="res://audio/se/cries/LUCARIO_1.ogg"
+dest_files=["res://.godot/imported/LUCARIO_1.ogg-5c5423f2e68c1c3a57656b672c05636e.oggvorbisstr"]
 
 [params]
 

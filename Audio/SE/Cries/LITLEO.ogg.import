@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://chpql3wrjhlt6"
-path="res://.godot/imported/LITLEO.ogg-54c39b492e925183c3b5ab7fb871e0c3.oggvorbisstr"
+path="res://.godot/imported/LITLEO.ogg-00041c1aa30b91d6e953ac2d23c2bd00.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LITLEO.ogg"
-dest_files=["res://.godot/imported/LITLEO.ogg-54c39b492e925183c3b5ab7fb871e0c3.oggvorbisstr"]
+source_file="res://audio/se/cries/LITLEO.ogg"
+dest_files=["res://.godot/imported/LITLEO.ogg-00041c1aa30b91d6e953ac2d23c2bd00.oggvorbisstr"]
 
 [params]
 

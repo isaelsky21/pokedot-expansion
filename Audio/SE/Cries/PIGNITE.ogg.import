@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ck60imt4qkefm"
-path="res://.godot/imported/PIGNITE.ogg-8eebdff3dd04bff83be4cd939d0c2135.oggvorbisstr"
+path="res://.godot/imported/PIGNITE.ogg-6cd13aee98a7e55ca59df55861beec58.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PIGNITE.ogg"
-dest_files=["res://.godot/imported/PIGNITE.ogg-8eebdff3dd04bff83be4cd939d0c2135.oggvorbisstr"]
+source_file="res://audio/se/cries/PIGNITE.ogg"
+dest_files=["res://.godot/imported/PIGNITE.ogg-6cd13aee98a7e55ca59df55861beec58.oggvorbisstr"]
 
 [params]
 

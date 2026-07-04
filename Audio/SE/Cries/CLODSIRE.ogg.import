@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://comhj3w23aict"
-path="res://.godot/imported/CLODSIRE.ogg-3762f02c7bddc0f5524d7b74b3d17251.oggvorbisstr"
+path="res://.godot/imported/CLODSIRE.ogg-de83b695746e45878c96197da068e122.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CLODSIRE.ogg"
-dest_files=["res://.godot/imported/CLODSIRE.ogg-3762f02c7bddc0f5524d7b74b3d17251.oggvorbisstr"]
+source_file="res://audio/se/cries/CLODSIRE.ogg"
+dest_files=["res://.godot/imported/CLODSIRE.ogg-de83b695746e45878c96197da068e122.oggvorbisstr"]
 
 [params]
 

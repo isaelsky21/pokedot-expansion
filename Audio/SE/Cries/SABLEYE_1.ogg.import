@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dvmw10crthq4g"
-path="res://.godot/imported/SABLEYE_1.ogg-413eafca0b40a07b57d69d1474dfafea.oggvorbisstr"
+path="res://.godot/imported/SABLEYE_1.ogg-49adfadf8288a5d67ab0bf7ed503e904.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SABLEYE_1.ogg"
-dest_files=["res://.godot/imported/SABLEYE_1.ogg-413eafca0b40a07b57d69d1474dfafea.oggvorbisstr"]
+source_file="res://audio/se/cries/SABLEYE_1.ogg"
+dest_files=["res://.godot/imported/SABLEYE_1.ogg-49adfadf8288a5d67ab0bf7ed503e904.oggvorbisstr"]
 
 [params]
 

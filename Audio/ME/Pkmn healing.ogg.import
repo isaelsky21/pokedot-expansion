@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ddx4yd4kggn4u"
-path="res://.godot/imported/Pkmn healing.ogg-87c3789640f52b2baa7f14ad14f2f4eb.oggvorbisstr"
+path="res://.godot/imported/Pkmn healing.ogg-5bd54889e9e861c69560467a30cb75a2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/ME/Pkmn healing.ogg"
-dest_files=["res://.godot/imported/Pkmn healing.ogg-87c3789640f52b2baa7f14ad14f2f4eb.oggvorbisstr"]
+source_file="res://audio/me/Pkmn healing.ogg"
+dest_files=["res://.godot/imported/Pkmn healing.ogg-5bd54889e9e861c69560467a30cb75a2.oggvorbisstr"]
 
 [params]
 

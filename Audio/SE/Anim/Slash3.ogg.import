@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cso1lgr08ntle"
-path="res://.godot/imported/Slash3.ogg-98ba1b34d420d35adacca15bd9d2c56d.oggvorbisstr"
+path="res://.godot/imported/Slash3.ogg-bfb425bfa3a8f9a32ee689ba27f09da6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Slash3.ogg"
-dest_files=["res://.godot/imported/Slash3.ogg-98ba1b34d420d35adacca15bd9d2c56d.oggvorbisstr"]
+source_file="res://audio/se/anim/Slash3.ogg"
+dest_files=["res://.godot/imported/Slash3.ogg-bfb425bfa3a8f9a32ee689ba27f09da6.oggvorbisstr"]
 
 [params]
 

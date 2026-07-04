@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dqi7g1ou7fiae"
-path="res://.godot/imported/CELEBI.ogg-bf5b9a351a321643f65da355b94094ab.oggvorbisstr"
+path="res://.godot/imported/CELEBI.ogg-ce48e0f6fd8f23fefae225877fb6af8e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CELEBI.ogg"
-dest_files=["res://.godot/imported/CELEBI.ogg-bf5b9a351a321643f65da355b94094ab.oggvorbisstr"]
+source_file="res://audio/se/cries/CELEBI.ogg"
+dest_files=["res://.godot/imported/CELEBI.ogg-ce48e0f6fd8f23fefae225877fb6af8e.oggvorbisstr"]
 
 [params]
 

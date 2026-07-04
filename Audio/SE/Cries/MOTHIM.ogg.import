@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://lyd2o67spl40"
-path="res://.godot/imported/MOTHIM.ogg-507c00f9d0276ba2d2da2035f6bad1c8.oggvorbisstr"
+path="res://.godot/imported/MOTHIM.ogg-efe4b0d03df07158056eeb2bd8d1af92.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MOTHIM.ogg"
-dest_files=["res://.godot/imported/MOTHIM.ogg-507c00f9d0276ba2d2da2035f6bad1c8.oggvorbisstr"]
+source_file="res://audio/se/cries/MOTHIM.ogg"
+dest_files=["res://.godot/imported/MOTHIM.ogg-efe4b0d03df07158056eeb2bd8d1af92.oggvorbisstr"]
 
 [params]
 

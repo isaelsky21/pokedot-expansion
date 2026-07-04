@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://263xq63veaw0"
-path="res://.godot/imported/CHERRIM.ogg-a3ec7378729a3c8f07a3b63b20d3a92d.oggvorbisstr"
+path="res://.godot/imported/CHERRIM.ogg-d3f8e1db91803c80a7ed825085a62d2c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHERRIM.ogg"
-dest_files=["res://.godot/imported/CHERRIM.ogg-a3ec7378729a3c8f07a3b63b20d3a92d.oggvorbisstr"]
+source_file="res://audio/se/cries/CHERRIM.ogg"
+dest_files=["res://.godot/imported/CHERRIM.ogg-d3f8e1db91803c80a7ed825085a62d2c.oggvorbisstr"]
 
 [params]
 

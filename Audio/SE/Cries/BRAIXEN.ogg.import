@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://chnj6rd5eo6ui"
-path="res://.godot/imported/BRAIXEN.ogg-0f71471fc5fa9a0e58e2c8698f7eba91.oggvorbisstr"
+path="res://.godot/imported/BRAIXEN.ogg-3f6c31968958d344cff0ebc201225aa5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BRAIXEN.ogg"
-dest_files=["res://.godot/imported/BRAIXEN.ogg-0f71471fc5fa9a0e58e2c8698f7eba91.oggvorbisstr"]
+source_file="res://audio/se/cries/BRAIXEN.ogg"
+dest_files=["res://.godot/imported/BRAIXEN.ogg-3f6c31968958d344cff0ebc201225aa5.oggvorbisstr"]
 
 [params]
 

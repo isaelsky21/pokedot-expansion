@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ijge6eypt8n4"
-path="res://.godot/imported/PRSFX- Snarl.wav-947fefb9254aceac7712210f791d72af.sample"
+path="res://.godot/imported/PRSFX- Snarl.wav-97ea0e437f516ee1e40f4650693c0b5a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Snarl.wav"
-dest_files=["res://.godot/imported/PRSFX- Snarl.wav-947fefb9254aceac7712210f791d72af.sample"]
+source_file="res://audio/se/anim/PRSFX- Snarl.wav"
+dest_files=["res://.godot/imported/PRSFX- Snarl.wav-97ea0e437f516ee1e40f4650693c0b5a.sample"]
 
 [params]
 

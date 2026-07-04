@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cfjyvlan2yvx5"
-path="res://.godot/imported/CASTFORM.ogg-ccb3776b7c3fae3064f4f0370fe9a70d.oggvorbisstr"
+path="res://.godot/imported/CASTFORM.ogg-2a91455798538ed668b5fb1ac6b51582.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CASTFORM.ogg"
-dest_files=["res://.godot/imported/CASTFORM.ogg-ccb3776b7c3fae3064f4f0370fe9a70d.oggvorbisstr"]
+source_file="res://audio/se/cries/CASTFORM.ogg"
+dest_files=["res://.godot/imported/CASTFORM.ogg-2a91455798538ed668b5fb1ac6b51582.oggvorbisstr"]
 
 [params]
 

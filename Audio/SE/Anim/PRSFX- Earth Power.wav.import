@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ch2218a40qf2i"
-path="res://.godot/imported/PRSFX- Earth Power.wav-11848ca3b1ad7e8376ce8dd9b4a24492.sample"
+path="res://.godot/imported/PRSFX- Earth Power.wav-4d207574c63a33f44dc647ada126b97f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Earth Power.wav"
-dest_files=["res://.godot/imported/PRSFX- Earth Power.wav-11848ca3b1ad7e8376ce8dd9b4a24492.sample"]
+source_file="res://audio/se/anim/PRSFX- Earth Power.wav"
+dest_files=["res://.godot/imported/PRSFX- Earth Power.wav-4d207574c63a33f44dc647ada126b97f.sample"]
 
 [params]
 

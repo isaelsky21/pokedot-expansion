@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://yxbsbx3v0dhy"
-path="res://.godot/imported/PRSFX- Superpower1.wav-52c6f61f944fc0dbb3dae25f1efe1980.sample"
+path="res://.godot/imported/PRSFX- Superpower1.wav-17fde93bdc539885bfdae152fc6afdcd.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Superpower1.wav"
-dest_files=["res://.godot/imported/PRSFX- Superpower1.wav-52c6f61f944fc0dbb3dae25f1efe1980.sample"]
+source_file="res://audio/se/anim/PRSFX- Superpower1.wav"
+dest_files=["res://.godot/imported/PRSFX- Superpower1.wav-17fde93bdc539885bfdae152fc6afdcd.sample"]
 
 [params]
 

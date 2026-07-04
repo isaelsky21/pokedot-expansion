@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://rmsv512fiud"
-path="res://.godot/imported/PRSFX- Draco Meteor2.wav-7adaa96db81e02468d80e280a9057ef0.sample"
+path="res://.godot/imported/PRSFX- Draco Meteor2.wav-cb8d58642d5c73fce17a22111c8534b5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Draco Meteor2.wav"
-dest_files=["res://.godot/imported/PRSFX- Draco Meteor2.wav-7adaa96db81e02468d80e280a9057ef0.sample"]
+source_file="res://audio/se/anim/PRSFX- Draco Meteor2.wav"
+dest_files=["res://.godot/imported/PRSFX- Draco Meteor2.wav-cb8d58642d5c73fce17a22111c8534b5.sample"]
 
 [params]
 

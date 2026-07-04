@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://btvmahv2bbt0t"
-path="res://.godot/imported/BANETTE_1.ogg-86a9b650d3559de9f6ccb1b31ef226a2.oggvorbisstr"
+path="res://.godot/imported/BANETTE_1.ogg-fba1286f233575d45988be6bcfbd50ec.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BANETTE_1.ogg"
-dest_files=["res://.godot/imported/BANETTE_1.ogg-86a9b650d3559de9f6ccb1b31ef226a2.oggvorbisstr"]
+source_file="res://audio/se/cries/BANETTE_1.ogg"
+dest_files=["res://.godot/imported/BANETTE_1.ogg-fba1286f233575d45988be6bcfbd50ec.oggvorbisstr"]
 
 [params]
 

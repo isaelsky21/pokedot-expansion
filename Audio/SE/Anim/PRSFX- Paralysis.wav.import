@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bueckiinv2m4r"
-path="res://.godot/imported/PRSFX- Paralysis.wav-fed1bbfa763c440bb6338c3316528765.sample"
+path="res://.godot/imported/PRSFX- Paralysis.wav-70862447fa331935e6bb91a2a3374405.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Paralysis.wav"
-dest_files=["res://.godot/imported/PRSFX- Paralysis.wav-fed1bbfa763c440bb6338c3316528765.sample"]
+source_file="res://audio/se/anim/PRSFX- Paralysis.wav"
+dest_files=["res://.godot/imported/PRSFX- Paralysis.wav-70862447fa331935e6bb91a2a3374405.sample"]
 
 [params]
 

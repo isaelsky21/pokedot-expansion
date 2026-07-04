@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dvvmpwv4t26al"
-path="res://.godot/imported/MEDITITE.ogg-4416de2204989d3fde76bf59b7f18c2b.oggvorbisstr"
+path="res://.godot/imported/MEDITITE.ogg-6357f16063437fb3e6a5f41cde125cbb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MEDITITE.ogg"
-dest_files=["res://.godot/imported/MEDITITE.ogg-4416de2204989d3fde76bf59b7f18c2b.oggvorbisstr"]
+source_file="res://audio/se/cries/MEDITITE.ogg"
+dest_files=["res://.godot/imported/MEDITITE.ogg-6357f16063437fb3e6a5f41cde125cbb.oggvorbisstr"]
 
 [params]
 

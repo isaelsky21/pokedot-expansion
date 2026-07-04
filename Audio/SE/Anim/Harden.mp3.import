@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dbigbscfrhvow"
-path="res://.godot/imported/Harden.mp3-e067407bb31d9a1bb6920dc53a090ea3.mp3str"
+path="res://.godot/imported/Harden.mp3-644bd7056946ca144fdd3a8290b790cb.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Harden.mp3"
-dest_files=["res://.godot/imported/Harden.mp3-e067407bb31d9a1bb6920dc53a090ea3.mp3str"]
+source_file="res://audio/se/anim/Harden.mp3"
+dest_files=["res://.godot/imported/Harden.mp3-644bd7056946ca144fdd3a8290b790cb.mp3str"]
 
 [params]
 

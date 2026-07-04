@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://col8xcv5183hb"
-path="res://.godot/imported/FROGADIER.ogg-b6854551cab0767d704dae0413c1eddf.oggvorbisstr"
+path="res://.godot/imported/FROGADIER.ogg-a146d36f9fd25d69290f404a4c0a5ac0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FROGADIER.ogg"
-dest_files=["res://.godot/imported/FROGADIER.ogg-b6854551cab0767d704dae0413c1eddf.oggvorbisstr"]
+source_file="res://audio/se/cries/FROGADIER.ogg"
+dest_files=["res://.godot/imported/FROGADIER.ogg-a146d36f9fd25d69290f404a4c0a5ac0.oggvorbisstr"]
 
 [params]
 

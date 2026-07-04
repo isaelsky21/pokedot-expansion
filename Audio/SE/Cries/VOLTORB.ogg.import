@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c35paymaqrix4"
-path="res://.godot/imported/VOLTORB.ogg-428aa5696c98a61586db7cfcb4931a7a.oggvorbisstr"
+path="res://.godot/imported/VOLTORB.ogg-d8985510db520f436a63a664ccd02bb7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VOLTORB.ogg"
-dest_files=["res://.godot/imported/VOLTORB.ogg-428aa5696c98a61586db7cfcb4931a7a.oggvorbisstr"]
+source_file="res://audio/se/cries/VOLTORB.ogg"
+dest_files=["res://.godot/imported/VOLTORB.ogg-d8985510db520f436a63a664ccd02bb7.oggvorbisstr"]
 
 [params]
 

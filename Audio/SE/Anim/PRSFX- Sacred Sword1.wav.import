@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cmsj03h8ffmce"
-path="res://.godot/imported/PRSFX- Sacred Sword1.wav-f4813201e3ae47778e10e5829fca30c9.sample"
+path="res://.godot/imported/PRSFX- Sacred Sword1.wav-392f4b94d8864e8ef0c7007b9757f29a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sacred Sword1.wav"
-dest_files=["res://.godot/imported/PRSFX- Sacred Sword1.wav-f4813201e3ae47778e10e5829fca30c9.sample"]
+source_file="res://audio/se/anim/PRSFX- Sacred Sword1.wav"
+dest_files=["res://.godot/imported/PRSFX- Sacred Sword1.wav-392f4b94d8864e8ef0c7007b9757f29a.sample"]
 
 [params]
 

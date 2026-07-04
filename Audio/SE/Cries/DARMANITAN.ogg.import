@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://otlph455vw7f"
-path="res://.godot/imported/DARMANITAN.ogg-b2e2716634f13d1d97054f0c5b9f12cc.oggvorbisstr"
+path="res://.godot/imported/DARMANITAN.ogg-6a22be434099e707fceacc005676dbba.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DARMANITAN.ogg"
-dest_files=["res://.godot/imported/DARMANITAN.ogg-b2e2716634f13d1d97054f0c5b9f12cc.oggvorbisstr"]
+source_file="res://audio/se/cries/DARMANITAN.ogg"
+dest_files=["res://.godot/imported/DARMANITAN.ogg-6a22be434099e707fceacc005676dbba.oggvorbisstr"]
 
 [params]
 

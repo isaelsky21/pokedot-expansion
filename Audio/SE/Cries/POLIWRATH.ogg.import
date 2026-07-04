@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vpr5pyb11yoy"
-path="res://.godot/imported/POLIWRATH.ogg-e46f8113716fc7054bae35e17b413328.oggvorbisstr"
+path="res://.godot/imported/POLIWRATH.ogg-1c8b9e64fcef5b17bee11203ef984f6a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/POLIWRATH.ogg"
-dest_files=["res://.godot/imported/POLIWRATH.ogg-e46f8113716fc7054bae35e17b413328.oggvorbisstr"]
+source_file="res://audio/se/cries/POLIWRATH.ogg"
+dest_files=["res://.godot/imported/POLIWRATH.ogg-1c8b9e64fcef5b17bee11203ef984f6a.oggvorbisstr"]
 
 [params]
 

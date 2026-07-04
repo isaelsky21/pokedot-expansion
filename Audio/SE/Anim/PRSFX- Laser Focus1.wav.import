@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bdek1251n3p64"
-path="res://.godot/imported/PRSFX- Laser Focus1.wav-dba6df2399b4d5921684b545b79d05ba.sample"
+path="res://.godot/imported/PRSFX- Laser Focus1.wav-e3d43ea93beacf04c9e1fb28476c3922.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Laser Focus1.wav"
-dest_files=["res://.godot/imported/PRSFX- Laser Focus1.wav-dba6df2399b4d5921684b545b79d05ba.sample"]
+source_file="res://audio/se/anim/PRSFX- Laser Focus1.wav"
+dest_files=["res://.godot/imported/PRSFX- Laser Focus1.wav-e3d43ea93beacf04c9e1fb28476c3922.sample"]
 
 [params]
 

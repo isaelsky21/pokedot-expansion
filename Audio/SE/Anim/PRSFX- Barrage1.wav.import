@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bydy8u3rc8uie"
-path="res://.godot/imported/PRSFX- Barrage1.wav-8d3e3e53364373ddfc264fa3d1484f67.sample"
+path="res://.godot/imported/PRSFX- Barrage1.wav-562015c9e42fdd385508589c5bd73db7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Barrage1.wav"
-dest_files=["res://.godot/imported/PRSFX- Barrage1.wav-8d3e3e53364373ddfc264fa3d1484f67.sample"]
+source_file="res://audio/se/anim/PRSFX- Barrage1.wav"
+dest_files=["res://.godot/imported/PRSFX- Barrage1.wav-562015c9e42fdd385508589c5bd73db7.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://crgiswn8jf45o"
-path="res://.godot/imported/MISMAGIUS.ogg-c990b4264dd608e0f83ac692d03da98c.oggvorbisstr"
+path="res://.godot/imported/MISMAGIUS.ogg-22aebd87232a5397686d06837ef9d03c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MISMAGIUS.ogg"
-dest_files=["res://.godot/imported/MISMAGIUS.ogg-c990b4264dd608e0f83ac692d03da98c.oggvorbisstr"]
+source_file="res://audio/se/cries/MISMAGIUS.ogg"
+dest_files=["res://.godot/imported/MISMAGIUS.ogg-22aebd87232a5397686d06837ef9d03c.oggvorbisstr"]
 
 [params]
 

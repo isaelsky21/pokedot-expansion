@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bqejm085kb48p"
-path="res://.godot/imported/MANKEY.ogg-3297af7522843c0cbdbc058db5822285.oggvorbisstr"
+path="res://.godot/imported/MANKEY.ogg-2ae8006dcc5f9e597cdcd00ec55119b8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MANKEY.ogg"
-dest_files=["res://.godot/imported/MANKEY.ogg-3297af7522843c0cbdbc058db5822285.oggvorbisstr"]
+source_file="res://audio/se/cries/MANKEY.ogg"
+dest_files=["res://.godot/imported/MANKEY.ogg-2ae8006dcc5f9e597cdcd00ec55119b8.oggvorbisstr"]
 
 [params]
 

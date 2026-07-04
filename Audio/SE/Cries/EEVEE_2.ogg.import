@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6hotsdltv1hh"
-path="res://.godot/imported/EEVEE_2.ogg-4fb3526f7b7118dda8ceab81bede0637.oggvorbisstr"
+path="res://.godot/imported/EEVEE_2.ogg-cb38b903c1c8c977e798c5351ecf5b9b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/EEVEE_2.ogg"
-dest_files=["res://.godot/imported/EEVEE_2.ogg-4fb3526f7b7118dda8ceab81bede0637.oggvorbisstr"]
+source_file="res://audio/se/cries/EEVEE_2.ogg"
+dest_files=["res://.godot/imported/EEVEE_2.ogg-cb38b903c1c8c977e798c5351ecf5b9b.oggvorbisstr"]
 
 [params]
 

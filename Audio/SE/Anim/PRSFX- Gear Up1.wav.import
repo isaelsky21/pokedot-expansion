@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dykojmlfsbiwj"
-path="res://.godot/imported/PRSFX- Gear Up1.wav-2d90bb31bfcf838c7b82c43aa25a4d52.sample"
+path="res://.godot/imported/PRSFX- Gear Up1.wav-43676f882f3a7d0c8c09c4afdd860263.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gear Up1.wav"
-dest_files=["res://.godot/imported/PRSFX- Gear Up1.wav-2d90bb31bfcf838c7b82c43aa25a4d52.sample"]
+source_file="res://audio/se/anim/PRSFX- Gear Up1.wav"
+dest_files=["res://.godot/imported/PRSFX- Gear Up1.wav-43676f882f3a7d0c8c09c4afdd860263.sample"]
 
 [params]
 

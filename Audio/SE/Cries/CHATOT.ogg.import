@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c82sdwc5bn15w"
-path="res://.godot/imported/CHATOT.ogg-e042471a5d03b16570fee17b514c8120.oggvorbisstr"
+path="res://.godot/imported/CHATOT.ogg-527dc0b8bd27de3fa932c1ea8bbfac3b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHATOT.ogg"
-dest_files=["res://.godot/imported/CHATOT.ogg-e042471a5d03b16570fee17b514c8120.oggvorbisstr"]
+source_file="res://audio/se/cries/CHATOT.ogg"
+dest_files=["res://.godot/imported/CHATOT.ogg-527dc0b8bd27de3fa932c1ea8bbfac3b.oggvorbisstr"]
 
 [params]
 

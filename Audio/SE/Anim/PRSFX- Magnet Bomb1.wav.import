@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dh2iv7qyb3g0c"
-path="res://.godot/imported/PRSFX- Magnet Bomb1.wav-dd61e74a4578eeb59f69a9493063e843.sample"
+path="res://.godot/imported/PRSFX- Magnet Bomb1.wav-2bd1ef9ce916c5c954de0af1efab2ec8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Magnet Bomb1.wav"
-dest_files=["res://.godot/imported/PRSFX- Magnet Bomb1.wav-dd61e74a4578eeb59f69a9493063e843.sample"]
+source_file="res://audio/se/anim/PRSFX- Magnet Bomb1.wav"
+dest_files=["res://.godot/imported/PRSFX- Magnet Bomb1.wav-2bd1ef9ce916c5c954de0af1efab2ec8.sample"]
 
 [params]
 

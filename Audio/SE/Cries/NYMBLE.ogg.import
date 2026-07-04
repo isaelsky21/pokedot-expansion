@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cgvyp35kjgxjt"
-path="res://.godot/imported/NYMBLE.ogg-fbeab1318ffa64b736fcacdfbb8c1b35.oggvorbisstr"
+path="res://.godot/imported/NYMBLE.ogg-2e7066199afc8dddbb8c1e2e5a88f41e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NYMBLE.ogg"
-dest_files=["res://.godot/imported/NYMBLE.ogg-fbeab1318ffa64b736fcacdfbb8c1b35.oggvorbisstr"]
+source_file="res://audio/se/cries/NYMBLE.ogg"
+dest_files=["res://.godot/imported/NYMBLE.ogg-2e7066199afc8dddbb8c1e2e5a88f41e.oggvorbisstr"]
 
 [params]
 

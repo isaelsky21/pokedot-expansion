@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctey16xdrtchs"
-path="res://.godot/imported/SLURPUFF.ogg-38526276ee476ced0a99b58d62afb438.oggvorbisstr"
+path="res://.godot/imported/SLURPUFF.ogg-2ff80d186afcf940b4f3e3b8797cbdac.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SLURPUFF.ogg"
-dest_files=["res://.godot/imported/SLURPUFF.ogg-38526276ee476ced0a99b58d62afb438.oggvorbisstr"]
+source_file="res://audio/se/cries/SLURPUFF.ogg"
+dest_files=["res://.godot/imported/SLURPUFF.ogg-2ff80d186afcf940b4f3e3b8797cbdac.oggvorbisstr"]
 
 [params]
 

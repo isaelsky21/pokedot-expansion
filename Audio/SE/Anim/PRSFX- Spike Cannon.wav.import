@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bisypphsm6aql"
-path="res://.godot/imported/PRSFX- Spike Cannon.wav-147bab035b945c975e85488e5cf452a4.sample"
+path="res://.godot/imported/PRSFX- Spike Cannon.wav-32fca56294bd82a713447920ef95ed25.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spike Cannon.wav"
-dest_files=["res://.godot/imported/PRSFX- Spike Cannon.wav-147bab035b945c975e85488e5cf452a4.sample"]
+source_file="res://audio/se/anim/PRSFX- Spike Cannon.wav"
+dest_files=["res://.godot/imported/PRSFX- Spike Cannon.wav-32fca56294bd82a713447920ef95ed25.sample"]
 
 [params]
 

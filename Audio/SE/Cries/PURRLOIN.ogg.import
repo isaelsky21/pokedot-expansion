@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bg4qcyxc573uu"
-path="res://.godot/imported/PURRLOIN.ogg-212e4769efac0850f8fc84f12d0f2e0d.oggvorbisstr"
+path="res://.godot/imported/PURRLOIN.ogg-ed1066d9e601fddcbfeaa22a83c599c1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PURRLOIN.ogg"
-dest_files=["res://.godot/imported/PURRLOIN.ogg-212e4769efac0850f8fc84f12d0f2e0d.oggvorbisstr"]
+source_file="res://audio/se/cries/PURRLOIN.ogg"
+dest_files=["res://.godot/imported/PURRLOIN.ogg-ed1066d9e601fddcbfeaa22a83c599c1.oggvorbisstr"]
 
 [params]
 

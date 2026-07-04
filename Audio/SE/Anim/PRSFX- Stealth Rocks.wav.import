@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://whk7bql7euci"
-path="res://.godot/imported/PRSFX- Stealth Rocks.wav-fa1829b266a0139fd4047d0a4ea9f5e5.sample"
+path="res://.godot/imported/PRSFX- Stealth Rocks.wav-c8c9b1e1cf5fda9d8889b99ffcbc883f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Stealth Rocks.wav"
-dest_files=["res://.godot/imported/PRSFX- Stealth Rocks.wav-fa1829b266a0139fd4047d0a4ea9f5e5.sample"]
+source_file="res://audio/se/anim/PRSFX- Stealth Rocks.wav"
+dest_files=["res://.godot/imported/PRSFX- Stealth Rocks.wav-c8c9b1e1cf5fda9d8889b99ffcbc883f.sample"]
 
 [params]
 

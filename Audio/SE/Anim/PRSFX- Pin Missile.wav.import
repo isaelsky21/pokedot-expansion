@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://di0gtfv2k4v7d"
-path="res://.godot/imported/PRSFX- Pin Missile.wav-4eb89bf18859f54fa2603f4f1a154213.sample"
+path="res://.godot/imported/PRSFX- Pin Missile.wav-985b24e46bb39f5514397ce806f86bf2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Pin Missile.wav"
-dest_files=["res://.godot/imported/PRSFX- Pin Missile.wav-4eb89bf18859f54fa2603f4f1a154213.sample"]
+source_file="res://audio/se/anim/PRSFX- Pin Missile.wav"
+dest_files=["res://.godot/imported/PRSFX- Pin Missile.wav-985b24e46bb39f5514397ce806f86bf2.sample"]
 
 [params]
 

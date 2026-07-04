@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cghqtqk62oo70"
-path="res://.godot/imported/PRSFX- Liquidation2.wav-44b71ce9e809225c4a7a2519f0e75f26.sample"
+path="res://.godot/imported/PRSFX- Liquidation2.wav-cc011d3fe3c573a56f6c7263112b18ac.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Liquidation2.wav"
-dest_files=["res://.godot/imported/PRSFX- Liquidation2.wav-44b71ce9e809225c4a7a2519f0e75f26.sample"]
+source_file="res://audio/se/anim/PRSFX- Liquidation2.wav"
+dest_files=["res://.godot/imported/PRSFX- Liquidation2.wav-cc011d3fe3c573a56f6c7263112b18ac.sample"]
 
 [params]
 

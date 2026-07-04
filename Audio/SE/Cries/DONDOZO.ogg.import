@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cngujdfi8e1tp"
-path="res://.godot/imported/DONDOZO.ogg-f087e60620ca940320f0c433872868f2.oggvorbisstr"
+path="res://.godot/imported/DONDOZO.ogg-810b5c12ac179035caf6ddb51f6fce0d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DONDOZO.ogg"
-dest_files=["res://.godot/imported/DONDOZO.ogg-f087e60620ca940320f0c433872868f2.oggvorbisstr"]
+source_file="res://audio/se/cries/DONDOZO.ogg"
+dest_files=["res://.godot/imported/DONDOZO.ogg-810b5c12ac179035caf6ddb51f6fce0d.oggvorbisstr"]
 
 [params]
 

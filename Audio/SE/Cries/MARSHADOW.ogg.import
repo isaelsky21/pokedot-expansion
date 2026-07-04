@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cbrn528nrkwpp"
-path="res://.godot/imported/MARSHADOW.ogg-6cebc0f48ac69160a38c16ebece69628.oggvorbisstr"
+path="res://.godot/imported/MARSHADOW.ogg-09c01dd6ee73d4f15983c70d41684cff.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MARSHADOW.ogg"
-dest_files=["res://.godot/imported/MARSHADOW.ogg-6cebc0f48ac69160a38c16ebece69628.oggvorbisstr"]
+source_file="res://audio/se/cries/MARSHADOW.ogg"
+dest_files=["res://.godot/imported/MARSHADOW.ogg-09c01dd6ee73d4f15983c70d41684cff.oggvorbisstr"]
 
 [params]
 

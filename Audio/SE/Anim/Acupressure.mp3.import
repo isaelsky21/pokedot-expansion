@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://da7ukhprdhfy3"
-path="res://.godot/imported/Acupressure.mp3-45f7e10b8aa71466ea2fc9d3cc62081b.mp3str"
+path="res://.godot/imported/Acupressure.mp3-ec1eab8cb7cf72f78969bb524d508dac.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Acupressure.mp3"
-dest_files=["res://.godot/imported/Acupressure.mp3-45f7e10b8aa71466ea2fc9d3cc62081b.mp3str"]
+source_file="res://audio/se/anim/Acupressure.mp3"
+dest_files=["res://.godot/imported/Acupressure.mp3-ec1eab8cb7cf72f78969bb524d508dac.mp3str"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cd7wi1aqg06bt"
-path="res://.godot/imported/DURALUDON_1.ogg-a32719025e78c7b207edf53e3a08bf4d.oggvorbisstr"
+path="res://.godot/imported/DURALUDON_1.ogg-6ce8106aedcfe2805f6589cb3c0066ef.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DURALUDON_1.ogg"
-dest_files=["res://.godot/imported/DURALUDON_1.ogg-a32719025e78c7b207edf53e3a08bf4d.oggvorbisstr"]
+source_file="res://audio/se/cries/DURALUDON_1.ogg"
+dest_files=["res://.godot/imported/DURALUDON_1.ogg-6ce8106aedcfe2805f6589cb3c0066ef.oggvorbisstr"]
 
 [params]
 

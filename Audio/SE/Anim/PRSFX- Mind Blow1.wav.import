@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dxqikoa47y5cn"
-path="res://.godot/imported/PRSFX- Mind Blow1.wav-49c828b8631076dc9d495d47710ff709.sample"
+path="res://.godot/imported/PRSFX- Mind Blow1.wav-142662ff9a7d0e4396263b8ad2023d44.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mind Blow1.wav"
-dest_files=["res://.godot/imported/PRSFX- Mind Blow1.wav-49c828b8631076dc9d495d47710ff709.sample"]
+source_file="res://audio/se/anim/PRSFX- Mind Blow1.wav"
+dest_files=["res://.godot/imported/PRSFX- Mind Blow1.wav-142662ff9a7d0e4396263b8ad2023d44.sample"]
 
 [params]
 

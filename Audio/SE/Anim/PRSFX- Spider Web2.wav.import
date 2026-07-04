@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cbfaub681a41m"
-path="res://.godot/imported/PRSFX- Spider Web2.wav-98098a2debe45100ea0f394ce6838127.sample"
+path="res://.godot/imported/PRSFX- Spider Web2.wav-2ac12a78eaa2efe76907f17757e84af7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spider Web2.wav"
-dest_files=["res://.godot/imported/PRSFX- Spider Web2.wav-98098a2debe45100ea0f394ce6838127.sample"]
+source_file="res://audio/se/anim/PRSFX- Spider Web2.wav"
+dest_files=["res://.godot/imported/PRSFX- Spider Web2.wav-2ac12a78eaa2efe76907f17757e84af7.sample"]
 
 [params]
 

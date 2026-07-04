@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b6l5ba44unpgu"
-path="res://.godot/imported/PRSFX- Crafty Shield.wav-866419234aabb8037e1b937d5fda4423.sample"
+path="res://.godot/imported/PRSFX- Crafty Shield.wav-3ffc6d14a5c17987d8e384c05a3218f9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Crafty Shield.wav"
-dest_files=["res://.godot/imported/PRSFX- Crafty Shield.wav-866419234aabb8037e1b937d5fda4423.sample"]
+source_file="res://audio/se/anim/PRSFX- Crafty Shield.wav"
+dest_files=["res://.godot/imported/PRSFX- Crafty Shield.wav-3ffc6d14a5c17987d8e384c05a3218f9.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bfkfuf21sf4c3"
-path="res://.godot/imported/Yawn.ogg-db34130d2cb23b0e11e42408fba8f4d4.oggvorbisstr"
+path="res://.godot/imported/Yawn.ogg-63571f916986163d9b24f1c62525ac6c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Yawn.ogg"
-dest_files=["res://.godot/imported/Yawn.ogg-db34130d2cb23b0e11e42408fba8f4d4.oggvorbisstr"]
+source_file="res://audio/se/anim/Yawn.ogg"
+dest_files=["res://.godot/imported/Yawn.ogg-63571f916986163d9b24f1c62525ac6c.oggvorbisstr"]
 
 [params]
 

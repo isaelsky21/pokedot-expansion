@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://tnak4lhbklbi"]
 
-[ext_resource type="Script" uid="uid://bmqlhxedlfsd1" path="res://Data/Scripts/Map_data/MapManager.gd" id="1_bo3f6"]
-[ext_resource type="PackedScene" uid="uid://dscu4utur6muj" path="res://Data/Maps/PradoNatal/prado_natal.tscn" id="2_j2ovc"]
-[ext_resource type="PackedScene" uid="uid://bhqxgiq6shwq" path="res://Esenas/Overworld/Player_M/player_masculino.tscn" id="3_bvm1p"]
-[ext_resource type="Script" uid="uid://dqmp6cc4l7muk" path="res://Data/Scripts/Map_data/MapBoundsDebug.gd" id="3_j2ovc"]
+[ext_resource type="Script" uid="uid://bmqlhxedlfsd1" path="res://data/scripts/map_data/MapManager.gd" id="1_bo3f6"]
+[ext_resource type="PackedScene" uid="uid://dscu4utur6muj" path="res://data/maps/prado_natal/prado_natal.tscn" id="2_j2ovc"]
+[ext_resource type="PackedScene" uid="uid://bhqxgiq6shwq" path="res://scenes/overworld/player_m/male_player.tscn" id="3_bvm1p"]
+[ext_resource type="Script" uid="uid://dqmp6cc4l7muk" path="res://data/scripts/map_data/MapBoundsDebug.gd" id="3_j2ovc"]
 
 [node name="Overworld" type="Node2D" unique_id=1213820793]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dcl3rlf1reapq"
-path="res://.godot/imported/PRSFX- Ice Ball1.wav-f77a9497ac9cb93fb2b72d240809c261.sample"
+path="res://.godot/imported/PRSFX- Ice Ball1.wav-140424303c0809b8df4678c8bd2e5d07.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ice Ball1.wav"
-dest_files=["res://.godot/imported/PRSFX- Ice Ball1.wav-f77a9497ac9cb93fb2b72d240809c261.sample"]
+source_file="res://audio/se/anim/PRSFX- Ice Ball1.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Ball1.wav-140424303c0809b8df4678c8bd2e5d07.sample"]
 
 [params]
 

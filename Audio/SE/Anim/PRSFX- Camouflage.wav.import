@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cq3jq78t4a8o4"
-path="res://.godot/imported/PRSFX- Camouflage.wav-c3a3dc82c1f9b3884701a203f9c44e39.sample"
+path="res://.godot/imported/PRSFX- Camouflage.wav-af97c94f01c23ddbfe84cd893664eba8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Camouflage.wav"
-dest_files=["res://.godot/imported/PRSFX- Camouflage.wav-c3a3dc82c1f9b3884701a203f9c44e39.sample"]
+source_file="res://audio/se/anim/PRSFX- Camouflage.wav"
+dest_files=["res://.godot/imported/PRSFX- Camouflage.wav-af97c94f01c23ddbfe84cd893664eba8.sample"]
 
 [params]
 

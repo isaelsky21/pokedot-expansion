@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b6ghwwhc0or8j"
-path="res://.godot/imported/PRSFX- Ice Fang1.wav-b61ca262291e6d2f714f449c44c6a96e.sample"
+path="res://.godot/imported/PRSFX- Ice Fang1.wav-32f79378efe560abd3399cfd91d5984f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ice Fang1.wav"
-dest_files=["res://.godot/imported/PRSFX- Ice Fang1.wav-b61ca262291e6d2f714f449c44c6a96e.sample"]
+source_file="res://audio/se/anim/PRSFX- Ice Fang1.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Fang1.wav-32f79378efe560abd3399cfd91d5984f.sample"]
 
 [params]
 

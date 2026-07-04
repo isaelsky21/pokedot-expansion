@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://8gac27xfjhw5"
-path="res://.godot/imported/MAREEP.ogg-5c3843039617e7422b82448144935934.oggvorbisstr"
+path="res://.godot/imported/MAREEP.ogg-ccc126f86ac96bfea981b38d741a11cc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAREEP.ogg"
-dest_files=["res://.godot/imported/MAREEP.ogg-5c3843039617e7422b82448144935934.oggvorbisstr"]
+source_file="res://audio/se/cries/MAREEP.ogg"
+dest_files=["res://.godot/imported/MAREEP.ogg-ccc126f86ac96bfea981b38d741a11cc.oggvorbisstr"]
 
 [params]
 

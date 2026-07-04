@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b3cmux4im7g1a"
-path="res://.godot/imported/FLAPPLE.ogg-a5c62985039ff354eebf8d9a39395343.oggvorbisstr"
+path="res://.godot/imported/FLAPPLE.ogg-d376a1a43c579462b094e7d38b3d4fa8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLAPPLE.ogg"
-dest_files=["res://.godot/imported/FLAPPLE.ogg-a5c62985039ff354eebf8d9a39395343.oggvorbisstr"]
+source_file="res://audio/se/cries/FLAPPLE.ogg"
+dest_files=["res://.godot/imported/FLAPPLE.ogg-d376a1a43c579462b094e7d38b3d4fa8.oggvorbisstr"]
 
 [params]
 

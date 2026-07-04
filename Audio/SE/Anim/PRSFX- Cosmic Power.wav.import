@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://vqlunwbycvg4"
-path="res://.godot/imported/PRSFX- Cosmic Power.wav-13cf3d412e1478c873dafb66f35fd49a.sample"
+path="res://.godot/imported/PRSFX- Cosmic Power.wav-b209b0e97ee1ed06daf7807254c6db8f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Cosmic Power.wav"
-dest_files=["res://.godot/imported/PRSFX- Cosmic Power.wav-13cf3d412e1478c873dafb66f35fd49a.sample"]
+source_file="res://audio/se/anim/PRSFX- Cosmic Power.wav"
+dest_files=["res://.godot/imported/PRSFX- Cosmic Power.wav-b209b0e97ee1ed06daf7807254c6db8f.sample"]
 
 [params]
 

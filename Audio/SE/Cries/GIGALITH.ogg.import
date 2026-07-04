@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cligw5j60alnq"
-path="res://.godot/imported/GIGALITH.ogg-14c9491702923849c00e1d088250822a.oggvorbisstr"
+path="res://.godot/imported/GIGALITH.ogg-344f96d113af340969585e717141cc7e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GIGALITH.ogg"
-dest_files=["res://.godot/imported/GIGALITH.ogg-14c9491702923849c00e1d088250822a.oggvorbisstr"]
+source_file="res://audio/se/cries/GIGALITH.ogg"
+dest_files=["res://.godot/imported/GIGALITH.ogg-344f96d113af340969585e717141cc7e.oggvorbisstr"]
 
 [params]
 

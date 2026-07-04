@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://blktok7e0repg"
-path="res://.godot/imported/PRSFX- Mirror Shatter.wav-1cbbf304284194af6a774ecdc827a9ee.sample"
+path="res://.godot/imported/PRSFX- Mirror Shatter.wav-c70a91f0649401b5f2652062411bf977.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mirror Shatter.wav"
-dest_files=["res://.godot/imported/PRSFX- Mirror Shatter.wav-1cbbf304284194af6a774ecdc827a9ee.sample"]
+source_file="res://audio/se/anim/PRSFX- Mirror Shatter.wav"
+dest_files=["res://.godot/imported/PRSFX- Mirror Shatter.wav-c70a91f0649401b5f2652062411bf977.sample"]
 
 [params]
 

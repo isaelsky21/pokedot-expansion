@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c4iq66l7wc0dd"
-path="res://.godot/imported/PRSFX- Defense Curl2.wav-680706dcd33e10b9824b708847d0af28.sample"
+path="res://.godot/imported/PRSFX- Defense Curl2.wav-4d5fa305ce8eecc7e0b65aa9b7fa5917.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Defense Curl2.wav"
-dest_files=["res://.godot/imported/PRSFX- Defense Curl2.wav-680706dcd33e10b9824b708847d0af28.sample"]
+source_file="res://audio/se/anim/PRSFX- Defense Curl2.wav"
+dest_files=["res://.godot/imported/PRSFX- Defense Curl2.wav-4d5fa305ce8eecc7e0b65aa9b7fa5917.sample"]
 
 [params]
 

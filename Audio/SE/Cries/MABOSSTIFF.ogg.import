@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bvcf10c6eba4w"
-path="res://.godot/imported/MABOSSTIFF.ogg-df233a7b4d561b64c5843dfd4bf2910f.oggvorbisstr"
+path="res://.godot/imported/MABOSSTIFF.ogg-5c2f88769de4846d989f5a016c8db2da.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MABOSSTIFF.ogg"
-dest_files=["res://.godot/imported/MABOSSTIFF.ogg-df233a7b4d561b64c5843dfd4bf2910f.oggvorbisstr"]
+source_file="res://audio/se/cries/MABOSSTIFF.ogg"
+dest_files=["res://.godot/imported/MABOSSTIFF.ogg-5c2f88769de4846d989f5a016c8db2da.oggvorbisstr"]
 
 [params]
 

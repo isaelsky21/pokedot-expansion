@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c6lc5akwpux06"
-path="res://.godot/imported/PRSFX- Power Trick.wav-6df74da5bdae1471a7cf84fb3c362260.sample"
+path="res://.godot/imported/PRSFX- Power Trick.wav-4184240585bd3424337ec994befcfd02.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Power Trick.wav"
-dest_files=["res://.godot/imported/PRSFX- Power Trick.wav-6df74da5bdae1471a7cf84fb3c362260.sample"]
+source_file="res://audio/se/anim/PRSFX- Power Trick.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Trick.wav-4184240585bd3424337ec994befcfd02.sample"]
 
 [params]
 

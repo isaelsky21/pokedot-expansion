@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b2klskd2yvm85"
-path="res://.godot/imported/PRSFX- Shore Up.wav-265474dc690816a01b87d6ce6475d680.sample"
+path="res://.godot/imported/PRSFX- Shore Up.wav-8fb7e3c489b8b470359d68e246176d13.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shore Up.wav"
-dest_files=["res://.godot/imported/PRSFX- Shore Up.wav-265474dc690816a01b87d6ce6475d680.sample"]
+source_file="res://audio/se/anim/PRSFX- Shore Up.wav"
+dest_files=["res://.godot/imported/PRSFX- Shore Up.wav-8fb7e3c489b8b470359d68e246176d13.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cemlfokt1ehn7"
-path="res://.godot/imported/SEALEO.ogg-4d67711a10a96e6eaa2f01fa520414e3.oggvorbisstr"
+path="res://.godot/imported/SEALEO.ogg-5bc282fc90c11620bb5517f917526f2a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SEALEO.ogg"
-dest_files=["res://.godot/imported/SEALEO.ogg-4d67711a10a96e6eaa2f01fa520414e3.oggvorbisstr"]
+source_file="res://audio/se/cries/SEALEO.ogg"
+dest_files=["res://.godot/imported/SEALEO.ogg-5bc282fc90c11620bb5517f917526f2a.oggvorbisstr"]
 
 [params]
 

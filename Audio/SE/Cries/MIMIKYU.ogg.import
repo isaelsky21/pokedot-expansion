@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dmbsbgu0m2pw4"
-path="res://.godot/imported/MIMIKYU.ogg-51eb66aa5dc50bd921a8d86622dda0cf.oggvorbisstr"
+path="res://.godot/imported/MIMIKYU.ogg-de8eba90fa3af9a5a01298b2de9047fd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MIMIKYU.ogg"
-dest_files=["res://.godot/imported/MIMIKYU.ogg-51eb66aa5dc50bd921a8d86622dda0cf.oggvorbisstr"]
+source_file="res://audio/se/cries/MIMIKYU.ogg"
+dest_files=["res://.godot/imported/MIMIKYU.ogg-de8eba90fa3af9a5a01298b2de9047fd.oggvorbisstr"]
 
 [params]
 

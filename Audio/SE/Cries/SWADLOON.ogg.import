@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bujwyx0hi5g1j"
-path="res://.godot/imported/SWADLOON.ogg-8ec333836bb12e22be1b08fe66e41d94.oggvorbisstr"
+path="res://.godot/imported/SWADLOON.ogg-76ffe1dbe4be73c71cf2f148e449dcdf.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SWADLOON.ogg"
-dest_files=["res://.godot/imported/SWADLOON.ogg-8ec333836bb12e22be1b08fe66e41d94.oggvorbisstr"]
+source_file="res://audio/se/cries/SWADLOON.ogg"
+dest_files=["res://.godot/imported/SWADLOON.ogg-76ffe1dbe4be73c71cf2f148e449dcdf.oggvorbisstr"]
 
 [params]
 

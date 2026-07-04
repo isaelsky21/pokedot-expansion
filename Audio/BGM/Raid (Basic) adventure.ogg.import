@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dmrl7ywf7nwix"
-path="res://.godot/imported/Raid (Basic) adventure.ogg-4535829eec3d0354d9c4af96912f5387.oggvorbisstr"
+path="res://.godot/imported/Raid (Basic) adventure.ogg-b0446b4a42e4a6e9075b0339674208f7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/BGM/Raid (Basic) adventure.ogg"
-dest_files=["res://.godot/imported/Raid (Basic) adventure.ogg-4535829eec3d0354d9c4af96912f5387.oggvorbisstr"]
+source_file="res://audio/bgm/Raid (Basic) adventure.ogg"
+dest_files=["res://.godot/imported/Raid (Basic) adventure.ogg-b0446b4a42e4a6e9075b0339674208f7.oggvorbisstr"]
 
 [params]
 

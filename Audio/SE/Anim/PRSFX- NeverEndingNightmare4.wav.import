@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://grtbgxjb0qnh"
-path="res://.godot/imported/PRSFX- NeverEndingNightmare4.wav-db91d29a6a4e09cd7f331193f8d08193.sample"
+path="res://.godot/imported/PRSFX- NeverEndingNightmare4.wav-14699bb6c9db80172316b709b184f2ab.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- NeverEndingNightmare4.wav"
-dest_files=["res://.godot/imported/PRSFX- NeverEndingNightmare4.wav-db91d29a6a4e09cd7f331193f8d08193.sample"]
+source_file="res://audio/se/anim/PRSFX- NeverEndingNightmare4.wav"
+dest_files=["res://.godot/imported/PRSFX- NeverEndingNightmare4.wav-14699bb6c9db80172316b709b184f2ab.sample"]
 
 [params]
 

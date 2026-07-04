@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://hqp04482g0gv"
-path="res://.godot/imported/COFAGRIGUS.ogg-10dc2ec6926d01ff3e51bb3a72b0c7d5.oggvorbisstr"
+path="res://.godot/imported/COFAGRIGUS.ogg-c192c79515f76306cc263d0a4581c3df.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/COFAGRIGUS.ogg"
-dest_files=["res://.godot/imported/COFAGRIGUS.ogg-10dc2ec6926d01ff3e51bb3a72b0c7d5.oggvorbisstr"]
+source_file="res://audio/se/cries/COFAGRIGUS.ogg"
+dest_files=["res://.godot/imported/COFAGRIGUS.ogg-c192c79515f76306cc263d0a4581c3df.oggvorbisstr"]
 
 [params]
 

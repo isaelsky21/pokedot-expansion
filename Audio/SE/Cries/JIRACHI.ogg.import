@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://26ct2ojrhhxk"
-path="res://.godot/imported/JIRACHI.ogg-af5efeef7abcf08479d38a89261e4f8a.oggvorbisstr"
+path="res://.godot/imported/JIRACHI.ogg-a7630568774c996a9b7d40e2b9505b97.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/JIRACHI.ogg"
-dest_files=["res://.godot/imported/JIRACHI.ogg-af5efeef7abcf08479d38a89261e4f8a.oggvorbisstr"]
+source_file="res://audio/se/cries/JIRACHI.ogg"
+dest_files=["res://.godot/imported/JIRACHI.ogg-a7630568774c996a9b7d40e2b9505b97.oggvorbisstr"]
 
 [params]
 

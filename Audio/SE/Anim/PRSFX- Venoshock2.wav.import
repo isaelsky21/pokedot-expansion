@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://gj8g8ersyspj"
-path="res://.godot/imported/PRSFX- Venoshock2.wav-5dc4271d15cb131af38f6daf11afc1c9.sample"
+path="res://.godot/imported/PRSFX- Venoshock2.wav-0cd5b68d591cd7da7f5dcc3998431167.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Venoshock2.wav"
-dest_files=["res://.godot/imported/PRSFX- Venoshock2.wav-5dc4271d15cb131af38f6daf11afc1c9.sample"]
+source_file="res://audio/se/anim/PRSFX- Venoshock2.wav"
+dest_files=["res://.godot/imported/PRSFX- Venoshock2.wav-0cd5b68d591cd7da7f5dcc3998431167.sample"]
 
 [params]
 

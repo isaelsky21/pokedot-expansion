@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ceaprk47ggru1"
-path="res://.godot/imported/Battle low HP.ogg-bef8cb047bdc8588243b0dd860e1c410.oggvorbisstr"
+path="res://.godot/imported/Battle low HP.ogg-d92b320cab518ea063aaa1409d4eadde.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle low HP.ogg"
-dest_files=["res://.godot/imported/Battle low HP.ogg-bef8cb047bdc8588243b0dd860e1c410.oggvorbisstr"]
+source_file="res://audio/bgm/Battle low HP.ogg"
+dest_files=["res://.godot/imported/Battle low HP.ogg-d92b320cab518ea063aaa1409d4eadde.oggvorbisstr"]
 
 [params]
 

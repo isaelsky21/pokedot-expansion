@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://v7vt481rpfmy"
-path="res://.godot/imported/PRSFX- ShadowBone1.wav-896a7d72fea8e22083905be4602ab889.sample"
+path="res://.godot/imported/PRSFX- ShadowBone1.wav-d510063df2fd366dcd6371f50dfe4858.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- ShadowBone1.wav"
-dest_files=["res://.godot/imported/PRSFX- ShadowBone1.wav-896a7d72fea8e22083905be4602ab889.sample"]
+source_file="res://audio/se/anim/PRSFX- ShadowBone1.wav"
+dest_files=["res://.godot/imported/PRSFX- ShadowBone1.wav-d510063df2fd366dcd6371f50dfe4858.sample"]
 
 [params]
 

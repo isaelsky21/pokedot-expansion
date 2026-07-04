@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b5jyocug0wkig"
-path="res://.godot/imported/GOTHITA.ogg-1712874a5c22a29e6ea4492698bb2f81.oggvorbisstr"
+path="res://.godot/imported/GOTHITA.ogg-e0da4b8f10418437247972500ddccd9e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOTHITA.ogg"
-dest_files=["res://.godot/imported/GOTHITA.ogg-1712874a5c22a29e6ea4492698bb2f81.oggvorbisstr"]
+source_file="res://audio/se/cries/GOTHITA.ogg"
+dest_files=["res://.godot/imported/GOTHITA.ogg-e0da4b8f10418437247972500ddccd9e.oggvorbisstr"]
 
 [params]
 

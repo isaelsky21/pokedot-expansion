@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bpcp2s8amxedv"
-path="res://.godot/imported/PRSFX- Magma Storm2.wav-997ac81d3db250d9872b3a8e09dfb6f9.sample"
+path="res://.godot/imported/PRSFX- Magma Storm2.wav-bd76c932ff24b0832a0732a74b78ef5c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Magma Storm2.wav"
-dest_files=["res://.godot/imported/PRSFX- Magma Storm2.wav-997ac81d3db250d9872b3a8e09dfb6f9.sample"]
+source_file="res://audio/se/anim/PRSFX- Magma Storm2.wav"
+dest_files=["res://.godot/imported/PRSFX- Magma Storm2.wav-bd76c932ff24b0832a0732a74b78ef5c.sample"]
 
 [params]
 

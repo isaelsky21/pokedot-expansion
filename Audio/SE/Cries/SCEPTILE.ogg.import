@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgp4wox6u40d0"
-path="res://.godot/imported/SCEPTILE.ogg-f3edd0f73461ec76e36bb72df7fbf181.oggvorbisstr"
+path="res://.godot/imported/SCEPTILE.ogg-42827af887ace8f02793389440706de0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SCEPTILE.ogg"
-dest_files=["res://.godot/imported/SCEPTILE.ogg-f3edd0f73461ec76e36bb72df7fbf181.oggvorbisstr"]
+source_file="res://audio/se/cries/SCEPTILE.ogg"
+dest_files=["res://.godot/imported/SCEPTILE.ogg-42827af887ace8f02793389440706de0.oggvorbisstr"]
 
 [params]
 

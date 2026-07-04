@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dmtgaln4mrfyf"
-path="res://.godot/imported/Dizzy Punch.mp3-a2f8bf9f6dbfb5ebc6cc97a2b65fce02.mp3str"
+path="res://.godot/imported/Dizzy Punch.mp3-25ebc29b75cf5b334cf7b36c6bf21a91.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Dizzy Punch.mp3"
-dest_files=["res://.godot/imported/Dizzy Punch.mp3-a2f8bf9f6dbfb5ebc6cc97a2b65fce02.mp3str"]
+source_file="res://audio/se/anim/Dizzy Punch.mp3"
+dest_files=["res://.godot/imported/Dizzy Punch.mp3-25ebc29b75cf5b334cf7b36c6bf21a91.mp3str"]
 
 [params]
 

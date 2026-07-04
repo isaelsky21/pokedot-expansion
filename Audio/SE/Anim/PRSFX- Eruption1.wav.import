@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://djkx1qagk03aj"
-path="res://.godot/imported/PRSFX- Eruption1.wav-941f672aaf151ba1780bf19f9f410730.sample"
+path="res://.godot/imported/PRSFX- Eruption1.wav-0bbc2408e45f4eb2f5ef492fc53eee9c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Eruption1.wav"
-dest_files=["res://.godot/imported/PRSFX- Eruption1.wav-941f672aaf151ba1780bf19f9f410730.sample"]
+source_file="res://audio/se/anim/PRSFX- Eruption1.wav"
+dest_files=["res://.godot/imported/PRSFX- Eruption1.wav-0bbc2408e45f4eb2f5ef492fc53eee9c.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dra1hf4anhdyo"
-path="res://.godot/imported/SCOLIPEDE.ogg-05556366b4fd89a962f2fe176901eaa3.oggvorbisstr"
+path="res://.godot/imported/SCOLIPEDE.ogg-9d8a73276261a9e682ade8a769bd7bce.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SCOLIPEDE.ogg"
-dest_files=["res://.godot/imported/SCOLIPEDE.ogg-05556366b4fd89a962f2fe176901eaa3.oggvorbisstr"]
+source_file="res://audio/se/cries/SCOLIPEDE.ogg"
+dest_files=["res://.godot/imported/SCOLIPEDE.ogg-9d8a73276261a9e682ade8a769bd7bce.oggvorbisstr"]
 
 [params]
 

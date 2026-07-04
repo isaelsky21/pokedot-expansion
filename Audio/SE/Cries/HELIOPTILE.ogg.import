@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ef2ixgl57d5g"
-path="res://.godot/imported/HELIOPTILE.ogg-eb03321c756837982a3d8163cf170add.oggvorbisstr"
+path="res://.godot/imported/HELIOPTILE.ogg-cc7701774a36f431a6cc13a63b3dcea8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HELIOPTILE.ogg"
-dest_files=["res://.godot/imported/HELIOPTILE.ogg-eb03321c756837982a3d8163cf170add.oggvorbisstr"]
+source_file="res://audio/se/cries/HELIOPTILE.ogg"
+dest_files=["res://.godot/imported/HELIOPTILE.ogg-cc7701774a36f431a6cc13a63b3dcea8.oggvorbisstr"]
 
 [params]
 

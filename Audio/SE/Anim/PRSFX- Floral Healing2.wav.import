@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://orvuq5nsaom3"
-path="res://.godot/imported/PRSFX- Floral Healing2.wav-db82f274cb178cdf3ec2d4a1ceb73970.sample"
+path="res://.godot/imported/PRSFX- Floral Healing2.wav-a35f34aec0ad4455df5bc99816ee9f6c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Floral Healing2.wav"
-dest_files=["res://.godot/imported/PRSFX- Floral Healing2.wav-db82f274cb178cdf3ec2d4a1ceb73970.sample"]
+source_file="res://audio/se/anim/PRSFX- Floral Healing2.wav"
+dest_files=["res://.godot/imported/PRSFX- Floral Healing2.wav-a35f34aec0ad4455df5bc99816ee9f6c.sample"]
 
 [params]
 

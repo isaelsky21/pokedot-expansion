@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bb6y484sb7d6d"
-path="res://.godot/imported/REUNICLUS.ogg-8aeaf7b6793875763e1e83cbb6f751b9.oggvorbisstr"
+path="res://.godot/imported/REUNICLUS.ogg-e8b030e9d21566eda397b0dd9ed7bf7b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/REUNICLUS.ogg"
-dest_files=["res://.godot/imported/REUNICLUS.ogg-8aeaf7b6793875763e1e83cbb6f751b9.oggvorbisstr"]
+source_file="res://audio/se/cries/REUNICLUS.ogg"
+dest_files=["res://.godot/imported/REUNICLUS.ogg-e8b030e9d21566eda397b0dd9ed7bf7b.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d4ao5xwfh0bsm"
-path="res://.godot/imported/RAYQUAZA.ogg-8996a539e12addbf298b1219fbee0e5e.oggvorbisstr"
+path="res://.godot/imported/RAYQUAZA.ogg-8dbdf89833c90965f2f2ec9a04581f7b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RAYQUAZA.ogg"
-dest_files=["res://.godot/imported/RAYQUAZA.ogg-8996a539e12addbf298b1219fbee0e5e.oggvorbisstr"]
+source_file="res://audio/se/cries/RAYQUAZA.ogg"
+dest_files=["res://.godot/imported/RAYQUAZA.ogg-8dbdf89833c90965f2f2ec9a04581f7b.oggvorbisstr"]
 
 [params]
 

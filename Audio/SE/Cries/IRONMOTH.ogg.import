@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d4jkadv7xdkve"
-path="res://.godot/imported/IRONMOTH.ogg-b724d95579fc9a1ff91d8ade29c07001.oggvorbisstr"
+path="res://.godot/imported/IRONMOTH.ogg-c354491bfc14764f93a8a38edf887642.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/IRONMOTH.ogg"
-dest_files=["res://.godot/imported/IRONMOTH.ogg-b724d95579fc9a1ff91d8ade29c07001.oggvorbisstr"]
+source_file="res://audio/se/cries/IRONMOTH.ogg"
+dest_files=["res://.godot/imported/IRONMOTH.ogg-c354491bfc14764f93a8a38edf887642.oggvorbisstr"]
 
 [params]
 

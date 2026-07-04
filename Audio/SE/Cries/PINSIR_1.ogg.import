@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://khmankws0aoq"
-path="res://.godot/imported/PINSIR_1.ogg-900bfd40c4c50791c152d91ef8009352.oggvorbisstr"
+path="res://.godot/imported/PINSIR_1.ogg-078759f2dec0a7bfc024c5cae91c7888.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PINSIR_1.ogg"
-dest_files=["res://.godot/imported/PINSIR_1.ogg-900bfd40c4c50791c152d91ef8009352.oggvorbisstr"]
+source_file="res://audio/se/cries/PINSIR_1.ogg"
+dest_files=["res://.godot/imported/PINSIR_1.ogg-078759f2dec0a7bfc024c5cae91c7888.oggvorbisstr"]
 
 [params]
 

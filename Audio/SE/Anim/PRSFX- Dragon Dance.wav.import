@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bef178q4n3r3c"
-path="res://.godot/imported/PRSFX- Dragon Dance.wav-3d1429a7a690409804a378b5a3b9b377.sample"
+path="res://.godot/imported/PRSFX- Dragon Dance.wav-1e921ce74050431e1962d8b6ac3288af.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dragon Dance.wav"
-dest_files=["res://.godot/imported/PRSFX- Dragon Dance.wav-3d1429a7a690409804a378b5a3b9b377.sample"]
+source_file="res://audio/se/anim/PRSFX- Dragon Dance.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Dance.wav-1e921ce74050431e1962d8b6ac3288af.sample"]
 
 [params]
 

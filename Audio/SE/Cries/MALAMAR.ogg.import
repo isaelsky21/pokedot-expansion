@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bu2pp32ox0r8l"
-path="res://.godot/imported/MALAMAR.ogg-c570c8fe0686b519786779570577687f.oggvorbisstr"
+path="res://.godot/imported/MALAMAR.ogg-3e2072bc60c83bbd25f481c9f2925b33.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MALAMAR.ogg"
-dest_files=["res://.godot/imported/MALAMAR.ogg-c570c8fe0686b519786779570577687f.oggvorbisstr"]
+source_file="res://audio/se/cries/MALAMAR.ogg"
+dest_files=["res://.godot/imported/MALAMAR.ogg-3e2072bc60c83bbd25f481c9f2925b33.oggvorbisstr"]
 
 [params]
 

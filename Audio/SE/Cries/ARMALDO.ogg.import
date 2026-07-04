@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ca03spnwlp3ap"
-path="res://.godot/imported/ARMALDO.ogg-ddc6465267d5c3887ceb6a716f194bd8.oggvorbisstr"
+path="res://.godot/imported/ARMALDO.ogg-d6c78e0654098fd01985034e4aa3e5b0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARMALDO.ogg"
-dest_files=["res://.godot/imported/ARMALDO.ogg-ddc6465267d5c3887ceb6a716f194bd8.oggvorbisstr"]
+source_file="res://audio/se/cries/ARMALDO.ogg"
+dest_files=["res://.godot/imported/ARMALDO.ogg-d6c78e0654098fd01985034e4aa3e5b0.oggvorbisstr"]
 
 [params]
 

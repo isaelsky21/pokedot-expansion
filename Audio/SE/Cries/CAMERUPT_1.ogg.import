@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://yexaics2sor8"
-path="res://.godot/imported/CAMERUPT_1.ogg-0165623835b48a07cefd627df0f28c3a.oggvorbisstr"
+path="res://.godot/imported/CAMERUPT_1.ogg-2d6acc3a0d1608fb6f92e6fdb81acc36.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CAMERUPT_1.ogg"
-dest_files=["res://.godot/imported/CAMERUPT_1.ogg-0165623835b48a07cefd627df0f28c3a.oggvorbisstr"]
+source_file="res://audio/se/cries/CAMERUPT_1.ogg"
+dest_files=["res://.godot/imported/CAMERUPT_1.ogg-2d6acc3a0d1608fb6f92e6fdb81acc36.oggvorbisstr"]
 
 [params]
 

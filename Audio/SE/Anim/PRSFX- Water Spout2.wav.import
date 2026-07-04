@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://458p80u5lvg4"
-path="res://.godot/imported/PRSFX- Water Spout2.wav-8f85c8b61c5816431430b0ed7a5c24f4.sample"
+path="res://.godot/imported/PRSFX- Water Spout2.wav-5e73a8c3f10468ba636ab5847f87ab6c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Water Spout2.wav"
-dest_files=["res://.godot/imported/PRSFX- Water Spout2.wav-8f85c8b61c5816431430b0ed7a5c24f4.sample"]
+source_file="res://audio/se/anim/PRSFX- Water Spout2.wav"
+dest_files=["res://.godot/imported/PRSFX- Water Spout2.wav-5e73a8c3f10468ba636ab5847f87ab6c.sample"]
 
 [params]
 

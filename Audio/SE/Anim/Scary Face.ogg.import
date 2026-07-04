@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b1m0s1x3pvkye"
-path="res://.godot/imported/Scary Face.ogg-f743a9f0499629cc05cfb6fd29818423.oggvorbisstr"
+path="res://.godot/imported/Scary Face.ogg-8e006e6e7bafcdbaba4aa3aa4fd0f1a8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Scary Face.ogg"
-dest_files=["res://.godot/imported/Scary Face.ogg-f743a9f0499629cc05cfb6fd29818423.oggvorbisstr"]
+source_file="res://audio/se/anim/Scary Face.ogg"
+dest_files=["res://.godot/imported/Scary Face.ogg-8e006e6e7bafcdbaba4aa3aa4fd0f1a8.oggvorbisstr"]
 
 [params]
 

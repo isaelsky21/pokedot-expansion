@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bamvqh11h5fn2"
-path="res://.godot/imported/PRSFX- Wing Attack1.wav-83f79259f0d22d69e6152f6f217e376f.sample"
+path="res://.godot/imported/PRSFX- Wing Attack1.wav-214b35f2a2b18154a41a8b34793e77f6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Wing Attack1.wav"
-dest_files=["res://.godot/imported/PRSFX- Wing Attack1.wav-83f79259f0d22d69e6152f6f217e376f.sample"]
+source_file="res://audio/se/anim/PRSFX- Wing Attack1.wav"
+dest_files=["res://.godot/imported/PRSFX- Wing Attack1.wav-214b35f2a2b18154a41a8b34793e77f6.sample"]
 
 [params]
 

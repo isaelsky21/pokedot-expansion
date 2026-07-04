@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ypod2jewkwql"
-path="res://.godot/imported/FENNEKIN.ogg-dedd3bad5571b89375a0d4f8735a7fb0.oggvorbisstr"
+path="res://.godot/imported/FENNEKIN.ogg-cdb13399b468d53e1abc99f2e869a1c7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FENNEKIN.ogg"
-dest_files=["res://.godot/imported/FENNEKIN.ogg-dedd3bad5571b89375a0d4f8735a7fb0.oggvorbisstr"]
+source_file="res://audio/se/cries/FENNEKIN.ogg"
+dest_files=["res://.godot/imported/FENNEKIN.ogg-cdb13399b468d53e1abc99f2e869a1c7.oggvorbisstr"]
 
 [params]
 

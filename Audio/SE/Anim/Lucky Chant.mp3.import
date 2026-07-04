@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://b5leqw2gs380b"
-path="res://.godot/imported/Lucky Chant.mp3-53b8009501ac7cf017527e4cfc63e0e3.mp3str"
+path="res://.godot/imported/Lucky Chant.mp3-dd79ecbae2b1a8b24fc9570250f67b2a.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Lucky Chant.mp3"
-dest_files=["res://.godot/imported/Lucky Chant.mp3-53b8009501ac7cf017527e4cfc63e0e3.mp3str"]
+source_file="res://audio/se/anim/Lucky Chant.mp3"
+dest_files=["res://.godot/imported/Lucky Chant.mp3-dd79ecbae2b1a8b24fc9570250f67b2a.mp3str"]
 
 [params]
 

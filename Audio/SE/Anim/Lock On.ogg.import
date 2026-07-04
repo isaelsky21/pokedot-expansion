@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6468qs5rpvuu"
-path="res://.godot/imported/Lock On.ogg-a16d57ffe391f3885051b83c5422f278.oggvorbisstr"
+path="res://.godot/imported/Lock On.ogg-53b5911da19817a9ee0c629d7288599d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Lock On.ogg"
-dest_files=["res://.godot/imported/Lock On.ogg-a16d57ffe391f3885051b83c5422f278.oggvorbisstr"]
+source_file="res://audio/se/anim/Lock On.ogg"
+dest_files=["res://.godot/imported/Lock On.ogg-53b5911da19817a9ee0c629d7288599d.oggvorbisstr"]
 
 [params]
 

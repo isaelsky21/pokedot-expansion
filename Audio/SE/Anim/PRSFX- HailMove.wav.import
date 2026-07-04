@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://co4g1qdwhgl3"
-path="res://.godot/imported/PRSFX- HailMove.wav-fa040c25fd42ad36ac842b668759a194.sample"
+path="res://.godot/imported/PRSFX- HailMove.wav-a683d9709adb141d35cb1989344d4356.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- HailMove.wav"
-dest_files=["res://.godot/imported/PRSFX- HailMove.wav-fa040c25fd42ad36ac842b668759a194.sample"]
+source_file="res://audio/se/anim/PRSFX- HailMove.wav"
+dest_files=["res://.godot/imported/PRSFX- HailMove.wav-a683d9709adb141d35cb1989344d4356.sample"]
 
 [params]
 

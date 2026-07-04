@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bj1w88yakh8jc"
-path="res://.godot/imported/PRSFX- Fake Tears.wav-080f34f6e496cbbe23555371a626d09a.sample"
+path="res://.godot/imported/PRSFX- Fake Tears.wav-300d51c37ce93ae7a9e4d5fb2a3bd909.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fake Tears.wav"
-dest_files=["res://.godot/imported/PRSFX- Fake Tears.wav-080f34f6e496cbbe23555371a626d09a.sample"]
+source_file="res://audio/se/anim/PRSFX- Fake Tears.wav"
+dest_files=["res://.godot/imported/PRSFX- Fake Tears.wav-300d51c37ce93ae7a9e4d5fb2a3bd909.sample"]
 
 [params]
 

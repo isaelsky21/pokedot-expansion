@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dfuokuu88jdua"
-path="res://.godot/imported/PRSFX- Volt Switch2.wav-11e88aa4650bb58441fb6ab3dd27a41f.sample"
+path="res://.godot/imported/PRSFX- Volt Switch2.wav-1aee3ce08c8995d5d2b1a4bcfdcdf319.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Volt Switch2.wav"
-dest_files=["res://.godot/imported/PRSFX- Volt Switch2.wav-11e88aa4650bb58441fb6ab3dd27a41f.sample"]
+source_file="res://audio/se/anim/PRSFX- Volt Switch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Volt Switch2.wav-1aee3ce08c8995d5d2b1a4bcfdcdf319.sample"]
 
 [params]
 

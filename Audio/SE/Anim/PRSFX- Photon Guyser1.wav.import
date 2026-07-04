@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b8un1ryisdekb"
-path="res://.godot/imported/PRSFX- Photon Guyser1.wav-c5fa6732f82c3f34d83fc91579f7dd7d.sample"
+path="res://.godot/imported/PRSFX- Photon Guyser1.wav-283414320bc1f1725035f204477e2dd9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Photon Guyser1.wav"
-dest_files=["res://.godot/imported/PRSFX- Photon Guyser1.wav-c5fa6732f82c3f34d83fc91579f7dd7d.sample"]
+source_file="res://audio/se/anim/PRSFX- Photon Guyser1.wav"
+dest_files=["res://.godot/imported/PRSFX- Photon Guyser1.wav-283414320bc1f1725035f204477e2dd9.sample"]
 
 [params]
 

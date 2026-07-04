@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dcja0oquibjpj"
-path="res://.godot/imported/PRSFX- Iron Head.wav-59d2d067d2507cf3e70931dff260b10c.sample"
+path="res://.godot/imported/PRSFX- Iron Head.wav-eba16a12ed167686765a7ac0e1a3be77.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Iron Head.wav"
-dest_files=["res://.godot/imported/PRSFX- Iron Head.wav-59d2d067d2507cf3e70931dff260b10c.sample"]
+source_file="res://audio/se/anim/PRSFX- Iron Head.wav"
+dest_files=["res://.godot/imported/PRSFX- Iron Head.wav-eba16a12ed167686765a7ac0e1a3be77.sample"]
 
 [params]
 

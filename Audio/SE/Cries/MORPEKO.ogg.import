@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dtfqghsmxvfy4"
-path="res://.godot/imported/MORPEKO.ogg-4dd482f6defbc4be3f92b8e68f006a6c.oggvorbisstr"
+path="res://.godot/imported/MORPEKO.ogg-d6cbc0b77312b6a753eb1fe51939eff4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MORPEKO.ogg"
-dest_files=["res://.godot/imported/MORPEKO.ogg-4dd482f6defbc4be3f92b8e68f006a6c.oggvorbisstr"]
+source_file="res://audio/se/cries/MORPEKO.ogg"
+dest_files=["res://.godot/imported/MORPEKO.ogg-d6cbc0b77312b6a753eb1fe51939eff4.oggvorbisstr"]
 
 [params]
 

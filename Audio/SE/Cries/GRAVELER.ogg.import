@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c4cv81aalfjks"
-path="res://.godot/imported/GRAVELER.ogg-5e3b6e975ec4315db5a161081fbe5724.oggvorbisstr"
+path="res://.godot/imported/GRAVELER.ogg-a0b0fcf5763f3d081d17f8e9afa22cf6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GRAVELER.ogg"
-dest_files=["res://.godot/imported/GRAVELER.ogg-5e3b6e975ec4315db5a161081fbe5724.oggvorbisstr"]
+source_file="res://audio/se/cries/GRAVELER.ogg"
+dest_files=["res://.godot/imported/GRAVELER.ogg-a0b0fcf5763f3d081d17f8e9afa22cf6.oggvorbisstr"]
 
 [params]
 

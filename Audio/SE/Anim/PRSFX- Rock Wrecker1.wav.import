@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bpdtstmdak7cb"
-path="res://.godot/imported/PRSFX- Rock Wrecker1.wav-28b0e6738ea0cfef9f6233e1aec6c8d3.sample"
+path="res://.godot/imported/PRSFX- Rock Wrecker1.wav-304b643b47a51f0bcf92bde478a830e4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rock Wrecker1.wav"
-dest_files=["res://.godot/imported/PRSFX- Rock Wrecker1.wav-28b0e6738ea0cfef9f6233e1aec6c8d3.sample"]
+source_file="res://audio/se/anim/PRSFX- Rock Wrecker1.wav"
+dest_files=["res://.godot/imported/PRSFX- Rock Wrecker1.wav-304b643b47a51f0bcf92bde478a830e4.sample"]
 
 [params]
 

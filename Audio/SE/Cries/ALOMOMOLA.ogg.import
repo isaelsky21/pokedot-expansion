@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cuylnht4i6r7p"
-path="res://.godot/imported/ALOMOMOLA.ogg-5ea2cba5d17b84ae55d69b856f3cc3b8.oggvorbisstr"
+path="res://.godot/imported/ALOMOMOLA.ogg-e713c50a80a97be4742da59f792dc5dc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ALOMOMOLA.ogg"
-dest_files=["res://.godot/imported/ALOMOMOLA.ogg-5ea2cba5d17b84ae55d69b856f3cc3b8.oggvorbisstr"]
+source_file="res://audio/se/cries/ALOMOMOLA.ogg"
+dest_files=["res://.godot/imported/ALOMOMOLA.ogg-e713c50a80a97be4742da59f792dc5dc.oggvorbisstr"]
 
 [params]
 

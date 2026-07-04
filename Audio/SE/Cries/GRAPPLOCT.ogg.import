@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cntvq55xaidc7"
-path="res://.godot/imported/GRAPPLOCT.ogg-5893e66b7199bb07a47ab6d74ad6766b.oggvorbisstr"
+path="res://.godot/imported/GRAPPLOCT.ogg-90723bb061a87b382d1e28139c38252a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GRAPPLOCT.ogg"
-dest_files=["res://.godot/imported/GRAPPLOCT.ogg-5893e66b7199bb07a47ab6d74ad6766b.oggvorbisstr"]
+source_file="res://audio/se/cries/GRAPPLOCT.ogg"
+dest_files=["res://.godot/imported/GRAPPLOCT.ogg-90723bb061a87b382d1e28139c38252a.oggvorbisstr"]
 
 [params]
 

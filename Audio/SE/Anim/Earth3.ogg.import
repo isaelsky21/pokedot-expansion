@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bmj5upa1eaud6"
-path="res://.godot/imported/Earth3.ogg-a54873df040e7c1db780459915c09e0d.oggvorbisstr"
+path="res://.godot/imported/Earth3.ogg-9a16c2eeb39e5782e763df612507ff82.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Earth3.ogg"
-dest_files=["res://.godot/imported/Earth3.ogg-a54873df040e7c1db780459915c09e0d.oggvorbisstr"]
+source_file="res://audio/se/anim/Earth3.ogg"
+dest_files=["res://.godot/imported/Earth3.ogg-9a16c2eeb39e5782e763df612507ff82.oggvorbisstr"]
 
 [params]
 

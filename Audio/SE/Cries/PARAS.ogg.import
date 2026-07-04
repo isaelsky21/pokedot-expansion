@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6wbo06msxkk"
-path="res://.godot/imported/PARAS.ogg-394e95e66d5dc4073c5660cbb96d2adf.oggvorbisstr"
+path="res://.godot/imported/PARAS.ogg-426db3a3ffe39e833061f313f22b7ac8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PARAS.ogg"
-dest_files=["res://.godot/imported/PARAS.ogg-394e95e66d5dc4073c5660cbb96d2adf.oggvorbisstr"]
+source_file="res://audio/se/cries/PARAS.ogg"
+dest_files=["res://.godot/imported/PARAS.ogg-426db3a3ffe39e833061f313f22b7ac8.oggvorbisstr"]
 
 [params]
 

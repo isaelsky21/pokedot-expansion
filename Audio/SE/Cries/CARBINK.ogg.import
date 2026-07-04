@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6cs1ukl0bkxm"
-path="res://.godot/imported/CARBINK.ogg-bc8529961e633c029b9f1b6ea112af72.oggvorbisstr"
+path="res://.godot/imported/CARBINK.ogg-8312a2f2de642827c03b6f32cd0d113e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CARBINK.ogg"
-dest_files=["res://.godot/imported/CARBINK.ogg-bc8529961e633c029b9f1b6ea112af72.oggvorbisstr"]
+source_file="res://audio/se/cries/CARBINK.ogg"
+dest_files=["res://.godot/imported/CARBINK.ogg-8312a2f2de642827c03b6f32cd0d113e.oggvorbisstr"]
 
 [params]
 

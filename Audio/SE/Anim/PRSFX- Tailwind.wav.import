@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://my36ako28vh7"
-path="res://.godot/imported/PRSFX- Tailwind.wav-2d115464bb493744a9ac011d02d1584a.sample"
+path="res://.godot/imported/PRSFX- Tailwind.wav-f79c460727ed2e9158f02cd64c05e9b8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Tailwind.wav"
-dest_files=["res://.godot/imported/PRSFX- Tailwind.wav-2d115464bb493744a9ac011d02d1584a.sample"]
+source_file="res://audio/se/anim/PRSFX- Tailwind.wav"
+dest_files=["res://.godot/imported/PRSFX- Tailwind.wav-f79c460727ed2e9158f02cd64c05e9b8.sample"]
 
 [params]
 

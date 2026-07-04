@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://5m2gbmwlo7cf"
-path="res://.godot/imported/Ingido Plateau.wav-3079b3ea3fad6aea1eafe99f054ebca8.sample"
+path="res://.godot/imported/Ingido Plateau.wav-f1186931e5afc81873d65c8194d5aa1d.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Ingido Plateau.wav"
-dest_files=["res://.godot/imported/Ingido Plateau.wav-3079b3ea3fad6aea1eafe99f054ebca8.sample"]
+source_file="res://audio/bgm/Ingido Plateau.wav"
+dest_files=["res://.godot/imported/Ingido Plateau.wav-f1186931e5afc81873d65c8194d5aa1d.sample"]
 
 [params]
 

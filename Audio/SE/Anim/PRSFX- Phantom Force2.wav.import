@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://busxoiyxr2ivf"
-path="res://.godot/imported/PRSFX- Phantom Force2.wav-4f13fe70d6bb83e76858f2e9c91909a3.sample"
+path="res://.godot/imported/PRSFX- Phantom Force2.wav-56dfc798dde1acf00649d2793237eba0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Phantom Force2.wav"
-dest_files=["res://.godot/imported/PRSFX- Phantom Force2.wav-4f13fe70d6bb83e76858f2e9c91909a3.sample"]
+source_file="res://audio/se/anim/PRSFX- Phantom Force2.wav"
+dest_files=["res://.godot/imported/PRSFX- Phantom Force2.wav-56dfc798dde1acf00649d2793237eba0.sample"]
 
 [params]
 

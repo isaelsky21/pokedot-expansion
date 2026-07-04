@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dty83wfqa1fq5"
-path="res://.godot/imported/PRSFX- Fling1.wav-c35c9189eef0c40f597305dd4cc54810.sample"
+path="res://.godot/imported/PRSFX- Fling1.wav-4f07c8e976c971172f47219a54b28bed.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fling1.wav"
-dest_files=["res://.godot/imported/PRSFX- Fling1.wav-c35c9189eef0c40f597305dd4cc54810.sample"]
+source_file="res://audio/se/anim/PRSFX- Fling1.wav"
+dest_files=["res://.godot/imported/PRSFX- Fling1.wav-4f07c8e976c971172f47219a54b28bed.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c622svtxr5xmj"
-path="res://.godot/imported/Voltorb Flip gain coins.ogg-2713f7b5912fd0346202bcba370217f1.oggvorbisstr"
+path="res://.godot/imported/Voltorb Flip gain coins.ogg-ea8c3d4afb3a4f5207ef61e25cf6de11.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Voltorb Flip gain coins.ogg"
-dest_files=["res://.godot/imported/Voltorb Flip gain coins.ogg-2713f7b5912fd0346202bcba370217f1.oggvorbisstr"]
+source_file="res://audio/se/Voltorb Flip gain coins.ogg"
+dest_files=["res://.godot/imported/Voltorb Flip gain coins.ogg-ea8c3d4afb3a4f5207ef61e25cf6de11.oggvorbisstr"]
 
 [params]
 

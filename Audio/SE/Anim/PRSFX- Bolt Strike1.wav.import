@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dc3do601q7p3v"
-path="res://.godot/imported/PRSFX- Bolt Strike1.wav-7738a2823a08837a8208086ea0760fb3.sample"
+path="res://.godot/imported/PRSFX- Bolt Strike1.wav-d0f01af82991c3e9c989ce6415c82749.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bolt Strike1.wav"
-dest_files=["res://.godot/imported/PRSFX- Bolt Strike1.wav-7738a2823a08837a8208086ea0760fb3.sample"]
+source_file="res://audio/se/anim/PRSFX- Bolt Strike1.wav"
+dest_files=["res://.godot/imported/PRSFX- Bolt Strike1.wav-d0f01af82991c3e9c989ce6415c82749.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhauc6b1gw1tq"
-path="res://.godot/imported/normaldamage.ogg-478c81de493134e5191ac320a73ca886.oggvorbisstr"
+path="res://.godot/imported/normaldamage.ogg-3f8746d2600d363a9372f421e775451d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/normaldamage.ogg"
-dest_files=["res://.godot/imported/normaldamage.ogg-478c81de493134e5191ac320a73ca886.oggvorbisstr"]
+source_file="res://audio/se/anim/normaldamage.ogg"
+dest_files=["res://.godot/imported/normaldamage.ogg-3f8746d2600d363a9372f421e775451d.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3l2368wi7j8q"
-path="res://.godot/imported/CORPHISH.ogg-e38835c8f929e92e3b0aff4fa967ab4d.oggvorbisstr"
+path="res://.godot/imported/CORPHISH.ogg-2b717d8c822c133c3b76bc7b167fa0f6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CORPHISH.ogg"
-dest_files=["res://.godot/imported/CORPHISH.ogg-e38835c8f929e92e3b0aff4fa967ab4d.oggvorbisstr"]
+source_file="res://audio/se/cries/CORPHISH.ogg"
+dest_files=["res://.godot/imported/CORPHISH.ogg-2b717d8c822c133c3b76bc7b167fa0f6.oggvorbisstr"]
 
 [params]
 

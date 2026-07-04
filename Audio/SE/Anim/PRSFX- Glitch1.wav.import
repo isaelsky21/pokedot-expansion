@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bee4qud34kth5"
-path="res://.godot/imported/PRSFX- Glitch1.wav-e02fdf77883715a768f20786d5c2815d.sample"
+path="res://.godot/imported/PRSFX- Glitch1.wav-2649c29275a9e1a7a9fbe7ec6550fb12.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Glitch1.wav"
-dest_files=["res://.godot/imported/PRSFX- Glitch1.wav-e02fdf77883715a768f20786d5c2815d.sample"]
+source_file="res://audio/se/anim/PRSFX- Glitch1.wav"
+dest_files=["res://.godot/imported/PRSFX- Glitch1.wav-2649c29275a9e1a7a9fbe7ec6550fb12.sample"]
 
 [params]
 

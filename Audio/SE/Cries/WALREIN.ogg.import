@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://tcodprqxxveo"
-path="res://.godot/imported/WALREIN.ogg-fd4e57ca8b2d458d3f77f8f8ff961688.oggvorbisstr"
+path="res://.godot/imported/WALREIN.ogg-34f2ec57c6b419903a11ab2b87ae2a4c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WALREIN.ogg"
-dest_files=["res://.godot/imported/WALREIN.ogg-fd4e57ca8b2d458d3f77f8f8ff961688.oggvorbisstr"]
+source_file="res://audio/se/cries/WALREIN.ogg"
+dest_files=["res://.godot/imported/WALREIN.ogg-34f2ec57c6b419903a11ab2b87ae2a4c.oggvorbisstr"]
 
 [params]
 

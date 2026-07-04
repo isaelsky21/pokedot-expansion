@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dvhmblw1c33d7"
-path="res://.godot/imported/PRSFX- Magnetic Flux.wav-5d548c3eb84596545cf1a2c947023367.sample"
+path="res://.godot/imported/PRSFX- Magnetic Flux.wav-2b6ae4c9389adb26dc86f3a38e575166.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Magnetic Flux.wav"
-dest_files=["res://.godot/imported/PRSFX- Magnetic Flux.wav-5d548c3eb84596545cf1a2c947023367.sample"]
+source_file="res://audio/se/anim/PRSFX- Magnetic Flux.wav"
+dest_files=["res://.godot/imported/PRSFX- Magnetic Flux.wav-2b6ae4c9389adb26dc86f3a38e575166.sample"]
 
 [params]
 

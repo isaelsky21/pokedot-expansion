@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c1jnjlk3ixcid"
-path="res://.godot/imported/RAICHU.ogg-caa4e4691c14b29254f693e37c631d8d.oggvorbisstr"
+path="res://.godot/imported/RAICHU.ogg-757c84919ba2e3f8e7d7660f1c62c56f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RAICHU.ogg"
-dest_files=["res://.godot/imported/RAICHU.ogg-caa4e4691c14b29254f693e37c631d8d.oggvorbisstr"]
+source_file="res://audio/se/cries/RAICHU.ogg"
+dest_files=["res://.godot/imported/RAICHU.ogg-757c84919ba2e3f8e7d7660f1c62c56f.oggvorbisstr"]
 
 [params]
 

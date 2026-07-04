@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qo6plcyqyer4"
-path="res://.godot/imported/ARIADOS.ogg-145cb97c474ef7c4480e53330d77056d.oggvorbisstr"
+path="res://.godot/imported/ARIADOS.ogg-7eab7421152f74222a74b1f6976c9683.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARIADOS.ogg"
-dest_files=["res://.godot/imported/ARIADOS.ogg-145cb97c474ef7c4480e53330d77056d.oggvorbisstr"]
+source_file="res://audio/se/cries/ARIADOS.ogg"
+dest_files=["res://.godot/imported/ARIADOS.ogg-7eab7421152f74222a74b1f6976c9683.oggvorbisstr"]
 
 [params]
 

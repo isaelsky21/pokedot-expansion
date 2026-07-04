@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://2wd308wg7y5m"
-path="res://.godot/imported/PRSFX- Sacred Fire2.wav-1ef88e28c4286072833c8f47ab6309b4.sample"
+path="res://.godot/imported/PRSFX- Sacred Fire2.wav-df723f72111ad8a16f1b87627b2c61bd.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sacred Fire2.wav"
-dest_files=["res://.godot/imported/PRSFX- Sacred Fire2.wav-1ef88e28c4286072833c8f47ab6309b4.sample"]
+source_file="res://audio/se/anim/PRSFX- Sacred Fire2.wav"
+dest_files=["res://.godot/imported/PRSFX- Sacred Fire2.wav-df723f72111ad8a16f1b87627b2c61bd.sample"]
 
 [params]
 

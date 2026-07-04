@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://1ik06o0cxxxk"
-path="res://.godot/imported/Battle Gym Leader.wav-3394930a9300e821093a94dcce4d7272.sample"
+path="res://.godot/imported/Battle Gym Leader.wav-e56de0487d266bbb9e3250ed94b493cc.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle Gym Leader.wav"
-dest_files=["res://.godot/imported/Battle Gym Leader.wav-3394930a9300e821093a94dcce4d7272.sample"]
+source_file="res://audio/bgm/Battle Gym Leader.wav"
+dest_files=["res://.godot/imported/Battle Gym Leader.wav-e56de0487d266bbb9e3250ed94b493cc.sample"]
 
 [params]
 

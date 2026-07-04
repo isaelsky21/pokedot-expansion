@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dnk34aiy8eic6"
-path="res://.godot/imported/AROMATISSE.ogg-61d8c1165996ffc8a355c454dc7333cf.oggvorbisstr"
+path="res://.godot/imported/AROMATISSE.ogg-0be44b1ff398c7a2c8b1a6dce149add7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AROMATISSE.ogg"
-dest_files=["res://.godot/imported/AROMATISSE.ogg-61d8c1165996ffc8a355c454dc7333cf.oggvorbisstr"]
+source_file="res://audio/se/cries/AROMATISSE.ogg"
+dest_files=["res://.godot/imported/AROMATISSE.ogg-0be44b1ff398c7a2c8b1a6dce149add7.oggvorbisstr"]
 
 [params]
 

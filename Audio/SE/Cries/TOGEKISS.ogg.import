@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dd3nvaw8q3jb7"
-path="res://.godot/imported/TOGEKISS.ogg-adcbd45c46cf669e5f416313393c0c25.oggvorbisstr"
+path="res://.godot/imported/TOGEKISS.ogg-29defe7385e368cefed754714703776b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TOGEKISS.ogg"
-dest_files=["res://.godot/imported/TOGEKISS.ogg-adcbd45c46cf669e5f416313393c0c25.oggvorbisstr"]
+source_file="res://audio/se/cries/TOGEKISS.ogg"
+dest_files=["res://.godot/imported/TOGEKISS.ogg-29defe7385e368cefed754714703776b.oggvorbisstr"]
 
 [params]
 

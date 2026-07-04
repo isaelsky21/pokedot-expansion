@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cvhmbukxxhkrj"
-path="res://.godot/imported/PRSFX- Drain Punch1.wav-85a1f57f9cd32646c202f9e24ea35000.sample"
+path="res://.godot/imported/PRSFX- Drain Punch1.wav-16856ceae7b9160848158126e0be48f1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Drain Punch1.wav"
-dest_files=["res://.godot/imported/PRSFX- Drain Punch1.wav-85a1f57f9cd32646c202f9e24ea35000.sample"]
+source_file="res://audio/se/anim/PRSFX- Drain Punch1.wav"
+dest_files=["res://.godot/imported/PRSFX- Drain Punch1.wav-16856ceae7b9160848158126e0be48f1.sample"]
 
 [params]
 

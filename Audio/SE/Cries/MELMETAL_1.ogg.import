@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dwgh7s85ocnvd"
-path="res://.godot/imported/MELMETAL_1.ogg-dc5a7339cd3017e13c3b7f5fd69060fb.oggvorbisstr"
+path="res://.godot/imported/MELMETAL_1.ogg-12ef900fe59a39d249ab963e6359b94f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MELMETAL_1.ogg"
-dest_files=["res://.godot/imported/MELMETAL_1.ogg-dc5a7339cd3017e13c3b7f5fd69060fb.oggvorbisstr"]
+source_file="res://audio/se/cries/MELMETAL_1.ogg"
+dest_files=["res://.godot/imported/MELMETAL_1.ogg-12ef900fe59a39d249ab963e6359b94f.oggvorbisstr"]
 
 [params]
 

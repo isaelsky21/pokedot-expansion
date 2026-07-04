@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dfakoy0qs5duc"
-path="res://.godot/imported/PRSFX- Leaf Blade.wav-da5439d551735f283966cde8d9fbf8ef.sample"
+path="res://.godot/imported/PRSFX- Leaf Blade.wav-97593d7aab7f342e36e8698732fa2614.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Leaf Blade.wav"
-dest_files=["res://.godot/imported/PRSFX- Leaf Blade.wav-da5439d551735f283966cde8d9fbf8ef.sample"]
+source_file="res://audio/se/anim/PRSFX- Leaf Blade.wav"
+dest_files=["res://.godot/imported/PRSFX- Leaf Blade.wav-97593d7aab7f342e36e8698732fa2614.sample"]
 
 [params]
 

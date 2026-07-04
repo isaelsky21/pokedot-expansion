@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dkmolxvd3gn4f"
-path="res://.godot/imported/PRSFX- Dragon Ascent2.wav-88a65465843174153cee1c251f23664b.sample"
+path="res://.godot/imported/PRSFX- Dragon Ascent2.wav-3374a4af61a58dc6169ec02960bcdd08.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dragon Ascent2.wav"
-dest_files=["res://.godot/imported/PRSFX- Dragon Ascent2.wav-88a65465843174153cee1c251f23664b.sample"]
+source_file="res://audio/se/anim/PRSFX- Dragon Ascent2.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Ascent2.wav-3374a4af61a58dc6169ec02960bcdd08.sample"]
 
 [params]
 

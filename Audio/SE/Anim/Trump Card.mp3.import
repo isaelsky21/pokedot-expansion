@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dumqh3um78mkg"
-path="res://.godot/imported/Trump Card.mp3-549de66074434f0337da7df855a423b5.mp3str"
+path="res://.godot/imported/Trump Card.mp3-11c583217978415810b1a62a91188ab1.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Trump Card.mp3"
-dest_files=["res://.godot/imported/Trump Card.mp3-549de66074434f0337da7df855a423b5.mp3str"]
+source_file="res://audio/se/anim/Trump Card.mp3"
+dest_files=["res://.godot/imported/Trump Card.mp3-11c583217978415810b1a62a91188ab1.mp3str"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ytxqbh1oc6ml"
-path="res://.godot/imported/PRSFX- Psyshock1.wav-daec641c0ac0fd4a6c748f1a7dddf83e.sample"
+path="res://.godot/imported/PRSFX- Psyshock1.wav-5f5b8825a953dea6935f47828f1bebaf.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psyshock1.wav"
-dest_files=["res://.godot/imported/PRSFX- Psyshock1.wav-daec641c0ac0fd4a6c748f1a7dddf83e.sample"]
+source_file="res://audio/se/anim/PRSFX- Psyshock1.wav"
+dest_files=["res://.godot/imported/PRSFX- Psyshock1.wav-5f5b8825a953dea6935f47828f1bebaf.sample"]
 
 [params]
 

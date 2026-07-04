@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://maxmipu4lhun"
-path="res://.godot/imported/VULPIX.ogg-46e142a3012f1cfaf65dd7259e517774.oggvorbisstr"
+path="res://.godot/imported/VULPIX.ogg-cea7a0f058c90c845f45012b98a38ad4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VULPIX.ogg"
-dest_files=["res://.godot/imported/VULPIX.ogg-46e142a3012f1cfaf65dd7259e517774.oggvorbisstr"]
+source_file="res://audio/se/cries/VULPIX.ogg"
+dest_files=["res://.godot/imported/VULPIX.ogg-cea7a0f058c90c845f45012b98a38ad4.oggvorbisstr"]
 
 [params]
 

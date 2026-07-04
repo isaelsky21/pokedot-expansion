@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c4ypjnrakb6bl"
-path="res://.godot/imported/PRSFX- Beak Blast3.wav-03845cd9fd847b0657d7115dc262d86d.sample"
+path="res://.godot/imported/PRSFX- Beak Blast3.wav-f7b5c38fd9791ee92770de01bdabe544.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Beak Blast3.wav"
-dest_files=["res://.godot/imported/PRSFX- Beak Blast3.wav-03845cd9fd847b0657d7115dc262d86d.sample"]
+source_file="res://audio/se/anim/PRSFX- Beak Blast3.wav"
+dest_files=["res://.godot/imported/PRSFX- Beak Blast3.wav-f7b5c38fd9791ee92770de01bdabe544.sample"]
 
 [params]
 

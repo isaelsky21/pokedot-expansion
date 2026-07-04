@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://csxcffiiqxwqy"
-path="res://.godot/imported/KELDEO.ogg-2475c575b21c8b25f7b36dfe926ed48b.oggvorbisstr"
+path="res://.godot/imported/KELDEO.ogg-0a484eaed7853f5d62f856fb2dbec58c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KELDEO.ogg"
-dest_files=["res://.godot/imported/KELDEO.ogg-2475c575b21c8b25f7b36dfe926ed48b.oggvorbisstr"]
+source_file="res://audio/se/cries/KELDEO.ogg"
+dest_files=["res://.godot/imported/KELDEO.ogg-0a484eaed7853f5d62f856fb2dbec58c.oggvorbisstr"]
 
 [params]
 

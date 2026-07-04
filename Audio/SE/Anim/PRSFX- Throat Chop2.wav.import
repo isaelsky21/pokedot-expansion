@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bskhh1lpn0mcu"
-path="res://.godot/imported/PRSFX- Throat Chop2.wav-3b05d4c15b113049afa437db2abcf3a6.sample"
+path="res://.godot/imported/PRSFX- Throat Chop2.wav-b95449034429e727743e2a54e4b96593.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Throat Chop2.wav"
-dest_files=["res://.godot/imported/PRSFX- Throat Chop2.wav-3b05d4c15b113049afa437db2abcf3a6.sample"]
+source_file="res://audio/se/anim/PRSFX- Throat Chop2.wav"
+dest_files=["res://.godot/imported/PRSFX- Throat Chop2.wav-b95449034429e727743e2a54e4b96593.sample"]
 
 [params]
 

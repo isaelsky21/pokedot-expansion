@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://debcf4dywmele"
-path="res://.godot/imported/GRIMMSNARL.ogg-44179d1318034bd0a99e53e751c0c95d.oggvorbisstr"
+path="res://.godot/imported/GRIMMSNARL.ogg-5cb3c86d58e506f6b626442a30ea8e85.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GRIMMSNARL.ogg"
-dest_files=["res://.godot/imported/GRIMMSNARL.ogg-44179d1318034bd0a99e53e751c0c95d.oggvorbisstr"]
+source_file="res://audio/se/cries/GRIMMSNARL.ogg"
+dest_files=["res://.godot/imported/GRIMMSNARL.ogg-5cb3c86d58e506f6b626442a30ea8e85.oggvorbisstr"]
 
 [params]
 

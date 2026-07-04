@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dp04cxpdljaii"
-path="res://.godot/imported/LANDORUS_1.ogg-6fd9439ae88132d65be20ed2cc1c3dbb.oggvorbisstr"
+path="res://.godot/imported/LANDORUS_1.ogg-6bd4e06f38561f455eec6a3c66849858.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LANDORUS_1.ogg"
-dest_files=["res://.godot/imported/LANDORUS_1.ogg-6fd9439ae88132d65be20ed2cc1c3dbb.oggvorbisstr"]
+source_file="res://audio/se/cries/LANDORUS_1.ogg"
+dest_files=["res://.godot/imported/LANDORUS_1.ogg-6bd4e06f38561f455eec6a3c66849858.oggvorbisstr"]
 
 [params]
 

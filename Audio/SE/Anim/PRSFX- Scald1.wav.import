@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bs2smhqfii6d6"
-path="res://.godot/imported/PRSFX- Scald1.wav-791bb7caf0b2eb79aeb3da682f168a4e.sample"
+path="res://.godot/imported/PRSFX- Scald1.wav-0f322da01aa47ce0d8b6440e30df8080.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Scald1.wav"
-dest_files=["res://.godot/imported/PRSFX- Scald1.wav-791bb7caf0b2eb79aeb3da682f168a4e.sample"]
+source_file="res://audio/se/anim/PRSFX- Scald1.wav"
+dest_files=["res://.godot/imported/PRSFX- Scald1.wav-0f322da01aa47ce0d8b6440e30df8080.sample"]
 
 [params]
 

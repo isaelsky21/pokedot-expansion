@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bbf2b5tv18qjv"
-path="res://.godot/imported/PRSFX- Thrash2.wav-80b476fbef79a8463141f7855acd2977.sample"
+path="res://.godot/imported/PRSFX- Thrash2.wav-5bc91a8890e722ce5de3e9f512a8d00a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thrash2.wav"
-dest_files=["res://.godot/imported/PRSFX- Thrash2.wav-80b476fbef79a8463141f7855acd2977.sample"]
+source_file="res://audio/se/anim/PRSFX- Thrash2.wav"
+dest_files=["res://.godot/imported/PRSFX- Thrash2.wav-5bc91a8890e722ce5de3e9f512a8d00a.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dev0j12cwqe6m"
-path="res://.godot/imported/MANECTRIC_1.ogg-2c705150e621c01569f9b386e7ccd6ee.oggvorbisstr"
+path="res://.godot/imported/MANECTRIC_1.ogg-798219cd0a7eb24b940d63a31cb28b8e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MANECTRIC_1.ogg"
-dest_files=["res://.godot/imported/MANECTRIC_1.ogg-2c705150e621c01569f9b386e7ccd6ee.oggvorbisstr"]
+source_file="res://audio/se/cries/MANECTRIC_1.ogg"
+dest_files=["res://.godot/imported/MANECTRIC_1.ogg-798219cd0a7eb24b940d63a31cb28b8e.oggvorbisstr"]
 
 [params]
 

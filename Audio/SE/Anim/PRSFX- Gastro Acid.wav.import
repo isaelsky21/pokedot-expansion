@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c6r30tyuvbq4k"
-path="res://.godot/imported/PRSFX- Gastro Acid.wav-33397ddc96ac5059b09b0a56808ed1fe.sample"
+path="res://.godot/imported/PRSFX- Gastro Acid.wav-6b87404fb6b0d96e5c2cbf5b63e95f07.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gastro Acid.wav"
-dest_files=["res://.godot/imported/PRSFX- Gastro Acid.wav-33397ddc96ac5059b09b0a56808ed1fe.sample"]
+source_file="res://audio/se/anim/PRSFX- Gastro Acid.wav"
+dest_files=["res://.godot/imported/PRSFX- Gastro Acid.wav-6b87404fb6b0d96e5c2cbf5b63e95f07.sample"]
 
 [params]
 

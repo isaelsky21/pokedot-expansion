@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djemj5uve76c"
-path="res://.godot/imported/Blow5.ogg-8b4303ae39d91432d3f1b1a39bad8982.oggvorbisstr"
+path="res://.godot/imported/Blow5.ogg-5eb0b196cb41e88192deba174c79dd26.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Blow5.ogg"
-dest_files=["res://.godot/imported/Blow5.ogg-8b4303ae39d91432d3f1b1a39bad8982.oggvorbisstr"]
+source_file="res://audio/se/anim/Blow5.ogg"
+dest_files=["res://.godot/imported/Blow5.ogg-5eb0b196cb41e88192deba174c79dd26.oggvorbisstr"]
 
 [params]
 

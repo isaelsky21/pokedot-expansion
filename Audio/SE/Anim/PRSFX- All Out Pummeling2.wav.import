@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://rso4a1b0ljp7"
-path="res://.godot/imported/PRSFX- All Out Pummeling2.wav-d61fcb3ae8fb2f40a3d4aea68a06c7e2.sample"
+path="res://.godot/imported/PRSFX- All Out Pummeling2.wav-51ac9ca6a2e2b0bd95ddd5a7d5a791a0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- All Out Pummeling2.wav"
-dest_files=["res://.godot/imported/PRSFX- All Out Pummeling2.wav-d61fcb3ae8fb2f40a3d4aea68a06c7e2.sample"]
+source_file="res://audio/se/anim/PRSFX- All Out Pummeling2.wav"
+dest_files=["res://.godot/imported/PRSFX- All Out Pummeling2.wav-51ac9ca6a2e2b0bd95ddd5a7d5a791a0.sample"]
 
 [params]
 

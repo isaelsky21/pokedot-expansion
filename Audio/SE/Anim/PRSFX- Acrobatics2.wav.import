@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://drquonjlfcmd5"
-path="res://.godot/imported/PRSFX- Acrobatics2.wav-2783c67f28a6ef239f678c21414d2b6e.sample"
+path="res://.godot/imported/PRSFX- Acrobatics2.wav-8ecb469566d9fff3e827701a6bb3541a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Acrobatics2.wav"
-dest_files=["res://.godot/imported/PRSFX- Acrobatics2.wav-2783c67f28a6ef239f678c21414d2b6e.sample"]
+source_file="res://audio/se/anim/PRSFX- Acrobatics2.wav"
+dest_files=["res://.godot/imported/PRSFX- Acrobatics2.wav-8ecb469566d9fff3e827701a6bb3541a.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b4g8tt8nf2td6"
-path="res://.godot/imported/Shiny sparkle.ogg-108f261a08aace26592435d893cd5aa5.oggvorbisstr"
+path="res://.godot/imported/Shiny sparkle.ogg-715ddbbae7ea61cc31aee81ffaca0ee3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Shiny sparkle.ogg"
-dest_files=["res://.godot/imported/Shiny sparkle.ogg-108f261a08aace26592435d893cd5aa5.oggvorbisstr"]
+source_file="res://audio/se/anim/Shiny sparkle.ogg"
+dest_files=["res://.godot/imported/Shiny sparkle.ogg-715ddbbae7ea61cc31aee81ffaca0ee3.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://diipa7pc812vu"
-path="res://.godot/imported/TAROUNTULA.ogg-0da463bfcee178b3fc2c2a9d82fb878d.oggvorbisstr"
+path="res://.godot/imported/TAROUNTULA.ogg-bbb04a3f531a01f219487c6155b4f6fd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TAROUNTULA.ogg"
-dest_files=["res://.godot/imported/TAROUNTULA.ogg-0da463bfcee178b3fc2c2a9d82fb878d.oggvorbisstr"]
+source_file="res://audio/se/cries/TAROUNTULA.ogg"
+dest_files=["res://.godot/imported/TAROUNTULA.ogg-bbb04a3f531a01f219487c6155b4f6fd.oggvorbisstr"]
 
 [params]
 

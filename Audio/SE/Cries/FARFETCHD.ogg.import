@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://clhymngr8oyte"
-path="res://.godot/imported/FARFETCHD.ogg-5f4216923b337b6a8006f8e0623d8b43.oggvorbisstr"
+path="res://.godot/imported/FARFETCHD.ogg-358df21bde11305279016005664e462b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FARFETCHD.ogg"
-dest_files=["res://.godot/imported/FARFETCHD.ogg-5f4216923b337b6a8006f8e0623d8b43.oggvorbisstr"]
+source_file="res://audio/se/cries/FARFETCHD.ogg"
+dest_files=["res://.godot/imported/FARFETCHD.ogg-358df21bde11305279016005664e462b.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d2imj2uiora4d"
-path="res://.godot/imported/PRSFX- Ally Switch.wav-7c157a3d3fd15382f0eb75d02380881a.sample"
+path="res://.godot/imported/PRSFX- Ally Switch.wav-5ab53b75cf1431fa8f47dd9d681540b0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ally Switch.wav"
-dest_files=["res://.godot/imported/PRSFX- Ally Switch.wav-7c157a3d3fd15382f0eb75d02380881a.sample"]
+source_file="res://audio/se/anim/PRSFX- Ally Switch.wav"
+dest_files=["res://.godot/imported/PRSFX- Ally Switch.wav-5ab53b75cf1431fa8f47dd9d681540b0.sample"]
 
 [params]
 

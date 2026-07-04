@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8e2wcd6fe4q3"
-path="res://.godot/imported/Natural Gift.ogg-253a0e542cab86ed32c0aa48e2f1a865.oggvorbisstr"
+path="res://.godot/imported/Natural Gift.ogg-183b067c34bb129c0081f6e549ce11c0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Natural Gift.ogg"
-dest_files=["res://.godot/imported/Natural Gift.ogg-253a0e542cab86ed32c0aa48e2f1a865.oggvorbisstr"]
+source_file="res://audio/se/anim/Natural Gift.ogg"
+dest_files=["res://.godot/imported/Natural Gift.ogg-183b067c34bb129c0081f6e549ce11c0.oggvorbisstr"]
 
 [params]
 

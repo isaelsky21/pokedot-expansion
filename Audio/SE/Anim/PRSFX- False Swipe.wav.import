@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bwsukwxuwvvl0"
-path="res://.godot/imported/PRSFX- False Swipe.wav-6499a2f4fd53a29d801c6d0e1d39b98d.sample"
+path="res://.godot/imported/PRSFX- False Swipe.wav-7c9916466775ddb132c27e34c0f5cd31.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- False Swipe.wav"
-dest_files=["res://.godot/imported/PRSFX- False Swipe.wav-6499a2f4fd53a29d801c6d0e1d39b98d.sample"]
+source_file="res://audio/se/anim/PRSFX- False Swipe.wav"
+dest_files=["res://.godot/imported/PRSFX- False Swipe.wav-7c9916466775ddb132c27e34c0f5cd31.sample"]
 
 [params]
 

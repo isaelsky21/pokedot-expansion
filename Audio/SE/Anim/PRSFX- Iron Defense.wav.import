@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dw0mi6xaf5yw6"
-path="res://.godot/imported/PRSFX- Iron Defense.wav-e4dfb16db86e4812b8dbcd91ac32450b.sample"
+path="res://.godot/imported/PRSFX- Iron Defense.wav-45decd7dd9de8330d66e6c2a67795129.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Iron Defense.wav"
-dest_files=["res://.godot/imported/PRSFX- Iron Defense.wav-e4dfb16db86e4812b8dbcd91ac32450b.sample"]
+source_file="res://audio/se/anim/PRSFX- Iron Defense.wav"
+dest_files=["res://.godot/imported/PRSFX- Iron Defense.wav-45decd7dd9de8330d66e6c2a67795129.sample"]
 
 [params]
 

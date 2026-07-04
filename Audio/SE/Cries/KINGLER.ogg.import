@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dmlcv0o560fx2"
-path="res://.godot/imported/KINGLER.ogg-b1f9eedfbab36f755fd317da3be09fb4.oggvorbisstr"
+path="res://.godot/imported/KINGLER.ogg-7d4a86c1f7e373b80e302c9b3ecc320e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KINGLER.ogg"
-dest_files=["res://.godot/imported/KINGLER.ogg-b1f9eedfbab36f755fd317da3be09fb4.oggvorbisstr"]
+source_file="res://audio/se/cries/KINGLER.ogg"
+dest_files=["res://.godot/imported/KINGLER.ogg-7d4a86c1f7e373b80e302c9b3ecc320e.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://kkqcskunyqmx"
-path="res://.godot/imported/VAROOM.ogg-15fcb74a8f65958cc8c2234c4f66bf43.oggvorbisstr"
+path="res://.godot/imported/VAROOM.ogg-969a171edc6c11e3ff1e041b88b59911.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VAROOM.ogg"
-dest_files=["res://.godot/imported/VAROOM.ogg-15fcb74a8f65958cc8c2234c4f66bf43.oggvorbisstr"]
+source_file="res://audio/se/cries/VAROOM.ogg"
+dest_files=["res://.godot/imported/VAROOM.ogg-969a171edc6c11e3ff1e041b88b59911.oggvorbisstr"]
 
 [params]
 

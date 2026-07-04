@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dmryqmkv8iq55"
-path="res://.godot/imported/PRSFX- Healing Wish.wav-eb146e0880f3f1e52fd9b43deecbbdf9.sample"
+path="res://.godot/imported/PRSFX- Healing Wish.wav-662f34cbb5d545fdc7ba8226f10d18f2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Healing Wish.wav"
-dest_files=["res://.godot/imported/PRSFX- Healing Wish.wav-eb146e0880f3f1e52fd9b43deecbbdf9.sample"]
+source_file="res://audio/se/anim/PRSFX- Healing Wish.wav"
+dest_files=["res://.godot/imported/PRSFX- Healing Wish.wav-662f34cbb5d545fdc7ba8226f10d18f2.sample"]
 
 [params]
 

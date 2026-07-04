@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dixyyu8wj6slr"
-path="res://.godot/imported/ILLUMISE.ogg-65c5adb5127a271149b6a3af08dace8c.oggvorbisstr"
+path="res://.godot/imported/ILLUMISE.ogg-c63878c770e20734fa454eac85211c97.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ILLUMISE.ogg"
-dest_files=["res://.godot/imported/ILLUMISE.ogg-65c5adb5127a271149b6a3af08dace8c.oggvorbisstr"]
+source_file="res://audio/se/cries/ILLUMISE.ogg"
+dest_files=["res://.godot/imported/ILLUMISE.ogg-c63878c770e20734fa454eac85211c97.oggvorbisstr"]
 
 [params]
 

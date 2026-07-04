@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bql8ynd0llm4y"
-path="res://.godot/imported/PRSFX- Genesis Supernova5.ogg-7e1c22a13dcd18b503dec403239a8cc0.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Genesis Supernova5.ogg-c05eed51771e347a84a3576249560fa1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Genesis Supernova5.ogg"
-dest_files=["res://.godot/imported/PRSFX- Genesis Supernova5.ogg-7e1c22a13dcd18b503dec403239a8cc0.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Genesis Supernova5.ogg"
+dest_files=["res://.godot/imported/PRSFX- Genesis Supernova5.ogg-c05eed51771e347a84a3576249560fa1.oggvorbisstr"]
 
 [params]
 

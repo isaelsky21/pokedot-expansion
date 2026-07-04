@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bcilxgywlpdgu"
-path="res://.godot/imported/PRSFX- Mimic2.wav-9d043cd5dbb0791bc321208f9af38929.sample"
+path="res://.godot/imported/PRSFX- Mimic2.wav-56e2d7bf1b569dc2babba958eba594a7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mimic2.wav"
-dest_files=["res://.godot/imported/PRSFX- Mimic2.wav-9d043cd5dbb0791bc321208f9af38929.sample"]
+source_file="res://audio/se/anim/PRSFX- Mimic2.wav"
+dest_files=["res://.godot/imported/PRSFX- Mimic2.wav-56e2d7bf1b569dc2babba958eba594a7.sample"]
 
 [params]
 

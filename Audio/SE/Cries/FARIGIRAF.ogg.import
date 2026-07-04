@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://byx2vdmcff70a"
-path="res://.godot/imported/FARIGIRAF.ogg-057978a2edd55a329d3c39f5f0b7cc2c.oggvorbisstr"
+path="res://.godot/imported/FARIGIRAF.ogg-3131a03711f27578b805631754fb5f8f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FARIGIRAF.ogg"
-dest_files=["res://.godot/imported/FARIGIRAF.ogg-057978a2edd55a329d3c39f5f0b7cc2c.oggvorbisstr"]
+source_file="res://audio/se/cries/FARIGIRAF.ogg"
+dest_files=["res://.godot/imported/FARIGIRAF.ogg-3131a03711f27578b805631754fb5f8f.oggvorbisstr"]
 
 [params]
 

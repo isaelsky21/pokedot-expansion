@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0pqrxobhxsos"
-path="res://.godot/imported/PHANPY.ogg-2fa863c53c29f16d304dad30c0412473.oggvorbisstr"
+path="res://.godot/imported/PHANPY.ogg-776b1e139c78bee9d7af4fab2f06de9e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PHANPY.ogg"
-dest_files=["res://.godot/imported/PHANPY.ogg-2fa863c53c29f16d304dad30c0412473.oggvorbisstr"]
+source_file="res://audio/se/cries/PHANPY.ogg"
+dest_files=["res://.godot/imported/PHANPY.ogg-776b1e139c78bee9d7af4fab2f06de9e.oggvorbisstr"]
 
 [params]
 

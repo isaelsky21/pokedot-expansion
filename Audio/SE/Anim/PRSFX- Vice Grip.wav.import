@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://qil6qwu8ww34"
-path="res://.godot/imported/PRSFX- Vice Grip.wav-9744efe40cce54ac8eaacdfac8277365.sample"
+path="res://.godot/imported/PRSFX- Vice Grip.wav-d1421e503cb53814f5add78b58f16da7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Vice Grip.wav"
-dest_files=["res://.godot/imported/PRSFX- Vice Grip.wav-9744efe40cce54ac8eaacdfac8277365.sample"]
+source_file="res://audio/se/anim/PRSFX- Vice Grip.wav"
+dest_files=["res://.godot/imported/PRSFX- Vice Grip.wav-d1421e503cb53814f5add78b58f16da7.sample"]
 
 [params]
 

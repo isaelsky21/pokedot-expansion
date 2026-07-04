@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dlqpfea67mjod"
-path="res://.godot/imported/VIVILLON.ogg-978c47bd1fbc77e01968847478327ff6.oggvorbisstr"
+path="res://.godot/imported/VIVILLON.ogg-539a7bfae1c63a9ed45b22b93e07f2f9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VIVILLON.ogg"
-dest_files=["res://.godot/imported/VIVILLON.ogg-978c47bd1fbc77e01968847478327ff6.oggvorbisstr"]
+source_file="res://audio/se/cries/VIVILLON.ogg"
+dest_files=["res://.godot/imported/VIVILLON.ogg-539a7bfae1c63a9ed45b22b93e07f2f9.oggvorbisstr"]
 
 [params]
 

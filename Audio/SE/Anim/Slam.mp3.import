@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://duxxb0h8ou150"
-path="res://.godot/imported/Slam.mp3-2fd2ad67e3f67ca22df6002c1a145d30.mp3str"
+path="res://.godot/imported/Slam.mp3-116476bb450acb9eae86695181c0738e.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Slam.mp3"
-dest_files=["res://.godot/imported/Slam.mp3-2fd2ad67e3f67ca22df6002c1a145d30.mp3str"]
+source_file="res://audio/se/anim/Slam.mp3"
+dest_files=["res://.godot/imported/Slam.mp3-116476bb450acb9eae86695181c0738e.mp3str"]
 
 [params]
 

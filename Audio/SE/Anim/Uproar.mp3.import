@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://vdql7onva4by"
-path="res://.godot/imported/Uproar.mp3-f15992736ca7b29f1baed1a3829d9be4.mp3str"
+path="res://.godot/imported/Uproar.mp3-29671beb8d0e88205b397c50bb589b6d.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Uproar.mp3"
-dest_files=["res://.godot/imported/Uproar.mp3-f15992736ca7b29f1baed1a3829d9be4.mp3str"]
+source_file="res://audio/se/anim/Uproar.mp3"
+dest_files=["res://.godot/imported/Uproar.mp3-29671beb8d0e88205b397c50bb589b6d.mp3str"]
 
 [params]
 

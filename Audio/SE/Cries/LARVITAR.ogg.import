@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxntj38lvnvjv"
-path="res://.godot/imported/LARVITAR.ogg-5cae9ea27354005bf74b9004588391ff.oggvorbisstr"
+path="res://.godot/imported/LARVITAR.ogg-4028ad194451ffdc4a441aa0f8c5bdf6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LARVITAR.ogg"
-dest_files=["res://.godot/imported/LARVITAR.ogg-5cae9ea27354005bf74b9004588391ff.oggvorbisstr"]
+source_file="res://audio/se/cries/LARVITAR.ogg"
+dest_files=["res://.godot/imported/LARVITAR.ogg-4028ad194451ffdc4a441aa0f8c5bdf6.oggvorbisstr"]
 
 [params]
 

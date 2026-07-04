@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b1530hkwsl75j"
-path="res://.godot/imported/IRONTHORNS.ogg-b54bb7b1edba7081ca914c0123f8f297.oggvorbisstr"
+path="res://.godot/imported/IRONTHORNS.ogg-94265ca6bd1a979c67181131e366a8be.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/IRONTHORNS.ogg"
-dest_files=["res://.godot/imported/IRONTHORNS.ogg-b54bb7b1edba7081ca914c0123f8f297.oggvorbisstr"]
+source_file="res://audio/se/cries/IRONTHORNS.ogg"
+dest_files=["res://.godot/imported/IRONTHORNS.ogg-94265ca6bd1a979c67181131e366a8be.oggvorbisstr"]
 
 [params]
 

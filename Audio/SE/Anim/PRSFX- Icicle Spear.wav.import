@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dyy3sug633t8p"
-path="res://.godot/imported/PRSFX- Icicle Spear.wav-f6ddaaa967f2c86683db02db3f1b8ca2.sample"
+path="res://.godot/imported/PRSFX- Icicle Spear.wav-0e224ef6eb0da88d2a5fcf5a7ef16afe.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Icicle Spear.wav"
-dest_files=["res://.godot/imported/PRSFX- Icicle Spear.wav-f6ddaaa967f2c86683db02db3f1b8ca2.sample"]
+source_file="res://audio/se/anim/PRSFX- Icicle Spear.wav"
+dest_files=["res://.godot/imported/PRSFX- Icicle Spear.wav-0e224ef6eb0da88d2a5fcf5a7ef16afe.sample"]
 
 [params]
 

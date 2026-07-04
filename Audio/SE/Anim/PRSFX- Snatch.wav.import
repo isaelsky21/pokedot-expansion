@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c7hnhmg6s8p51"
-path="res://.godot/imported/PRSFX- Snatch.wav-5f62cfbaaf2a00969562993d1900680d.sample"
+path="res://.godot/imported/PRSFX- Snatch.wav-5d3516dbdc9fbbc2c4b55ea3013b7f64.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Snatch.wav"
-dest_files=["res://.godot/imported/PRSFX- Snatch.wav-5f62cfbaaf2a00969562993d1900680d.sample"]
+source_file="res://audio/se/anim/PRSFX- Snatch.wav"
+dest_files=["res://.godot/imported/PRSFX- Snatch.wav-5d3516dbdc9fbbc2c4b55ea3013b7f64.sample"]
 
 [params]
 

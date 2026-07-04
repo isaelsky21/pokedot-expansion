@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bgieuj247j3ft"
-path="res://.godot/imported/VILEPLUME.ogg-26c9efafa663e7dc13e87f8ccbbc100b.oggvorbisstr"
+path="res://.godot/imported/VILEPLUME.ogg-ebc9084d227a94b7e12659d2f20afd05.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VILEPLUME.ogg"
-dest_files=["res://.godot/imported/VILEPLUME.ogg-26c9efafa663e7dc13e87f8ccbbc100b.oggvorbisstr"]
+source_file="res://audio/se/cries/VILEPLUME.ogg"
+dest_files=["res://.godot/imported/VILEPLUME.ogg-ebc9084d227a94b7e12659d2f20afd05.oggvorbisstr"]
 
 [params]
 

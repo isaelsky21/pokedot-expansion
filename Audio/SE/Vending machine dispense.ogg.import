@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cti7a23srrrg4"
-path="res://.godot/imported/Vending machine dispense.ogg-b2ca4c071644f2c11c175d314d4f2b14.oggvorbisstr"
+path="res://.godot/imported/Vending machine dispense.ogg-17a4420aad6a51c97458f5753c9698d7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Vending machine dispense.ogg"
-dest_files=["res://.godot/imported/Vending machine dispense.ogg-b2ca4c071644f2c11c175d314d4f2b14.oggvorbisstr"]
+source_file="res://audio/se/Vending machine dispense.ogg"
+dest_files=["res://.godot/imported/Vending machine dispense.ogg-17a4420aad6a51c97458f5753c9698d7.oggvorbisstr"]
 
 [params]
 

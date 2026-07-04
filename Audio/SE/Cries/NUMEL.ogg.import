@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dtw6weq2cqaf3"
-path="res://.godot/imported/NUMEL.ogg-dd770ea1ab5006b9edf402296eeca143.oggvorbisstr"
+path="res://.godot/imported/NUMEL.ogg-52e750b87a46b844e5aa5d17a8d1253d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NUMEL.ogg"
-dest_files=["res://.godot/imported/NUMEL.ogg-dd770ea1ab5006b9edf402296eeca143.oggvorbisstr"]
+source_file="res://audio/se/cries/NUMEL.ogg"
+dest_files=["res://.godot/imported/NUMEL.ogg-52e750b87a46b844e5aa5d17a8d1253d.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://drllll5yq6eqc"
-path="res://.godot/imported/Battle roaming.wav-e2d89d8d1cfc12681c828bf14d92a02f.sample"
+path="res://.godot/imported/Battle roaming.wav-000e4c0757dc74368c32d6567b96751e.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle roaming.wav"
-dest_files=["res://.godot/imported/Battle roaming.wav-e2d89d8d1cfc12681c828bf14d92a02f.sample"]
+source_file="res://audio/bgm/Battle roaming.wav"
+dest_files=["res://.godot/imported/Battle roaming.wav-000e4c0757dc74368c32d6567b96751e.sample"]
 
 [params]
 

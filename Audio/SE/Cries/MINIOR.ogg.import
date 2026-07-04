@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vu3paw8b6pfj"
-path="res://.godot/imported/MINIOR.ogg-96b2c550c22888e40353ad5793e0b827.oggvorbisstr"
+path="res://.godot/imported/MINIOR.ogg-3b278abc2a879632db7619a7f32804c0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MINIOR.ogg"
-dest_files=["res://.godot/imported/MINIOR.ogg-96b2c550c22888e40353ad5793e0b827.oggvorbisstr"]
+source_file="res://audio/se/cries/MINIOR.ogg"
+dest_files=["res://.godot/imported/MINIOR.ogg-3b278abc2a879632db7619a7f32804c0.oggvorbisstr"]
 
 [params]
 

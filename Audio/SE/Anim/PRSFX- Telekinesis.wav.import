@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bwsnfnhesqbpp"
-path="res://.godot/imported/PRSFX- Telekinesis.wav-8d0b04af0fa146bb8fde0cc3e1aa3111.sample"
+path="res://.godot/imported/PRSFX- Telekinesis.wav-bcfa89a338b8fab153df08657e37f82c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Telekinesis.wav"
-dest_files=["res://.godot/imported/PRSFX- Telekinesis.wav-8d0b04af0fa146bb8fde0cc3e1aa3111.sample"]
+source_file="res://audio/se/anim/PRSFX- Telekinesis.wav"
+dest_files=["res://.godot/imported/PRSFX- Telekinesis.wav-bcfa89a338b8fab153df08657e37f82c.sample"]
 
 [params]
 

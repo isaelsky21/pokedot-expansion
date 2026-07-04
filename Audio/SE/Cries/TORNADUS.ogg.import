@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cb54kl12fjfvn"
-path="res://.godot/imported/TORNADUS.ogg-0d89bdd0306d4c096c64ee15ed88e29e.oggvorbisstr"
+path="res://.godot/imported/TORNADUS.ogg-75e9f2489a82d42df94fe2f66036ada7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TORNADUS.ogg"
-dest_files=["res://.godot/imported/TORNADUS.ogg-0d89bdd0306d4c096c64ee15ed88e29e.oggvorbisstr"]
+source_file="res://audio/se/cries/TORNADUS.ogg"
+dest_files=["res://.godot/imported/TORNADUS.ogg-75e9f2489a82d42df94fe2f66036ada7.oggvorbisstr"]
 
 [params]
 

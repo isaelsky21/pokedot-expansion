@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ty825mren6s"
-path="res://.godot/imported/COALOSSAL.ogg-1ba7816c8626240a00802e50ad7d70e8.oggvorbisstr"
+path="res://.godot/imported/COALOSSAL.ogg-0f69219d60e5daaddb5413ff149f8dd9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/COALOSSAL.ogg"
-dest_files=["res://.godot/imported/COALOSSAL.ogg-1ba7816c8626240a00802e50ad7d70e8.oggvorbisstr"]
+source_file="res://audio/se/cries/COALOSSAL.ogg"
+dest_files=["res://.godot/imported/COALOSSAL.ogg-0f69219d60e5daaddb5413ff149f8dd9.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bnvyaigdllb6f"
-path="res://.godot/imported/PRSFX- Clamp1.wav-4e4ea5a11ae5e375eb1ce50e53258348.sample"
+path="res://.godot/imported/PRSFX- Clamp1.wav-1fe635d24fce659275bc835ac6a182fb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Clamp1.wav"
-dest_files=["res://.godot/imported/PRSFX- Clamp1.wav-4e4ea5a11ae5e375eb1ce50e53258348.sample"]
+source_file="res://audio/se/anim/PRSFX- Clamp1.wav"
+dest_files=["res://.godot/imported/PRSFX- Clamp1.wav-1fe635d24fce659275bc835ac6a182fb.sample"]
 
 [params]
 

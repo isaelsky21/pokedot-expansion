@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://jqwf5dh483w4"
-path="res://.godot/imported/PRSFX- Water Sport.wav-a14b5501386cf123fb92fe800ed24566.sample"
+path="res://.godot/imported/PRSFX- Water Sport.wav-d13b41ffc1b13f3e9adc83c31b0bd33b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Water Sport.wav"
-dest_files=["res://.godot/imported/PRSFX- Water Sport.wav-a14b5501386cf123fb92fe800ed24566.sample"]
+source_file="res://audio/se/anim/PRSFX- Water Sport.wav"
+dest_files=["res://.godot/imported/PRSFX- Water Sport.wav-d13b41ffc1b13f3e9adc83c31b0bd33b.sample"]
 
 [params]
 

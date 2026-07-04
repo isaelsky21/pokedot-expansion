@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dtsvkknjovaai"
-path="res://.godot/imported/FLAREON.ogg-e30bca1c1e608c8ac3019a8c5523a709.oggvorbisstr"
+path="res://.godot/imported/FLAREON.ogg-ead3ba435be7b22172f1bab69b59f0ef.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLAREON.ogg"
-dest_files=["res://.godot/imported/FLAREON.ogg-e30bca1c1e608c8ac3019a8c5523a709.oggvorbisstr"]
+source_file="res://audio/se/cries/FLAREON.ogg"
+dest_files=["res://.godot/imported/FLAREON.ogg-ead3ba435be7b22172f1bab69b59f0ef.oggvorbisstr"]
 
 [params]
 

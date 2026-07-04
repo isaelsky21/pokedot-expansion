@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dyoiaaokngwli"
-path="res://.godot/imported/PAWMO.ogg-5442a671dc9b02ccc39211d9f854ee71.oggvorbisstr"
+path="res://.godot/imported/PAWMO.ogg-6510741146704429a7d2abb7d37d6007.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PAWMO.ogg"
-dest_files=["res://.godot/imported/PAWMO.ogg-5442a671dc9b02ccc39211d9f854ee71.oggvorbisstr"]
+source_file="res://audio/se/cries/PAWMO.ogg"
+dest_files=["res://.godot/imported/PAWMO.ogg-6510741146704429a7d2abb7d37d6007.oggvorbisstr"]
 
 [params]
 

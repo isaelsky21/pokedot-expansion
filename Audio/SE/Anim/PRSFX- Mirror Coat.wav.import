@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b12so5dbjwxh2"
-path="res://.godot/imported/PRSFX- Mirror Coat.wav-f1fafad1d9f51b77e33c983ba13a1337.sample"
+path="res://.godot/imported/PRSFX- Mirror Coat.wav-b8dbd7153d7263e1961af84679d50a01.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mirror Coat.wav"
-dest_files=["res://.godot/imported/PRSFX- Mirror Coat.wav-f1fafad1d9f51b77e33c983ba13a1337.sample"]
+source_file="res://audio/se/anim/PRSFX- Mirror Coat.wav"
+dest_files=["res://.godot/imported/PRSFX- Mirror Coat.wav-b8dbd7153d7263e1961af84679d50a01.sample"]
 
 [params]
 

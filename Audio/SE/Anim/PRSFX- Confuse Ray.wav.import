@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bqeadnwghybck"
-path="res://.godot/imported/PRSFX- Confuse Ray.wav-928ea9c3f5983ad2609087163c8fc2a0.sample"
+path="res://.godot/imported/PRSFX- Confuse Ray.wav-2e3884c318415206e493096d582b887d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Confuse Ray.wav"
-dest_files=["res://.godot/imported/PRSFX- Confuse Ray.wav-928ea9c3f5983ad2609087163c8fc2a0.sample"]
+source_file="res://audio/se/anim/PRSFX- Confuse Ray.wav"
+dest_files=["res://.godot/imported/PRSFX- Confuse Ray.wav-2e3884c318415206e493096d582b887d.sample"]
 
 [params]
 

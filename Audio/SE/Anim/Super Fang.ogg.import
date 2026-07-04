@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cuh877npjcbkn"
-path="res://.godot/imported/Super Fang.ogg-2bd82f19bda00a6e1a53858b50ee02e4.oggvorbisstr"
+path="res://.godot/imported/Super Fang.ogg-b99fb49d442caaad6fc37de32e82221a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Super Fang.ogg"
-dest_files=["res://.godot/imported/Super Fang.ogg-2bd82f19bda00a6e1a53858b50ee02e4.oggvorbisstr"]
+source_file="res://audio/se/anim/Super Fang.ogg"
+dest_files=["res://.godot/imported/Super Fang.ogg-b99fb49d442caaad6fc37de32e82221a.oggvorbisstr"]
 
 [params]
 

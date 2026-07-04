@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://273hwixak5sc"
-path="res://.godot/imported/PRSFX- Bulldoze.wav-57c4398d6602c5877bc42a5a4620d78a.sample"
+path="res://.godot/imported/PRSFX- Bulldoze.wav-246fecc2851048d94255b62f0cd81c5a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bulldoze.wav"
-dest_files=["res://.godot/imported/PRSFX- Bulldoze.wav-57c4398d6602c5877bc42a5a4620d78a.sample"]
+source_file="res://audio/se/anim/PRSFX- Bulldoze.wav"
+dest_files=["res://.godot/imported/PRSFX- Bulldoze.wav-246fecc2851048d94255b62f0cd81c5a.sample"]
 
 [params]
 

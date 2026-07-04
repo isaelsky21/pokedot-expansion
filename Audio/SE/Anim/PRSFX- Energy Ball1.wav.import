@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://clk0rjhrnpwl8"
-path="res://.godot/imported/PRSFX- Energy Ball1.wav-b45e21ed03c78dcc3d8605898f3cfb5f.sample"
+path="res://.godot/imported/PRSFX- Energy Ball1.wav-ea7893ee2ea756405b975b6ef85501ae.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Energy Ball1.wav"
-dest_files=["res://.godot/imported/PRSFX- Energy Ball1.wav-b45e21ed03c78dcc3d8605898f3cfb5f.sample"]
+source_file="res://audio/se/anim/PRSFX- Energy Ball1.wav"
+dest_files=["res://.godot/imported/PRSFX- Energy Ball1.wav-ea7893ee2ea756405b975b6ef85501ae.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhfd6bnapbdpq"
-path="res://.godot/imported/WEEZING.ogg-4890bc43e7e60df22fe1a9b2d085faf6.oggvorbisstr"
+path="res://.godot/imported/WEEZING.ogg-6a39dcb027f327f2c316eacfa64113c2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WEEZING.ogg"
-dest_files=["res://.godot/imported/WEEZING.ogg-4890bc43e7e60df22fe1a9b2d085faf6.oggvorbisstr"]
+source_file="res://audio/se/cries/WEEZING.ogg"
+dest_files=["res://.godot/imported/WEEZING.ogg-6a39dcb027f327f2c316eacfa64113c2.oggvorbisstr"]
 
 [params]
 

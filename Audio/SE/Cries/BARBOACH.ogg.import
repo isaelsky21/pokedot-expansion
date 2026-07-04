@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://i34mr7exwdqv"
-path="res://.godot/imported/BARBOACH.ogg-53ac652f86d34f39482d82865ce928ae.oggvorbisstr"
+path="res://.godot/imported/BARBOACH.ogg-48801a230131080dd8e44b96e0c8a32a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BARBOACH.ogg"
-dest_files=["res://.godot/imported/BARBOACH.ogg-53ac652f86d34f39482d82865ce928ae.oggvorbisstr"]
+source_file="res://audio/se/cries/BARBOACH.ogg"
+dest_files=["res://.godot/imported/BARBOACH.ogg-48801a230131080dd8e44b96e0c8a32a.oggvorbisstr"]
 
 [params]
 

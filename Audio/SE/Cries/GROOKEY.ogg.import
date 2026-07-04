@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dpiiwbhcrgeav"
-path="res://.godot/imported/GROOKEY.ogg-70cf65259bfd1c24befe60e9e819611b.oggvorbisstr"
+path="res://.godot/imported/GROOKEY.ogg-beaa564dd870a4a8c58925b6c0afea0c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GROOKEY.ogg"
-dest_files=["res://.godot/imported/GROOKEY.ogg-70cf65259bfd1c24befe60e9e819611b.oggvorbisstr"]
+source_file="res://audio/se/cries/GROOKEY.ogg"
+dest_files=["res://.godot/imported/GROOKEY.ogg-beaa564dd870a4a8c58925b6c0afea0c.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dqamtfjmm0wu2"
-path="res://.godot/imported/PRSFX- Sand Tomb.wav-3334463055e2e9611400095b2604a028.sample"
+path="res://.godot/imported/PRSFX- Sand Tomb.wav-48c6f8f0559308ee511bbaeb335104bf.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sand Tomb.wav"
-dest_files=["res://.godot/imported/PRSFX- Sand Tomb.wav-3334463055e2e9611400095b2604a028.sample"]
+source_file="res://audio/se/anim/PRSFX- Sand Tomb.wav"
+dest_files=["res://.godot/imported/PRSFX- Sand Tomb.wav-48c6f8f0559308ee511bbaeb335104bf.sample"]
 
 [params]
 

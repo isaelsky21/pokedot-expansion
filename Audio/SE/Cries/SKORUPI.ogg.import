@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://kco65rvr1pg8"
-path="res://.godot/imported/SKORUPI.ogg-2d9ba0bec0e4d39d6984c88c4d315c7f.oggvorbisstr"
+path="res://.godot/imported/SKORUPI.ogg-f662599627d3a57db6361c38434b2ddf.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SKORUPI.ogg"
-dest_files=["res://.godot/imported/SKORUPI.ogg-2d9ba0bec0e4d39d6984c88c4d315c7f.oggvorbisstr"]
+source_file="res://audio/se/cries/SKORUPI.ogg"
+dest_files=["res://.godot/imported/SKORUPI.ogg-f662599627d3a57db6361c38434b2ddf.oggvorbisstr"]
 
 [params]
 

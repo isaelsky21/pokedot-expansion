@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cphpgmdabxv0r"
-path="res://.godot/imported/PRSFX- Echoed Voice.wav-39e27bae53a748f6f9b462eb4fa320de.sample"
+path="res://.godot/imported/PRSFX- Echoed Voice.wav-f4baf401fdd6ac5fd5f647b040e68a5c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Echoed Voice.wav"
-dest_files=["res://.godot/imported/PRSFX- Echoed Voice.wav-39e27bae53a748f6f9b462eb4fa320de.sample"]
+source_file="res://audio/se/anim/PRSFX- Echoed Voice.wav"
+dest_files=["res://.godot/imported/PRSFX- Echoed Voice.wav-f4baf401fdd6ac5fd5f647b040e68a5c.sample"]
 
 [params]
 

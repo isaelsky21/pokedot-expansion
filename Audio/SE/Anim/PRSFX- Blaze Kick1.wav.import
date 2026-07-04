@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ddmjeexm1hmln"
-path="res://.godot/imported/PRSFX- Blaze Kick1.wav-3d4ff82a83f2a25ce9d4e3e752534497.sample"
+path="res://.godot/imported/PRSFX- Blaze Kick1.wav-9169b0ff99d84aa0eba88e45ba223d33.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Blaze Kick1.wav"
-dest_files=["res://.godot/imported/PRSFX- Blaze Kick1.wav-3d4ff82a83f2a25ce9d4e3e752534497.sample"]
+source_file="res://audio/se/anim/PRSFX- Blaze Kick1.wav"
+dest_files=["res://.godot/imported/PRSFX- Blaze Kick1.wav-9169b0ff99d84aa0eba88e45ba223d33.sample"]
 
 [params]
 

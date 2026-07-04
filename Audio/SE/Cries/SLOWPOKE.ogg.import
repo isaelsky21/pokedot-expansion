@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b3rylfq76llsv"
-path="res://.godot/imported/SLOWPOKE.ogg-0d85cb51e9303946fde3085b044ffbba.oggvorbisstr"
+path="res://.godot/imported/SLOWPOKE.ogg-5bbba0d6fe7d8a793bf1f7f55e008799.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SLOWPOKE.ogg"
-dest_files=["res://.godot/imported/SLOWPOKE.ogg-0d85cb51e9303946fde3085b044ffbba.oggvorbisstr"]
+source_file="res://audio/se/cries/SLOWPOKE.ogg"
+dest_files=["res://.godot/imported/SLOWPOKE.ogg-5bbba0d6fe7d8a793bf1f7f55e008799.oggvorbisstr"]
 
 [params]
 

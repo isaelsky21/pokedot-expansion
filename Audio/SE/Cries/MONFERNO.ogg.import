@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://caspji4h8jtcd"
-path="res://.godot/imported/MONFERNO.ogg-1705866b352d58a85814609c19382814.oggvorbisstr"
+path="res://.godot/imported/MONFERNO.ogg-d93cf2eb09a9aa7b5e03ab161e1b41e8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MONFERNO.ogg"
-dest_files=["res://.godot/imported/MONFERNO.ogg-1705866b352d58a85814609c19382814.oggvorbisstr"]
+source_file="res://audio/se/cries/MONFERNO.ogg"
+dest_files=["res://.godot/imported/MONFERNO.ogg-d93cf2eb09a9aa7b5e03ab161e1b41e8.oggvorbisstr"]
 
 [params]
 

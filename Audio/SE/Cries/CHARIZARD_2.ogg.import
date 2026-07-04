@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bjd0rk14pkrin"
-path="res://.godot/imported/CHARIZARD_2.ogg-ae447a7db76e8fe2998d9138e8a9cfcc.oggvorbisstr"
+path="res://.godot/imported/CHARIZARD_2.ogg-06efde5e72a8cd56dcb053ffac62a69b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHARIZARD_2.ogg"
-dest_files=["res://.godot/imported/CHARIZARD_2.ogg-ae447a7db76e8fe2998d9138e8a9cfcc.oggvorbisstr"]
+source_file="res://audio/se/cries/CHARIZARD_2.ogg"
+dest_files=["res://.godot/imported/CHARIZARD_2.ogg-06efde5e72a8cd56dcb053ffac62a69b.oggvorbisstr"]
 
 [params]
 

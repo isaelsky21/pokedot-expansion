@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bipk2bnvihgfv"
-path="res://.godot/imported/JANGMOO.ogg-02aa539db22a60b037b7c081fa4f2587.oggvorbisstr"
+path="res://.godot/imported/JANGMOO.ogg-9d4ebe471fa1c00f770f6618a84baeba.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/JANGMOO.ogg"
-dest_files=["res://.godot/imported/JANGMOO.ogg-02aa539db22a60b037b7c081fa4f2587.oggvorbisstr"]
+source_file="res://audio/se/cries/JANGMOO.ogg"
+dest_files=["res://.godot/imported/JANGMOO.ogg-9d4ebe471fa1c00f770f6618a84baeba.oggvorbisstr"]
 
 [params]
 

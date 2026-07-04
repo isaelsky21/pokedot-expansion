@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vjb5uyy1851y"
-path="res://.godot/imported/ORANGURU.ogg-0993f86795c057a8416e0278dc6f3592.oggvorbisstr"
+path="res://.godot/imported/ORANGURU.ogg-ad27395c9571f6183ca4b159050f6f25.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ORANGURU.ogg"
-dest_files=["res://.godot/imported/ORANGURU.ogg-0993f86795c057a8416e0278dc6f3592.oggvorbisstr"]
+source_file="res://audio/se/cries/ORANGURU.ogg"
+dest_files=["res://.godot/imported/ORANGURU.ogg-ad27395c9571f6183ca4b159050f6f25.oggvorbisstr"]
 
 [params]
 

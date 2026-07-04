@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dmyncq5j0rl2"
-path="res://.godot/imported/PRSFX- Flame Charge1.wav-9741f3c2122e79e55eed87a2966a5335.sample"
+path="res://.godot/imported/PRSFX- Flame Charge1.wav-412d70b99480fa30ed9d5b0d4b9b5695.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Flame Charge1.wav"
-dest_files=["res://.godot/imported/PRSFX- Flame Charge1.wav-9741f3c2122e79e55eed87a2966a5335.sample"]
+source_file="res://audio/se/anim/PRSFX- Flame Charge1.wav"
+dest_files=["res://.godot/imported/PRSFX- Flame Charge1.wav-412d70b99480fa30ed9d5b0d4b9b5695.sample"]
 
 [params]
 

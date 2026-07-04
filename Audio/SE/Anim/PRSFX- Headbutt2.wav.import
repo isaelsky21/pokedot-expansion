@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ccjjdyew4pmyp"
-path="res://.godot/imported/PRSFX- Headbutt2.wav-825283588da8d77dd19e1831e3358136.sample"
+path="res://.godot/imported/PRSFX- Headbutt2.wav-8d62e18b84ce08fc4a05e2d45339bbde.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Headbutt2.wav"
-dest_files=["res://.godot/imported/PRSFX- Headbutt2.wav-825283588da8d77dd19e1831e3358136.sample"]
+source_file="res://audio/se/anim/PRSFX- Headbutt2.wav"
+dest_files=["res://.godot/imported/PRSFX- Headbutt2.wav-8d62e18b84ce08fc4a05e2d45339bbde.sample"]
 
 [params]
 

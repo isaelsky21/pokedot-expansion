@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://rgtmu6mabjor"
-path="res://.godot/imported/PRSFX- Continental Crush2.ogg-aff03cb052616ea7814546705996e2c0.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Continental Crush2.ogg-160439264fe9ed0892054da38554ed68.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Continental Crush2.ogg"
-dest_files=["res://.godot/imported/PRSFX- Continental Crush2.ogg-aff03cb052616ea7814546705996e2c0.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Continental Crush2.ogg"
+dest_files=["res://.godot/imported/PRSFX- Continental Crush2.ogg-160439264fe9ed0892054da38554ed68.oggvorbisstr"]
 
 [params]
 

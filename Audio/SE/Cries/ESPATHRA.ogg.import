@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://chpmjewbql502"
-path="res://.godot/imported/ESPATHRA.ogg-5b8e7667f0a79c6ef10a5b35580667de.oggvorbisstr"
+path="res://.godot/imported/ESPATHRA.ogg-d9d0b02019ed6134be0f6532b5877e6a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ESPATHRA.ogg"
-dest_files=["res://.godot/imported/ESPATHRA.ogg-5b8e7667f0a79c6ef10a5b35580667de.oggvorbisstr"]
+source_file="res://audio/se/cries/ESPATHRA.ogg"
+dest_files=["res://.godot/imported/ESPATHRA.ogg-d9d0b02019ed6134be0f6532b5877e6a.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3ts5pndu8gjs"
-path="res://.godot/imported/LOMBRE.ogg-cc3dd155be2f07cee5a25a893c4f673b.oggvorbisstr"
+path="res://.godot/imported/LOMBRE.ogg-23cf3b353d7918ae74e69098a430b94f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LOMBRE.ogg"
-dest_files=["res://.godot/imported/LOMBRE.ogg-cc3dd155be2f07cee5a25a893c4f673b.oggvorbisstr"]
+source_file="res://audio/se/cries/LOMBRE.ogg"
+dest_files=["res://.godot/imported/LOMBRE.ogg-23cf3b353d7918ae74e69098a430b94f.oggvorbisstr"]
 
 [params]
 

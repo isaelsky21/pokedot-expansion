@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dga6rwi0ax4g3"
-path="res://.godot/imported/PRSFX- Poison Powder.wav-677af78db8d769d3a0136f5540130b1b.sample"
+path="res://.godot/imported/PRSFX- Poison Powder.wav-8e59550c7a7371f4d8cb75611621f8f0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Poison Powder.wav"
-dest_files=["res://.godot/imported/PRSFX- Poison Powder.wav-677af78db8d769d3a0136f5540130b1b.sample"]
+source_file="res://audio/se/anim/PRSFX- Poison Powder.wav"
+dest_files=["res://.godot/imported/PRSFX- Poison Powder.wav-8e59550c7a7371f4d8cb75611621f8f0.sample"]
 
 [params]
 

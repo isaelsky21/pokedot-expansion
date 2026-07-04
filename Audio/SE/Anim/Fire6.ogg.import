@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctajcontcojon"
-path="res://.godot/imported/Fire6.ogg-788ee9593fc5e3c0498100e14c071733.oggvorbisstr"
+path="res://.godot/imported/Fire6.ogg-8508f89b276c72b14243e2eb0512dd9b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Fire6.ogg"
-dest_files=["res://.godot/imported/Fire6.ogg-788ee9593fc5e3c0498100e14c071733.oggvorbisstr"]
+source_file="res://audio/se/anim/Fire6.ogg"
+dest_files=["res://.godot/imported/Fire6.ogg-8508f89b276c72b14243e2eb0512dd9b.oggvorbisstr"]
 
 [params]
 

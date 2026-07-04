@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c7sm227fdq7n2"
-path="res://.godot/imported/PRSFX- Wonder Room.wav-9cd66641cbf8e70d97176a32fa5769ee.sample"
+path="res://.godot/imported/PRSFX- Wonder Room.wav-00e7667c4610b31914c7c65217e80cf7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Wonder Room.wav"
-dest_files=["res://.godot/imported/PRSFX- Wonder Room.wav-9cd66641cbf8e70d97176a32fa5769ee.sample"]
+source_file="res://audio/se/anim/PRSFX- Wonder Room.wav"
+dest_files=["res://.godot/imported/PRSFX- Wonder Room.wav-00e7667c4610b31914c7c65217e80cf7.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b3ewulvyishkn"
-path="res://.godot/imported/PRSFX- Ice Hammer1.wav-966a86e73ea6620bc57d7ae477b9a309.sample"
+path="res://.godot/imported/PRSFX- Ice Hammer1.wav-38d5ee931f5dc5d3bc28455a05467b15.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ice Hammer1.wav"
-dest_files=["res://.godot/imported/PRSFX- Ice Hammer1.wav-966a86e73ea6620bc57d7ae477b9a309.sample"]
+source_file="res://audio/se/anim/PRSFX- Ice Hammer1.wav"
+dest_files=["res://.godot/imported/PRSFX- Ice Hammer1.wav-38d5ee931f5dc5d3bc28455a05467b15.sample"]
 
 [params]
 

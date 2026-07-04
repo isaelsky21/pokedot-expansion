@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d2eg4w7k4sf4o"
-path="res://.godot/imported/Gen 9 - Syrup Bomb.ogg-92863c9ae2741bdaeae0d88107b1f998.oggvorbisstr"
+path="res://.godot/imported/Gen 9 - Syrup Bomb.ogg-ed30da4192d84c6e16e282e62e572e29.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Gen 9 - Syrup Bomb.ogg"
-dest_files=["res://.godot/imported/Gen 9 - Syrup Bomb.ogg-92863c9ae2741bdaeae0d88107b1f998.oggvorbisstr"]
+source_file="res://audio/se/anim/Gen 9 - Syrup Bomb.ogg"
+dest_files=["res://.godot/imported/Gen 9 - Syrup Bomb.ogg-ed30da4192d84c6e16e282e62e572e29.oggvorbisstr"]
 
 [params]
 

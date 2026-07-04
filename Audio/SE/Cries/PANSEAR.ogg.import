@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dvmkcueb7d4xk"
-path="res://.godot/imported/PANSEAR.ogg-af6e3e55a9a9411896b65b358d32991f.oggvorbisstr"
+path="res://.godot/imported/PANSEAR.ogg-a063cc98ef30a853ddff5b3403d0b896.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PANSEAR.ogg"
-dest_files=["res://.godot/imported/PANSEAR.ogg-af6e3e55a9a9411896b65b358d32991f.oggvorbisstr"]
+source_file="res://audio/se/cries/PANSEAR.ogg"
+dest_files=["res://.godot/imported/PANSEAR.ogg-a063cc98ef30a853ddff5b3403d0b896.oggvorbisstr"]
 
 [params]
 

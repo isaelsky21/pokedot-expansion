@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://t5gk22ypgto6"
-path="res://.godot/imported/PRSFX- Aeroblast.wav-22b9d1fe620124faed86cb3796ed6b67.sample"
+path="res://.godot/imported/PRSFX- Aeroblast.wav-0ce81cd7e7d179d19d9e7be61a020293.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aeroblast.wav"
-dest_files=["res://.godot/imported/PRSFX- Aeroblast.wav-22b9d1fe620124faed86cb3796ed6b67.sample"]
+source_file="res://audio/se/anim/PRSFX- Aeroblast.wav"
+dest_files=["res://.godot/imported/PRSFX- Aeroblast.wav-0ce81cd7e7d179d19d9e7be61a020293.sample"]
 
 [params]
 

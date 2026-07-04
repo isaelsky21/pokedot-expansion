@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://snd8gjvsple3"
-path="res://.godot/imported/TURTONATOR.ogg-88f82d8a04618a0648a3bf4b7a4a6e9e.oggvorbisstr"
+path="res://.godot/imported/TURTONATOR.ogg-a9069689b966ee39ee5ac08de91c065d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TURTONATOR.ogg"
-dest_files=["res://.godot/imported/TURTONATOR.ogg-88f82d8a04618a0648a3bf4b7a4a6e9e.oggvorbisstr"]
+source_file="res://audio/se/cries/TURTONATOR.ogg"
+dest_files=["res://.godot/imported/TURTONATOR.ogg-a9069689b966ee39ee5ac08de91c065d.oggvorbisstr"]
 
 [params]
 

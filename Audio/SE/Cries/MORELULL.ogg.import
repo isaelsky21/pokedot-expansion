@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dh1ktcnmtukdo"
-path="res://.godot/imported/MORELULL.ogg-c0ffdfb7d431cf856a412e1463d0805d.oggvorbisstr"
+path="res://.godot/imported/MORELULL.ogg-e54fe069caf4dcdc0daccdc47b0ba316.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MORELULL.ogg"
-dest_files=["res://.godot/imported/MORELULL.ogg-c0ffdfb7d431cf856a412e1463d0805d.oggvorbisstr"]
+source_file="res://audio/se/cries/MORELULL.ogg"
+dest_files=["res://.godot/imported/MORELULL.ogg-e54fe069caf4dcdc0daccdc47b0ba316.oggvorbisstr"]
 
 [params]
 

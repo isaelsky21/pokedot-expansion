@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://pajke7oe8sco"
-path="res://.godot/imported/DECIDUEYE.ogg-86ec22fc3f1926c34d6a7c4e81bee48b.oggvorbisstr"
+path="res://.godot/imported/DECIDUEYE.ogg-5d9dfb17d7d331f7d05bd290023b56b1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DECIDUEYE.ogg"
-dest_files=["res://.godot/imported/DECIDUEYE.ogg-86ec22fc3f1926c34d6a7c4e81bee48b.oggvorbisstr"]
+source_file="res://audio/se/cries/DECIDUEYE.ogg"
+dest_files=["res://.godot/imported/DECIDUEYE.ogg-5d9dfb17d7d331f7d05bd290023b56b1.oggvorbisstr"]
 
 [params]
 

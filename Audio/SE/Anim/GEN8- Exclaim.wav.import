@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bx5c65p14cff0"
-path="res://.godot/imported/GEN8- Exclaim.wav-2de83d0cbea6fceba7b0c5a4b5d59d46.sample"
+path="res://.godot/imported/GEN8- Exclaim.wav-cbb213ee18c22f119243580a35be010e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/GEN8- Exclaim.wav"
-dest_files=["res://.godot/imported/GEN8- Exclaim.wav-2de83d0cbea6fceba7b0c5a4b5d59d46.sample"]
+source_file="res://audio/se/anim/GEN8- Exclaim.wav"
+dest_files=["res://.godot/imported/GEN8- Exclaim.wav-cbb213ee18c22f119243580a35be010e.sample"]
 
 [params]
 

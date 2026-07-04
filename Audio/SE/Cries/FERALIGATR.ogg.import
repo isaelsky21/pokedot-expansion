@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cgjvb4dnera3f"
-path="res://.godot/imported/FERALIGATR.ogg-3e3c3967d36f8ec4095af0f5b390e40a.oggvorbisstr"
+path="res://.godot/imported/FERALIGATR.ogg-5dccfec9bde84eafa57c82c4103e2cc5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FERALIGATR.ogg"
-dest_files=["res://.godot/imported/FERALIGATR.ogg-3e3c3967d36f8ec4095af0f5b390e40a.oggvorbisstr"]
+source_file="res://audio/se/cries/FERALIGATR.ogg"
+dest_files=["res://.godot/imported/FERALIGATR.ogg-5dccfec9bde84eafa57c82c4103e2cc5.oggvorbisstr"]
 
 [params]
 

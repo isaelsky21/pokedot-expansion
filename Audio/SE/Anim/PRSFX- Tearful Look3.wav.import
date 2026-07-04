@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cnbwfacpfufs2"
-path="res://.godot/imported/PRSFX- Tearful Look3.wav-23788e3e0030d36ce6ec4506e5a64394.sample"
+path="res://.godot/imported/PRSFX- Tearful Look3.wav-a9e999924a3b7193b82c809f193d07e7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Tearful Look3.wav"
-dest_files=["res://.godot/imported/PRSFX- Tearful Look3.wav-23788e3e0030d36ce6ec4506e5a64394.sample"]
+source_file="res://audio/se/anim/PRSFX- Tearful Look3.wav"
+dest_files=["res://.godot/imported/PRSFX- Tearful Look3.wav-a9e999924a3b7193b82c809f193d07e7.sample"]
 
 [params]
 

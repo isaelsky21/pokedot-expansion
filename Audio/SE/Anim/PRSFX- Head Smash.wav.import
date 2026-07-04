@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cuc8ajaokgcfl"
-path="res://.godot/imported/PRSFX- Head Smash.wav-15ca5b2640033a9a66835f99a15d3c66.sample"
+path="res://.godot/imported/PRSFX- Head Smash.wav-16fc0b7e0eb2d5ee118b6332f2424e3b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Head Smash.wav"
-dest_files=["res://.godot/imported/PRSFX- Head Smash.wav-15ca5b2640033a9a66835f99a15d3c66.sample"]
+source_file="res://audio/se/anim/PRSFX- Head Smash.wav"
+dest_files=["res://.godot/imported/PRSFX- Head Smash.wav-16fc0b7e0eb2d5ee118b6332f2424e3b.sample"]
 
 [params]
 

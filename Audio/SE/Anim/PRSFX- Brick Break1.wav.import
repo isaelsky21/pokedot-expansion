@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ckcixdarhn4vo"
-path="res://.godot/imported/PRSFX- Brick Break1.wav-4f2df0fde8fc3412cd71a6590a1df25d.sample"
+path="res://.godot/imported/PRSFX- Brick Break1.wav-1b5d2653e42ecc1ea6f6ad52a5d85712.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Brick Break1.wav"
-dest_files=["res://.godot/imported/PRSFX- Brick Break1.wav-4f2df0fde8fc3412cd71a6590a1df25d.sample"]
+source_file="res://audio/se/anim/PRSFX- Brick Break1.wav"
+dest_files=["res://.godot/imported/PRSFX- Brick Break1.wav-1b5d2653e42ecc1ea6f6ad52a5d85712.sample"]
 
 [params]
 

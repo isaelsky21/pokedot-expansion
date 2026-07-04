@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b3uaboy4x2o17"
-path="res://.godot/imported/QUAGSIRE.ogg-d8b288346f203cd43a93979c6aa41f42.oggvorbisstr"
+path="res://.godot/imported/QUAGSIRE.ogg-ff8bdf98f00a2df88e51769580333af0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/QUAGSIRE.ogg"
-dest_files=["res://.godot/imported/QUAGSIRE.ogg-d8b288346f203cd43a93979c6aa41f42.oggvorbisstr"]
+source_file="res://audio/se/cries/QUAGSIRE.ogg"
+dest_files=["res://.godot/imported/QUAGSIRE.ogg-ff8bdf98f00a2df88e51769580333af0.oggvorbisstr"]
 
 [params]
 

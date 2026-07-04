@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://yg5amyvis8nw"
-path="res://.godot/imported/Dizzy Punch.ogg-89127514bf5ea3428606e490fd6e9529.oggvorbisstr"
+path="res://.godot/imported/Dizzy Punch.ogg-4dab960afdac8542a9c18e0f8250d706.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Dizzy Punch.ogg"
-dest_files=["res://.godot/imported/Dizzy Punch.ogg-89127514bf5ea3428606e490fd6e9529.oggvorbisstr"]
+source_file="res://audio/se/anim/Dizzy Punch.ogg"
+dest_files=["res://.godot/imported/Dizzy Punch.ogg-4dab960afdac8542a9c18e0f8250d706.oggvorbisstr"]
 
 [params]
 

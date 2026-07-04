@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c3u0tbu1yr02p"
-path="res://.godot/imported/PRSFX- Double Team.wav-38562c882fa284c1d68589bab7223a57.sample"
+path="res://.godot/imported/PRSFX- Double Team.wav-afc902922f8084b8934348a4db509f11.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Double Team.wav"
-dest_files=["res://.godot/imported/PRSFX- Double Team.wav-38562c882fa284c1d68589bab7223a57.sample"]
+source_file="res://audio/se/anim/PRSFX- Double Team.wav"
+dest_files=["res://.godot/imported/PRSFX- Double Team.wav-afc902922f8084b8934348a4db509f11.sample"]
 
 [params]
 

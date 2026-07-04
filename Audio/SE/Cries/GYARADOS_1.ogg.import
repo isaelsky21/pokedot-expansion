@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://di1f4o06ocukx"
-path="res://.godot/imported/GYARADOS_1.ogg-6c3652cbed54f6caef26d9fa6f6ee0b5.oggvorbisstr"
+path="res://.godot/imported/GYARADOS_1.ogg-995b2f3426f62387f57ce565eceae623.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GYARADOS_1.ogg"
-dest_files=["res://.godot/imported/GYARADOS_1.ogg-6c3652cbed54f6caef26d9fa6f6ee0b5.oggvorbisstr"]
+source_file="res://audio/se/cries/GYARADOS_1.ogg"
+dest_files=["res://.godot/imported/GYARADOS_1.ogg-995b2f3426f62387f57ce565eceae623.oggvorbisstr"]
 
 [params]
 

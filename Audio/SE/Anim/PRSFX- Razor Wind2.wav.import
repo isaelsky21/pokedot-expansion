@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c1bw8ie0ywaup"
-path="res://.godot/imported/PRSFX- Razor Wind2.wav-9dc6a0a07e907e027b5811d822b2f06f.sample"
+path="res://.godot/imported/PRSFX- Razor Wind2.wav-bcd63fca523ede1f6f61904b0055f91c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Razor Wind2.wav"
-dest_files=["res://.godot/imported/PRSFX- Razor Wind2.wav-9dc6a0a07e907e027b5811d822b2f06f.sample"]
+source_file="res://audio/se/anim/PRSFX- Razor Wind2.wav"
+dest_files=["res://.godot/imported/PRSFX- Razor Wind2.wav-bcd63fca523ede1f6f61904b0055f91c.sample"]
 
 [params]
 

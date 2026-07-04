@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://4x532mgch0p6"
-path="res://.godot/imported/PRSFX- Tackle.wav-599a7e9127d2687c6d4b932a2edbd122.sample"
+path="res://.godot/imported/PRSFX- Tackle.wav-13ef2ba78d46cf825ec4bfaef0fa6e81.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Tackle.wav"
-dest_files=["res://.godot/imported/PRSFX- Tackle.wav-599a7e9127d2687c6d4b932a2edbd122.sample"]
+source_file="res://audio/se/anim/PRSFX- Tackle.wav"
+dest_files=["res://.godot/imported/PRSFX- Tackle.wav-13ef2ba78d46cf825ec4bfaef0fa6e81.sample"]
 
 [params]
 

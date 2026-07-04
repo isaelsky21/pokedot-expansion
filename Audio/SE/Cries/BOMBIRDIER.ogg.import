@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b7n4ubo6hnpr7"
-path="res://.godot/imported/BOMBIRDIER.ogg-c7c697515b2905f25386a364b2a8d036.oggvorbisstr"
+path="res://.godot/imported/BOMBIRDIER.ogg-29866c55641f421d60fe23bd4ba90569.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BOMBIRDIER.ogg"
-dest_files=["res://.godot/imported/BOMBIRDIER.ogg-c7c697515b2905f25386a364b2a8d036.oggvorbisstr"]
+source_file="res://audio/se/cries/BOMBIRDIER.ogg"
+dest_files=["res://.godot/imported/BOMBIRDIER.ogg-29866c55641f421d60fe23bd4ba90569.oggvorbisstr"]
 
 [params]
 

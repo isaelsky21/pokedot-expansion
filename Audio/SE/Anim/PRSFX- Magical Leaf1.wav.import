@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cxksxtu6vwabm"
-path="res://.godot/imported/PRSFX- Magical Leaf1.wav-a8520e41c5f11f78e05031fd2db2c7c1.sample"
+path="res://.godot/imported/PRSFX- Magical Leaf1.wav-9f66cdeac5136dc587df4c0ee7dfd9b8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Magical Leaf1.wav"
-dest_files=["res://.godot/imported/PRSFX- Magical Leaf1.wav-a8520e41c5f11f78e05031fd2db2c7c1.sample"]
+source_file="res://audio/se/anim/PRSFX- Magical Leaf1.wav"
+dest_files=["res://.godot/imported/PRSFX- Magical Leaf1.wav-9f66cdeac5136dc587df4c0ee7dfd9b8.sample"]
 
 [params]
 

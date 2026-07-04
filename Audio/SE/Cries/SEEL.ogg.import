@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://w0kbsq4dm5gv"
-path="res://.godot/imported/SEEL.ogg-5463aa216b27f58e3f13b0b2eeb56e7e.oggvorbisstr"
+path="res://.godot/imported/SEEL.ogg-9f31c62bd41c84653b0b2245d104425e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SEEL.ogg"
-dest_files=["res://.godot/imported/SEEL.ogg-5463aa216b27f58e3f13b0b2eeb56e7e.oggvorbisstr"]
+source_file="res://audio/se/cries/SEEL.ogg"
+dest_files=["res://.godot/imported/SEEL.ogg-9f31c62bd41c84653b0b2245d104425e.oggvorbisstr"]
 
 [params]
 

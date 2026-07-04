@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ca2kfpwjws0th"
-path="res://.godot/imported/PRSFX- Dark Pulse2.wav-fdacd3b92136755f1ddac25b28df68f9.sample"
+path="res://.godot/imported/PRSFX- Dark Pulse2.wav-f927b0a89512c60d3e04efcb8d080245.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dark Pulse2.wav"
-dest_files=["res://.godot/imported/PRSFX- Dark Pulse2.wav-fdacd3b92136755f1ddac25b28df68f9.sample"]
+source_file="res://audio/se/anim/PRSFX- Dark Pulse2.wav"
+dest_files=["res://.godot/imported/PRSFX- Dark Pulse2.wav-f927b0a89512c60d3e04efcb8d080245.sample"]
 
 [params]
 

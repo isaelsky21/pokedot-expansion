@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://6q4c543aedjs"
-path="res://.godot/imported/PRSFX- Wide Guard.wav-8ceb27f15204d41eb3b35d8606f67a9b.sample"
+path="res://.godot/imported/PRSFX- Wide Guard.wav-477980b6a83c29cebbd151a38c3bfdd7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Wide Guard.wav"
-dest_files=["res://.godot/imported/PRSFX- Wide Guard.wav-8ceb27f15204d41eb3b35d8606f67a9b.sample"]
+source_file="res://audio/se/anim/PRSFX- Wide Guard.wav"
+dest_files=["res://.godot/imported/PRSFX- Wide Guard.wav-477980b6a83c29cebbd151a38c3bfdd7.sample"]
 
 [params]
 

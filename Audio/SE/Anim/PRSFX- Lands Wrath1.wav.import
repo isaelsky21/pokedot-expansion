@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dxjuiidf88xqa"
-path="res://.godot/imported/PRSFX- Lands Wrath1.wav-e1262a887810c51d69d3300bdd59b0cf.sample"
+path="res://.godot/imported/PRSFX- Lands Wrath1.wav-5b98da0e9a7c7e048e9093181d64ca73.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Lands Wrath1.wav"
-dest_files=["res://.godot/imported/PRSFX- Lands Wrath1.wav-e1262a887810c51d69d3300bdd59b0cf.sample"]
+source_file="res://audio/se/anim/PRSFX- Lands Wrath1.wav"
+dest_files=["res://.godot/imported/PRSFX- Lands Wrath1.wav-5b98da0e9a7c7e048e9093181d64ca73.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://csbjh5gld7iik"
-path="res://.godot/imported/PRSFX- Fell Stinger1.wav-b7bd2848a2d991acb3adf0e499732bbe.sample"
+path="res://.godot/imported/PRSFX- Fell Stinger1.wav-d8a3a01427356af908e41e4aba85466c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fell Stinger1.wav"
-dest_files=["res://.godot/imported/PRSFX- Fell Stinger1.wav-b7bd2848a2d991acb3adf0e499732bbe.sample"]
+source_file="res://audio/se/anim/PRSFX- Fell Stinger1.wav"
+dest_files=["res://.godot/imported/PRSFX- Fell Stinger1.wav-d8a3a01427356af908e41e4aba85466c.sample"]
 
 [params]
 

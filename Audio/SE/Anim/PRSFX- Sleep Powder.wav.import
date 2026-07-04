@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://blk64a4isebwb"
-path="res://.godot/imported/PRSFX- Sleep Powder.wav-2b7255b8c7a88facf106980d137b56c2.sample"
+path="res://.godot/imported/PRSFX- Sleep Powder.wav-bd26da1ed8e47d24977505cc1b33df48.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sleep Powder.wav"
-dest_files=["res://.godot/imported/PRSFX- Sleep Powder.wav-2b7255b8c7a88facf106980d137b56c2.sample"]
+source_file="res://audio/se/anim/PRSFX- Sleep Powder.wav"
+dest_files=["res://.godot/imported/PRSFX- Sleep Powder.wav-bd26da1ed8e47d24977505cc1b33df48.sample"]
 
 [params]
 

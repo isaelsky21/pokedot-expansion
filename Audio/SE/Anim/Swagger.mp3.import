@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bjlcjgxmwvkc6"
-path="res://.godot/imported/Swagger.mp3-c8f7ad917cd0b464dc0863c5ba1d6ae1.mp3str"
+path="res://.godot/imported/Swagger.mp3-23ee2c95726876c48ff3a7bb940af4c9.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Swagger.mp3"
-dest_files=["res://.godot/imported/Swagger.mp3-c8f7ad917cd0b464dc0863c5ba1d6ae1.mp3str"]
+source_file="res://audio/se/anim/Swagger.mp3"
+dest_files=["res://.godot/imported/Swagger.mp3-23ee2c95726876c48ff3a7bb940af4c9.mp3str"]
 
 [params]
 

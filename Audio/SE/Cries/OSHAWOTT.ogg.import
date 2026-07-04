@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8qm0t0q7mdpu"
-path="res://.godot/imported/OSHAWOTT.ogg-cf9c6abbe8e8f505516413138fa457c1.oggvorbisstr"
+path="res://.godot/imported/OSHAWOTT.ogg-ad002775d198c6e22b029df4c45d79c9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/OSHAWOTT.ogg"
-dest_files=["res://.godot/imported/OSHAWOTT.ogg-cf9c6abbe8e8f505516413138fa457c1.oggvorbisstr"]
+source_file="res://audio/se/cries/OSHAWOTT.ogg"
+dest_files=["res://.godot/imported/OSHAWOTT.ogg-ad002775d198c6e22b029df4c45d79c9.oggvorbisstr"]
 
 [params]
 

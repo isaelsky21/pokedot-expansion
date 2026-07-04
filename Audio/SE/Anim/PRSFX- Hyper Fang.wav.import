@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bu56l1y8q33mp"
-path="res://.godot/imported/PRSFX- Hyper Fang.wav-e7030a9bed2a94efb8b8076e563c71ce.sample"
+path="res://.godot/imported/PRSFX- Hyper Fang.wav-2002c70c23fa394c7e0ac58a2dc060dd.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hyper Fang.wav"
-dest_files=["res://.godot/imported/PRSFX- Hyper Fang.wav-e7030a9bed2a94efb8b8076e563c71ce.sample"]
+source_file="res://audio/se/anim/PRSFX- Hyper Fang.wav"
+dest_files=["res://.godot/imported/PRSFX- Hyper Fang.wav-2002c70c23fa394c7e0ac58a2dc060dd.sample"]
 
 [params]
 

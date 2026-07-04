@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://xbpwyc7jayqk"
-path="res://.godot/imported/DACHSBUN.ogg-9f733cbd12bd83389044dc1575023a10.oggvorbisstr"
+path="res://.godot/imported/DACHSBUN.ogg-1670a39294a7d65ef175266c9ef87bfd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DACHSBUN.ogg"
-dest_files=["res://.godot/imported/DACHSBUN.ogg-9f733cbd12bd83389044dc1575023a10.oggvorbisstr"]
+source_file="res://audio/se/cries/DACHSBUN.ogg"
+dest_files=["res://.godot/imported/DACHSBUN.ogg-1670a39294a7d65ef175266c9ef87bfd.oggvorbisstr"]
 
 [params]
 

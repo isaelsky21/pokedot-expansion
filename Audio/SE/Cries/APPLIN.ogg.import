@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cwb70yv3a2y1r"
-path="res://.godot/imported/APPLIN.ogg-08148c62ed9a90b1c266eca989cb66c5.oggvorbisstr"
+path="res://.godot/imported/APPLIN.ogg-70de707151ab5f8db5deb955bb6868c9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/APPLIN.ogg"
-dest_files=["res://.godot/imported/APPLIN.ogg-08148c62ed9a90b1c266eca989cb66c5.oggvorbisstr"]
+source_file="res://audio/se/cries/APPLIN.ogg"
+dest_files=["res://.godot/imported/APPLIN.ogg-70de707151ab5f8db5deb955bb6868c9.oggvorbisstr"]
 
 [params]
 

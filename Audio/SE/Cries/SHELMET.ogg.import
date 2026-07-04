@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://br253f2pk226f"
-path="res://.godot/imported/SHELMET.ogg-4cc52a158077d176685591ba623c664d.oggvorbisstr"
+path="res://.godot/imported/SHELMET.ogg-312661a53d93ba0af42b8d816e61f9d8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHELMET.ogg"
-dest_files=["res://.godot/imported/SHELMET.ogg-4cc52a158077d176685591ba623c664d.oggvorbisstr"]
+source_file="res://audio/se/cries/SHELMET.ogg"
+dest_files=["res://.godot/imported/SHELMET.ogg-312661a53d93ba0af42b8d816e61f9d8.oggvorbisstr"]
 
 [params]
 

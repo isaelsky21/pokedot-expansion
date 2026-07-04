@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bliowg5e22nw5"
-path="res://.godot/imported/MAWILE_1.ogg-74a56e8cfc3a73fd08142373a13a3ab0.oggvorbisstr"
+path="res://.godot/imported/MAWILE_1.ogg-257043c1f725a7ba440d1fd373dd52e7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAWILE_1.ogg"
-dest_files=["res://.godot/imported/MAWILE_1.ogg-74a56e8cfc3a73fd08142373a13a3ab0.oggvorbisstr"]
+source_file="res://audio/se/cries/MAWILE_1.ogg"
+dest_files=["res://.godot/imported/MAWILE_1.ogg-257043c1f725a7ba440d1fd373dd52e7.oggvorbisstr"]
 
 [params]
 

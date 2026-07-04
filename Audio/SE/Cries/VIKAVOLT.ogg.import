@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b2sclfp323h3j"
-path="res://.godot/imported/VIKAVOLT.ogg-65758a7f9cf8ac7db28f8087419fbbe0.oggvorbisstr"
+path="res://.godot/imported/VIKAVOLT.ogg-0159200d1ca2de7381dff66cb8d9695d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VIKAVOLT.ogg"
-dest_files=["res://.godot/imported/VIKAVOLT.ogg-65758a7f9cf8ac7db28f8087419fbbe0.oggvorbisstr"]
+source_file="res://audio/se/cries/VIKAVOLT.ogg"
+dest_files=["res://.godot/imported/VIKAVOLT.ogg-0159200d1ca2de7381dff66cb8d9695d.oggvorbisstr"]
 
 [params]
 

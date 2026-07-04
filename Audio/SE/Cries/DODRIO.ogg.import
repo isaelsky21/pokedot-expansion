@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cydnif3mpgdr8"
-path="res://.godot/imported/DODRIO.ogg-bfb8a1a1c08866ccaf25378ba7f28b45.oggvorbisstr"
+path="res://.godot/imported/DODRIO.ogg-3d8dffd91b9e6b373b83966173f3a64a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DODRIO.ogg"
-dest_files=["res://.godot/imported/DODRIO.ogg-bfb8a1a1c08866ccaf25378ba7f28b45.oggvorbisstr"]
+source_file="res://audio/se/cries/DODRIO.ogg"
+dest_files=["res://.godot/imported/DODRIO.ogg-3d8dffd91b9e6b373b83966173f3a64a.oggvorbisstr"]
 
 [params]
 

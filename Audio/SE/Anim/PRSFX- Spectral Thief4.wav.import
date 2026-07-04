@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d0p4maoveso4c"
-path="res://.godot/imported/PRSFX- Spectral Thief4.wav-6dce09d8ea7046ca4656f56ddb2844b0.sample"
+path="res://.godot/imported/PRSFX- Spectral Thief4.wav-60c7d6848faa7438a6790779cb8a3418.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spectral Thief4.wav"
-dest_files=["res://.godot/imported/PRSFX- Spectral Thief4.wav-6dce09d8ea7046ca4656f56ddb2844b0.sample"]
+source_file="res://audio/se/anim/PRSFX- Spectral Thief4.wav"
+dest_files=["res://.godot/imported/PRSFX- Spectral Thief4.wav-60c7d6848faa7438a6790779cb8a3418.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bmc523kvplaeh"
-path="res://.godot/imported/CELUREDGE.ogg-bb409c280e108e42c69a7e76d5741bf0.oggvorbisstr"
+path="res://.godot/imported/CELUREDGE.ogg-a9d201694e28b5e829457b26e53e5418.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CELUREDGE.ogg"
-dest_files=["res://.godot/imported/CELUREDGE.ogg-bb409c280e108e42c69a7e76d5741bf0.oggvorbisstr"]
+source_file="res://audio/se/cries/CELUREDGE.ogg"
+dest_files=["res://.godot/imported/CELUREDGE.ogg-a9d201694e28b5e829457b26e53e5418.oggvorbisstr"]
 
 [params]
 

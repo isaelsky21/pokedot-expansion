@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dga0obs2uiidl"
-path="res://.godot/imported/LANTURN.ogg-0eb88fd9e0136cd616ae12655a0ecde1.oggvorbisstr"
+path="res://.godot/imported/LANTURN.ogg-e6f61c7f410ae77d07372a727219cb6b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LANTURN.ogg"
-dest_files=["res://.godot/imported/LANTURN.ogg-0eb88fd9e0136cd616ae12655a0ecde1.oggvorbisstr"]
+source_file="res://audio/se/cries/LANTURN.ogg"
+dest_files=["res://.godot/imported/LANTURN.ogg-e6f61c7f410ae77d07372a727219cb6b.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://byv3l0cd6y3h0"
-path="res://.godot/imported/IVYSAUR.ogg-27321cf079b739df53a02dc481d81da2.oggvorbisstr"
+path="res://.godot/imported/IVYSAUR.ogg-ce0e9927516a0242197b669441dcfaf6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/IVYSAUR.ogg"
-dest_files=["res://.godot/imported/IVYSAUR.ogg-27321cf079b739df53a02dc481d81da2.oggvorbisstr"]
+source_file="res://audio/se/cries/IVYSAUR.ogg"
+dest_files=["res://.godot/imported/IVYSAUR.ogg-ce0e9927516a0242197b669441dcfaf6.oggvorbisstr"]
 
 [params]
 

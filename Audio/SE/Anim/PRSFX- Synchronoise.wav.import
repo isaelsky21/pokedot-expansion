@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://eliguimnmgc2"
-path="res://.godot/imported/PRSFX- Synchronoise.wav-fed590b3c9c8c2772296579bf4e328c7.sample"
+path="res://.godot/imported/PRSFX- Synchronoise.wav-6166e48f33e28be80b45990db3950402.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Synchronoise.wav"
-dest_files=["res://.godot/imported/PRSFX- Synchronoise.wav-fed590b3c9c8c2772296579bf4e328c7.sample"]
+source_file="res://audio/se/anim/PRSFX- Synchronoise.wav"
+dest_files=["res://.godot/imported/PRSFX- Synchronoise.wav-6166e48f33e28be80b45990db3950402.sample"]
 
 [params]
 

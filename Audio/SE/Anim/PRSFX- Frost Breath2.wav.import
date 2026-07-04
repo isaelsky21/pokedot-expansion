@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ccyod2a0turvi"
-path="res://.godot/imported/PRSFX- Frost Breath2.wav-99df5da4d0a59aece0842060c5b991d4.sample"
+path="res://.godot/imported/PRSFX- Frost Breath2.wav-941ad38ae3c9aedbcef9da12c510c1cb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Frost Breath2.wav"
-dest_files=["res://.godot/imported/PRSFX- Frost Breath2.wav-99df5da4d0a59aece0842060c5b991d4.sample"]
+source_file="res://audio/se/anim/PRSFX- Frost Breath2.wav"
+dest_files=["res://.godot/imported/PRSFX- Frost Breath2.wav-941ad38ae3c9aedbcef9da12c510c1cb.sample"]
 
 [params]
 

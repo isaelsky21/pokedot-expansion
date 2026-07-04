@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cjd3okn2yhuyo"
-path="res://.godot/imported/Fly.ogg-4693332c246eb1d785eae37fb39b7cef.oggvorbisstr"
+path="res://.godot/imported/Fly.ogg-45ae1a930bb09fb848b3fd46a97ff4f2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Fly.ogg"
-dest_files=["res://.godot/imported/Fly.ogg-4693332c246eb1d785eae37fb39b7cef.oggvorbisstr"]
+source_file="res://audio/se/Fly.ogg"
+dest_files=["res://.godot/imported/Fly.ogg-45ae1a930bb09fb848b3fd46a97ff4f2.oggvorbisstr"]
 
 [params]
 

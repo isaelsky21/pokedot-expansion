@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b78rb3w3jmhy"
-path="res://.godot/imported/PICHU.ogg-4689f95fcb5234e143f56ed02e83a449.oggvorbisstr"
+path="res://.godot/imported/PICHU.ogg-99dce6965ae5171897c9ad383f54c37f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PICHU.ogg"
-dest_files=["res://.godot/imported/PICHU.ogg-4689f95fcb5234e143f56ed02e83a449.oggvorbisstr"]
+source_file="res://audio/se/cries/PICHU.ogg"
+dest_files=["res://.godot/imported/PICHU.ogg-99dce6965ae5171897c9ad383f54c37f.oggvorbisstr"]
 
 [params]
 

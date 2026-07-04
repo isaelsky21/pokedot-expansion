@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ccafbrorvrc76"
-path="res://.godot/imported/PRSFX- Mega Evolution1.wav-1b5855542d78cf686035300f5b66d1fe.sample"
+path="res://.godot/imported/PRSFX- Mega Evolution1.wav-257f6f3cd318fb8b9408c8532a381aa4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mega Evolution1.wav"
-dest_files=["res://.godot/imported/PRSFX- Mega Evolution1.wav-1b5855542d78cf686035300f5b66d1fe.sample"]
+source_file="res://audio/se/anim/PRSFX- Mega Evolution1.wav"
+dest_files=["res://.godot/imported/PRSFX- Mega Evolution1.wav-257f6f3cd318fb8b9408c8532a381aa4.sample"]
 
 [params]
 

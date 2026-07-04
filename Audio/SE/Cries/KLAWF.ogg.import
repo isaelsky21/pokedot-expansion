@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://mdpvkotsw6sf"
-path="res://.godot/imported/KLAWF.ogg-448d3e5a9e44f245782cb9c7b22a95ed.oggvorbisstr"
+path="res://.godot/imported/KLAWF.ogg-a2a3dfda4e03d0ff54e00fde096399fb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KLAWF.ogg"
-dest_files=["res://.godot/imported/KLAWF.ogg-448d3e5a9e44f245782cb9c7b22a95ed.oggvorbisstr"]
+source_file="res://audio/se/cries/KLAWF.ogg"
+dest_files=["res://.godot/imported/KLAWF.ogg-a2a3dfda4e03d0ff54e00fde096399fb.oggvorbisstr"]
 
 [params]
 

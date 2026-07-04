@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cutfsin76emq8"
-path="res://.godot/imported/PRSFX- Mean Look.wav-195a61e14cd501c5ce4ffc3aa7e98542.sample"
+path="res://.godot/imported/PRSFX- Mean Look.wav-09cee3d88ed8de64e21f8c90e58f4546.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mean Look.wav"
-dest_files=["res://.godot/imported/PRSFX- Mean Look.wav-195a61e14cd501c5ce4ffc3aa7e98542.sample"]
+source_file="res://audio/se/anim/PRSFX- Mean Look.wav"
+dest_files=["res://.godot/imported/PRSFX- Mean Look.wav-09cee3d88ed8de64e21f8c90e58f4546.sample"]
 
 [params]
 

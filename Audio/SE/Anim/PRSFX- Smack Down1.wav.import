@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ccr0hwkgwkjd8"
-path="res://.godot/imported/PRSFX- Smack Down1.wav-9d8008484739a66680b0d8be7ab9bc05.sample"
+path="res://.godot/imported/PRSFX- Smack Down1.wav-3ebba491d69f45b89cfc4f4058f52d76.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Smack Down1.wav"
-dest_files=["res://.godot/imported/PRSFX- Smack Down1.wav-9d8008484739a66680b0d8be7ab9bc05.sample"]
+source_file="res://audio/se/anim/PRSFX- Smack Down1.wav"
+dest_files=["res://.godot/imported/PRSFX- Smack Down1.wav-3ebba491d69f45b89cfc4f4058f52d76.sample"]
 
 [params]
 

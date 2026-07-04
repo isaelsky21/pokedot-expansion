@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bjbabqbor2jtc"
-path="res://.godot/imported/KROKOROK.ogg-ef15175feda6b9efc4197b4c81d935e4.oggvorbisstr"
+path="res://.godot/imported/KROKOROK.ogg-d510abff2f6ef9ffb09ffd4f98cbfddb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KROKOROK.ogg"
-dest_files=["res://.godot/imported/KROKOROK.ogg-ef15175feda6b9efc4197b4c81d935e4.oggvorbisstr"]
+source_file="res://audio/se/cries/KROKOROK.ogg"
+dest_files=["res://.godot/imported/KROKOROK.ogg-d510abff2f6ef9ffb09ffd4f98cbfddb.oggvorbisstr"]
 
 [params]
 

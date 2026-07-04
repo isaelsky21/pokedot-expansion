@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://n5jiqaqe20k2"
-path="res://.godot/imported/PRSFX- Shadow Ball1.wav-53088b87a037f81c64108cea8cac9bca.sample"
+path="res://.godot/imported/PRSFX- Shadow Ball1.wav-3d9660dd7d2b4c35e2009fc50f36506c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shadow Ball1.wav"
-dest_files=["res://.godot/imported/PRSFX- Shadow Ball1.wav-53088b87a037f81c64108cea8cac9bca.sample"]
+source_file="res://audio/se/anim/PRSFX- Shadow Ball1.wav"
+dest_files=["res://.godot/imported/PRSFX- Shadow Ball1.wav-3d9660dd7d2b4c35e2009fc50f36506c.sample"]
 
 [params]
 

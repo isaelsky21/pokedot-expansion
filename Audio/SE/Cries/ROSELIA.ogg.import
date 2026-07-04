@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dwl27g57hfpsb"
-path="res://.godot/imported/ROSELIA.ogg-73b0b69f1cf22b50266e062f04d70e74.oggvorbisstr"
+path="res://.godot/imported/ROSELIA.ogg-3c4ea564c72eebe2dc940acf3e2ec160.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ROSELIA.ogg"
-dest_files=["res://.godot/imported/ROSELIA.ogg-73b0b69f1cf22b50266e062f04d70e74.oggvorbisstr"]
+source_file="res://audio/se/cries/ROSELIA.ogg"
+dest_files=["res://.godot/imported/ROSELIA.ogg-3c4ea564c72eebe2dc940acf3e2ec160.oggvorbisstr"]
 
 [params]
 

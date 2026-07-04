@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://clcewhkritn1q"
-path="res://.godot/imported/PRSFX- Reversal1.wav-ec431407a641aa92247d2a0cb65c19a8.sample"
+path="res://.godot/imported/PRSFX- Reversal1.wav-c46dcba7027c858f7c8b3312a332dd92.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Reversal1.wav"
-dest_files=["res://.godot/imported/PRSFX- Reversal1.wav-ec431407a641aa92247d2a0cb65c19a8.sample"]
+source_file="res://audio/se/anim/PRSFX- Reversal1.wav"
+dest_files=["res://.godot/imported/PRSFX- Reversal1.wav-c46dcba7027c858f7c8b3312a332dd92.sample"]
 
 [params]
 

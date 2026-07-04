@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cjdq7utqwcrk6"
-path="res://.godot/imported/PRSFX- Bone Rush1.wav-05b855c57c8cbfc469fcb8abf86eca32.sample"
+path="res://.godot/imported/PRSFX- Bone Rush1.wav-6da4366fdb21892e3d58032dc820cb6b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bone Rush1.wav"
-dest_files=["res://.godot/imported/PRSFX- Bone Rush1.wav-05b855c57c8cbfc469fcb8abf86eca32.sample"]
+source_file="res://audio/se/anim/PRSFX- Bone Rush1.wav"
+dest_files=["res://.godot/imported/PRSFX- Bone Rush1.wav-6da4366fdb21892e3d58032dc820cb6b.sample"]
 
 [params]
 

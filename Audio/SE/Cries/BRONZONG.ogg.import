@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b4p03tfi2n71f"
-path="res://.godot/imported/BRONZONG.ogg-dd53bf0627146d48eac1727e77fba906.oggvorbisstr"
+path="res://.godot/imported/BRONZONG.ogg-374d760ddfb9228cc59cdf9f7a739a65.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BRONZONG.ogg"
-dest_files=["res://.godot/imported/BRONZONG.ogg-dd53bf0627146d48eac1727e77fba906.oggvorbisstr"]
+source_file="res://audio/se/cries/BRONZONG.ogg"
+dest_files=["res://.godot/imported/BRONZONG.ogg-374d760ddfb9228cc59cdf9f7a739a65.oggvorbisstr"]
 
 [params]
 

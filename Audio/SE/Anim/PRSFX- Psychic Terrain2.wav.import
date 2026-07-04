@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bi8otu8eioxyd"
-path="res://.godot/imported/PRSFX- Psychic Terrain2.wav-a3ccc88c86ff58e2782159b1c7b8a117.sample"
+path="res://.godot/imported/PRSFX- Psychic Terrain2.wav-3d45354ebb3a6e4bd13c26b911e036ed.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psychic Terrain2.wav"
-dest_files=["res://.godot/imported/PRSFX- Psychic Terrain2.wav-a3ccc88c86ff58e2782159b1c7b8a117.sample"]
+source_file="res://audio/se/anim/PRSFX- Psychic Terrain2.wav"
+dest_files=["res://.godot/imported/PRSFX- Psychic Terrain2.wav-3d45354ebb3a6e4bd13c26b911e036ed.sample"]
 
 [params]
 

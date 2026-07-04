@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://652xyt4lh3xr"
-path="res://.godot/imported/KRICKETOT.ogg-89e290ec6fa1e6b76e8b6b1be6f59d27.oggvorbisstr"
+path="res://.godot/imported/KRICKETOT.ogg-cdf7241135c8c0694f2ed0861931f6e6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KRICKETOT.ogg"
-dest_files=["res://.godot/imported/KRICKETOT.ogg-89e290ec6fa1e6b76e8b6b1be6f59d27.oggvorbisstr"]
+source_file="res://audio/se/cries/KRICKETOT.ogg"
+dest_files=["res://.godot/imported/KRICKETOT.ogg-cdf7241135c8c0694f2ed0861931f6e6.oggvorbisstr"]
 
 [params]
 

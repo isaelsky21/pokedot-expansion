@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ype38l1b4ao7"
-path="res://.godot/imported/LURANTIS.ogg-dc7bae612ea77a9e618858296bbee2b4.oggvorbisstr"
+path="res://.godot/imported/LURANTIS.ogg-900b59f37ebcf57b95c1cf4ac2e86607.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LURANTIS.ogg"
-dest_files=["res://.godot/imported/LURANTIS.ogg-dc7bae612ea77a9e618858296bbee2b4.oggvorbisstr"]
+source_file="res://audio/se/cries/LURANTIS.ogg"
+dest_files=["res://.godot/imported/LURANTIS.ogg-900b59f37ebcf57b95c1cf4ac2e86607.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://33rnqvfgv7x5"
-path="res://.godot/imported/MINCCINO.ogg-0844f4eb3a4675db691da57c389bb6a5.oggvorbisstr"
+path="res://.godot/imported/MINCCINO.ogg-33f70ba0c25bee6aa19f636a2c08be1e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MINCCINO.ogg"
-dest_files=["res://.godot/imported/MINCCINO.ogg-0844f4eb3a4675db691da57c389bb6a5.oggvorbisstr"]
+source_file="res://audio/se/cries/MINCCINO.ogg"
+dest_files=["res://.godot/imported/MINCCINO.ogg-33f70ba0c25bee6aa19f636a2c08be1e.oggvorbisstr"]
 
 [params]
 

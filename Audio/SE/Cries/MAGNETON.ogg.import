@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dswhts6tybe1f"
-path="res://.godot/imported/MAGNETON.ogg-327990af955c24597789032d6103c779.oggvorbisstr"
+path="res://.godot/imported/MAGNETON.ogg-f414317d0f095e199d35bab9a18907b7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAGNETON.ogg"
-dest_files=["res://.godot/imported/MAGNETON.ogg-327990af955c24597789032d6103c779.oggvorbisstr"]
+source_file="res://audio/se/cries/MAGNETON.ogg"
+dest_files=["res://.godot/imported/MAGNETON.ogg-f414317d0f095e199d35bab9a18907b7.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bi6vbflvmdxuk"
-path="res://.godot/imported/Mining iron.ogg-0e01bcdd02cd10093955aacc261c7bb4.oggvorbisstr"
+path="res://.godot/imported/Mining iron.ogg-ce96727ed389522e1a62ec60c88b7f1e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Mining iron.ogg"
-dest_files=["res://.godot/imported/Mining iron.ogg-0e01bcdd02cd10093955aacc261c7bb4.oggvorbisstr"]
+source_file="res://audio/se/Mining iron.ogg"
+dest_files=["res://.godot/imported/Mining iron.ogg-ce96727ed389522e1a62ec60c88b7f1e.oggvorbisstr"]
 
 [params]
 

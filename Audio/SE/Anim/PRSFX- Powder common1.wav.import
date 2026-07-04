@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bir8b5thoovt5"
-path="res://.godot/imported/PRSFX- Powder common1.wav-135f81b802ccbfd8e0678d191864dfd5.sample"
+path="res://.godot/imported/PRSFX- Powder common1.wav-fbf813968a744cebced6200e9bb8e6d7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Powder common1.wav"
-dest_files=["res://.godot/imported/PRSFX- Powder common1.wav-135f81b802ccbfd8e0678d191864dfd5.sample"]
+source_file="res://audio/se/anim/PRSFX- Powder common1.wav"
+dest_files=["res://.godot/imported/PRSFX- Powder common1.wav-fbf813968a744cebced6200e9bb8e6d7.sample"]
 
 [params]
 

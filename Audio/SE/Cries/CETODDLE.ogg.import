@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ba3himqq3ifer"
-path="res://.godot/imported/CETODDLE.ogg-c09eb661482a394c9c038fe05ff8ac66.oggvorbisstr"
+path="res://.godot/imported/CETODDLE.ogg-1352eb448171ef052e25709b8f2d0d15.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CETODDLE.ogg"
-dest_files=["res://.godot/imported/CETODDLE.ogg-c09eb661482a394c9c038fe05ff8ac66.oggvorbisstr"]
+source_file="res://audio/se/cries/CETODDLE.ogg"
+dest_files=["res://.godot/imported/CETODDLE.ogg-1352eb448171ef052e25709b8f2d0d15.oggvorbisstr"]
 
 [params]
 

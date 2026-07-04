@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://nugjqcq5lll4"
-path="res://.godot/imported/SYLVEON.ogg-cbbdb1e9d01bd1919eec784326c87112.oggvorbisstr"
+path="res://.godot/imported/SYLVEON.ogg-5bba0f8e7091a7dec5eb1bab76d6fab8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SYLVEON.ogg"
-dest_files=["res://.godot/imported/SYLVEON.ogg-cbbdb1e9d01bd1919eec784326c87112.oggvorbisstr"]
+source_file="res://audio/se/cries/SYLVEON.ogg"
+dest_files=["res://.godot/imported/SYLVEON.ogg-5bba0f8e7091a7dec5eb1bab76d6fab8.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bvv0osyyafy14"
-path="res://.godot/imported/PRSFX- Focus Energy.wav-eb81b9f859bd9d6ee8ac2e5919f6b885.sample"
+path="res://.godot/imported/PRSFX- Focus Energy.wav-8abe9794f462490fa28804f9c1d0763b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Focus Energy.wav"
-dest_files=["res://.godot/imported/PRSFX- Focus Energy.wav-eb81b9f859bd9d6ee8ac2e5919f6b885.sample"]
+source_file="res://audio/se/anim/PRSFX- Focus Energy.wav"
+dest_files=["res://.godot/imported/PRSFX- Focus Energy.wav-8abe9794f462490fa28804f9c1d0763b.sample"]
 
 [params]
 

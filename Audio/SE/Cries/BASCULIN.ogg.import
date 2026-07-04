@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bj7s1jauh5fau"
-path="res://.godot/imported/BASCULIN.ogg-5ed00f9e0b5a02cce566d115af48ce50.oggvorbisstr"
+path="res://.godot/imported/BASCULIN.ogg-4dcc374a437fd09cb07d1066d84a8693.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BASCULIN.ogg"
-dest_files=["res://.godot/imported/BASCULIN.ogg-5ed00f9e0b5a02cce566d115af48ce50.oggvorbisstr"]
+source_file="res://audio/se/cries/BASCULIN.ogg"
+dest_files=["res://.godot/imported/BASCULIN.ogg-4dcc374a437fd09cb07d1066d84a8693.oggvorbisstr"]
 
 [params]
 

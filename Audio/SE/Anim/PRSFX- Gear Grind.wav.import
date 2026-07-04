@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bxwv2ypalbe7c"
-path="res://.godot/imported/PRSFX- Gear Grind.wav-837a258141705aa7bee3f5fc5d63fcee.sample"
+path="res://.godot/imported/PRSFX- Gear Grind.wav-cad95ee5dd464cdf9330ab29ed8997d6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gear Grind.wav"
-dest_files=["res://.godot/imported/PRSFX- Gear Grind.wav-837a258141705aa7bee3f5fc5d63fcee.sample"]
+source_file="res://audio/se/anim/PRSFX- Gear Grind.wav"
+dest_files=["res://.godot/imported/PRSFX- Gear Grind.wav-cad95ee5dd464cdf9330ab29ed8997d6.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dhmyx46w0jsv5"
-path="res://.godot/imported/PRSFX- Agility.wav-dca47329cf4a819be5e800c42c70ef5b.sample"
+path="res://.godot/imported/PRSFX- Agility.wav-d7b2a0752b92a7f9cbaebff3e4cb4bf9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Agility.wav"
-dest_files=["res://.godot/imported/PRSFX- Agility.wav-dca47329cf4a819be5e800c42c70ef5b.sample"]
+source_file="res://audio/se/anim/PRSFX- Agility.wav"
+dest_files=["res://.godot/imported/PRSFX- Agility.wav-d7b2a0752b92a7f9cbaebff3e4cb4bf9.sample"]
 
 [params]
 

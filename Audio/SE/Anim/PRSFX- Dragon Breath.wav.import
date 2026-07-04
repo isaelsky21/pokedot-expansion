@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bukkd3yxnayrh"
-path="res://.godot/imported/PRSFX- Dragon Breath.wav-70ba9c7338e37ff0919fae3a0a063ece.sample"
+path="res://.godot/imported/PRSFX- Dragon Breath.wav-3e82693e5b875d00fc94cce4b9551ad1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dragon Breath.wav"
-dest_files=["res://.godot/imported/PRSFX- Dragon Breath.wav-70ba9c7338e37ff0919fae3a0a063ece.sample"]
+source_file="res://audio/se/anim/PRSFX- Dragon Breath.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Breath.wav-3e82693e5b875d00fc94cce4b9551ad1.sample"]
 
 [params]
 

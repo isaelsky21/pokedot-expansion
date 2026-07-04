@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://curowevby1a77"
-path="res://.godot/imported/LINOONE.ogg-0a512ba5fcb362403ef7c80f21b27d76.oggvorbisstr"
+path="res://.godot/imported/LINOONE.ogg-24d33123454655c16cbfc70d1303edd2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LINOONE.ogg"
-dest_files=["res://.godot/imported/LINOONE.ogg-0a512ba5fcb362403ef7c80f21b27d76.oggvorbisstr"]
+source_file="res://audio/se/cries/LINOONE.ogg"
+dest_files=["res://.godot/imported/LINOONE.ogg-24d33123454655c16cbfc70d1303edd2.oggvorbisstr"]
 
 [params]
 

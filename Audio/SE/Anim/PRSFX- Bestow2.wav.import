@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c8l3oyxnllod2"
-path="res://.godot/imported/PRSFX- Bestow2.wav-e53a84755a1e0c82e9567b891e3e5856.sample"
+path="res://.godot/imported/PRSFX- Bestow2.wav-481772fc38fd86ee5cf8b4339d26e775.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bestow2.wav"
-dest_files=["res://.godot/imported/PRSFX- Bestow2.wav-e53a84755a1e0c82e9567b891e3e5856.sample"]
+source_file="res://audio/se/anim/PRSFX- Bestow2.wav"
+dest_files=["res://.godot/imported/PRSFX- Bestow2.wav-481772fc38fd86ee5cf8b4339d26e775.sample"]
 
 [params]
 

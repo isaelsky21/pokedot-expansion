@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://0aydedb6krqj"
-path="res://.godot/imported/ZERAORA.ogg-3508b6f297ecf91424fd49444e0bd88d.oggvorbisstr"
+path="res://.godot/imported/ZERAORA.ogg-afde896c7ed0fd86311860615c89d49f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZERAORA.ogg"
-dest_files=["res://.godot/imported/ZERAORA.ogg-3508b6f297ecf91424fd49444e0bd88d.oggvorbisstr"]
+source_file="res://audio/se/cries/ZERAORA.ogg"
+dest_files=["res://.godot/imported/ZERAORA.ogg-afde896c7ed0fd86311860615c89d49f.oggvorbisstr"]
 
 [params]
 

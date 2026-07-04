@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://kxnvv0t3mijj"
-path="res://.godot/imported/PRSFX- Water Pledge1.wav-95fb66c3e4ae47eaf6420f6ac6bbaa38.sample"
+path="res://.godot/imported/PRSFX- Water Pledge1.wav-c592057af0c3f32b5ba2c2b1411fbe94.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Water Pledge1.wav"
-dest_files=["res://.godot/imported/PRSFX- Water Pledge1.wav-95fb66c3e4ae47eaf6420f6ac6bbaa38.sample"]
+source_file="res://audio/se/anim/PRSFX- Water Pledge1.wav"
+dest_files=["res://.godot/imported/PRSFX- Water Pledge1.wav-c592057af0c3f32b5ba2c2b1411fbe94.sample"]
 
 [params]
 

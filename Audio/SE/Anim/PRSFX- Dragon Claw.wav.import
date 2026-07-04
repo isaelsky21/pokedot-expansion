@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cspympdfaidrf"
-path="res://.godot/imported/PRSFX- Dragon Claw.wav-d8eaccb59bd9607ae0afd59649d87f27.sample"
+path="res://.godot/imported/PRSFX- Dragon Claw.wav-161662580037c1bd98270d6928ba4774.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dragon Claw.wav"
-dest_files=["res://.godot/imported/PRSFX- Dragon Claw.wav-d8eaccb59bd9607ae0afd59649d87f27.sample"]
+source_file="res://audio/se/anim/PRSFX- Dragon Claw.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Claw.wav-161662580037c1bd98270d6928ba4774.sample"]
 
 [params]
 

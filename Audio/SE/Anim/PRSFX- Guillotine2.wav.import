@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dfgbltrg1x44t"
-path="res://.godot/imported/PRSFX- Guillotine2.wav-f34f6e0876985efd11411f786d29d97f.sample"
+path="res://.godot/imported/PRSFX- Guillotine2.wav-9551a772c0790657631592efae83428d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Guillotine2.wav"
-dest_files=["res://.godot/imported/PRSFX- Guillotine2.wav-f34f6e0876985efd11411f786d29d97f.sample"]
+source_file="res://audio/se/anim/PRSFX- Guillotine2.wav"
+dest_files=["res://.godot/imported/PRSFX- Guillotine2.wav-9551a772c0790657631592efae83428d.sample"]
 
 [params]
 

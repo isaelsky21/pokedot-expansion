@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1d8785nj6tap"
-path="res://.godot/imported/Regalo Misterioso.ogg-afc944a5dd36d97cabc2422727ef8c67.oggvorbisstr"
+path="res://.godot/imported/Regalo Misterioso.ogg-260388f48a5e7ef32d4b3e311f862dbc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/BGM/Regalo Misterioso.ogg"
-dest_files=["res://.godot/imported/Regalo Misterioso.ogg-afc944a5dd36d97cabc2422727ef8c67.oggvorbisstr"]
+source_file="res://audio/bgm/Regalo Misterioso.ogg"
+dest_files=["res://.godot/imported/Regalo Misterioso.ogg-260388f48a5e7ef32d4b3e311f862dbc.oggvorbisstr"]
 
 [params]
 

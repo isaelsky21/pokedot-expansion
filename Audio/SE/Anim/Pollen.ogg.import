@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cw5t8ta6spgqd"
-path="res://.godot/imported/Pollen.ogg-49579e10da23932171e8a5b680a3ff89.oggvorbisstr"
+path="res://.godot/imported/Pollen.ogg-0d22cb2f9d39f024b7c9b71771eff485.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Pollen.ogg"
-dest_files=["res://.godot/imported/Pollen.ogg-49579e10da23932171e8a5b680a3ff89.oggvorbisstr"]
+source_file="res://audio/se/anim/Pollen.ogg"
+dest_files=["res://.godot/imported/Pollen.ogg-0d22cb2f9d39f024b7c9b71771eff485.oggvorbisstr"]
 
 [params]
 

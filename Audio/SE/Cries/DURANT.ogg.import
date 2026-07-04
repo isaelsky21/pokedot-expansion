@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dha1t314homgp"
-path="res://.godot/imported/DURANT.ogg-e6c5828bd48dd8ad1c03cd13df65cfe1.oggvorbisstr"
+path="res://.godot/imported/DURANT.ogg-c8ef1c61b1ad338aead42135d7f4564f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DURANT.ogg"
-dest_files=["res://.godot/imported/DURANT.ogg-e6c5828bd48dd8ad1c03cd13df65cfe1.oggvorbisstr"]
+source_file="res://audio/se/cries/DURANT.ogg"
+dest_files=["res://.godot/imported/DURANT.ogg-c8ef1c61b1ad338aead42135d7f4564f.oggvorbisstr"]
 
 [params]
 

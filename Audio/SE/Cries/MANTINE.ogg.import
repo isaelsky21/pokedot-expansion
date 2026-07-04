@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://kwm86wgy631d"
-path="res://.godot/imported/MANTINE.ogg-93d454bdd82bcb5e54bb36f3830b6686.oggvorbisstr"
+path="res://.godot/imported/MANTINE.ogg-e80b7ecb0d18e313d55d7c2b15111baf.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MANTINE.ogg"
-dest_files=["res://.godot/imported/MANTINE.ogg-93d454bdd82bcb5e54bb36f3830b6686.oggvorbisstr"]
+source_file="res://audio/se/cries/MANTINE.ogg"
+dest_files=["res://.godot/imported/MANTINE.ogg-e80b7ecb0d18e313d55d7c2b15111baf.oggvorbisstr"]
 
 [params]
 

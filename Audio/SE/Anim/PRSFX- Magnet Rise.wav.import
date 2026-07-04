@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://x43xm2n842x5"
-path="res://.godot/imported/PRSFX- Magnet Rise.wav-8ebffb8557c67d07fd5f30397d07c2fe.sample"
+path="res://.godot/imported/PRSFX- Magnet Rise.wav-32fadec87d469bcb687515ad15bbfb4b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Magnet Rise.wav"
-dest_files=["res://.godot/imported/PRSFX- Magnet Rise.wav-8ebffb8557c67d07fd5f30397d07c2fe.sample"]
+source_file="res://audio/se/anim/PRSFX- Magnet Rise.wav"
+dest_files=["res://.godot/imported/PRSFX- Magnet Rise.wav-32fadec87d469bcb687515ad15bbfb4b.sample"]
 
 [params]
 

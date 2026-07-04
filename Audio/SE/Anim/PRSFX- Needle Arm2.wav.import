@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://etnno1idpdcf"
-path="res://.godot/imported/PRSFX- Needle Arm2.wav-8efca3824dc7c0a46636a4c3f94e6578.sample"
+path="res://.godot/imported/PRSFX- Needle Arm2.wav-1e0da41aa1448757051dbd0b698c31a8.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Needle Arm2.wav"
-dest_files=["res://.godot/imported/PRSFX- Needle Arm2.wav-8efca3824dc7c0a46636a4c3f94e6578.sample"]
+source_file="res://audio/se/anim/PRSFX- Needle Arm2.wav"
+dest_files=["res://.godot/imported/PRSFX- Needle Arm2.wav-1e0da41aa1448757051dbd0b698c31a8.sample"]
 
 [params]
 

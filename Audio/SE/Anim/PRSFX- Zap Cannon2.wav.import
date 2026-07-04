@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bnw1pspbx7qge"
-path="res://.godot/imported/PRSFX- Zap Cannon2.wav-84deebfabcf40ba79c5defcc47258535.sample"
+path="res://.godot/imported/PRSFX- Zap Cannon2.wav-a5335e7d48a4d13872ef88455f0682e5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Zap Cannon2.wav"
-dest_files=["res://.godot/imported/PRSFX- Zap Cannon2.wav-84deebfabcf40ba79c5defcc47258535.sample"]
+source_file="res://audio/se/anim/PRSFX- Zap Cannon2.wav"
+dest_files=["res://.godot/imported/PRSFX- Zap Cannon2.wav-a5335e7d48a4d13872ef88455f0682e5.sample"]
 
 [params]
 

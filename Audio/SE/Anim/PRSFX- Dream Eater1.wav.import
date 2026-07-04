@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dhuuut7sgxndh"
-path="res://.godot/imported/PRSFX- Dream Eater1.wav-aa599b3d957423f6f7f21359f7e707d1.sample"
+path="res://.godot/imported/PRSFX- Dream Eater1.wav-2cb50c3c2774728e4504a35e861b49a1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dream Eater1.wav"
-dest_files=["res://.godot/imported/PRSFX- Dream Eater1.wav-aa599b3d957423f6f7f21359f7e707d1.sample"]
+source_file="res://audio/se/anim/PRSFX- Dream Eater1.wav"
+dest_files=["res://.godot/imported/PRSFX- Dream Eater1.wav-2cb50c3c2774728e4504a35e861b49a1.sample"]
 
 [params]
 

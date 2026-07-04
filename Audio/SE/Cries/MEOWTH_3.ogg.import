@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://4bfyumd285c7"
-path="res://.godot/imported/MEOWTH_3.ogg-13a2b6f4b583c5ffd834c3e34701f970.oggvorbisstr"
+path="res://.godot/imported/MEOWTH_3.ogg-2e41c9ddacfeda63ad4dae5aaf633e25.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MEOWTH_3.ogg"
-dest_files=["res://.godot/imported/MEOWTH_3.ogg-13a2b6f4b583c5ffd834c3e34701f970.oggvorbisstr"]
+source_file="res://audio/se/cries/MEOWTH_3.ogg"
+dest_files=["res://.godot/imported/MEOWTH_3.ogg-2e41c9ddacfeda63ad4dae5aaf633e25.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0nyi51055ypq"
-path="res://.godot/imported/Stone Axe 1.ogg-60827aeaf9d07bb9d8f7a763d29d19a8.oggvorbisstr"
+path="res://.godot/imported/Stone Axe 1.ogg-84fdc5d898a696f372158c961ad56dd2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Stone Axe 1.ogg"
-dest_files=["res://.godot/imported/Stone Axe 1.ogg-60827aeaf9d07bb9d8f7a763d29d19a8.oggvorbisstr"]
+source_file="res://audio/se/anim/Stone Axe 1.ogg"
+dest_files=["res://.godot/imported/Stone Axe 1.ogg-84fdc5d898a696f372158c961ad56dd2.oggvorbisstr"]
 
 [params]
 

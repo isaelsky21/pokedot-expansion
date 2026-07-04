@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dj6xwf0c0vvht"
-path="res://.godot/imported/TENTACRUEL.ogg-666a13003abd2f3d70b61f80ee06da45.oggvorbisstr"
+path="res://.godot/imported/TENTACRUEL.ogg-d51a4c82e3b5a45fc7d77f4682a44dec.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TENTACRUEL.ogg"
-dest_files=["res://.godot/imported/TENTACRUEL.ogg-666a13003abd2f3d70b61f80ee06da45.oggvorbisstr"]
+source_file="res://audio/se/cries/TENTACRUEL.ogg"
+dest_files=["res://.godot/imported/TENTACRUEL.ogg-d51a4c82e3b5a45fc7d77f4682a44dec.oggvorbisstr"]
 
 [params]
 

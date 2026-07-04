@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://csps1b6amo87w"
-path="res://.godot/imported/DUSTOX.ogg-6d601a039201d50f61803b51241d4052.oggvorbisstr"
+path="res://.godot/imported/DUSTOX.ogg-6e68db9948cd0a137631b6c6a579b9f6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DUSTOX.ogg"
-dest_files=["res://.godot/imported/DUSTOX.ogg-6d601a039201d50f61803b51241d4052.oggvorbisstr"]
+source_file="res://audio/se/cries/DUSTOX.ogg"
+dest_files=["res://.godot/imported/DUSTOX.ogg-6e68db9948cd0a137631b6c6a579b9f6.oggvorbisstr"]
 
 [params]
 

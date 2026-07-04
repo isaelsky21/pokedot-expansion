@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cmu5w6fqyifth"
-path="res://.godot/imported/PRSFX- Sweet Kiss1.wav-ed628dddc2fb64d87cac1b43df988487.sample"
+path="res://.godot/imported/PRSFX- Sweet Kiss1.wav-7a9100fcb1a71eb0fc584745ec84b111.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sweet Kiss1.wav"
-dest_files=["res://.godot/imported/PRSFX- Sweet Kiss1.wav-ed628dddc2fb64d87cac1b43df988487.sample"]
+source_file="res://audio/se/anim/PRSFX- Sweet Kiss1.wav"
+dest_files=["res://.godot/imported/PRSFX- Sweet Kiss1.wav-7a9100fcb1a71eb0fc584745ec84b111.sample"]
 
 [params]
 

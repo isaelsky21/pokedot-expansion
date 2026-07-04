@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://py503ogel52k"
-path="res://.godot/imported/PRSFX- Theif1.wav-8587ac7978a2590767eca247b0585ec0.sample"
+path="res://.godot/imported/PRSFX- Theif1.wav-485d54ecdc751b7de43bbd8c27a7afba.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Theif1.wav"
-dest_files=["res://.godot/imported/PRSFX- Theif1.wav-8587ac7978a2590767eca247b0585ec0.sample"]
+source_file="res://audio/se/anim/PRSFX- Theif1.wav"
+dest_files=["res://.godot/imported/PRSFX- Theif1.wav-485d54ecdc751b7de43bbd8c27a7afba.sample"]
 
 [params]
 

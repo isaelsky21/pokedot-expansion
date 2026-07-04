@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://deabgqr1cbv8c"
-path="res://.godot/imported/Register phone.ogg-c7e19e079c1f3c4ece8e38cfab323f51.oggvorbisstr"
+path="res://.godot/imported/Register phone.ogg-e07b077ec6f15ec1b3174bc33947b56c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/ME/Register phone.ogg"
-dest_files=["res://.godot/imported/Register phone.ogg-c7e19e079c1f3c4ece8e38cfab323f51.oggvorbisstr"]
+source_file="res://audio/me/Register phone.ogg"
+dest_files=["res://.godot/imported/Register phone.ogg-e07b077ec6f15ec1b3174bc33947b56c.oggvorbisstr"]
 
 [params]
 

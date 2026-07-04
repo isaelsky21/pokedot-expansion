@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bit73p48a0hhv"
-path="res://.godot/imported/TOXAPEX.ogg-e52aadd46527946b68ab18f4ac49e8a9.oggvorbisstr"
+path="res://.godot/imported/TOXAPEX.ogg-30ecda410b4bf017a4d386924a00598a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TOXAPEX.ogg"
-dest_files=["res://.godot/imported/TOXAPEX.ogg-e52aadd46527946b68ab18f4ac49e8a9.oggvorbisstr"]
+source_file="res://audio/se/cries/TOXAPEX.ogg"
+dest_files=["res://.godot/imported/TOXAPEX.ogg-30ecda410b4bf017a4d386924a00598a.oggvorbisstr"]
 
 [params]
 

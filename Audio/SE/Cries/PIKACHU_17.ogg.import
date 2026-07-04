@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://duaeqw3yomqo4"
-path="res://.godot/imported/PIKACHU_17.ogg-5dfda87ab92367fb28fec86308d695c2.oggvorbisstr"
+path="res://.godot/imported/PIKACHU_17.ogg-534829d04eca693941f87bc318448444.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PIKACHU_17.ogg"
-dest_files=["res://.godot/imported/PIKACHU_17.ogg-5dfda87ab92367fb28fec86308d695c2.oggvorbisstr"]
+source_file="res://audio/se/cries/PIKACHU_17.ogg"
+dest_files=["res://.godot/imported/PIKACHU_17.ogg-534829d04eca693941f87bc318448444.oggvorbisstr"]
 
 [params]
 

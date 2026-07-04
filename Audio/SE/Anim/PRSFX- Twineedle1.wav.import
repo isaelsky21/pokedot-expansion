@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cw2is1k1n57g0"
-path="res://.godot/imported/PRSFX- Twineedle1.wav-b709106c890dffa3b40343994ffbde3e.sample"
+path="res://.godot/imported/PRSFX- Twineedle1.wav-d0e4f1ce2b4e329081ec6d31842f51bd.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Twineedle1.wav"
-dest_files=["res://.godot/imported/PRSFX- Twineedle1.wav-b709106c890dffa3b40343994ffbde3e.sample"]
+source_file="res://audio/se/anim/PRSFX- Twineedle1.wav"
+dest_files=["res://.godot/imported/PRSFX- Twineedle1.wav-d0e4f1ce2b4e329081ec6d31842f51bd.sample"]
 
 [params]
 

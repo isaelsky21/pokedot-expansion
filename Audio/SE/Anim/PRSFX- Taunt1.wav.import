@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bwjgpix51gr06"
-path="res://.godot/imported/PRSFX- Taunt1.wav-8573262efb061503fe143694ff55b473.sample"
+path="res://.godot/imported/PRSFX- Taunt1.wav-4e49e3a0a396b7c6c3e749f8162639d7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Taunt1.wav"
-dest_files=["res://.godot/imported/PRSFX- Taunt1.wav-8573262efb061503fe143694ff55b473.sample"]
+source_file="res://audio/se/anim/PRSFX- Taunt1.wav"
+dest_files=["res://.godot/imported/PRSFX- Taunt1.wav-4e49e3a0a396b7c6c3e749f8162639d7.sample"]
 
 [params]
 

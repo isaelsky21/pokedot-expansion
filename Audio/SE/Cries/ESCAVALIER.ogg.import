@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://1610bf0cm7yy"
-path="res://.godot/imported/ESCAVALIER.ogg-c8bb974eef5175afedec1e451d99bda0.oggvorbisstr"
+path="res://.godot/imported/ESCAVALIER.ogg-b74c64c5cc7f64a9ee7d8570eeb968b9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ESCAVALIER.ogg"
-dest_files=["res://.godot/imported/ESCAVALIER.ogg-c8bb974eef5175afedec1e451d99bda0.oggvorbisstr"]
+source_file="res://audio/se/cries/ESCAVALIER.ogg"
+dest_files=["res://.godot/imported/ESCAVALIER.ogg-b74c64c5cc7f64a9ee7d8570eeb968b9.oggvorbisstr"]
 
 [params]
 

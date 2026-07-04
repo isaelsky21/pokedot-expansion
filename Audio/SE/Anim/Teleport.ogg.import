@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://p8vbgu21d1xu"
-path="res://.godot/imported/Teleport.ogg-f6b145cd528521ccc8122fcf771ff5dd.oggvorbisstr"
+path="res://.godot/imported/Teleport.ogg-7353595a6c6d6dd715552f7b6350356d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Teleport.ogg"
-dest_files=["res://.godot/imported/Teleport.ogg-f6b145cd528521ccc8122fcf771ff5dd.oggvorbisstr"]
+source_file="res://audio/se/anim/Teleport.ogg"
+dest_files=["res://.godot/imported/Teleport.ogg-7353595a6c6d6dd715552f7b6350356d.oggvorbisstr"]
 
 [params]
 

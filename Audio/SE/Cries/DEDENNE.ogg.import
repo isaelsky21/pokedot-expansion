@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxj4fflbmc1fc"
-path="res://.godot/imported/DEDENNE.ogg-55b9e339709523d955dd985662b2ac82.oggvorbisstr"
+path="res://.godot/imported/DEDENNE.ogg-5d39a14113e4b7ce87e25c8ebef00f1b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DEDENNE.ogg"
-dest_files=["res://.godot/imported/DEDENNE.ogg-55b9e339709523d955dd985662b2ac82.oggvorbisstr"]
+source_file="res://audio/se/cries/DEDENNE.ogg"
+dest_files=["res://.godot/imported/DEDENNE.ogg-5d39a14113e4b7ce87e25c8ebef00f1b.oggvorbisstr"]
 
 [params]
 

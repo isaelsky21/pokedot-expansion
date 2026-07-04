@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8dyyc7dm1nnd"
-path="res://.godot/imported/LUNALA.ogg-2adea273a380ba668a0e5c158efaa95d.oggvorbisstr"
+path="res://.godot/imported/LUNALA.ogg-1136d7b9059baf064bb8dff1dcfa03f4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LUNALA.ogg"
-dest_files=["res://.godot/imported/LUNALA.ogg-2adea273a380ba668a0e5c158efaa95d.oggvorbisstr"]
+source_file="res://audio/se/cries/LUNALA.ogg"
+dest_files=["res://.godot/imported/LUNALA.ogg-1136d7b9059baf064bb8dff1dcfa03f4.oggvorbisstr"]
 
 [params]
 

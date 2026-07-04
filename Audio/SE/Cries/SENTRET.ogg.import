@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cflfeuibfycsu"
-path="res://.godot/imported/SENTRET.ogg-056bf60ae9c9779be69d69963d8492e7.oggvorbisstr"
+path="res://.godot/imported/SENTRET.ogg-034e490f8805d9e8a42688dd5d59823e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SENTRET.ogg"
-dest_files=["res://.godot/imported/SENTRET.ogg-056bf60ae9c9779be69d69963d8492e7.oggvorbisstr"]
+source_file="res://audio/se/cries/SENTRET.ogg"
+dest_files=["res://.godot/imported/SENTRET.ogg-034e490f8805d9e8a42688dd5d59823e.oggvorbisstr"]
 
 [params]
 

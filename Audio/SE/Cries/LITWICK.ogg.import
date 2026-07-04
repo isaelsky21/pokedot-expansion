@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0xrkqw1hrnx2"
-path="res://.godot/imported/LITWICK.ogg-8fc6a3ec423ed3440d0272b0ea16a8ea.oggvorbisstr"
+path="res://.godot/imported/LITWICK.ogg-266e02caef27697f0468828ee7307988.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LITWICK.ogg"
-dest_files=["res://.godot/imported/LITWICK.ogg-8fc6a3ec423ed3440d0272b0ea16a8ea.oggvorbisstr"]
+source_file="res://audio/se/cries/LITWICK.ogg"
+dest_files=["res://.godot/imported/LITWICK.ogg-266e02caef27697f0468828ee7307988.oggvorbisstr"]
 
 [params]
 

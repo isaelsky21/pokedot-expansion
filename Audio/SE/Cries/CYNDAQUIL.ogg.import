@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c3vh37vvo6o2b"
-path="res://.godot/imported/CYNDAQUIL.ogg-ae8cabea3feab58d81f1bf7fe1a7610c.oggvorbisstr"
+path="res://.godot/imported/CYNDAQUIL.ogg-e26eba00c04a31c23c5ea718ae0e9b90.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CYNDAQUIL.ogg"
-dest_files=["res://.godot/imported/CYNDAQUIL.ogg-ae8cabea3feab58d81f1bf7fe1a7610c.oggvorbisstr"]
+source_file="res://audio/se/cries/CYNDAQUIL.ogg"
+dest_files=["res://.godot/imported/CYNDAQUIL.ogg-e26eba00c04a31c23c5ea718ae0e9b90.oggvorbisstr"]
 
 [params]
 

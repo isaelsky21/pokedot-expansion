@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dvll666u2sw1y"
-path="res://.godot/imported/HOOTHOOT.ogg-6d074390c4b6a576b94efdf3923f1bfd.oggvorbisstr"
+path="res://.godot/imported/HOOTHOOT.ogg-0e89067ce9453967694cb9772efacd4c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HOOTHOOT.ogg"
-dest_files=["res://.godot/imported/HOOTHOOT.ogg-6d074390c4b6a576b94efdf3923f1bfd.oggvorbisstr"]
+source_file="res://audio/se/cries/HOOTHOOT.ogg"
+dest_files=["res://.godot/imported/HOOTHOOT.ogg-0e89067ce9453967694cb9772efacd4c.oggvorbisstr"]
 
 [params]
 

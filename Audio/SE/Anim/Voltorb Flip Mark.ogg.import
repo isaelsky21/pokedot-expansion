@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dog8iamudnlsd"
-path="res://.godot/imported/Voltorb Flip Mark.ogg-413412432e6d62a706f88e008a72b2bf.oggvorbisstr"
+path="res://.godot/imported/Voltorb Flip Mark.ogg-aff4e71c828289235ee217822a20c3de.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Voltorb Flip Mark.ogg"
-dest_files=["res://.godot/imported/Voltorb Flip Mark.ogg-413412432e6d62a706f88e008a72b2bf.oggvorbisstr"]
+source_file="res://audio/se/anim/Voltorb Flip Mark.ogg"
+dest_files=["res://.godot/imported/Voltorb Flip Mark.ogg-aff4e71c828289235ee217822a20c3de.oggvorbisstr"]
 
 [params]
 

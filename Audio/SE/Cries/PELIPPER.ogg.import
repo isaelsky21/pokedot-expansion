@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d2hcgl1it38eg"
-path="res://.godot/imported/PELIPPER.ogg-1023956ddabcb1a9ddd97857b5b39edb.oggvorbisstr"
+path="res://.godot/imported/PELIPPER.ogg-7d83f3f1a73db20e6f918ebb5307a230.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PELIPPER.ogg"
-dest_files=["res://.godot/imported/PELIPPER.ogg-1023956ddabcb1a9ddd97857b5b39edb.oggvorbisstr"]
+source_file="res://audio/se/cries/PELIPPER.ogg"
+dest_files=["res://.godot/imported/PELIPPER.ogg-7d83f3f1a73db20e6f918ebb5307a230.oggvorbisstr"]
 
 [params]
 

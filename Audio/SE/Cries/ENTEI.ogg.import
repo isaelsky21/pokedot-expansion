@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cgpgobpgtir8c"
-path="res://.godot/imported/ENTEI.ogg-19577849276ea8edca7d1d06d13eceeb.oggvorbisstr"
+path="res://.godot/imported/ENTEI.ogg-92076b47a7244fb27f91c722afdb7901.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ENTEI.ogg"
-dest_files=["res://.godot/imported/ENTEI.ogg-19577849276ea8edca7d1d06d13eceeb.oggvorbisstr"]
+source_file="res://audio/se/cries/ENTEI.ogg"
+dest_files=["res://.godot/imported/ENTEI.ogg-92076b47a7244fb27f91c722afdb7901.oggvorbisstr"]
 
 [params]
 

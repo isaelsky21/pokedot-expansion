@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cse6ckolbsm85"
-path="res://.godot/imported/PRSFX- Hone Claws.wav-2cb61720c990f3dcebf4b9a4946452e1.sample"
+path="res://.godot/imported/PRSFX- Hone Claws.wav-bb0e766b83e393ead06ad052c2ab0a09.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hone Claws.wav"
-dest_files=["res://.godot/imported/PRSFX- Hone Claws.wav-2cb61720c990f3dcebf4b9a4946452e1.sample"]
+source_file="res://audio/se/anim/PRSFX- Hone Claws.wav"
+dest_files=["res://.godot/imported/PRSFX- Hone Claws.wav-bb0e766b83e393ead06ad052c2ab0a09.sample"]
 
 [params]
 

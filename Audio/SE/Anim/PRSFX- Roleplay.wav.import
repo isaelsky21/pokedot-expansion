@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://scwpyfbjdfmt"
-path="res://.godot/imported/PRSFX- Roleplay.wav-f13ac6e51ba53efff72a5b0a3ed81ebd.sample"
+path="res://.godot/imported/PRSFX- Roleplay.wav-b55ee1f7b3f9117efdd55b32715894f9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Roleplay.wav"
-dest_files=["res://.godot/imported/PRSFX- Roleplay.wav-f13ac6e51ba53efff72a5b0a3ed81ebd.sample"]
+source_file="res://audio/se/anim/PRSFX- Roleplay.wav"
+dest_files=["res://.godot/imported/PRSFX- Roleplay.wav-b55ee1f7b3f9117efdd55b32715894f9.sample"]
 
 [params]
 

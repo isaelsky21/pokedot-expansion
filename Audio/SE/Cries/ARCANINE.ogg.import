@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dsuqn75sjjvu0"
-path="res://.godot/imported/ARCANINE.ogg-0bbd0209d843d9e8bf197cf9db286ca1.oggvorbisstr"
+path="res://.godot/imported/ARCANINE.ogg-ada4cd9a598d8aba58a69ef25afed62b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARCANINE.ogg"
-dest_files=["res://.godot/imported/ARCANINE.ogg-0bbd0209d843d9e8bf197cf9db286ca1.oggvorbisstr"]
+source_file="res://audio/se/cries/ARCANINE.ogg"
+dest_files=["res://.godot/imported/ARCANINE.ogg-ada4cd9a598d8aba58a69ef25afed62b.oggvorbisstr"]
 
 [params]
 

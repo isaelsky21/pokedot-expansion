@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://x33t7xfm1j38"
-path="res://.godot/imported/Weatherball.ogg-d591ed632bfce9b8ff780e34cbc6fef9.oggvorbisstr"
+path="res://.godot/imported/Weatherball.ogg-ecc24d5162d0f3a93b353f1bd9e77efa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Weatherball.ogg"
-dest_files=["res://.godot/imported/Weatherball.ogg-d591ed632bfce9b8ff780e34cbc6fef9.oggvorbisstr"]
+source_file="res://audio/se/anim/Weatherball.ogg"
+dest_files=["res://.godot/imported/Weatherball.ogg-ecc24d5162d0f3a93b353f1bd9e77efa.oggvorbisstr"]
 
 [params]
 

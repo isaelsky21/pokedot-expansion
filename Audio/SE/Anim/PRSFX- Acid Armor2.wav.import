@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cs15x5nrxuqiu"
-path="res://.godot/imported/PRSFX- Acid Armor2.wav-4c10378a94067f182a1d65a50a762135.sample"
+path="res://.godot/imported/PRSFX- Acid Armor2.wav-6d8f03eab265508a0e8e3ae9fbcd1be6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Acid Armor2.wav"
-dest_files=["res://.godot/imported/PRSFX- Acid Armor2.wav-4c10378a94067f182a1d65a50a762135.sample"]
+source_file="res://audio/se/anim/PRSFX- Acid Armor2.wav"
+dest_files=["res://.godot/imported/PRSFX- Acid Armor2.wav-6d8f03eab265508a0e8e3ae9fbcd1be6.sample"]
 
 [params]
 

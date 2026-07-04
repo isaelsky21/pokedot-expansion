@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d2to24nppjqku"
-path="res://.godot/imported/PRSFX- Lava Plume.wav-5307510dfb09bead756f45bd10229bf1.sample"
+path="res://.godot/imported/PRSFX- Lava Plume.wav-586fa35de017d4dcfa682e688696d221.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Lava Plume.wav"
-dest_files=["res://.godot/imported/PRSFX- Lava Plume.wav-5307510dfb09bead756f45bd10229bf1.sample"]
+source_file="res://audio/se/anim/PRSFX- Lava Plume.wav"
+dest_files=["res://.godot/imported/PRSFX- Lava Plume.wav-586fa35de017d4dcfa682e688696d221.sample"]
 
 [params]
 

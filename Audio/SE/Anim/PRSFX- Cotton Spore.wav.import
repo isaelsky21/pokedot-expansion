@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cpn4n6ev177c2"
-path="res://.godot/imported/PRSFX- Cotton Spore.wav-da9b118b8ca10480a9a63fc44d328fc6.sample"
+path="res://.godot/imported/PRSFX- Cotton Spore.wav-2aa7a43e4d91f7f292e4d0ae335ef8f1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Cotton Spore.wav"
-dest_files=["res://.godot/imported/PRSFX- Cotton Spore.wav-da9b118b8ca10480a9a63fc44d328fc6.sample"]
+source_file="res://audio/se/anim/PRSFX- Cotton Spore.wav"
+dest_files=["res://.godot/imported/PRSFX- Cotton Spore.wav-2aa7a43e4d91f7f292e4d0ae335ef8f1.sample"]
 
 [params]
 

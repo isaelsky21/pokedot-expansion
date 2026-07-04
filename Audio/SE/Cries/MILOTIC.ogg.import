@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1nhaflncwk5c"
-path="res://.godot/imported/MILOTIC.ogg-1e2423bfc77caa1ff44fc18977bd347f.oggvorbisstr"
+path="res://.godot/imported/MILOTIC.ogg-0055c859d15b34234c7db50e301921a2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MILOTIC.ogg"
-dest_files=["res://.godot/imported/MILOTIC.ogg-1e2423bfc77caa1ff44fc18977bd347f.oggvorbisstr"]
+source_file="res://audio/se/cries/MILOTIC.ogg"
+dest_files=["res://.godot/imported/MILOTIC.ogg-0055c859d15b34234c7db50e301921a2.oggvorbisstr"]
 
 [params]
 

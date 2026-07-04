@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d0hgew2tnak0s"
-path="res://.godot/imported/PRSFX- Heart Stamp2.wav-4929f23090a9ab13bbeb314e4dfb6c83.sample"
+path="res://.godot/imported/PRSFX- Heart Stamp2.wav-d6acba4b40b290b484bddc4120d22a54.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Heart Stamp2.wav"
-dest_files=["res://.godot/imported/PRSFX- Heart Stamp2.wav-4929f23090a9ab13bbeb314e4dfb6c83.sample"]
+source_file="res://audio/se/anim/PRSFX- Heart Stamp2.wav"
+dest_files=["res://.godot/imported/PRSFX- Heart Stamp2.wav-d6acba4b40b290b484bddc4120d22a54.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://0ls6asrqrjd2"
-path="res://.godot/imported/NINJASK.ogg-9eddde984f359d8503d9412b4fab9f9f.oggvorbisstr"
+path="res://.godot/imported/NINJASK.ogg-4f5ecbdc1a35ff5ef63964882320ba4a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NINJASK.ogg"
-dest_files=["res://.godot/imported/NINJASK.ogg-9eddde984f359d8503d9412b4fab9f9f.oggvorbisstr"]
+source_file="res://audio/se/cries/NINJASK.ogg"
+dest_files=["res://.godot/imported/NINJASK.ogg-4f5ecbdc1a35ff5ef63964882320ba4a.oggvorbisstr"]
 
 [params]
 

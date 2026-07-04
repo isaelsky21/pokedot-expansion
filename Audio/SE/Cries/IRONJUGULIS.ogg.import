@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7e3p6us02004"
-path="res://.godot/imported/IRONJUGULIS.ogg-b25586c1c933b707352a16c582befd2c.oggvorbisstr"
+path="res://.godot/imported/IRONJUGULIS.ogg-74e3cf7424c0a9b42ef1cbefcd9c0168.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/IRONJUGULIS.ogg"
-dest_files=["res://.godot/imported/IRONJUGULIS.ogg-b25586c1c933b707352a16c582befd2c.oggvorbisstr"]
+source_file="res://audio/se/cries/IRONJUGULIS.ogg"
+dest_files=["res://.godot/imported/IRONJUGULIS.ogg-74e3cf7424c0a9b42ef1cbefcd9c0168.oggvorbisstr"]
 
 [params]
 

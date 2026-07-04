@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bsqtil5elbf3"
-path="res://.godot/imported/MAGIKARP.ogg-f5fe9cef255dc23dc27dc72d38be345b.oggvorbisstr"
+path="res://.godot/imported/MAGIKARP.ogg-ee404c03fe8c18d18ce5cbd451417dc0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAGIKARP.ogg"
-dest_files=["res://.godot/imported/MAGIKARP.ogg-f5fe9cef255dc23dc27dc72d38be345b.oggvorbisstr"]
+source_file="res://audio/se/cries/MAGIKARP.ogg"
+dest_files=["res://.godot/imported/MAGIKARP.ogg-ee404c03fe8c18d18ce5cbd451417dc0.oggvorbisstr"]
 
 [params]
 

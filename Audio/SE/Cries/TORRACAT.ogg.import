@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0l2eotxajkd5"
-path="res://.godot/imported/TORRACAT.ogg-23cbb48d9fa5922181e5ccc7bba1b148.oggvorbisstr"
+path="res://.godot/imported/TORRACAT.ogg-3ed1f2e4ae40c7af9ee4a16e54b65007.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TORRACAT.ogg"
-dest_files=["res://.godot/imported/TORRACAT.ogg-23cbb48d9fa5922181e5ccc7bba1b148.oggvorbisstr"]
+source_file="res://audio/se/cries/TORRACAT.ogg"
+dest_files=["res://.godot/imported/TORRACAT.ogg-3ed1f2e4ae40c7af9ee4a16e54b65007.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dermnt8fkg1u2"
-path="res://.godot/imported/HELIOLISK.ogg-f6913477e4d8a22d39119d1b0ed6204c.oggvorbisstr"
+path="res://.godot/imported/HELIOLISK.ogg-5ca108a6201ebab79d19b8c67e2ca86d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HELIOLISK.ogg"
-dest_files=["res://.godot/imported/HELIOLISK.ogg-f6913477e4d8a22d39119d1b0ed6204c.oggvorbisstr"]
+source_file="res://audio/se/cries/HELIOLISK.ogg"
+dest_files=["res://.godot/imported/HELIOLISK.ogg-5ca108a6201ebab79d19b8c67e2ca86d.oggvorbisstr"]
 
 [params]
 

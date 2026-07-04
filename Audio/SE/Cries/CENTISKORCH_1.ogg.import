@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://drl1epkv70yi0"
-path="res://.godot/imported/CENTISKORCH_1.ogg-0190dac2a8a0177663167e6d1ca4a1fb.oggvorbisstr"
+path="res://.godot/imported/CENTISKORCH_1.ogg-f59d7390efbb8fe6e8063034ce6b40b5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CENTISKORCH_1.ogg"
-dest_files=["res://.godot/imported/CENTISKORCH_1.ogg-0190dac2a8a0177663167e6d1ca4a1fb.oggvorbisstr"]
+source_file="res://audio/se/cries/CENTISKORCH_1.ogg"
+dest_files=["res://.godot/imported/CENTISKORCH_1.ogg-f59d7390efbb8fe6e8063034ce6b40b5.oggvorbisstr"]
 
 [params]
 

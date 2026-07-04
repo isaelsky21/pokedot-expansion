@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://016j3yhbt46j"
-path="res://.godot/imported/BUNNELBY.ogg-962fdcdc2dfc405e2674117eea67b963.oggvorbisstr"
+path="res://.godot/imported/BUNNELBY.ogg-1617dd995bde465d3b1874633ce97cb6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BUNNELBY.ogg"
-dest_files=["res://.godot/imported/BUNNELBY.ogg-962fdcdc2dfc405e2674117eea67b963.oggvorbisstr"]
+source_file="res://audio/se/cries/BUNNELBY.ogg"
+dest_files=["res://.godot/imported/BUNNELBY.ogg-1617dd995bde465d3b1874633ce97cb6.oggvorbisstr"]
 
 [params]
 

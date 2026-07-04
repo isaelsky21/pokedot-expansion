@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qbw71tuiwsdn"
-path="res://.godot/imported/increase.ogg-4ca8d59f4ba72cb6308b685786cac9c1.oggvorbisstr"
+path="res://.godot/imported/increase.ogg-9ab0754c573b11c2141f6266083b1ffd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/increase.ogg"
-dest_files=["res://.godot/imported/increase.ogg-4ca8d59f4ba72cb6308b685786cac9c1.oggvorbisstr"]
+source_file="res://audio/se/anim/increase.ogg"
+dest_files=["res://.godot/imported/increase.ogg-9ab0754c573b11c2141f6266083b1ffd.oggvorbisstr"]
 
 [params]
 

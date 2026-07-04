@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cyiyq2mpw8ayx"
-path="res://.godot/imported/PRSFX- Final Gambit2.wav-1ff14bd7ee1ba4eebc8f4ec588c7146a.sample"
+path="res://.godot/imported/PRSFX- Final Gambit2.wav-30f19275045d1fc9e82b874dbf6677d6.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Final Gambit2.wav"
-dest_files=["res://.godot/imported/PRSFX- Final Gambit2.wav-1ff14bd7ee1ba4eebc8f4ec588c7146a.sample"]
+source_file="res://audio/se/anim/PRSFX- Final Gambit2.wav"
+dest_files=["res://.godot/imported/PRSFX- Final Gambit2.wav-30f19275045d1fc9e82b874dbf6677d6.sample"]
 
 [params]
 

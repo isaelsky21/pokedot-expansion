@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d040akgbyed34"
-path="res://.godot/imported/PRSFX- Poison Gas.wav-5cd3631c99eb4b4f9348cc82161be640.sample"
+path="res://.godot/imported/PRSFX- Poison Gas.wav-4b6fe14f59d62551745c6d2ccfc9f4ec.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Poison Gas.wav"
-dest_files=["res://.godot/imported/PRSFX- Poison Gas.wav-5cd3631c99eb4b4f9348cc82161be640.sample"]
+source_file="res://audio/se/anim/PRSFX- Poison Gas.wav"
+dest_files=["res://.godot/imported/PRSFX- Poison Gas.wav-4b6fe14f59d62551745c6d2ccfc9f4ec.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://vw5esmd2hoeq"
-path="res://.godot/imported/PRSFX- Horn Drill3.wav-1d2fda4a79d99ce9a01438133fb0d2ac.sample"
+path="res://.godot/imported/PRSFX- Horn Drill3.wav-f5ae03c97ab71e0d16240cb369e169a3.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Horn Drill3.wav"
-dest_files=["res://.godot/imported/PRSFX- Horn Drill3.wav-1d2fda4a79d99ce9a01438133fb0d2ac.sample"]
+source_file="res://audio/se/anim/PRSFX- Horn Drill3.wav"
+dest_files=["res://.godot/imported/PRSFX- Horn Drill3.wav-f5ae03c97ab71e0d16240cb369e169a3.sample"]
 
 [params]
 

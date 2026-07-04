@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ceab2acpbyrbw"
-path="res://.godot/imported/TYPENULL.ogg-0198a8f198801f57d8e1f58f5a8b0fa2.oggvorbisstr"
+path="res://.godot/imported/TYPENULL.ogg-95e3b201a73cc5c99f7ce07c1350305c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TYPENULL.ogg"
-dest_files=["res://.godot/imported/TYPENULL.ogg-0198a8f198801f57d8e1f58f5a8b0fa2.oggvorbisstr"]
+source_file="res://audio/se/cries/TYPENULL.ogg"
+dest_files=["res://.godot/imported/TYPENULL.ogg-95e3b201a73cc5c99f7ce07c1350305c.oggvorbisstr"]
 
 [params]
 

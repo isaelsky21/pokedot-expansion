@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dajsjdesxvuy4"
-path="res://.godot/imported/PRSFX- Thunderbolt1.wav-019fb562cc4f52cf872935e819c8ceed.sample"
+path="res://.godot/imported/PRSFX- Thunderbolt1.wav-b5ca92a341287e8a66c36ced4199b313.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thunderbolt1.wav"
-dest_files=["res://.godot/imported/PRSFX- Thunderbolt1.wav-019fb562cc4f52cf872935e819c8ceed.sample"]
+source_file="res://audio/se/anim/PRSFX- Thunderbolt1.wav"
+dest_files=["res://.godot/imported/PRSFX- Thunderbolt1.wav-b5ca92a341287e8a66c36ced4199b313.sample"]
 
 [params]
 

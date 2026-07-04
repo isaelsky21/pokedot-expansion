@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bknmycoprhvm"
-path="res://.godot/imported/ARCHALUDON.ogg-68cebc6ef5b991cd94ed108fcf2d8a15.oggvorbisstr"
+path="res://.godot/imported/ARCHALUDON.ogg-69705445cf23b284db5e34e4cc5c37ac.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARCHALUDON.ogg"
-dest_files=["res://.godot/imported/ARCHALUDON.ogg-68cebc6ef5b991cd94ed108fcf2d8a15.oggvorbisstr"]
+source_file="res://audio/se/cries/ARCHALUDON.ogg"
+dest_files=["res://.godot/imported/ARCHALUDON.ogg-69705445cf23b284db5e34e4cc5c37ac.oggvorbisstr"]
 
 [params]
 

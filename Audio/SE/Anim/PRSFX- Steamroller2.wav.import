@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cpwgpptjy63iu"
-path="res://.godot/imported/PRSFX- Steamroller2.wav-7cc905a888e831722ad73696094e5132.sample"
+path="res://.godot/imported/PRSFX- Steamroller2.wav-cc578a6739a4258c54ba36a04c59536a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Steamroller2.wav"
-dest_files=["res://.godot/imported/PRSFX- Steamroller2.wav-7cc905a888e831722ad73696094e5132.sample"]
+source_file="res://audio/se/anim/PRSFX- Steamroller2.wav"
+dest_files=["res://.godot/imported/PRSFX- Steamroller2.wav-cc578a6739a4258c54ba36a04c59536a.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bfybj8wgfs3lp"
-path="res://.godot/imported/CHARMELEON.ogg-b3a6fac50a36651c4c36fb4d1e3d77ba.oggvorbisstr"
+path="res://.godot/imported/CHARMELEON.ogg-ebbb745a7cd93b4d01c0e5e8e9adfe8d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHARMELEON.ogg"
-dest_files=["res://.godot/imported/CHARMELEON.ogg-b3a6fac50a36651c4c36fb4d1e3d77ba.oggvorbisstr"]
+source_file="res://audio/se/cries/CHARMELEON.ogg"
+dest_files=["res://.godot/imported/CHARMELEON.ogg-ebbb745a7cd93b4d01c0e5e8e9adfe8d.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bkdj2yleyxd32"
-path="res://.godot/imported/PRSFX- Fairy Wind.wav-222f6cc75d240737d3a990a6e7420a02.sample"
+path="res://.godot/imported/PRSFX- Fairy Wind.wav-0eeb780a9098877bd1e7f37bfb31c825.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fairy Wind.wav"
-dest_files=["res://.godot/imported/PRSFX- Fairy Wind.wav-222f6cc75d240737d3a990a6e7420a02.sample"]
+source_file="res://audio/se/anim/PRSFX- Fairy Wind.wav"
+dest_files=["res://.godot/imported/PRSFX- Fairy Wind.wav-0eeb780a9098877bd1e7f37bfb31c825.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bxxs42l2d7lox"
-path="res://.godot/imported/PRSFX- Thunder Fang.wav-73ed68087d1eb5a4f0802a32216d10dc.sample"
+path="res://.godot/imported/PRSFX- Thunder Fang.wav-2f2b66df73b914af92dcb67192802b5d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thunder Fang.wav"
-dest_files=["res://.godot/imported/PRSFX- Thunder Fang.wav-73ed68087d1eb5a4f0802a32216d10dc.sample"]
+source_file="res://audio/se/anim/PRSFX- Thunder Fang.wav"
+dest_files=["res://.godot/imported/PRSFX- Thunder Fang.wav-2f2b66df73b914af92dcb67192802b5d.sample"]
 
 [params]
 

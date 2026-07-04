@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://csmp7xb65fx87"
-path="res://.godot/imported/HUNTAIL.ogg-3712fc7d5e1cc62ba7a78e9dac968f58.oggvorbisstr"
+path="res://.godot/imported/HUNTAIL.ogg-18603690affa3ab4dd5966860029689a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HUNTAIL.ogg"
-dest_files=["res://.godot/imported/HUNTAIL.ogg-3712fc7d5e1cc62ba7a78e9dac968f58.oggvorbisstr"]
+source_file="res://audio/se/cries/HUNTAIL.ogg"
+dest_files=["res://.godot/imported/HUNTAIL.ogg-18603690affa3ab4dd5966860029689a.oggvorbisstr"]
 
 [params]
 

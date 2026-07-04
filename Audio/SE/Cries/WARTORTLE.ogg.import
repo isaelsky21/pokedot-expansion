@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ir22tb80r7s7"
-path="res://.godot/imported/WARTORTLE.ogg-10bc0ab3c0c3d6e1dd050e471288eadf.oggvorbisstr"
+path="res://.godot/imported/WARTORTLE.ogg-a10c2f93d9d02565e5f9b83ced70efbc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WARTORTLE.ogg"
-dest_files=["res://.godot/imported/WARTORTLE.ogg-10bc0ab3c0c3d6e1dd050e471288eadf.oggvorbisstr"]
+source_file="res://audio/se/cries/WARTORTLE.ogg"
+dest_files=["res://.godot/imported/WARTORTLE.ogg-a10c2f93d9d02565e5f9b83ced70efbc.oggvorbisstr"]
 
 [params]
 

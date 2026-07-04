@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cbmxj0xm6fjfb"
-path="res://.godot/imported/PRSFX- Electrify.wav-70ea31b034af2df2c1f85d9061f264d1.sample"
+path="res://.godot/imported/PRSFX- Electrify.wav-cbe00b74942c5522f06dde4fa9d50391.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Electrify.wav"
-dest_files=["res://.godot/imported/PRSFX- Electrify.wav-70ea31b034af2df2c1f85d9061f264d1.sample"]
+source_file="res://audio/se/anim/PRSFX- Electrify.wav"
+dest_files=["res://.godot/imported/PRSFX- Electrify.wav-cbe00b74942c5522f06dde4fa9d50391.sample"]
 
 [params]
 

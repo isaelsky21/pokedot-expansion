@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://eti246lk3okb"
-path="res://.godot/imported/GOREBYSS.ogg-93289dd6a6e313c025a8ae0d919eace6.oggvorbisstr"
+path="res://.godot/imported/GOREBYSS.ogg-c1f5253ef07836d8c6d6479ee1d7607a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOREBYSS.ogg"
-dest_files=["res://.godot/imported/GOREBYSS.ogg-93289dd6a6e313c025a8ae0d919eace6.oggvorbisstr"]
+source_file="res://audio/se/cries/GOREBYSS.ogg"
+dest_files=["res://.godot/imported/GOREBYSS.ogg-c1f5253ef07836d8c6d6479ee1d7607a.oggvorbisstr"]
 
 [params]
 

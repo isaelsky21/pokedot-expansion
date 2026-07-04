@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://do15as6flhntq"
-path="res://.godot/imported/Battle Frontier.wav-e472fc7b0b07131bb85d01861986cdfe.sample"
+path="res://.godot/imported/Battle Frontier.wav-8c4941d562e8418e2b698381ba545e54.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle Frontier.wav"
-dest_files=["res://.godot/imported/Battle Frontier.wav-e472fc7b0b07131bb85d01861986cdfe.sample"]
+source_file="res://audio/bgm/Battle Frontier.wav"
+dest_files=["res://.godot/imported/Battle Frontier.wav-8c4941d562e8418e2b698381ba545e54.sample"]
 
 [params]
 

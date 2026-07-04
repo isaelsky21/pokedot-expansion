@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c1vvhpkkflj6e"
-path="res://.godot/imported/PORYGONZ.ogg-454d3746a43710d44b8f273423c693ee.oggvorbisstr"
+path="res://.godot/imported/PORYGONZ.ogg-5366a018a0d42f3623cfb83413ecbe1d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PORYGONZ.ogg"
-dest_files=["res://.godot/imported/PORYGONZ.ogg-454d3746a43710d44b8f273423c693ee.oggvorbisstr"]
+source_file="res://audio/se/cries/PORYGONZ.ogg"
+dest_files=["res://.godot/imported/PORYGONZ.ogg-5366a018a0d42f3623cfb83413ecbe1d.oggvorbisstr"]
 
 [params]
 

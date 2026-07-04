@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://4u8n4a8gwj4e"
-path="res://.godot/imported/EXCADRILL.ogg-050d182e5073ecdb2d7d2f494cc75f25.oggvorbisstr"
+path="res://.godot/imported/EXCADRILL.ogg-f2ac6619294f3e93fb068c38f5c34991.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/EXCADRILL.ogg"
-dest_files=["res://.godot/imported/EXCADRILL.ogg-050d182e5073ecdb2d7d2f494cc75f25.oggvorbisstr"]
+source_file="res://audio/se/cries/EXCADRILL.ogg"
+dest_files=["res://.godot/imported/EXCADRILL.ogg-f2ac6619294f3e93fb068c38f5c34991.oggvorbisstr"]
 
 [params]
 

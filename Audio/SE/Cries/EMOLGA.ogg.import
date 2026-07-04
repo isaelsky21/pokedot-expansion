@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cud7ouumc6ykn"
-path="res://.godot/imported/EMOLGA.ogg-4e9c7f123a1f12a732629b6f844d3084.oggvorbisstr"
+path="res://.godot/imported/EMOLGA.ogg-f6ae695907ee524baf218d86dc09a759.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/EMOLGA.ogg"
-dest_files=["res://.godot/imported/EMOLGA.ogg-4e9c7f123a1f12a732629b6f844d3084.oggvorbisstr"]
+source_file="res://audio/se/cries/EMOLGA.ogg"
+dest_files=["res://.godot/imported/EMOLGA.ogg-f6ae695907ee524baf218d86dc09a759.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dcfvr1bxsjh7n"
-path="res://.godot/imported/PRSFX- Quash.wav-cf9fcd8be668f8ecef040d8ac8ef7001.sample"
+path="res://.godot/imported/PRSFX- Quash.wav-7384819fb58f0c7f0fa27eb4ad0fa064.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Quash.wav"
-dest_files=["res://.godot/imported/PRSFX- Quash.wav-cf9fcd8be668f8ecef040d8ac8ef7001.sample"]
+source_file="res://audio/se/anim/PRSFX- Quash.wav"
+dest_files=["res://.godot/imported/PRSFX- Quash.wav-7384819fb58f0c7f0fa27eb4ad0fa064.sample"]
 
 [params]
 

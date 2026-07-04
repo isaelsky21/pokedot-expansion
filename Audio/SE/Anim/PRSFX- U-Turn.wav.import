@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://43cfo1el66h2"
-path="res://.godot/imported/PRSFX- U-Turn.wav-5240ecc55cbe281114a1916fee785c83.sample"
+path="res://.godot/imported/PRSFX- U-Turn.wav-3b0415041c572a7bb9412e7e000c8ded.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- U-Turn.wav"
-dest_files=["res://.godot/imported/PRSFX- U-Turn.wav-5240ecc55cbe281114a1916fee785c83.sample"]
+source_file="res://audio/se/anim/PRSFX- U-Turn.wav"
+dest_files=["res://.godot/imported/PRSFX- U-Turn.wav-3b0415041c572a7bb9412e7e000c8ded.sample"]
 
 [params]
 

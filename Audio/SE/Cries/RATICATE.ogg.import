@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c62rwkbewv2gl"
-path="res://.godot/imported/RATICATE.ogg-83c9568fc0651eeb7365525eff611ebe.oggvorbisstr"
+path="res://.godot/imported/RATICATE.ogg-eba4916e158ee3ee337797a607e0ec3d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RATICATE.ogg"
-dest_files=["res://.godot/imported/RATICATE.ogg-83c9568fc0651eeb7365525eff611ebe.oggvorbisstr"]
+source_file="res://audio/se/cries/RATICATE.ogg"
+dest_files=["res://.godot/imported/RATICATE.ogg-eba4916e158ee3ee337797a607e0ec3d.oggvorbisstr"]
 
 [params]
 

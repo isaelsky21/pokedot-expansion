@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cju15coefw3uo"
-path="res://.godot/imported/NINCADA.ogg-c0565413385335422d0d6356cd41f11c.oggvorbisstr"
+path="res://.godot/imported/NINCADA.ogg-d1a51c6281bc3f3959a5c396363b34df.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NINCADA.ogg"
-dest_files=["res://.godot/imported/NINCADA.ogg-c0565413385335422d0d6356cd41f11c.oggvorbisstr"]
+source_file="res://audio/se/cries/NINCADA.ogg"
+dest_files=["res://.godot/imported/NINCADA.ogg-d1a51c6281bc3f3959a5c396363b34df.oggvorbisstr"]
 
 [params]
 

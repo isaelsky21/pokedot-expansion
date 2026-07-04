@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bhjeskr3n4c63"
-path="res://.godot/imported/PRSFX- ZPower2.wav-df9b530d934d04654d0bc5c398456824.sample"
+path="res://.godot/imported/PRSFX- ZPower2.wav-e61bd767790756cb28e6f6074d0c4034.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- ZPower2.wav"
-dest_files=["res://.godot/imported/PRSFX- ZPower2.wav-df9b530d934d04654d0bc5c398456824.sample"]
+source_file="res://audio/se/anim/PRSFX- ZPower2.wav"
+dest_files=["res://.godot/imported/PRSFX- ZPower2.wav-e61bd767790756cb28e6f6074d0c4034.sample"]
 
 [params]
 

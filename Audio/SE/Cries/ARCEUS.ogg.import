@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctbwhbwg2ccee"
-path="res://.godot/imported/ARCEUS.ogg-54a6f650f216eb864802126c6f2f51af.oggvorbisstr"
+path="res://.godot/imported/ARCEUS.ogg-7457ba08a8a6975262d8fc897a823501.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARCEUS.ogg"
-dest_files=["res://.godot/imported/ARCEUS.ogg-54a6f650f216eb864802126c6f2f51af.oggvorbisstr"]
+source_file="res://audio/se/cries/ARCEUS.ogg"
+dest_files=["res://.godot/imported/ARCEUS.ogg-7457ba08a8a6975262d8fc897a823501.oggvorbisstr"]
 
 [params]
 

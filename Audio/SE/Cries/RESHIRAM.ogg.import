@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6w5aevbbi0f5"
-path="res://.godot/imported/RESHIRAM.ogg-c86989b6769c691a6c648217a1d0baac.oggvorbisstr"
+path="res://.godot/imported/RESHIRAM.ogg-ac98d80dadd424e8f82337ea0bad6ab4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RESHIRAM.ogg"
-dest_files=["res://.godot/imported/RESHIRAM.ogg-c86989b6769c691a6c648217a1d0baac.oggvorbisstr"]
+source_file="res://audio/se/cries/RESHIRAM.ogg"
+dest_files=["res://.godot/imported/RESHIRAM.ogg-ac98d80dadd424e8f82337ea0bad6ab4.oggvorbisstr"]
 
 [params]
 

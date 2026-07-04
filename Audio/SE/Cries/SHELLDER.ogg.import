@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bny2ky8528lgi"
-path="res://.godot/imported/SHELLDER.ogg-205876b0ac04cc1b0a611cec28971582.oggvorbisstr"
+path="res://.godot/imported/SHELLDER.ogg-4f610401776275b6b8adc7507cda9ba8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHELLDER.ogg"
-dest_files=["res://.godot/imported/SHELLDER.ogg-205876b0ac04cc1b0a611cec28971582.oggvorbisstr"]
+source_file="res://audio/se/cries/SHELLDER.ogg"
+dest_files=["res://.godot/imported/SHELLDER.ogg-4f610401776275b6b8adc7507cda9ba8.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bm24rfjuxs0hn"
-path="res://.godot/imported/PRSFX- Nightmare.wav-f6e56b2251fa4d985e612910dfad389d.sample"
+path="res://.godot/imported/PRSFX- Nightmare.wav-d63d22a534e69948715911e07a069f9c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Nightmare.wav"
-dest_files=["res://.godot/imported/PRSFX- Nightmare.wav-f6e56b2251fa4d985e612910dfad389d.sample"]
+source_file="res://audio/se/anim/PRSFX- Nightmare.wav"
+dest_files=["res://.godot/imported/PRSFX- Nightmare.wav-d63d22a534e69948715911e07a069f9c.sample"]
 
 [params]
 

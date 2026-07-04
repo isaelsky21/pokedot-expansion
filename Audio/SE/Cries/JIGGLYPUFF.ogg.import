@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://rnk40076tku3"
-path="res://.godot/imported/JIGGLYPUFF.ogg-31b8d1d46fbaf2cc6fe5dbc3ba85b27f.oggvorbisstr"
+path="res://.godot/imported/JIGGLYPUFF.ogg-ab4f038a534472a94f571ca241b00e67.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/JIGGLYPUFF.ogg"
-dest_files=["res://.godot/imported/JIGGLYPUFF.ogg-31b8d1d46fbaf2cc6fe5dbc3ba85b27f.oggvorbisstr"]
+source_file="res://audio/se/cries/JIGGLYPUFF.ogg"
+dest_files=["res://.godot/imported/JIGGLYPUFF.ogg-ab4f038a534472a94f571ca241b00e67.oggvorbisstr"]
 
 [params]
 

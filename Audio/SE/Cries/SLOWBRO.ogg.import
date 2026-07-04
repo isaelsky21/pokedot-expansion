@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://woscpgsuxbnx"
-path="res://.godot/imported/SLOWBRO.ogg-4554a67b5c35eda45843328b7b152d5d.oggvorbisstr"
+path="res://.godot/imported/SLOWBRO.ogg-1d5d620a33049a00899e1185313d09c3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SLOWBRO.ogg"
-dest_files=["res://.godot/imported/SLOWBRO.ogg-4554a67b5c35eda45843328b7b152d5d.oggvorbisstr"]
+source_file="res://audio/se/cries/SLOWBRO.ogg"
+dest_files=["res://.godot/imported/SLOWBRO.ogg-1d5d620a33049a00899e1185313d09c3.oggvorbisstr"]
 
 [params]
 

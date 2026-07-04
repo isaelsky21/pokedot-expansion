@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ibt3qypwegab"
-path="res://.godot/imported/Natural Park.wav-d9b21fadb9043561e5db0dc0baa03330.sample"
+path="res://.godot/imported/Natural Park.wav-fb7d20bcc3f77795612dd31fbe7f98c6.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Natural Park.wav"
-dest_files=["res://.godot/imported/Natural Park.wav-d9b21fadb9043561e5db0dc0baa03330.sample"]
+source_file="res://audio/bgm/Natural Park.wav"
+dest_files=["res://.godot/imported/Natural Park.wav-fb7d20bcc3f77795612dd31fbe7f98c6.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://s3f2kgg8t2gq"
-path="res://.godot/imported/JOLTEON.ogg-1c67f95cd92a6d4a030eb35758c250a5.oggvorbisstr"
+path="res://.godot/imported/JOLTEON.ogg-be333d928b565a0f464dba03854c3d4c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/JOLTEON.ogg"
-dest_files=["res://.godot/imported/JOLTEON.ogg-1c67f95cd92a6d4a030eb35758c250a5.oggvorbisstr"]
+source_file="res://audio/se/cries/JOLTEON.ogg"
+dest_files=["res://.godot/imported/JOLTEON.ogg-be333d928b565a0f464dba03854c3d4c.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://co3i86skusiav"
-path="res://.godot/imported/KRICKETUNE.ogg-1908b85ab6db47f96ad998ac7a374698.oggvorbisstr"
+path="res://.godot/imported/KRICKETUNE.ogg-418e539b0db7f1d88048f1d98b656ac2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KRICKETUNE.ogg"
-dest_files=["res://.godot/imported/KRICKETUNE.ogg-1908b85ab6db47f96ad998ac7a374698.oggvorbisstr"]
+source_file="res://audio/se/cries/KRICKETUNE.ogg"
+dest_files=["res://.godot/imported/KRICKETUNE.ogg-418e539b0db7f1d88048f1d98b656ac2.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://v3dbpafjwu26"
-path="res://.godot/imported/PRSFX- Rain.wav-422e5965c9f225647b15a45af38bd2bc.sample"
+path="res://.godot/imported/PRSFX- Rain.wav-e34f715d30ddeb6184aabb8e74802278.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rain.wav"
-dest_files=["res://.godot/imported/PRSFX- Rain.wav-422e5965c9f225647b15a45af38bd2bc.sample"]
+source_file="res://audio/se/anim/PRSFX- Rain.wav"
+dest_files=["res://.godot/imported/PRSFX- Rain.wav-e34f715d30ddeb6184aabb8e74802278.sample"]
 
 [params]
 

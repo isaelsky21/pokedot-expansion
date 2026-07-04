@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://wr7bhbliq0ou"
-path="res://.godot/imported/Lerucean Town.wav-7be5534ab221b04fd2ac599f97146b7b.sample"
+path="res://.godot/imported/Lerucean Town.wav-4abd72d0f00cb2fe757c7b3b18c089c9.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Lerucean Town.wav"
-dest_files=["res://.godot/imported/Lerucean Town.wav-7be5534ab221b04fd2ac599f97146b7b.sample"]
+source_file="res://audio/bgm/Lerucean Town.wav"
+dest_files=["res://.godot/imported/Lerucean Town.wav-4abd72d0f00cb2fe757c7b3b18c089c9.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bl2cog57eylbd"
-path="res://.godot/imported/ZAMAZENTA_1.ogg-bcf21cb4c5b8d20140cbdd731f477723.oggvorbisstr"
+path="res://.godot/imported/ZAMAZENTA_1.ogg-a566010e59fa56b9d1674cce005bd53d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZAMAZENTA_1.ogg"
-dest_files=["res://.godot/imported/ZAMAZENTA_1.ogg-bcf21cb4c5b8d20140cbdd731f477723.oggvorbisstr"]
+source_file="res://audio/se/cries/ZAMAZENTA_1.ogg"
+dest_files=["res://.godot/imported/ZAMAZENTA_1.ogg-a566010e59fa56b9d1674cce005bd53d.oggvorbisstr"]
 
 [params]
 

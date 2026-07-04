@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://modardqorglv"
-path="res://.godot/imported/FRAXURE.ogg-21f21946eda478f73edee7e3edec0681.oggvorbisstr"
+path="res://.godot/imported/FRAXURE.ogg-4c00370c380a70802ddaf2bfcaa50e66.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FRAXURE.ogg"
-dest_files=["res://.godot/imported/FRAXURE.ogg-21f21946eda478f73edee7e3edec0681.oggvorbisstr"]
+source_file="res://audio/se/cries/FRAXURE.ogg"
+dest_files=["res://.godot/imported/FRAXURE.ogg-4c00370c380a70802ddaf2bfcaa50e66.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cukiu5x3ydn31"
-path="res://.godot/imported/PRSFX- Fire Lash4.wav-8a1ce657cb2c6d1d77ded56a715dc337.sample"
+path="res://.godot/imported/PRSFX- Fire Lash4.wav-bfb6dface4b99e7a1d8bc56aaa4cf25a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fire Lash4.wav"
-dest_files=["res://.godot/imported/PRSFX- Fire Lash4.wav-8a1ce657cb2c6d1d77ded56a715dc337.sample"]
+source_file="res://audio/se/anim/PRSFX- Fire Lash4.wav"
+dest_files=["res://.godot/imported/PRSFX- Fire Lash4.wav-bfb6dface4b99e7a1d8bc56aaa4cf25a.sample"]
 
 [params]
 

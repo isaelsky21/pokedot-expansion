@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c80an2ma80h62"
-path="res://.godot/imported/PRSFX- Devastating Drake1.wav-83b3b471444648b4cf307bd14bff3644.sample"
+path="res://.godot/imported/PRSFX- Devastating Drake1.wav-13ef30bc30df07644b0d33bbdacfc0d1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Devastating Drake1.wav"
-dest_files=["res://.godot/imported/PRSFX- Devastating Drake1.wav-83b3b471444648b4cf307bd14bff3644.sample"]
+source_file="res://audio/se/anim/PRSFX- Devastating Drake1.wav"
+dest_files=["res://.godot/imported/PRSFX- Devastating Drake1.wav-13ef30bc30df07644b0d33bbdacfc0d1.sample"]
 
 [params]
 

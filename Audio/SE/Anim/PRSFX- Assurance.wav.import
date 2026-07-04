@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bt2admcqsxiui"
-path="res://.godot/imported/PRSFX- Assurance.wav-e57e1b0c72f019b5a1d05120db4d375f.sample"
+path="res://.godot/imported/PRSFX- Assurance.wav-4a0e22e3f70074d529f5cfca2626e824.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Assurance.wav"
-dest_files=["res://.godot/imported/PRSFX- Assurance.wav-e57e1b0c72f019b5a1d05120db4d375f.sample"]
+source_file="res://audio/se/anim/PRSFX- Assurance.wav"
+dest_files=["res://.godot/imported/PRSFX- Assurance.wav-4a0e22e3f70074d529f5cfca2626e824.sample"]
 
 [params]
 

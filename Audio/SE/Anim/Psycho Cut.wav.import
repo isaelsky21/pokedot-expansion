@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://r3pkl5x3xbpe"
-path="res://.godot/imported/Psycho Cut.wav-0c5a5e157f57f97f2dddaf8b57a8352d.sample"
+path="res://.godot/imported/Psycho Cut.wav-9d1fac4b550b66b431bc3fb6ce546bf0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Psycho Cut.wav"
-dest_files=["res://.godot/imported/Psycho Cut.wav-0c5a5e157f57f97f2dddaf8b57a8352d.sample"]
+source_file="res://audio/se/anim/Psycho Cut.wav"
+dest_files=["res://.godot/imported/Psycho Cut.wav-9d1fac4b550b66b431bc3fb6ce546bf0.sample"]
 
 [params]
 

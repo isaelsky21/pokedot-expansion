@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dstdoh31gbg8x"
-path="res://.godot/imported/PANSAGE.ogg-5fd8c3b78750ab2d3b0e439caafd6adc.oggvorbisstr"
+path="res://.godot/imported/PANSAGE.ogg-792178f8cf721c295ab3518bf7156822.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PANSAGE.ogg"
-dest_files=["res://.godot/imported/PANSAGE.ogg-5fd8c3b78750ab2d3b0e439caafd6adc.oggvorbisstr"]
+source_file="res://audio/se/cries/PANSAGE.ogg"
+dest_files=["res://.godot/imported/PANSAGE.ogg-792178f8cf721c295ab3518bf7156822.oggvorbisstr"]
 
 [params]
 

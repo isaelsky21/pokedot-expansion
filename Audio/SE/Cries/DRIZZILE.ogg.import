@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bp0m4q00bc21v"
-path="res://.godot/imported/DRIZZILE.ogg-bc2395116c5ed546a6aa68da184c4db4.oggvorbisstr"
+path="res://.godot/imported/DRIZZILE.ogg-5434e1778c602a44567ecfa2f4b29a09.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRIZZILE.ogg"
-dest_files=["res://.godot/imported/DRIZZILE.ogg-bc2395116c5ed546a6aa68da184c4db4.oggvorbisstr"]
+source_file="res://audio/se/cries/DRIZZILE.ogg"
+dest_files=["res://.godot/imported/DRIZZILE.ogg-5434e1778c602a44567ecfa2f4b29a09.oggvorbisstr"]
 
 [params]
 

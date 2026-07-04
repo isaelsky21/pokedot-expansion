@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dd5p5jag8vydg"
-path="res://.godot/imported/PRSFX- Hyper Beam.wav-4394d28f7b6a59a60c1679b338a6a4ae.sample"
+path="res://.godot/imported/PRSFX- Hyper Beam.wav-1cde24b5f29adfa16b87a5ebd24d2618.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hyper Beam.wav"
-dest_files=["res://.godot/imported/PRSFX- Hyper Beam.wav-4394d28f7b6a59a60c1679b338a6a4ae.sample"]
+source_file="res://audio/se/anim/PRSFX- Hyper Beam.wav"
+dest_files=["res://.godot/imported/PRSFX- Hyper Beam.wav-1cde24b5f29adfa16b87a5ebd24d2618.sample"]
 
 [params]
 

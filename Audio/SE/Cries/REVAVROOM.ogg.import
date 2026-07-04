@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0fwvwfa6vdo"
-path="res://.godot/imported/REVAVROOM.ogg-51328fef379d660bf012835afe58c491.oggvorbisstr"
+path="res://.godot/imported/REVAVROOM.ogg-3e885f62104a27276b4361659249f57f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/REVAVROOM.ogg"
-dest_files=["res://.godot/imported/REVAVROOM.ogg-51328fef379d660bf012835afe58c491.oggvorbisstr"]
+source_file="res://audio/se/cries/REVAVROOM.ogg"
+dest_files=["res://.godot/imported/REVAVROOM.ogg-3e885f62104a27276b4361659249f57f.oggvorbisstr"]
 
 [params]
 

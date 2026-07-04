@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgtn443xrj2iv"
-path="res://.godot/imported/BELLIBOLT.ogg-4bbcaa9dc32805c7b4ca0af8c412d549.oggvorbisstr"
+path="res://.godot/imported/BELLIBOLT.ogg-3b7d079c2f6baa38e8d55d16a980ab0c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BELLIBOLT.ogg"
-dest_files=["res://.godot/imported/BELLIBOLT.ogg-4bbcaa9dc32805c7b4ca0af8c412d549.oggvorbisstr"]
+source_file="res://audio/se/cries/BELLIBOLT.ogg"
+dest_files=["res://.godot/imported/BELLIBOLT.ogg-3b7d079c2f6baa38e8d55d16a980ab0c.oggvorbisstr"]
 
 [params]
 

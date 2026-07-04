@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccm7aly7js6fx"
-path="res://.godot/imported/DRUDDIGON.ogg-94d47051e36a8881dbad4f57cd2da4be.oggvorbisstr"
+path="res://.godot/imported/DRUDDIGON.ogg-5726285dd68bc0905828694ab35ff557.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRUDDIGON.ogg"
-dest_files=["res://.godot/imported/DRUDDIGON.ogg-94d47051e36a8881dbad4f57cd2da4be.oggvorbisstr"]
+source_file="res://audio/se/cries/DRUDDIGON.ogg"
+dest_files=["res://.godot/imported/DRUDDIGON.ogg-5726285dd68bc0905828694ab35ff557.oggvorbisstr"]
 
 [params]
 

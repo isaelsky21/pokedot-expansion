@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b5pkpkggsh2uh"
-path="res://.godot/imported/PRSFX- Dragon Rush2.wav-fc655add870f6b04d6ef8b7ebb79b9c4.sample"
+path="res://.godot/imported/PRSFX- Dragon Rush2.wav-20a1b26e5ff6770b624e28b476407549.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Dragon Rush2.wav"
-dest_files=["res://.godot/imported/PRSFX- Dragon Rush2.wav-fc655add870f6b04d6ef8b7ebb79b9c4.sample"]
+source_file="res://audio/se/anim/PRSFX- Dragon Rush2.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Rush2.wav-20a1b26e5ff6770b624e28b476407549.sample"]
 
 [params]
 

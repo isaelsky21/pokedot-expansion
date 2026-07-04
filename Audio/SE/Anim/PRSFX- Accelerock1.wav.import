@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://capyp547jwuy4"
-path="res://.godot/imported/PRSFX- Accelerock1.wav-0dddfc8ac63fb86a00b91c72f8a722dd.sample"
+path="res://.godot/imported/PRSFX- Accelerock1.wav-b51649f147146f5fb648d11e4ed7f6ec.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Accelerock1.wav"
-dest_files=["res://.godot/imported/PRSFX- Accelerock1.wav-0dddfc8ac63fb86a00b91c72f8a722dd.sample"]
+source_file="res://audio/se/anim/PRSFX- Accelerock1.wav"
+dest_files=["res://.godot/imported/PRSFX- Accelerock1.wav-b51649f147146f5fb648d11e4ed7f6ec.sample"]
 
 [params]
 

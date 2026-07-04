@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://83ipa8wr3hu0"
-path="res://.godot/imported/GOLBAT.ogg-67bb403a1fede7767618b1223f91050f.oggvorbisstr"
+path="res://.godot/imported/GOLBAT.ogg-475a31a616b7c1c06d3abae3ddcfe0d2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOLBAT.ogg"
-dest_files=["res://.godot/imported/GOLBAT.ogg-67bb403a1fede7767618b1223f91050f.oggvorbisstr"]
+source_file="res://audio/se/cries/GOLBAT.ogg"
+dest_files=["res://.godot/imported/GOLBAT.ogg-475a31a616b7c1c06d3abae3ddcfe0d2.oggvorbisstr"]
 
 [params]
 

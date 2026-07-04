@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxh7b5la7nkvu"
-path="res://.godot/imported/GOLURK.ogg-61d413f500e430de2ea36161a735fa0c.oggvorbisstr"
+path="res://.godot/imported/GOLURK.ogg-430d3ceee41ad1bdaeff802dbbdd56d5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOLURK.ogg"
-dest_files=["res://.godot/imported/GOLURK.ogg-61d413f500e430de2ea36161a735fa0c.oggvorbisstr"]
+source_file="res://audio/se/cries/GOLURK.ogg"
+dest_files=["res://.godot/imported/GOLURK.ogg-430d3ceee41ad1bdaeff802dbbdd56d5.oggvorbisstr"]
 
 [params]
 

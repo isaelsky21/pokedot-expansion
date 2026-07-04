@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cfjx0i7q78ite"
-path="res://.godot/imported/PRSFX- Haze.wav-163c849cacb42962071e6dbe5021a665.sample"
+path="res://.godot/imported/PRSFX- Haze.wav-b1ad17c786fd87449edf15c5828a3abe.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Haze.wav"
-dest_files=["res://.godot/imported/PRSFX- Haze.wav-163c849cacb42962071e6dbe5021a665.sample"]
+source_file="res://audio/se/anim/PRSFX- Haze.wav"
+dest_files=["res://.godot/imported/PRSFX- Haze.wav-b1ad17c786fd87449edf15c5828a3abe.sample"]
 
 [params]
 

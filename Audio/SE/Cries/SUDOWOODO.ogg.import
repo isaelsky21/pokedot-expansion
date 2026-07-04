@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cfyfar2cjev75"
-path="res://.godot/imported/SUDOWOODO.ogg-07decfb9a696747d789af57a1ff5402c.oggvorbisstr"
+path="res://.godot/imported/SUDOWOODO.ogg-f8f9f437e6d8cc3629e920343817265f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SUDOWOODO.ogg"
-dest_files=["res://.godot/imported/SUDOWOODO.ogg-07decfb9a696747d789af57a1ff5402c.oggvorbisstr"]
+source_file="res://audio/se/cries/SUDOWOODO.ogg"
+dest_files=["res://.godot/imported/SUDOWOODO.ogg-f8f9f437e6d8cc3629e920343817265f.oggvorbisstr"]
 
 [params]
 

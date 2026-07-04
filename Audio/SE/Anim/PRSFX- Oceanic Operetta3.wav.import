@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cimlb7endrevf"
-path="res://.godot/imported/PRSFX- Oceanic Operetta3.wav-cd50ee07feaf36705e7730b1c9450cb7.sample"
+path="res://.godot/imported/PRSFX- Oceanic Operetta3.wav-d0e0a639e239dcf3fa9e9984223ac58f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Oceanic Operetta3.wav"
-dest_files=["res://.godot/imported/PRSFX- Oceanic Operetta3.wav-cd50ee07feaf36705e7730b1c9450cb7.sample"]
+source_file="res://audio/se/anim/PRSFX- Oceanic Operetta3.wav"
+dest_files=["res://.godot/imported/PRSFX- Oceanic Operetta3.wav-d0e0a639e239dcf3fa9e9984223ac58f.sample"]
 
 [params]
 

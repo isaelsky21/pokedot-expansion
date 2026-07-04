@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cnl0w420n7k38"
-path="res://.godot/imported/PRSFX- Rock Slide.wav-8d74c1ed611aa5e5426b26a0333fccae.sample"
+path="res://.godot/imported/PRSFX- Rock Slide.wav-6e04b68ed893e5f1c8cc19c86014f19d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rock Slide.wav"
-dest_files=["res://.godot/imported/PRSFX- Rock Slide.wav-8d74c1ed611aa5e5426b26a0333fccae.sample"]
+source_file="res://audio/se/anim/PRSFX- Rock Slide.wav"
+dest_files=["res://.godot/imported/PRSFX- Rock Slide.wav-6e04b68ed893e5f1c8cc19c86014f19d.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cnmdjvvoq084h"
-path="res://.godot/imported/PRSFX- Rock Throw1.wav-96df0676170d2d92aa440dda0348f2c3.sample"
+path="res://.godot/imported/PRSFX- Rock Throw1.wav-6bed13a2483e2f6749f774aa668d3947.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rock Throw1.wav"
-dest_files=["res://.godot/imported/PRSFX- Rock Throw1.wav-96df0676170d2d92aa440dda0348f2c3.sample"]
+source_file="res://audio/se/anim/PRSFX- Rock Throw1.wav"
+dest_files=["res://.godot/imported/PRSFX- Rock Throw1.wav-6bed13a2483e2f6749f774aa668d3947.sample"]
 
 [params]
 

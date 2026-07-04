@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://8cve4bgnluw1"
-path="res://.godot/imported/MAGBY.ogg-2b88f6470a82d618ef85b6a9fb7ccb62.oggvorbisstr"
+path="res://.godot/imported/MAGBY.ogg-71c48167ca7659f7883b41db037bc5e3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MAGBY.ogg"
-dest_files=["res://.godot/imported/MAGBY.ogg-2b88f6470a82d618ef85b6a9fb7ccb62.oggvorbisstr"]
+source_file="res://audio/se/cries/MAGBY.ogg"
+dest_files=["res://.godot/imported/MAGBY.ogg-71c48167ca7659f7883b41db037bc5e3.oggvorbisstr"]
 
 [params]
 

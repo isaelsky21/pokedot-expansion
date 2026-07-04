@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c6cb1a3utvapk"
-path="res://.godot/imported/PRSFX- Power Whip.wav-ec0794e4e3120ba2295a264bde23d970.sample"
+path="res://.godot/imported/PRSFX- Power Whip.wav-69a97cdabc94532c191b3199e176704a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Power Whip.wav"
-dest_files=["res://.godot/imported/PRSFX- Power Whip.wav-ec0794e4e3120ba2295a264bde23d970.sample"]
+source_file="res://audio/se/anim/PRSFX- Power Whip.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Whip.wav-69a97cdabc94532c191b3199e176704a.sample"]
 
 [params]
 

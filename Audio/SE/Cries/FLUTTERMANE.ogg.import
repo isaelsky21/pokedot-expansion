@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dostebhq5p6mh"
-path="res://.godot/imported/FLUTTERMANE.ogg-ec1d07856c67288cda112d4d3fe0b8cb.oggvorbisstr"
+path="res://.godot/imported/FLUTTERMANE.ogg-40399dbe44fbb29da6d58d6a1b484b13.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLUTTERMANE.ogg"
-dest_files=["res://.godot/imported/FLUTTERMANE.ogg-ec1d07856c67288cda112d4d3fe0b8cb.oggvorbisstr"]
+source_file="res://audio/se/cries/FLUTTERMANE.ogg"
+dest_files=["res://.godot/imported/FLUTTERMANE.ogg-40399dbe44fbb29da6d58d6a1b484b13.oggvorbisstr"]
 
 [params]
 

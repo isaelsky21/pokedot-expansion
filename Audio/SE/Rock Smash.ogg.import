@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://iwc41vf015qc"
-path="res://.godot/imported/Rock Smash.ogg-b36467c202d4bcd376c466cc76b648ec.oggvorbisstr"
+path="res://.godot/imported/Rock Smash.ogg-a4b3368e647fb7fbe1f85a9f2067b681.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Rock Smash.ogg"
-dest_files=["res://.godot/imported/Rock Smash.ogg-b36467c202d4bcd376c466cc76b648ec.oggvorbisstr"]
+source_file="res://audio/se/Rock Smash.ogg"
+dest_files=["res://.godot/imported/Rock Smash.ogg-a4b3368e647fb7fbe1f85a9f2067b681.oggvorbisstr"]
 
 [params]
 

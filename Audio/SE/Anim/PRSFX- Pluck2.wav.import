@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b08mmyql86eae"
-path="res://.godot/imported/PRSFX- Pluck2.wav-ec1ee6e5559e19a8ec764451c97c1657.sample"
+path="res://.godot/imported/PRSFX- Pluck2.wav-0d33596c28da3b0d7fe9f284042d159b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Pluck2.wav"
-dest_files=["res://.godot/imported/PRSFX- Pluck2.wav-ec1ee6e5559e19a8ec764451c97c1657.sample"]
+source_file="res://audio/se/anim/PRSFX- Pluck2.wav"
+dest_files=["res://.godot/imported/PRSFX- Pluck2.wav-0d33596c28da3b0d7fe9f284042d159b.sample"]
 
 [params]
 

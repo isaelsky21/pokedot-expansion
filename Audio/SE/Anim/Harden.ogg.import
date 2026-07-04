@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dh1hcctm16ft6"
-path="res://.godot/imported/Harden.ogg-61f91952af5c084f608b4f3cb9372d5b.oggvorbisstr"
+path="res://.godot/imported/Harden.ogg-9aa5ac574d72596f38599a092bb8fe9e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Harden.ogg"
-dest_files=["res://.godot/imported/Harden.ogg-61f91952af5c084f608b4f3cb9372d5b.oggvorbisstr"]
+source_file="res://audio/se/anim/Harden.ogg"
+dest_files=["res://.godot/imported/Harden.ogg-9aa5ac574d72596f38599a092bb8fe9e.oggvorbisstr"]
 
 [params]
 

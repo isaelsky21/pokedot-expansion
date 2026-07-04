@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://p76bwoe5sds5"
-path="res://.godot/imported/PRSFX- Mud Sport1.wav-81bf63554475d5f9d8b8a42cd4f814bb.sample"
+path="res://.godot/imported/PRSFX- Mud Sport1.wav-337f82200962e7257d6db0eaaee25862.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mud Sport1.wav"
-dest_files=["res://.godot/imported/PRSFX- Mud Sport1.wav-81bf63554475d5f9d8b8a42cd4f814bb.sample"]
+source_file="res://audio/se/anim/PRSFX- Mud Sport1.wav"
+dest_files=["res://.godot/imported/PRSFX- Mud Sport1.wav-337f82200962e7257d6db0eaaee25862.sample"]
 
 [params]
 

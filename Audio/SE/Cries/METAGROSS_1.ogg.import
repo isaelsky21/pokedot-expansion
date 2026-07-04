@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6cshdb2qc4ld"
-path="res://.godot/imported/METAGROSS_1.ogg-59b73e0f3e218c781075ed8badca4e76.oggvorbisstr"
+path="res://.godot/imported/METAGROSS_1.ogg-31dd61a430ba05a521d518379316e6d2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/METAGROSS_1.ogg"
-dest_files=["res://.godot/imported/METAGROSS_1.ogg-59b73e0f3e218c781075ed8badca4e76.oggvorbisstr"]
+source_file="res://audio/se/cries/METAGROSS_1.ogg"
+dest_files=["res://.godot/imported/METAGROSS_1.ogg-31dd61a430ba05a521d518379316e6d2.oggvorbisstr"]
 
 [params]
 

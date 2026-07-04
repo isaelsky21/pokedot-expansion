@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8rvvm4jp7xft"
-path="res://.godot/imported/LOKIX.ogg-812165ed720c9861ec434afb65134569.oggvorbisstr"
+path="res://.godot/imported/LOKIX.ogg-fd5d80def5a28cf968fdcfb46e7c6f0f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LOKIX.ogg"
-dest_files=["res://.godot/imported/LOKIX.ogg-812165ed720c9861ec434afb65134569.oggvorbisstr"]
+source_file="res://audio/se/cries/LOKIX.ogg"
+dest_files=["res://.godot/imported/LOKIX.ogg-fd5d80def5a28cf968fdcfb46e7c6f0f.oggvorbisstr"]
 
 [params]
 

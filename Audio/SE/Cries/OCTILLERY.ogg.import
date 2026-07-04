@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b4s5oq71d53cr"
-path="res://.godot/imported/OCTILLERY.ogg-b36c40bf9f538b1f187ab68f95a67c1f.oggvorbisstr"
+path="res://.godot/imported/OCTILLERY.ogg-b36095aba872944b2e7a98d868c49fc1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/OCTILLERY.ogg"
-dest_files=["res://.godot/imported/OCTILLERY.ogg-b36c40bf9f538b1f187ab68f95a67c1f.oggvorbisstr"]
+source_file="res://audio/se/cries/OCTILLERY.ogg"
+dest_files=["res://.godot/imported/OCTILLERY.ogg-b36095aba872944b2e7a98d868c49fc1.oggvorbisstr"]
 
 [params]
 

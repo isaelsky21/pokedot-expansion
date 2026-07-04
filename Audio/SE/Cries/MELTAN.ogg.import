@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cmisxim0u75oj"
-path="res://.godot/imported/MELTAN.ogg-b36f2fb319f8ddde687e58aaa934d6d0.oggvorbisstr"
+path="res://.godot/imported/MELTAN.ogg-7a5d3c887d5d6668664232fc23c24d9b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MELTAN.ogg"
-dest_files=["res://.godot/imported/MELTAN.ogg-b36f2fb319f8ddde687e58aaa934d6d0.oggvorbisstr"]
+source_file="res://audio/se/cries/MELTAN.ogg"
+dest_files=["res://.godot/imported/MELTAN.ogg-7a5d3c887d5d6668664232fc23c24d9b.oggvorbisstr"]
 
 [params]
 

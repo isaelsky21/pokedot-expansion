@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dqfr6jnslkl4i"
-path="res://.godot/imported/PRSFX- Heal Block.wav-aa74ed50b140b90c281de95743d9d51f.sample"
+path="res://.godot/imported/PRSFX- Heal Block.wav-91a376b7a17fa1dbd0b9dd44f4dbd088.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Heal Block.wav"
-dest_files=["res://.godot/imported/PRSFX- Heal Block.wav-aa74ed50b140b90c281de95743d9d51f.sample"]
+source_file="res://audio/se/anim/PRSFX- Heal Block.wav"
+dest_files=["res://.godot/imported/PRSFX- Heal Block.wav-91a376b7a17fa1dbd0b9dd44f4dbd088.sample"]
 
 [params]
 

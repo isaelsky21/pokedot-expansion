@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dwcorwdopc1t0"
-path="res://.godot/imported/STANTLER.ogg-9c7f5fe6c8139358ff3f853e9ff2fa7b.oggvorbisstr"
+path="res://.godot/imported/STANTLER.ogg-e52c54d97614e95d2e97319e638f7b00.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/STANTLER.ogg"
-dest_files=["res://.godot/imported/STANTLER.ogg-9c7f5fe6c8139358ff3f853e9ff2fa7b.oggvorbisstr"]
+source_file="res://audio/se/cries/STANTLER.ogg"
+dest_files=["res://.godot/imported/STANTLER.ogg-e52c54d97614e95d2e97319e638f7b00.oggvorbisstr"]
 
 [params]
 

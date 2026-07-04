@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://defiibvycb6hs"
-path="res://.godot/imported/PRSFX- Mega Drain2.wav-6e7635f8b2d8251299a277be64e1d3ff.sample"
+path="res://.godot/imported/PRSFX- Mega Drain2.wav-e3d5b613fa1801c440506265a8a71ade.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mega Drain2.wav"
-dest_files=["res://.godot/imported/PRSFX- Mega Drain2.wav-6e7635f8b2d8251299a277be64e1d3ff.sample"]
+source_file="res://audio/se/anim/PRSFX- Mega Drain2.wav"
+dest_files=["res://.godot/imported/PRSFX- Mega Drain2.wav-e3d5b613fa1801c440506265a8a71ade.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qmn25ikarb2"
-path="res://.godot/imported/KROOKODILE.ogg-65a13d38f2b585279ea45b95e5662d5e.oggvorbisstr"
+path="res://.godot/imported/KROOKODILE.ogg-501102481a63120b57536439c1f19925.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KROOKODILE.ogg"
-dest_files=["res://.godot/imported/KROOKODILE.ogg-65a13d38f2b585279ea45b95e5662d5e.oggvorbisstr"]
+source_file="res://audio/se/cries/KROOKODILE.ogg"
+dest_files=["res://.godot/imported/KROOKODILE.ogg-501102481a63120b57536439c1f19925.oggvorbisstr"]
 
 [params]
 

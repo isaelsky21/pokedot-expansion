@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://chpmu5d8h0cm"
-path="res://.godot/imported/PRSFX- Corkscrew Crash8.ogg-389ba9e3db52d27d518f7c8535f90313.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Corkscrew Crash8.ogg-e748b812848f752ff6e2f9e80aa00142.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Corkscrew Crash8.ogg"
-dest_files=["res://.godot/imported/PRSFX- Corkscrew Crash8.ogg-389ba9e3db52d27d518f7c8535f90313.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Corkscrew Crash8.ogg"
+dest_files=["res://.godot/imported/PRSFX- Corkscrew Crash8.ogg-e748b812848f752ff6e2f9e80aa00142.oggvorbisstr"]
 
 [params]
 

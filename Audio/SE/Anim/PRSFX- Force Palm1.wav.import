@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dtyba8g04dhs3"
-path="res://.godot/imported/PRSFX- Force Palm1.wav-e1432c2c4d1d3f4fb97be3dc98655de4.sample"
+path="res://.godot/imported/PRSFX- Force Palm1.wav-b3d223f278605ef0d87875e85f43f153.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Force Palm1.wav"
-dest_files=["res://.godot/imported/PRSFX- Force Palm1.wav-e1432c2c4d1d3f4fb97be3dc98655de4.sample"]
+source_file="res://audio/se/anim/PRSFX- Force Palm1.wav"
+dest_files=["res://.godot/imported/PRSFX- Force Palm1.wav-b3d223f278605ef0d87875e85f43f153.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://35s5l4pmlf3e"
-path="res://.godot/imported/VOLCARONA.ogg-a1365ea95f0c718b85886cfea77eca5a.oggvorbisstr"
+path="res://.godot/imported/VOLCARONA.ogg-77df2f1f2511ece8c9397897867551da.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VOLCARONA.ogg"
-dest_files=["res://.godot/imported/VOLCARONA.ogg-a1365ea95f0c718b85886cfea77eca5a.oggvorbisstr"]
+source_file="res://audio/se/cries/VOLCARONA.ogg"
+dest_files=["res://.godot/imported/VOLCARONA.ogg-77df2f1f2511ece8c9397897867551da.oggvorbisstr"]
 
 [params]
 

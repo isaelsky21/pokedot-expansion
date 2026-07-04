@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b8q70u81cpday"
-path="res://.godot/imported/PINCURCHIN.ogg-b4ccc2e607fdf4cc32e6f12bccacc678.oggvorbisstr"
+path="res://.godot/imported/PINCURCHIN.ogg-39bcc8685a38fb7f0a703bcedf5ea8e6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PINCURCHIN.ogg"
-dest_files=["res://.godot/imported/PINCURCHIN.ogg-b4ccc2e607fdf4cc32e6f12bccacc678.oggvorbisstr"]
+source_file="res://audio/se/cries/PINCURCHIN.ogg"
+dest_files=["res://.godot/imported/PINCURCHIN.ogg-39bcc8685a38fb7f0a703bcedf5ea8e6.oggvorbisstr"]
 
 [params]
 

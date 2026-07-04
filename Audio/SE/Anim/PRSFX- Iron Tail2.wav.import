@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dnktp3te72x7c"
-path="res://.godot/imported/PRSFX- Iron Tail2.wav-59345d129d1cc80bcbd5a4916a72f3bd.sample"
+path="res://.godot/imported/PRSFX- Iron Tail2.wav-47c46e23b390bef1affb12ffda1c9865.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Iron Tail2.wav"
-dest_files=["res://.godot/imported/PRSFX- Iron Tail2.wav-59345d129d1cc80bcbd5a4916a72f3bd.sample"]
+source_file="res://audio/se/anim/PRSFX- Iron Tail2.wav"
+dest_files=["res://.godot/imported/PRSFX- Iron Tail2.wav-47c46e23b390bef1affb12ffda1c9865.sample"]
 
 [params]
 

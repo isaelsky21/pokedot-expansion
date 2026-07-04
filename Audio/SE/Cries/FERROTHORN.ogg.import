@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://do82aw2fwh024"
-path="res://.godot/imported/FERROTHORN.ogg-1094e44157d1c551036fad228a703424.oggvorbisstr"
+path="res://.godot/imported/FERROTHORN.ogg-38a569fb2a42641d07d78936bcaeea73.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FERROTHORN.ogg"
-dest_files=["res://.godot/imported/FERROTHORN.ogg-1094e44157d1c551036fad228a703424.oggvorbisstr"]
+source_file="res://audio/se/cries/FERROTHORN.ogg"
+dest_files=["res://.godot/imported/FERROTHORN.ogg-38a569fb2a42641d07d78936bcaeea73.oggvorbisstr"]
 
 [params]
 

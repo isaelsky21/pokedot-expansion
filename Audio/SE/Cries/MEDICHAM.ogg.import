@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c2lm4fn3v2w0r"
-path="res://.godot/imported/MEDICHAM.ogg-a592716f67ec6b015b952e57316b4fb4.oggvorbisstr"
+path="res://.godot/imported/MEDICHAM.ogg-9800a6ae4a4a88e524e67623f1f30e52.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MEDICHAM.ogg"
-dest_files=["res://.godot/imported/MEDICHAM.ogg-a592716f67ec6b015b952e57316b4fb4.oggvorbisstr"]
+source_file="res://audio/se/cries/MEDICHAM.ogg"
+dest_files=["res://.godot/imported/MEDICHAM.ogg-9800a6ae4a4a88e524e67623f1f30e52.oggvorbisstr"]
 
 [params]
 

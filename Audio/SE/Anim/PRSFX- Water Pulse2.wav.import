@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://nvkklt7mfrgu"
-path="res://.godot/imported/PRSFX- Water Pulse2.wav-bb88dac775867ffb16ad5feb2d811a57.sample"
+path="res://.godot/imported/PRSFX- Water Pulse2.wav-c225f4d5062eb855cf008c52bad6fe6d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Water Pulse2.wav"
-dest_files=["res://.godot/imported/PRSFX- Water Pulse2.wav-bb88dac775867ffb16ad5feb2d811a57.sample"]
+source_file="res://audio/se/anim/PRSFX- Water Pulse2.wav"
+dest_files=["res://.godot/imported/PRSFX- Water Pulse2.wav-c225f4d5062eb855cf008c52bad6fe6d.sample"]
 
 [params]
 

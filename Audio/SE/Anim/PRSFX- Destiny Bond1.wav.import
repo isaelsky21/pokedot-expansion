@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b5hidvviniuni"
-path="res://.godot/imported/PRSFX- Destiny Bond1.wav-b4da97d7a21c267cf7c77aade1f25a7d.sample"
+path="res://.godot/imported/PRSFX- Destiny Bond1.wav-1395f2fa6f4bbe4177c335da12637d39.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Destiny Bond1.wav"
-dest_files=["res://.godot/imported/PRSFX- Destiny Bond1.wav-b4da97d7a21c267cf7c77aade1f25a7d.sample"]
+source_file="res://audio/se/anim/PRSFX- Destiny Bond1.wav"
+dest_files=["res://.godot/imported/PRSFX- Destiny Bond1.wav-1395f2fa6f4bbe4177c335da12637d39.sample"]
 
 [params]
 

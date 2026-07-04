@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0r8qxq3ggjgw"
-path="res://.godot/imported/QUAXWELL.ogg-f919b98b4ecf864cdbc10c1bbe7d1484.oggvorbisstr"
+path="res://.godot/imported/QUAXWELL.ogg-9db1377899cd232d3a4e47e7cec06542.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/QUAXWELL.ogg"
-dest_files=["res://.godot/imported/QUAXWELL.ogg-f919b98b4ecf864cdbc10c1bbe7d1484.oggvorbisstr"]
+source_file="res://audio/se/cries/QUAXWELL.ogg"
+dest_files=["res://.godot/imported/QUAXWELL.ogg-9db1377899cd232d3a4e47e7cec06542.oggvorbisstr"]
 
 [params]
 

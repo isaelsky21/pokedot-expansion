@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b7fwerfvo8xpr"
-path="res://.godot/imported/PRSFX- Coil.wav-87f38cc348e78505cedac7dbea5edd94.sample"
+path="res://.godot/imported/PRSFX- Coil.wav-cb5b65113e5dcea68e8dcc0f1e711f21.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Coil.wav"
-dest_files=["res://.godot/imported/PRSFX- Coil.wav-87f38cc348e78505cedac7dbea5edd94.sample"]
+source_file="res://audio/se/anim/PRSFX- Coil.wav"
+dest_files=["res://.godot/imported/PRSFX- Coil.wav-cb5b65113e5dcea68e8dcc0f1e711f21.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dhw1x5ogs5nq8"
-path="res://.godot/imported/SUICUNE.ogg-805de3b3ea6359563752628e031ec140.oggvorbisstr"
+path="res://.godot/imported/SUICUNE.ogg-ab668aee3f156bc6088ba925a3c47d58.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SUICUNE.ogg"
-dest_files=["res://.godot/imported/SUICUNE.ogg-805de3b3ea6359563752628e031ec140.oggvorbisstr"]
+source_file="res://audio/se/cries/SUICUNE.ogg"
+dest_files=["res://.godot/imported/SUICUNE.ogg-ab668aee3f156bc6088ba925a3c47d58.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://drotpyrba7n80"
-path="res://.godot/imported/Sing.ogg-04eabeba5ed773f12912851ee476d8db.oggvorbisstr"
+path="res://.godot/imported/Sing.ogg-18abc751af33f123fd3e00cfc11d123a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Sing.ogg"
-dest_files=["res://.godot/imported/Sing.ogg-04eabeba5ed773f12912851ee476d8db.oggvorbisstr"]
+source_file="res://audio/se/anim/Sing.ogg"
+dest_files=["res://.godot/imported/Sing.ogg-18abc751af33f123fd3e00cfc11d123a.oggvorbisstr"]
 
 [params]
 

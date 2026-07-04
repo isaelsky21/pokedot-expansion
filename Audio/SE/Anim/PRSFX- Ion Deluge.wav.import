@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ctl3ljpn11o3j"
-path="res://.godot/imported/PRSFX- Ion Deluge.wav-b7cfa993f01a628799a5e2232bc05dc7.sample"
+path="res://.godot/imported/PRSFX- Ion Deluge.wav-0214a428eebc6e5913b6a2607a3a4d60.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ion Deluge.wav"
-dest_files=["res://.godot/imported/PRSFX- Ion Deluge.wav-b7cfa993f01a628799a5e2232bc05dc7.sample"]
+source_file="res://audio/se/anim/PRSFX- Ion Deluge.wav"
+dest_files=["res://.godot/imported/PRSFX- Ion Deluge.wav-0214a428eebc6e5913b6a2607a3a4d60.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://be0xaddxx1tkt"
-path="res://.godot/imported/Follow Me.mp3-82d587dcd55fdeb6f7a6829a26c70c0c.mp3str"
+path="res://.godot/imported/Follow Me.mp3-bfd1104028c5efa63551c1f0ba0c8f30.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Follow Me.mp3"
-dest_files=["res://.godot/imported/Follow Me.mp3-82d587dcd55fdeb6f7a6829a26c70c0c.mp3str"]
+source_file="res://audio/se/anim/Follow Me.mp3"
+dest_files=["res://.godot/imported/Follow Me.mp3-bfd1104028c5efa63551c1f0ba0c8f30.mp3str"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://nlaxqxrcbbh8"
-path="res://.godot/imported/Metronome.mp3-67235a51c544a764fdca4fe44d337c41.mp3str"
+path="res://.godot/imported/Metronome.mp3-de09f2b477cadad4745651f22e89bb33.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Metronome.mp3"
-dest_files=["res://.godot/imported/Metronome.mp3-67235a51c544a764fdca4fe44d337c41.mp3str"]
+source_file="res://audio/se/anim/Metronome.mp3"
+dest_files=["res://.godot/imported/Metronome.mp3-de09f2b477cadad4745651f22e89bb33.mp3str"]
 
 [params]
 

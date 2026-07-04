@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0afoxogxt2ie"
-path="res://.godot/imported/LITTEN.ogg-ffcbfb6c709ba3f60e96af240c1d41eb.oggvorbisstr"
+path="res://.godot/imported/LITTEN.ogg-60d83d8176df3257f5f34e9b70631750.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LITTEN.ogg"
-dest_files=["res://.godot/imported/LITTEN.ogg-ffcbfb6c709ba3f60e96af240c1d41eb.oggvorbisstr"]
+source_file="res://audio/se/cries/LITTEN.ogg"
+dest_files=["res://.godot/imported/LITTEN.ogg-60d83d8176df3257f5f34e9b70631750.oggvorbisstr"]
 
 [params]
 

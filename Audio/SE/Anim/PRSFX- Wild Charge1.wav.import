@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://jdtn72uuipp7"
-path="res://.godot/imported/PRSFX- Wild Charge1.wav-9e5e5172e8ad6cbfe0d736e330f0287a.sample"
+path="res://.godot/imported/PRSFX- Wild Charge1.wav-64f0323c4aa1213480b2178d3c8a617e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Wild Charge1.wav"
-dest_files=["res://.godot/imported/PRSFX- Wild Charge1.wav-9e5e5172e8ad6cbfe0d736e330f0287a.sample"]
+source_file="res://audio/se/anim/PRSFX- Wild Charge1.wav"
+dest_files=["res://.godot/imported/PRSFX- Wild Charge1.wav-64f0323c4aa1213480b2178d3c8a617e.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://kegkv7sn7na1"
-path="res://.godot/imported/PRSFX- Autotomize.wav-a8b9f6dbec6a135f2b39b3d353fe08cb.sample"
+path="res://.godot/imported/PRSFX- Autotomize.wav-09be3795ed0af4be111daeaad701ebe2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Autotomize.wav"
-dest_files=["res://.godot/imported/PRSFX- Autotomize.wav-a8b9f6dbec6a135f2b39b3d353fe08cb.sample"]
+source_file="res://audio/se/anim/PRSFX- Autotomize.wav"
+dest_files=["res://.godot/imported/PRSFX- Autotomize.wav-09be3795ed0af4be111daeaad701ebe2.sample"]
 
 [params]
 

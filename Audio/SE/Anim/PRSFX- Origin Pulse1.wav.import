@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://chcbja1nptr16"
-path="res://.godot/imported/PRSFX- Origin Pulse1.wav-963ba855ff1b14fc1119412493c87e1c.sample"
+path="res://.godot/imported/PRSFX- Origin Pulse1.wav-2136c76c17418bae9adc8f9aab75f4da.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Origin Pulse1.wav"
-dest_files=["res://.godot/imported/PRSFX- Origin Pulse1.wav-963ba855ff1b14fc1119412493c87e1c.sample"]
+source_file="res://audio/se/anim/PRSFX- Origin Pulse1.wav"
+dest_files=["res://.godot/imported/PRSFX- Origin Pulse1.wav-2136c76c17418bae9adc8f9aab75f4da.sample"]
 
 [params]
 

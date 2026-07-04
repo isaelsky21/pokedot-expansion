@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c6sx20gllnb8b"
-path="res://.godot/imported/PRSFX- Double Kick.wav-517c00ceec6d5baec9a2b5a4df34956e.sample"
+path="res://.godot/imported/PRSFX- Double Kick.wav-0c1ec5358048933d986cabfaaeba042d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Double Kick.wav"
-dest_files=["res://.godot/imported/PRSFX- Double Kick.wav-517c00ceec6d5baec9a2b5a4df34956e.sample"]
+source_file="res://audio/se/anim/PRSFX- Double Kick.wav"
+dest_files=["res://.godot/imported/PRSFX- Double Kick.wav-0c1ec5358048933d986cabfaaeba042d.sample"]
 
 [params]
 

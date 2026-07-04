@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c08vfhpeif5gv"
-path="res://.godot/imported/PRSFX- Revenge2.wav-0e81f49e650994b49b2fc9f58822b20d.sample"
+path="res://.godot/imported/PRSFX- Revenge2.wav-81979aa65a9d4f617cde3b1b33e1af15.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Revenge2.wav"
-dest_files=["res://.godot/imported/PRSFX- Revenge2.wav-0e81f49e650994b49b2fc9f58822b20d.sample"]
+source_file="res://audio/se/anim/PRSFX- Revenge2.wav"
+dest_files=["res://.godot/imported/PRSFX- Revenge2.wav-81979aa65a9d4f617cde3b1b33e1af15.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://coeneirjvlqpg"
-path="res://.godot/imported/ENAMORUS.ogg-16eb9dc1e41c4f3246fd409878f8fe14.oggvorbisstr"
+path="res://.godot/imported/ENAMORUS.ogg-d0ca057be3cbaeab2f3ca6633685953b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ENAMORUS.ogg"
-dest_files=["res://.godot/imported/ENAMORUS.ogg-16eb9dc1e41c4f3246fd409878f8fe14.oggvorbisstr"]
+source_file="res://audio/se/cries/ENAMORUS.ogg"
+dest_files=["res://.godot/imported/ENAMORUS.ogg-d0ca057be3cbaeab2f3ca6633685953b.oggvorbisstr"]
 
 [params]
 

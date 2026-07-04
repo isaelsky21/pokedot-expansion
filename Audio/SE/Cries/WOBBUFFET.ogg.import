@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://buqni5tg0kx0u"
-path="res://.godot/imported/WOBBUFFET.ogg-f15912ec6baeb67e19936f59fc45085c.oggvorbisstr"
+path="res://.godot/imported/WOBBUFFET.ogg-e6153af595fa98790df35ba2096486a7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WOBBUFFET.ogg"
-dest_files=["res://.godot/imported/WOBBUFFET.ogg-f15912ec6baeb67e19936f59fc45085c.oggvorbisstr"]
+source_file="res://audio/se/cries/WOBBUFFET.ogg"
+dest_files=["res://.godot/imported/WOBBUFFET.ogg-e6153af595fa98790df35ba2096486a7.oggvorbisstr"]
 
 [params]
 

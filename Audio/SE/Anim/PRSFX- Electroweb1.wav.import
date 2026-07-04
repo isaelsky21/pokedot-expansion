@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dtelqhdemrj5u"
-path="res://.godot/imported/PRSFX- Electroweb1.wav-e9484f668606d8b9b9c1db4f7884ad55.sample"
+path="res://.godot/imported/PRSFX- Electroweb1.wav-503ba003b887d9533c87c967ac464a06.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Electroweb1.wav"
-dest_files=["res://.godot/imported/PRSFX- Electroweb1.wav-e9484f668606d8b9b9c1db4f7884ad55.sample"]
+source_file="res://audio/se/anim/PRSFX- Electroweb1.wav"
+dest_files=["res://.godot/imported/PRSFX- Electroweb1.wav-503ba003b887d9533c87c967ac464a06.sample"]
 
 [params]
 

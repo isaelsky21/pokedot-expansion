@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ci1ssp6l1lqex"
-path="res://.godot/imported/LYCANROC.ogg-ef74342ceecad19a35f50639a7ab7c9a.oggvorbisstr"
+path="res://.godot/imported/LYCANROC.ogg-b74fa980549e0b7c11494c259611b2d4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LYCANROC.ogg"
-dest_files=["res://.godot/imported/LYCANROC.ogg-ef74342ceecad19a35f50639a7ab7c9a.oggvorbisstr"]
+source_file="res://audio/se/cries/LYCANROC.ogg"
+dest_files=["res://.godot/imported/LYCANROC.ogg-b74fa980549e0b7c11494c259611b2d4.oggvorbisstr"]
 
 [params]
 

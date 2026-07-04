@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://de4y00p4la5yt"
-path="res://.godot/imported/MASCHIFF.ogg-fa3cc6d874cc8418b5b6010929683def.oggvorbisstr"
+path="res://.godot/imported/MASCHIFF.ogg-ff59dab90688871470a93ac093d82742.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MASCHIFF.ogg"
-dest_files=["res://.godot/imported/MASCHIFF.ogg-fa3cc6d874cc8418b5b6010929683def.oggvorbisstr"]
+source_file="res://audio/se/cries/MASCHIFF.ogg"
+dest_files=["res://.godot/imported/MASCHIFF.ogg-ff59dab90688871470a93ac093d82742.oggvorbisstr"]
 
 [params]
 

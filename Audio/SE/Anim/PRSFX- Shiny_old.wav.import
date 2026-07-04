@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://8750kb1o7phw"
-path="res://.godot/imported/PRSFX- Shiny_old.wav-55d8c850a3a96a58bb46defa0849ee98.sample"
+path="res://.godot/imported/PRSFX- Shiny_old.wav-ca9df65ad849d32458aac686656c8d05.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shiny_old.wav"
-dest_files=["res://.godot/imported/PRSFX- Shiny_old.wav-55d8c850a3a96a58bb46defa0849ee98.sample"]
+source_file="res://audio/se/anim/PRSFX- Shiny_old.wav"
+dest_files=["res://.godot/imported/PRSFX- Shiny_old.wav-ca9df65ad849d32458aac686656c8d05.sample"]
 
 [params]
 

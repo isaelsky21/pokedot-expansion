@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhtykk73w4ntr"
-path="res://.godot/imported/SHELLOS.ogg-d5d11b564749a6443b597e6e7d1dc69c.oggvorbisstr"
+path="res://.godot/imported/SHELLOS.ogg-cfa4e64b8f6f13f61f299780569db323.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHELLOS.ogg"
-dest_files=["res://.godot/imported/SHELLOS.ogg-d5d11b564749a6443b597e6e7d1dc69c.oggvorbisstr"]
+source_file="res://audio/se/cries/SHELLOS.ogg"
+dest_files=["res://.godot/imported/SHELLOS.ogg-cfa4e64b8f6f13f61f299780569db323.oggvorbisstr"]
 
 [params]
 

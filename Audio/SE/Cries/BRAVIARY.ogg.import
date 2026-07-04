@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://t8bneauyeh4r"
-path="res://.godot/imported/BRAVIARY.ogg-27b49079f3b9550fa6aa20ac206b6009.oggvorbisstr"
+path="res://.godot/imported/BRAVIARY.ogg-f49ca6075e5ff84b5f7ff62a2a10e179.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BRAVIARY.ogg"
-dest_files=["res://.godot/imported/BRAVIARY.ogg-27b49079f3b9550fa6aa20ac206b6009.oggvorbisstr"]
+source_file="res://audio/se/cries/BRAVIARY.ogg"
+dest_files=["res://.godot/imported/BRAVIARY.ogg-f49ca6075e5ff84b5f7ff62a2a10e179.oggvorbisstr"]
 
 [params]
 

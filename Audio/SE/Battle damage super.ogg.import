@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://drx810pb2qolv"
-path="res://.godot/imported/Battle damage super.ogg-f77eda589d5f33e909c12203672d8d1d.oggvorbisstr"
+path="res://.godot/imported/Battle damage super.ogg-5c833093e51144531702068f729f0193.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Battle damage super.ogg"
-dest_files=["res://.godot/imported/Battle damage super.ogg-f77eda589d5f33e909c12203672d8d1d.oggvorbisstr"]
+source_file="res://audio/se/Battle damage super.ogg"
+dest_files=["res://.godot/imported/Battle damage super.ogg-5c833093e51144531702068f729f0193.oggvorbisstr"]
 
 [params]
 

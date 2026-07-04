@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://pmfonkcpayd4"
-path="res://.godot/imported/PRSFX- Weather Ball3.wav-9581991c129d93962552f08494afff5f.sample"
+path="res://.godot/imported/PRSFX- Weather Ball3.wav-65e0dbb4fbdd53f07e8ce8f4a5f69522.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Weather Ball3.wav"
-dest_files=["res://.godot/imported/PRSFX- Weather Ball3.wav-9581991c129d93962552f08494afff5f.sample"]
+source_file="res://audio/se/anim/PRSFX- Weather Ball3.wav"
+dest_files=["res://.godot/imported/PRSFX- Weather Ball3.wav-65e0dbb4fbdd53f07e8ce8f4a5f69522.sample"]
 
 [params]
 

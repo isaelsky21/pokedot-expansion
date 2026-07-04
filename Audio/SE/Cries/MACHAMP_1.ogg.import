@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cbv8jsqelib8d"
-path="res://.godot/imported/MACHAMP_1.ogg-29a7374abfd5047e31afc9c648baa865.oggvorbisstr"
+path="res://.godot/imported/MACHAMP_1.ogg-f1df48e1f43f711258cebf4c88c24ad9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MACHAMP_1.ogg"
-dest_files=["res://.godot/imported/MACHAMP_1.ogg-29a7374abfd5047e31afc9c648baa865.oggvorbisstr"]
+source_file="res://audio/se/cries/MACHAMP_1.ogg"
+dest_files=["res://.godot/imported/MACHAMP_1.ogg-f1df48e1f43f711258cebf4c88c24ad9.oggvorbisstr"]
 
 [params]
 

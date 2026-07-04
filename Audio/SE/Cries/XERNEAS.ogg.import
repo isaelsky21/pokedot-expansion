@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://tty4x0opryaq"
-path="res://.godot/imported/XERNEAS.ogg-c7ec4fe7a0fb7f5202114f8857f435ea.oggvorbisstr"
+path="res://.godot/imported/XERNEAS.ogg-54b1001d7128bc31cd7ac0e383a63189.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/XERNEAS.ogg"
-dest_files=["res://.godot/imported/XERNEAS.ogg-c7ec4fe7a0fb7f5202114f8857f435ea.oggvorbisstr"]
+source_file="res://audio/se/cries/XERNEAS.ogg"
+dest_files=["res://.godot/imported/XERNEAS.ogg-54b1001d7128bc31cd7ac0e383a63189.oggvorbisstr"]
 
 [params]
 

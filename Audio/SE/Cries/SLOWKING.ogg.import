@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://duwwq3cr7pa33"
-path="res://.godot/imported/SLOWKING.ogg-5a2ec9cb1f0f86a0e0189299c6c85573.oggvorbisstr"
+path="res://.godot/imported/SLOWKING.ogg-8d92388c67467ffa0bbb3cc0600ed537.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SLOWKING.ogg"
-dest_files=["res://.godot/imported/SLOWKING.ogg-5a2ec9cb1f0f86a0e0189299c6c85573.oggvorbisstr"]
+source_file="res://audio/se/cries/SLOWKING.ogg"
+dest_files=["res://.godot/imported/SLOWKING.ogg-8d92388c67467ffa0bbb3cc0600ed537.oggvorbisstr"]
 
 [params]
 

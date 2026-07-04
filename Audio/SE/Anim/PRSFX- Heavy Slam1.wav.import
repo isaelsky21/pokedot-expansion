@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://0mmgow11o7t"
-path="res://.godot/imported/PRSFX- Heavy Slam1.wav-4bfe6f39fe165e4f4825d7980d1fd7c1.sample"
+path="res://.godot/imported/PRSFX- Heavy Slam1.wav-8d916ef072fc8049306760bc08d57836.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Heavy Slam1.wav"
-dest_files=["res://.godot/imported/PRSFX- Heavy Slam1.wav-4bfe6f39fe165e4f4825d7980d1fd7c1.sample"]
+source_file="res://audio/se/anim/PRSFX- Heavy Slam1.wav"
+dest_files=["res://.godot/imported/PRSFX- Heavy Slam1.wav-8d916ef072fc8049306760bc08d57836.sample"]
 
 [params]
 

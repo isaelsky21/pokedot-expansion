@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b6xpgl3jvym4g"
-path="res://.godot/imported/TORKOAL.ogg-80fc5953a9201bc3d7ba50d3cd03fddf.oggvorbisstr"
+path="res://.godot/imported/TORKOAL.ogg-b0e987352acda98af0b770c180ee7dec.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TORKOAL.ogg"
-dest_files=["res://.godot/imported/TORKOAL.ogg-80fc5953a9201bc3d7ba50d3cd03fddf.oggvorbisstr"]
+source_file="res://audio/se/cries/TORKOAL.ogg"
+dest_files=["res://.godot/imported/TORKOAL.ogg-b0e987352acda98af0b770c180ee7dec.oggvorbisstr"]
 
 [params]
 

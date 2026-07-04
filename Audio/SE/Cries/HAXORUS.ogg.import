@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djbavk1la42kp"
-path="res://.godot/imported/HAXORUS.ogg-468d85bbcb1d77aeafe36d29e49bb33a.oggvorbisstr"
+path="res://.godot/imported/HAXORUS.ogg-7547f8937592fdc6cec03b77c6ee34cd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HAXORUS.ogg"
-dest_files=["res://.godot/imported/HAXORUS.ogg-468d85bbcb1d77aeafe36d29e49bb33a.oggvorbisstr"]
+source_file="res://audio/se/cries/HAXORUS.ogg"
+dest_files=["res://.godot/imported/HAXORUS.ogg-7547f8937592fdc6cec03b77c6ee34cd.oggvorbisstr"]
 
 [params]
 

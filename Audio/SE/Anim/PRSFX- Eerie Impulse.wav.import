@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cduwm6et3itik"
-path="res://.godot/imported/PRSFX- Eerie Impulse.wav-997d0b5de3a24626cc72f6863ffa2491.sample"
+path="res://.godot/imported/PRSFX- Eerie Impulse.wav-bca231cf3efa1735f05bfa8a17612906.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Eerie Impulse.wav"
-dest_files=["res://.godot/imported/PRSFX- Eerie Impulse.wav-997d0b5de3a24626cc72f6863ffa2491.sample"]
+source_file="res://audio/se/anim/PRSFX- Eerie Impulse.wav"
+dest_files=["res://.godot/imported/PRSFX- Eerie Impulse.wav-bca231cf3efa1735f05bfa8a17612906.sample"]
 
 [params]
 

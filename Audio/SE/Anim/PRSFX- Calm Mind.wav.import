@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c4t83xqcosaca"
-path="res://.godot/imported/PRSFX- Calm Mind.wav-03e619daf7941914f50b3c0be399a619.sample"
+path="res://.godot/imported/PRSFX- Calm Mind.wav-227008f98cf9d8081b8f68b5114f4246.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Calm Mind.wav"
-dest_files=["res://.godot/imported/PRSFX- Calm Mind.wav-03e619daf7941914f50b3c0be399a619.sample"]
+source_file="res://audio/se/anim/PRSFX- Calm Mind.wav"
+dest_files=["res://.godot/imported/PRSFX- Calm Mind.wav-227008f98cf9d8081b8f68b5114f4246.sample"]
 
 [params]
 

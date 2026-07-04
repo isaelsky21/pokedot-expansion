@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ijsn1a0qsh3f"
-path="res://.godot/imported/PRSFX- Solar Beam1.wav-df733c7e9d7206a6abbe17dcee5f0429.sample"
+path="res://.godot/imported/PRSFX- Solar Beam1.wav-8b2de05fafa1f630074dee163f12d69a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Solar Beam1.wav"
-dest_files=["res://.godot/imported/PRSFX- Solar Beam1.wav-df733c7e9d7206a6abbe17dcee5f0429.sample"]
+source_file="res://audio/se/anim/PRSFX- Solar Beam1.wav"
+dest_files=["res://.godot/imported/PRSFX- Solar Beam1.wav-8b2de05fafa1f630074dee163f12d69a.sample"]
 
 [params]
 

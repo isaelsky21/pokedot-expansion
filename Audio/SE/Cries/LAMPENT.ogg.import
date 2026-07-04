@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bp7vwicvkwq3v"
-path="res://.godot/imported/LAMPENT.ogg-012d42f5bc42c3f98e605ee87cf0891d.oggvorbisstr"
+path="res://.godot/imported/LAMPENT.ogg-59fa1f0c6caaa49af0257690fae5b685.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LAMPENT.ogg"
-dest_files=["res://.godot/imported/LAMPENT.ogg-012d42f5bc42c3f98e605ee87cf0891d.oggvorbisstr"]
+source_file="res://audio/se/cries/LAMPENT.ogg"
+dest_files=["res://.godot/imported/LAMPENT.ogg-59fa1f0c6caaa49af0257690fae5b685.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://340mckoxt563"
-path="res://.godot/imported/PRSFX- Pay Day1.wav-a6527f01dcf74c6362151e39244469a4.sample"
+path="res://.godot/imported/PRSFX- Pay Day1.wav-027719220b4b0c1ffd416ecd97fb93f9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Pay Day1.wav"
-dest_files=["res://.godot/imported/PRSFX- Pay Day1.wav-a6527f01dcf74c6362151e39244469a4.sample"]
+source_file="res://audio/se/anim/PRSFX- Pay Day1.wav"
+dest_files=["res://.godot/imported/PRSFX- Pay Day1.wav-027719220b4b0c1ffd416ecd97fb93f9.sample"]
 
 [params]
 

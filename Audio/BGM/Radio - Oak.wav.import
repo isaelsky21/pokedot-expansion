@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dgc2ikx6uipcx"
-path="res://.godot/imported/Radio - Oak.wav-039f11e569fbcdf802a9bda15e9d715f.sample"
+path="res://.godot/imported/Radio - Oak.wav-5f9936f101c8729db805c53ae1b9636d.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Radio - Oak.wav"
-dest_files=["res://.godot/imported/Radio - Oak.wav-039f11e569fbcdf802a9bda15e9d715f.sample"]
+source_file="res://audio/bgm/Radio - Oak.wav"
+dest_files=["res://.godot/imported/Radio - Oak.wav-5f9936f101c8729db805c53ae1b9636d.sample"]
 
 [params]
 

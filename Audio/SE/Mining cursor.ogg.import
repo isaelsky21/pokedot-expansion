@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://devnhehu4j762"
-path="res://.godot/imported/Mining cursor.ogg-b7192d51ec259ffd5851494abb6cd83b.oggvorbisstr"
+path="res://.godot/imported/Mining cursor.ogg-04ce5606b57b402affcbc056cd2fb8eb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Mining cursor.ogg"
-dest_files=["res://.godot/imported/Mining cursor.ogg-b7192d51ec259ffd5851494abb6cd83b.oggvorbisstr"]
+source_file="res://audio/se/Mining cursor.ogg"
+dest_files=["res://.godot/imported/Mining cursor.ogg-04ce5606b57b402affcbc056cd2fb8eb.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bpwdvd30t631u"
-path="res://.godot/imported/PRSFX- Feint Attack2.wav-f41e0c445a2e102c9482ba33ea6e1c90.sample"
+path="res://.godot/imported/PRSFX- Feint Attack2.wav-add2503466ca946091bbc6aaa9bc1eac.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Feint Attack2.wav"
-dest_files=["res://.godot/imported/PRSFX- Feint Attack2.wav-f41e0c445a2e102c9482ba33ea6e1c90.sample"]
+source_file="res://audio/se/anim/PRSFX- Feint Attack2.wav"
+dest_files=["res://.godot/imported/PRSFX- Feint Attack2.wav-add2503466ca946091bbc6aaa9bc1eac.sample"]
 
 [params]
 

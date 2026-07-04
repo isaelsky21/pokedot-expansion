@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://by4b6l5ouhudv"
-path="res://.godot/imported/HERDIER.ogg-4e86748871d93c55f7c08cf467dc10b4.oggvorbisstr"
+path="res://.godot/imported/HERDIER.ogg-af4f6972368afe02dc43e30e551d216b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HERDIER.ogg"
-dest_files=["res://.godot/imported/HERDIER.ogg-4e86748871d93c55f7c08cf467dc10b4.oggvorbisstr"]
+source_file="res://audio/se/cries/HERDIER.ogg"
+dest_files=["res://.godot/imported/HERDIER.ogg-af4f6972368afe02dc43e30e551d216b.oggvorbisstr"]
 
 [params]
 

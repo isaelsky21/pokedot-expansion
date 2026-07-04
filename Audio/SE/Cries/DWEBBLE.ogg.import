@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://lhfwvjk3osf"
-path="res://.godot/imported/DWEBBLE.ogg-a144d09e4ae7c856034a496c69cdb5c4.oggvorbisstr"
+path="res://.godot/imported/DWEBBLE.ogg-f34193cec5362e40450ae1fe9f7234ab.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DWEBBLE.ogg"
-dest_files=["res://.godot/imported/DWEBBLE.ogg-a144d09e4ae7c856034a496c69cdb5c4.oggvorbisstr"]
+source_file="res://audio/se/cries/DWEBBLE.ogg"
+dest_files=["res://.godot/imported/DWEBBLE.ogg-f34193cec5362e40450ae1fe9f7234ab.oggvorbisstr"]
 
 [params]
 

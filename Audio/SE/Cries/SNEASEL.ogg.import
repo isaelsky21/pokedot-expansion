@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://g816qyeccpus"
-path="res://.godot/imported/SNEASEL.ogg-23d1e060a4216aeb0cc1f33168ad47c0.oggvorbisstr"
+path="res://.godot/imported/SNEASEL.ogg-db5d6d816cf1466d6e84eb2e77b9bf9b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SNEASEL.ogg"
-dest_files=["res://.godot/imported/SNEASEL.ogg-23d1e060a4216aeb0cc1f33168ad47c0.oggvorbisstr"]
+source_file="res://audio/se/cries/SNEASEL.ogg"
+dest_files=["res://.godot/imported/SNEASEL.ogg-db5d6d816cf1466d6e84eb2e77b9bf9b.oggvorbisstr"]
 
 [params]
 

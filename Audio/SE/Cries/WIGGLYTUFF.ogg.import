@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ci0p7uqvv1rsd"
-path="res://.godot/imported/WIGGLYTUFF.ogg-273d190284601f25ec01ce74a7b62d87.oggvorbisstr"
+path="res://.godot/imported/WIGGLYTUFF.ogg-f3632408c9bd077fff375e818bf3672f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WIGGLYTUFF.ogg"
-dest_files=["res://.godot/imported/WIGGLYTUFF.ogg-273d190284601f25ec01ce74a7b62d87.oggvorbisstr"]
+source_file="res://audio/se/cries/WIGGLYTUFF.ogg"
+dest_files=["res://.godot/imported/WIGGLYTUFF.ogg-f3632408c9bd077fff375e818bf3672f.oggvorbisstr"]
 
 [params]
 

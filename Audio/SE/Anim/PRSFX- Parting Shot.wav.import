@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bpovcy0va77v4"
-path="res://.godot/imported/PRSFX- Parting Shot.wav-9828bfbb868ca4b60081c245674fc672.sample"
+path="res://.godot/imported/PRSFX- Parting Shot.wav-037fbb4c100c82dd19153eafdc693fd7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Parting Shot.wav"
-dest_files=["res://.godot/imported/PRSFX- Parting Shot.wav-9828bfbb868ca4b60081c245674fc672.sample"]
+source_file="res://audio/se/anim/PRSFX- Parting Shot.wav"
+dest_files=["res://.godot/imported/PRSFX- Parting Shot.wav-037fbb4c100c82dd19153eafdc693fd7.sample"]
 
 [params]
 

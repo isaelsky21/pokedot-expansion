@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dsn08j0s8yk2j"
-path="res://.godot/imported/TINGLU.ogg-f10945323f47515bdff4e96c9712d754.oggvorbisstr"
+path="res://.godot/imported/TINGLU.ogg-35151caff58b0815407284f36a838849.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TINGLU.ogg"
-dest_files=["res://.godot/imported/TINGLU.ogg-f10945323f47515bdff4e96c9712d754.oggvorbisstr"]
+source_file="res://audio/se/cries/TINGLU.ogg"
+dest_files=["res://.godot/imported/TINGLU.ogg-35151caff58b0815407284f36a838849.oggvorbisstr"]
 
 [params]
 

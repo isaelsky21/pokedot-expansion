@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dko2pll8ngiw6"
-path="res://.godot/imported/AZURILL.ogg-f09f938dfe4d77f5d734e98a36a1065e.oggvorbisstr"
+path="res://.godot/imported/AZURILL.ogg-b511b1eec14df9ee1914fed90d72da10.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AZURILL.ogg"
-dest_files=["res://.godot/imported/AZURILL.ogg-f09f938dfe4d77f5d734e98a36a1065e.oggvorbisstr"]
+source_file="res://audio/se/cries/AZURILL.ogg"
+dest_files=["res://.godot/imported/AZURILL.ogg-b511b1eec14df9ee1914fed90d72da10.oggvorbisstr"]
 
 [params]
 

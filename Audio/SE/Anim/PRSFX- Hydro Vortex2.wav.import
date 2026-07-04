@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cme5ql4hwexjr"
-path="res://.godot/imported/PRSFX- Hydro Vortex2.wav-0ca5b8ade2953e29ec991297593a594f.sample"
+path="res://.godot/imported/PRSFX- Hydro Vortex2.wav-36bb1371b611c33cd3f92a9da431a6c4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hydro Vortex2.wav"
-dest_files=["res://.godot/imported/PRSFX- Hydro Vortex2.wav-0ca5b8ade2953e29ec991297593a594f.sample"]
+source_file="res://audio/se/anim/PRSFX- Hydro Vortex2.wav"
+dest_files=["res://.godot/imported/PRSFX- Hydro Vortex2.wav-36bb1371b611c33cd3f92a9da431a6c4.sample"]
 
 [params]
 

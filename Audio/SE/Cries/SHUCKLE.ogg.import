@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bwe84e0w65lyc"
-path="res://.godot/imported/SHUCKLE.ogg-a9908c71d18d0a9c2259ced40b4aa69f.oggvorbisstr"
+path="res://.godot/imported/SHUCKLE.ogg-56baf09b431e8e9688cfd22d209cedfb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHUCKLE.ogg"
-dest_files=["res://.godot/imported/SHUCKLE.ogg-a9908c71d18d0a9c2259ced40b4aa69f.oggvorbisstr"]
+source_file="res://audio/se/cries/SHUCKLE.ogg"
+dest_files=["res://.godot/imported/SHUCKLE.ogg-56baf09b431e8e9688cfd22d209cedfb.oggvorbisstr"]
 
 [params]
 

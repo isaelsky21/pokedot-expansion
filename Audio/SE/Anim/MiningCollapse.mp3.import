@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://d02ajg3m23pos"
-path="res://.godot/imported/MiningCollapse.mp3-fcf3135d06df94c43aa9b0ac51727732.mp3str"
+path="res://.godot/imported/MiningCollapse.mp3-dac05fbaa097272efda5a0bf0a54b747.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/MiningCollapse.mp3"
-dest_files=["res://.godot/imported/MiningCollapse.mp3-fcf3135d06df94c43aa9b0ac51727732.mp3str"]
+source_file="res://audio/se/anim/MiningCollapse.mp3"
+dest_files=["res://.godot/imported/MiningCollapse.mp3-dac05fbaa097272efda5a0bf0a54b747.mp3str"]
 
 [params]
 

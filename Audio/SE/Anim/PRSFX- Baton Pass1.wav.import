@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://crhfnosumk5dp"
-path="res://.godot/imported/PRSFX- Baton Pass1.wav-dd6615a0db39e7646f6fcaf0a774583d.sample"
+path="res://.godot/imported/PRSFX- Baton Pass1.wav-fc7255e846da10f5a7dcf4e502aeaaea.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Baton Pass1.wav"
-dest_files=["res://.godot/imported/PRSFX- Baton Pass1.wav-dd6615a0db39e7646f6fcaf0a774583d.sample"]
+source_file="res://audio/se/anim/PRSFX- Baton Pass1.wav"
+dest_files=["res://.godot/imported/PRSFX- Baton Pass1.wav-fc7255e846da10f5a7dcf4e502aeaaea.sample"]
 
 [params]
 

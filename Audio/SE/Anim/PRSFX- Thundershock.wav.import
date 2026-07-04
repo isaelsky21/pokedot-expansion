@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cjs5er6ndsrvf"
-path="res://.godot/imported/PRSFX- Thundershock.wav-6a4e60de14ce59ab31bcead3650e0663.sample"
+path="res://.godot/imported/PRSFX- Thundershock.wav-46220a54504fccb338b17f8eeb579934.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thundershock.wav"
-dest_files=["res://.godot/imported/PRSFX- Thundershock.wav-6a4e60de14ce59ab31bcead3650e0663.sample"]
+source_file="res://audio/se/anim/PRSFX- Thundershock.wav"
+dest_files=["res://.godot/imported/PRSFX- Thundershock.wav-46220a54504fccb338b17f8eeb579934.sample"]
 
 [params]
 

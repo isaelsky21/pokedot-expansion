@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://lyluam45kp0q"
-path="res://.godot/imported/SMOOCHUM.ogg-ac0d5519850871d3181f217ae8745abe.oggvorbisstr"
+path="res://.godot/imported/SMOOCHUM.ogg-67d8ddbc7edbb12d44b5ec2a5ba832f8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SMOOCHUM.ogg"
-dest_files=["res://.godot/imported/SMOOCHUM.ogg-ac0d5519850871d3181f217ae8745abe.oggvorbisstr"]
+source_file="res://audio/se/cries/SMOOCHUM.ogg"
+dest_files=["res://.godot/imported/SMOOCHUM.ogg-67d8ddbc7edbb12d44b5ec2a5ba832f8.oggvorbisstr"]
 
 [params]
 

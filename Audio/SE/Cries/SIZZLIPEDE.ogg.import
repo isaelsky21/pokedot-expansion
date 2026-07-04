@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bo7vygjk805p7"
-path="res://.godot/imported/SIZZLIPEDE.ogg-ac027baa6be63bf1ba1a10bf8e6f7f73.oggvorbisstr"
+path="res://.godot/imported/SIZZLIPEDE.ogg-f034f8f09ff6c38cd62afedd10f792aa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SIZZLIPEDE.ogg"
-dest_files=["res://.godot/imported/SIZZLIPEDE.ogg-ac027baa6be63bf1ba1a10bf8e6f7f73.oggvorbisstr"]
+source_file="res://audio/se/cries/SIZZLIPEDE.ogg"
+dest_files=["res://.godot/imported/SIZZLIPEDE.ogg-f034f8f09ff6c38cd62afedd10f792aa.oggvorbisstr"]
 
 [params]
 

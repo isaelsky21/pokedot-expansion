@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bbf3qsaf4sra0"
-path="res://.godot/imported/PRSFX- Strength Sap1.wav-d8fb653575765130f703471d3b47ca5b.sample"
+path="res://.godot/imported/PRSFX- Strength Sap1.wav-02e135de9e4b30e167d28a71d4dfe8c5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Strength Sap1.wav"
-dest_files=["res://.godot/imported/PRSFX- Strength Sap1.wav-d8fb653575765130f703471d3b47ca5b.sample"]
+source_file="res://audio/se/anim/PRSFX- Strength Sap1.wav"
+dest_files=["res://.godot/imported/PRSFX- Strength Sap1.wav-02e135de9e4b30e167d28a71d4dfe8c5.sample"]
 
 [params]
 

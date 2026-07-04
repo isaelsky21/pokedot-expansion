@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cvkoj6vrvy6vn"
-path="res://.godot/imported/CORVIKNIGHT.ogg-c28fdc4320399a3a0784565549291a0e.oggvorbisstr"
+path="res://.godot/imported/CORVIKNIGHT.ogg-44d666571f085025057275c1104ff2cd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CORVIKNIGHT.ogg"
-dest_files=["res://.godot/imported/CORVIKNIGHT.ogg-c28fdc4320399a3a0784565549291a0e.oggvorbisstr"]
+source_file="res://audio/se/cries/CORVIKNIGHT.ogg"
+dest_files=["res://.godot/imported/CORVIKNIGHT.ogg-44d666571f085025057275c1104ff2cd.oggvorbisstr"]
 
 [params]
 

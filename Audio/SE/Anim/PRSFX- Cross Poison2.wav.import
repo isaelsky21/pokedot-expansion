@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://niwjf7xvxl73"
-path="res://.godot/imported/PRSFX- Cross Poison2.wav-f20a210c9b25f17ed4cd7fe5088a3128.sample"
+path="res://.godot/imported/PRSFX- Cross Poison2.wav-79eecad448332f5c2f9287cdb8c31f28.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Cross Poison2.wav"
-dest_files=["res://.godot/imported/PRSFX- Cross Poison2.wav-f20a210c9b25f17ed4cd7fe5088a3128.sample"]
+source_file="res://audio/se/anim/PRSFX- Cross Poison2.wav"
+dest_files=["res://.godot/imported/PRSFX- Cross Poison2.wav-79eecad448332f5c2f9287cdb8c31f28.sample"]
 
 [params]
 

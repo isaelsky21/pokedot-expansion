@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dr05flo7bytw1"
-path="res://.godot/imported/GURDURR.ogg-39fd23a0f96c106c88cf9213306f5dc9.oggvorbisstr"
+path="res://.godot/imported/GURDURR.ogg-06806915760428d0c8752a8532e42432.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GURDURR.ogg"
-dest_files=["res://.godot/imported/GURDURR.ogg-39fd23a0f96c106c88cf9213306f5dc9.oggvorbisstr"]
+source_file="res://audio/se/cries/GURDURR.ogg"
+dest_files=["res://.godot/imported/GURDURR.ogg-06806915760428d0c8752a8532e42432.oggvorbisstr"]
 
 [params]
 

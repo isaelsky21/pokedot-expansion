@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhns656cxltng"
-path="res://.godot/imported/TIRTOUGA.ogg-e8a91b57bfb4f934524906b014352fd5.oggvorbisstr"
+path="res://.godot/imported/TIRTOUGA.ogg-f2b968d61ccbdbf54dadbce0fa0a723e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TIRTOUGA.ogg"
-dest_files=["res://.godot/imported/TIRTOUGA.ogg-e8a91b57bfb4f934524906b014352fd5.oggvorbisstr"]
+source_file="res://audio/se/cries/TIRTOUGA.ogg"
+dest_files=["res://.godot/imported/TIRTOUGA.ogg-f2b968d61ccbdbf54dadbce0fa0a723e.oggvorbisstr"]
 
 [params]
 

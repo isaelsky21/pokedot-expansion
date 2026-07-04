@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cbakou2rhcgkt"
-path="res://.godot/imported/PRSFX- Gigavolt Havoc3.wav-6d939acca0bda33c21ca5d98c992e603.sample"
+path="res://.godot/imported/PRSFX- Gigavolt Havoc3.wav-57916a39c3379eed13ade6ba2e313171.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gigavolt Havoc3.wav"
-dest_files=["res://.godot/imported/PRSFX- Gigavolt Havoc3.wav-6d939acca0bda33c21ca5d98c992e603.sample"]
+source_file="res://audio/se/anim/PRSFX- Gigavolt Havoc3.wav"
+dest_files=["res://.godot/imported/PRSFX- Gigavolt Havoc3.wav-57916a39c3379eed13ade6ba2e313171.sample"]
 
 [params]
 

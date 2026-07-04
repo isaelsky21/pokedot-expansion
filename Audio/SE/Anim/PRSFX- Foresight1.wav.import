@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bfq0aoa6x2fgw"
-path="res://.godot/imported/PRSFX- Foresight1.wav-684d323af50c9aca8322415ce39ee968.sample"
+path="res://.godot/imported/PRSFX- Foresight1.wav-959b821f4144d58687bca38627f51518.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Foresight1.wav"
-dest_files=["res://.godot/imported/PRSFX- Foresight1.wav-684d323af50c9aca8322415ce39ee968.sample"]
+source_file="res://audio/se/anim/PRSFX- Foresight1.wav"
+dest_files=["res://.godot/imported/PRSFX- Foresight1.wav-959b821f4144d58687bca38627f51518.sample"]
 
 [params]
 

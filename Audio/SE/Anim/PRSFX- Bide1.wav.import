@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cpgt4n7cpipsv"
-path="res://.godot/imported/PRSFX- Bide1.wav-0473496a05c0905a9762328c1b17707f.sample"
+path="res://.godot/imported/PRSFX- Bide1.wav-fabe5739aa98cbda37d6491695302bc9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bide1.wav"
-dest_files=["res://.godot/imported/PRSFX- Bide1.wav-0473496a05c0905a9762328c1b17707f.sample"]
+source_file="res://audio/se/anim/PRSFX- Bide1.wav"
+dest_files=["res://.godot/imported/PRSFX- Bide1.wav-fabe5739aa98cbda37d6491695302bc9.sample"]
 
 [params]
 

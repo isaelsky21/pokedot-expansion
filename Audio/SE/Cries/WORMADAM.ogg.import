@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dh718gg3tq00f"
-path="res://.godot/imported/WORMADAM.ogg-cd9af0b2c665bbc6d369efb581a2e68c.oggvorbisstr"
+path="res://.godot/imported/WORMADAM.ogg-8cb235a3caf7dcdae6cb6c7b693ffce4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WORMADAM.ogg"
-dest_files=["res://.godot/imported/WORMADAM.ogg-cd9af0b2c665bbc6d369efb581a2e68c.oggvorbisstr"]
+source_file="res://audio/se/cries/WORMADAM.ogg"
+dest_files=["res://.godot/imported/WORMADAM.ogg-8cb235a3caf7dcdae6cb6c7b693ffce4.oggvorbisstr"]
 
 [params]
 

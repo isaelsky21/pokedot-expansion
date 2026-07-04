@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://balmtbfwancjg"
-path="res://.godot/imported/PRSFX- Black Hole Eclipse1.wav-d6ecf3f64381393915f2bc99735e99b2.sample"
+path="res://.godot/imported/PRSFX- Black Hole Eclipse1.wav-cb298b67a3b20006f6e150938c44e221.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Black Hole Eclipse1.wav"
-dest_files=["res://.godot/imported/PRSFX- Black Hole Eclipse1.wav-d6ecf3f64381393915f2bc99735e99b2.sample"]
+source_file="res://audio/se/anim/PRSFX- Black Hole Eclipse1.wav"
+dest_files=["res://.godot/imported/PRSFX- Black Hole Eclipse1.wav-cb298b67a3b20006f6e150938c44e221.sample"]
 
 [params]
 

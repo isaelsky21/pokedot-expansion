@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://7authqc17fig"
-path="res://.godot/imported/LUXRAY.ogg-3352a0b65e4367f4c10523e15187fe46.oggvorbisstr"
+path="res://.godot/imported/LUXRAY.ogg-4fa0d797e9c1e3d55ede5b31e9ec9ab6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LUXRAY.ogg"
-dest_files=["res://.godot/imported/LUXRAY.ogg-3352a0b65e4367f4c10523e15187fe46.oggvorbisstr"]
+source_file="res://audio/se/cries/LUXRAY.ogg"
+dest_files=["res://.godot/imported/LUXRAY.ogg-4fa0d797e9c1e3d55ede5b31e9ec9ab6.oggvorbisstr"]
 
 [params]
 

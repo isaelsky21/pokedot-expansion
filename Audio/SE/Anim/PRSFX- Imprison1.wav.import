@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://pgaswucisbmf"
-path="res://.godot/imported/PRSFX- Imprison1.wav-f82718b4f4eb9ab8a6edae058587cc68.sample"
+path="res://.godot/imported/PRSFX- Imprison1.wav-4efb4d20b6d0fba55cbc65ab43b39646.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Imprison1.wav"
-dest_files=["res://.godot/imported/PRSFX- Imprison1.wav-f82718b4f4eb9ab8a6edae058587cc68.sample"]
+source_file="res://audio/se/anim/PRSFX- Imprison1.wav"
+dest_files=["res://.godot/imported/PRSFX- Imprison1.wav-4efb4d20b6d0fba55cbc65ab43b39646.sample"]
 
 [params]
 

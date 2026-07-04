@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dgdvx7pd6epko"
-path="res://.godot/imported/LICKITUNG.ogg-5ce0050611c176d7f86d7d9c5facb5c9.oggvorbisstr"
+path="res://.godot/imported/LICKITUNG.ogg-7e28045505aec688b6df5686d3d79299.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LICKITUNG.ogg"
-dest_files=["res://.godot/imported/LICKITUNG.ogg-5ce0050611c176d7f86d7d9c5facb5c9.oggvorbisstr"]
+source_file="res://audio/se/cries/LICKITUNG.ogg"
+dest_files=["res://.godot/imported/LICKITUNG.ogg-7e28045505aec688b6df5686d3d79299.oggvorbisstr"]
 
 [params]
 

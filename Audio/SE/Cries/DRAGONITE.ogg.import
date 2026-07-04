@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7cg10xiitpqv"
-path="res://.godot/imported/DRAGONITE.ogg-881c3ec3e261331841e534d82c596d01.oggvorbisstr"
+path="res://.godot/imported/DRAGONITE.ogg-83f2ab368c008be456bec57349bf6cee.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRAGONITE.ogg"
-dest_files=["res://.godot/imported/DRAGONITE.ogg-881c3ec3e261331841e534d82c596d01.oggvorbisstr"]
+source_file="res://audio/se/cries/DRAGONITE.ogg"
+dest_files=["res://.godot/imported/DRAGONITE.ogg-83f2ab368c008be456bec57349bf6cee.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bwm3efsrwcjkt"
-path="res://.godot/imported/PRSFX- Trick or Treat.wav-6125d1565af435cd0e68eca64d3a53cd.sample"
+path="res://.godot/imported/PRSFX- Trick or Treat.wav-c8c0ca8337c1d454b8ac95ce9cf8f0df.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Trick or Treat.wav"
-dest_files=["res://.godot/imported/PRSFX- Trick or Treat.wav-6125d1565af435cd0e68eca64d3a53cd.sample"]
+source_file="res://audio/se/anim/PRSFX- Trick or Treat.wav"
+dest_files=["res://.godot/imported/PRSFX- Trick or Treat.wav-c8c0ca8337c1d454b8ac95ce9cf8f0df.sample"]
 
 [params]
 

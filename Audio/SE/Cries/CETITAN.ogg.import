@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ps1prspc0gch"
-path="res://.godot/imported/CETITAN.ogg-a74ca91c7cc809f4ad5335f010c3f04a.oggvorbisstr"
+path="res://.godot/imported/CETITAN.ogg-7a517494730f96b0a5d6a5473a6c4c1e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CETITAN.ogg"
-dest_files=["res://.godot/imported/CETITAN.ogg-a74ca91c7cc809f4ad5335f010c3f04a.oggvorbisstr"]
+source_file="res://audio/se/cries/CETITAN.ogg"
+dest_files=["res://.godot/imported/CETITAN.ogg-7a517494730f96b0a5d6a5473a6c4c1e.oggvorbisstr"]
 
 [params]
 

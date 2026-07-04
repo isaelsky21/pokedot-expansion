@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://oycw4klennx7"
-path="res://.godot/imported/PRSFX- Toxic Spikes1.wav-b96bae42f3ef9071f4b7b4798eea25f3.sample"
+path="res://.godot/imported/PRSFX- Toxic Spikes1.wav-3bf09f307c8a3734457ec2ffd3a4164e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Toxic Spikes1.wav"
-dest_files=["res://.godot/imported/PRSFX- Toxic Spikes1.wav-b96bae42f3ef9071f4b7b4798eea25f3.sample"]
+source_file="res://audio/se/anim/PRSFX- Toxic Spikes1.wav"
+dest_files=["res://.godot/imported/PRSFX- Toxic Spikes1.wav-3bf09f307c8a3734457ec2ffd3a4164e.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://2f4dj8ed2nau"
-path="res://.godot/imported/Lappet Town.wav-1aeb7340d1e28f79e1df173488d0d206.sample"
+path="res://.godot/imported/Lappet Town.wav-8b6d87c2a0c2dd37a5133e2c0591d252.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Lappet Town.wav"
-dest_files=["res://.godot/imported/Lappet Town.wav-1aeb7340d1e28f79e1df173488d0d206.sample"]
+source_file="res://audio/bgm/Lappet Town.wav"
+dest_files=["res://.godot/imported/Lappet Town.wav-8b6d87c2a0c2dd37a5133e2c0591d252.sample"]
 
 [params]
 

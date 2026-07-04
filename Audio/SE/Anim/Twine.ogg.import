@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0tnym88f1huk"
-path="res://.godot/imported/Twine.ogg-99ff4401c5ad9aa4ab149ca1fb21d183.oggvorbisstr"
+path="res://.godot/imported/Twine.ogg-2b673dccd15558f251c616d699c48b8b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Twine.ogg"
-dest_files=["res://.godot/imported/Twine.ogg-99ff4401c5ad9aa4ab149ca1fb21d183.oggvorbisstr"]
+source_file="res://audio/se/anim/Twine.ogg"
+dest_files=["res://.godot/imported/Twine.ogg-2b673dccd15558f251c616d699c48b8b.oggvorbisstr"]
 
 [params]
 

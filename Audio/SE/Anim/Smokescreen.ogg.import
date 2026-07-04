@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cpx47rpax46u"
-path="res://.godot/imported/Smokescreen.ogg-62864ea5f61caa7333669120fa62c1de.oggvorbisstr"
+path="res://.godot/imported/Smokescreen.ogg-eef655cc7cd2f26114a5e2c7129ab791.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Smokescreen.ogg"
-dest_files=["res://.godot/imported/Smokescreen.ogg-62864ea5f61caa7333669120fa62c1de.oggvorbisstr"]
+source_file="res://audio/se/anim/Smokescreen.ogg"
+dest_files=["res://.godot/imported/Smokescreen.ogg-eef655cc7cd2f26114a5e2c7129ab791.oggvorbisstr"]
 
 [params]
 

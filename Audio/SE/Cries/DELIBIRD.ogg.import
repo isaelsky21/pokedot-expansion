@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djqpea6o4fanp"
-path="res://.godot/imported/DELIBIRD.ogg-e8f5660d714d0c339a8b8ddcd6a7016c.oggvorbisstr"
+path="res://.godot/imported/DELIBIRD.ogg-07fcc44d2b34787d7163a595dba00d1b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DELIBIRD.ogg"
-dest_files=["res://.godot/imported/DELIBIRD.ogg-e8f5660d714d0c339a8b8ddcd6a7016c.oggvorbisstr"]
+source_file="res://audio/se/cries/DELIBIRD.ogg"
+dest_files=["res://.godot/imported/DELIBIRD.ogg-07fcc44d2b34787d7163a595dba00d1b.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c1o1um3ol41t7"
-path="res://.godot/imported/PRSFX- Tail Glow.wav-ef446af6d5b9ea22bc1e7cee2e1a39fc.sample"
+path="res://.godot/imported/PRSFX- Tail Glow.wav-644c1948d086d615be70ae50bcb2f7e9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Tail Glow.wav"
-dest_files=["res://.godot/imported/PRSFX- Tail Glow.wav-ef446af6d5b9ea22bc1e7cee2e1a39fc.sample"]
+source_file="res://audio/se/anim/PRSFX- Tail Glow.wav"
+dest_files=["res://.godot/imported/PRSFX- Tail Glow.wav-644c1948d086d615be70ae50bcb2f7e9.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://v2vbhbasagwj"
-path="res://.godot/imported/VENUSAUR_2.ogg-8d68ba80a01267306ec5cccd4ff59083.oggvorbisstr"
+path="res://.godot/imported/VENUSAUR_2.ogg-ca6c81691ab01279401ac87c7a024eee.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VENUSAUR_2.ogg"
-dest_files=["res://.godot/imported/VENUSAUR_2.ogg-8d68ba80a01267306ec5cccd4ff59083.oggvorbisstr"]
+source_file="res://audio/se/cries/VENUSAUR_2.ogg"
+dest_files=["res://.godot/imported/VENUSAUR_2.ogg-ca6c81691ab01279401ac87c7a024eee.oggvorbisstr"]
 
 [params]
 

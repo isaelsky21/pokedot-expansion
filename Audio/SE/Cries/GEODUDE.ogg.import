@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://msr8r3wjjug3"
-path="res://.godot/imported/GEODUDE.ogg-71777229b93f23b162d3edd2891babb2.oggvorbisstr"
+path="res://.godot/imported/GEODUDE.ogg-6875f723be0555ede1ee3430e2edde27.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GEODUDE.ogg"
-dest_files=["res://.godot/imported/GEODUDE.ogg-71777229b93f23b162d3edd2891babb2.oggvorbisstr"]
+source_file="res://audio/se/cries/GEODUDE.ogg"
+dest_files=["res://.godot/imported/GEODUDE.ogg-6875f723be0555ede1ee3430e2edde27.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dmeosvi2mniwh"
-path="res://.godot/imported/PRSFX- Mega Punch1.wav-c9354c329040447b447d2c8316be85f6.sample"
+path="res://.godot/imported/PRSFX- Mega Punch1.wav-226c8af23980ddc97ba6c1e0a39576c2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mega Punch1.wav"
-dest_files=["res://.godot/imported/PRSFX- Mega Punch1.wav-c9354c329040447b447d2c8316be85f6.sample"]
+source_file="res://audio/se/anim/PRSFX- Mega Punch1.wav"
+dest_files=["res://.godot/imported/PRSFX- Mega Punch1.wav-226c8af23980ddc97ba6c1e0a39576c2.sample"]
 
 [params]
 

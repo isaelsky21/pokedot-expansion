@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://4qrel1gep3yi"
-path="res://.godot/imported/PRSFX- Healing Pulse.wav-cc60b28811dce0e95ec02fb3994ca955.sample"
+path="res://.godot/imported/PRSFX- Healing Pulse.wav-a8c0c813bdf30f7a9ee5e963c451729a.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Healing Pulse.wav"
-dest_files=["res://.godot/imported/PRSFX- Healing Pulse.wav-cc60b28811dce0e95ec02fb3994ca955.sample"]
+source_file="res://audio/se/anim/PRSFX- Healing Pulse.wav"
+dest_files=["res://.godot/imported/PRSFX- Healing Pulse.wav-a8c0c813bdf30f7a9ee5e963c451729a.sample"]
 
 [params]
 

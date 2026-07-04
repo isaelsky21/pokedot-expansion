@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8240jpajk66m"
-path="res://.godot/imported/PINECO.ogg-8480afa3637e909ac961b025bfb353b5.oggvorbisstr"
+path="res://.godot/imported/PINECO.ogg-acd60673e2718b7a9ff60d7f6639c935.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PINECO.ogg"
-dest_files=["res://.godot/imported/PINECO.ogg-8480afa3637e909ac961b025bfb353b5.oggvorbisstr"]
+source_file="res://audio/se/cries/PINECO.ogg"
+dest_files=["res://.godot/imported/PINECO.ogg-acd60673e2718b7a9ff60d7f6639c935.oggvorbisstr"]
 
 [params]
 

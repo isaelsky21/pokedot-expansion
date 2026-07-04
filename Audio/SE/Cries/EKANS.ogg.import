@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6tj5nx45jcha"
-path="res://.godot/imported/EKANS.ogg-85ac9dd1ecbe8601b9d39a17e4c8dbaf.oggvorbisstr"
+path="res://.godot/imported/EKANS.ogg-a8624648b00d30c932033793e378b2fc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/EKANS.ogg"
-dest_files=["res://.godot/imported/EKANS.ogg-85ac9dd1ecbe8601b9d39a17e4c8dbaf.oggvorbisstr"]
+source_file="res://audio/se/cries/EKANS.ogg"
+dest_files=["res://.godot/imported/EKANS.ogg-a8624648b00d30c932033793e378b2fc.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dci41rby3m78x"
-path="res://.godot/imported/HAWLUCHA.ogg-ab1eecd811e5428da64c7146af7312b4.oggvorbisstr"
+path="res://.godot/imported/HAWLUCHA.ogg-637bca874d2b0a8c891c68cd5e9d834c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HAWLUCHA.ogg"
-dest_files=["res://.godot/imported/HAWLUCHA.ogg-ab1eecd811e5428da64c7146af7312b4.oggvorbisstr"]
+source_file="res://audio/se/cries/HAWLUCHA.ogg"
+dest_files=["res://.godot/imported/HAWLUCHA.ogg-637bca874d2b0a8c891c68cd5e9d834c.oggvorbisstr"]
 
 [params]
 

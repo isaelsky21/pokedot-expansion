@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cpl510p8beqjo"
-path="res://.godot/imported/Voltorb Flip point.ogg-690eb10b74f53552db830fe8a91e63a1.oggvorbisstr"
+path="res://.godot/imported/Voltorb Flip point.ogg-c102edd902ab96742e09b4925a1023d3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Voltorb Flip point.ogg"
-dest_files=["res://.godot/imported/Voltorb Flip point.ogg-690eb10b74f53552db830fe8a91e63a1.oggvorbisstr"]
+source_file="res://audio/se/Voltorb Flip point.ogg"
+dest_files=["res://.godot/imported/Voltorb Flip point.ogg-c102edd902ab96742e09b4925a1023d3.oggvorbisstr"]
 
 [params]
 

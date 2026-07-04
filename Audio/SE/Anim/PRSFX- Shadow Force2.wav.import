@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bcpf084kwwcr6"
-path="res://.godot/imported/PRSFX- Shadow Force2.wav-1b86afae108bec3494f0edc6ff153ccf.sample"
+path="res://.godot/imported/PRSFX- Shadow Force2.wav-0afb439ca6c5e6187043d1734a6954e2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shadow Force2.wav"
-dest_files=["res://.godot/imported/PRSFX- Shadow Force2.wav-1b86afae108bec3494f0edc6ff153ccf.sample"]
+source_file="res://audio/se/anim/PRSFX- Shadow Force2.wav"
+dest_files=["res://.godot/imported/PRSFX- Shadow Force2.wav-0afb439ca6c5e6187043d1734a6954e2.sample"]
 
 [params]
 

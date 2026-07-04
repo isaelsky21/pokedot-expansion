@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://wmy6ywifghyj"
-path="res://.godot/imported/PRSFX- Roar of Time.wav-3f36429e3d01d61d9d4968e40b890192.sample"
+path="res://.godot/imported/PRSFX- Roar of Time.wav-526ac82f2ed63668592075c0c933015e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Roar of Time.wav"
-dest_files=["res://.godot/imported/PRSFX- Roar of Time.wav-3f36429e3d01d61d9d4968e40b890192.sample"]
+source_file="res://audio/se/anim/PRSFX- Roar of Time.wav"
+dest_files=["res://.godot/imported/PRSFX- Roar of Time.wav-526ac82f2ed63668592075c0c933015e.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bmwubapaf0j5q"
-path="res://.godot/imported/MEGANIUM.ogg-e55c298f94643d0c4230afdbd74567f2.oggvorbisstr"
+path="res://.godot/imported/MEGANIUM.ogg-481323df18c95129de4d480754318518.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MEGANIUM.ogg"
-dest_files=["res://.godot/imported/MEGANIUM.ogg-e55c298f94643d0c4230afdbd74567f2.oggvorbisstr"]
+source_file="res://audio/se/cries/MEGANIUM.ogg"
+dest_files=["res://.godot/imported/MEGANIUM.ogg-481323df18c95129de4d480754318518.oggvorbisstr"]
 
 [params]
 

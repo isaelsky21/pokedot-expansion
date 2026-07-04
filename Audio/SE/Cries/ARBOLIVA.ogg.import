@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://blbq2sq640iu2"
-path="res://.godot/imported/ARBOLIVA.ogg-dcca9dcca2fbd8376b791f4ad173bfc0.oggvorbisstr"
+path="res://.godot/imported/ARBOLIVA.ogg-ff1981eed996bbdc37ee5f3d840f127d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARBOLIVA.ogg"
-dest_files=["res://.godot/imported/ARBOLIVA.ogg-dcca9dcca2fbd8376b791f4ad173bfc0.oggvorbisstr"]
+source_file="res://audio/se/cries/ARBOLIVA.ogg"
+dest_files=["res://.godot/imported/ARBOLIVA.ogg-ff1981eed996bbdc37ee5f3d840f127d.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dcx1bqlrfwauu"
-path="res://.godot/imported/DRAGALGE.ogg-214f87e4abf3652556b6844f721be68d.oggvorbisstr"
+path="res://.godot/imported/DRAGALGE.ogg-15aff8d4ef4195ef80497d399c1ed47e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DRAGALGE.ogg"
-dest_files=["res://.godot/imported/DRAGALGE.ogg-214f87e4abf3652556b6844f721be68d.oggvorbisstr"]
+source_file="res://audio/se/cries/DRAGALGE.ogg"
+dest_files=["res://.godot/imported/DRAGALGE.ogg-15aff8d4ef4195ef80497d399c1ed47e.oggvorbisstr"]
 
 [params]
 

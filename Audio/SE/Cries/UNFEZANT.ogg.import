@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://1o84ka0f5rk"
-path="res://.godot/imported/UNFEZANT.ogg-db694afac88c5f7fbe588bfe76f0c93a.oggvorbisstr"
+path="res://.godot/imported/UNFEZANT.ogg-646ce47f7052567f5954ad493e098e02.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/UNFEZANT.ogg"
-dest_files=["res://.godot/imported/UNFEZANT.ogg-db694afac88c5f7fbe588bfe76f0c93a.oggvorbisstr"]
+source_file="res://audio/se/cries/UNFEZANT.ogg"
+dest_files=["res://.godot/imported/UNFEZANT.ogg-646ce47f7052567f5954ad493e098e02.oggvorbisstr"]
 
 [params]
 

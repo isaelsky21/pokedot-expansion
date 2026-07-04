@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cgwklbk3oci8t"
-path="res://.godot/imported/GRENINJA.ogg-8c764befa02d11f84e9a061de5303197.oggvorbisstr"
+path="res://.godot/imported/GRENINJA.ogg-de4fb5c850c604b4b7ed02d6ee6bd9c3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GRENINJA.ogg"
-dest_files=["res://.godot/imported/GRENINJA.ogg-8c764befa02d11f84e9a061de5303197.oggvorbisstr"]
+source_file="res://audio/se/cries/GRENINJA.ogg"
+dest_files=["res://.godot/imported/GRENINJA.ogg-de4fb5c850c604b4b7ed02d6ee6bd9c3.oggvorbisstr"]
 
 [params]
 

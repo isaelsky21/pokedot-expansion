@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://gywclv87kao2"
-path="res://.godot/imported/PRSFX- Bullet Seed.wav-5310b9c790c444916120b8f1ffdf92a7.sample"
+path="res://.godot/imported/PRSFX- Bullet Seed.wav-628818b7ef511586c4d9c4d3a5fe01f0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bullet Seed.wav"
-dest_files=["res://.godot/imported/PRSFX- Bullet Seed.wav-5310b9c790c444916120b8f1ffdf92a7.sample"]
+source_file="res://audio/se/anim/PRSFX- Bullet Seed.wav"
+dest_files=["res://.godot/imported/PRSFX- Bullet Seed.wav-628818b7ef511586c4d9c4d3a5fe01f0.sample"]
 
 [params]
 

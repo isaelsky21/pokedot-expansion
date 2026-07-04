@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://br3df5svoj701"
-path="res://.godot/imported/CHINCHOU.ogg-532de4abf9153d781d682ad8690d3fbd.oggvorbisstr"
+path="res://.godot/imported/CHINCHOU.ogg-91b94caa853ce852cbf1ff6b27e5ba0d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CHINCHOU.ogg"
-dest_files=["res://.godot/imported/CHINCHOU.ogg-532de4abf9153d781d682ad8690d3fbd.oggvorbisstr"]
+source_file="res://audio/se/cries/CHINCHOU.ogg"
+dest_files=["res://.godot/imported/CHINCHOU.ogg-91b94caa853ce852cbf1ff6b27e5ba0d.oggvorbisstr"]
 
 [params]
 

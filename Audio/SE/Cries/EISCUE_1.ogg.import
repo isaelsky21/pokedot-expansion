@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c758ebscrlxo2"
-path="res://.godot/imported/EISCUE_1.ogg-21501e42cb96f5b65ad84006ce5ae0a6.oggvorbisstr"
+path="res://.godot/imported/EISCUE_1.ogg-6a9f4ac42d953fb53661342f26810026.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/EISCUE_1.ogg"
-dest_files=["res://.godot/imported/EISCUE_1.ogg-21501e42cb96f5b65ad84006ce5ae0a6.oggvorbisstr"]
+source_file="res://audio/se/cries/EISCUE_1.ogg"
+dest_files=["res://.godot/imported/EISCUE_1.ogg-6a9f4ac42d953fb53661342f26810026.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c4f7mq7vqehk5"
-path="res://.godot/imported/BULBASAUR.ogg-e3d484aa4c624e2bc07f84f37ccc2268.oggvorbisstr"
+path="res://.godot/imported/BULBASAUR.ogg-902b2125cbaf6265fb785992920d5e35.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BULBASAUR.ogg"
-dest_files=["res://.godot/imported/BULBASAUR.ogg-e3d484aa4c624e2bc07f84f37ccc2268.oggvorbisstr"]
+source_file="res://audio/se/cries/BULBASAUR.ogg"
+dest_files=["res://.godot/imported/BULBASAUR.ogg-902b2125cbaf6265fb785992920d5e35.oggvorbisstr"]
 
 [params]
 

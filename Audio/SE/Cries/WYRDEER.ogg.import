@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5pyftj5hxoee"
-path="res://.godot/imported/WYRDEER.ogg-0e079b072c9e88f2f5cf52f32ded341d.oggvorbisstr"
+path="res://.godot/imported/WYRDEER.ogg-a19f503620cd5ae203a10a7caaf8f84f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WYRDEER.ogg"
-dest_files=["res://.godot/imported/WYRDEER.ogg-0e079b072c9e88f2f5cf52f32ded341d.oggvorbisstr"]
+source_file="res://audio/se/cries/WYRDEER.ogg"
+dest_files=["res://.godot/imported/WYRDEER.ogg-a19f503620cd5ae203a10a7caaf8f84f.oggvorbisstr"]
 
 [params]
 

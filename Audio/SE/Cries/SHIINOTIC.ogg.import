@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://nybhdg000kbq"
-path="res://.godot/imported/SHIINOTIC.ogg-7272763ea1d0c846591c4415d6b584ba.oggvorbisstr"
+path="res://.godot/imported/SHIINOTIC.ogg-e556ad6706b36e5e0fb1fb1c09f4693f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHIINOTIC.ogg"
-dest_files=["res://.godot/imported/SHIINOTIC.ogg-7272763ea1d0c846591c4415d6b584ba.oggvorbisstr"]
+source_file="res://audio/se/cries/SHIINOTIC.ogg"
+dest_files=["res://.godot/imported/SHIINOTIC.ogg-e556ad6706b36e5e0fb1fb1c09f4693f.oggvorbisstr"]
 
 [params]
 

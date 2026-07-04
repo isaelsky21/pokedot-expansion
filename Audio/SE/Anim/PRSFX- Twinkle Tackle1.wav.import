@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://pr3rwqh4d1wr"
-path="res://.godot/imported/PRSFX- Twinkle Tackle1.wav-b9393c1486e173da31be86b52cc4dfb8.sample"
+path="res://.godot/imported/PRSFX- Twinkle Tackle1.wav-dd6658cce70f74f2424cedc0c95b681c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Twinkle Tackle1.wav"
-dest_files=["res://.godot/imported/PRSFX- Twinkle Tackle1.wav-b9393c1486e173da31be86b52cc4dfb8.sample"]
+source_file="res://audio/se/anim/PRSFX- Twinkle Tackle1.wav"
+dest_files=["res://.godot/imported/PRSFX- Twinkle Tackle1.wav-dd6658cce70f74f2424cedc0c95b681c.sample"]
 
 [params]
 

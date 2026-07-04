@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7kua13c3wau"
-path="res://.godot/imported/LILLIPUP.ogg-aa7e967df9236e7fa5df2ec34c0c7658.oggvorbisstr"
+path="res://.godot/imported/LILLIPUP.ogg-2cfb5f924a497137af36f39368dd373d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LILLIPUP.ogg"
-dest_files=["res://.godot/imported/LILLIPUP.ogg-aa7e967df9236e7fa5df2ec34c0c7658.oggvorbisstr"]
+source_file="res://audio/se/cries/LILLIPUP.ogg"
+dest_files=["res://.godot/imported/LILLIPUP.ogg-2cfb5f924a497137af36f39368dd373d.oggvorbisstr"]
 
 [params]
 

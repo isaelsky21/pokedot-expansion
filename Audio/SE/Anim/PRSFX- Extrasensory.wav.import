@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://chxl607ba64vk"
-path="res://.godot/imported/PRSFX- Extrasensory.wav-84a5973aada69ad67704e1e4304bc21c.sample"
+path="res://.godot/imported/PRSFX- Extrasensory.wav-35c6019f625bd5e8993654e7f0375978.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Extrasensory.wav"
-dest_files=["res://.godot/imported/PRSFX- Extrasensory.wav-84a5973aada69ad67704e1e4304bc21c.sample"]
+source_file="res://audio/se/anim/PRSFX- Extrasensory.wav"
+dest_files=["res://.godot/imported/PRSFX- Extrasensory.wav-35c6019f625bd5e8993654e7f0375978.sample"]
 
 [params]
 

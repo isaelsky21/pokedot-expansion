@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cflilfyc5jh1o"
-path="res://.godot/imported/PRSFX- Rapid Spin.wav-71361686a4913d99ab776b78a5f8900b.sample"
+path="res://.godot/imported/PRSFX- Rapid Spin.wav-bc3211a645a9808051d0bc93dfca6176.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Rapid Spin.wav"
-dest_files=["res://.godot/imported/PRSFX- Rapid Spin.wav-71361686a4913d99ab776b78a5f8900b.sample"]
+source_file="res://audio/se/anim/PRSFX- Rapid Spin.wav"
+dest_files=["res://.godot/imported/PRSFX- Rapid Spin.wav-bc3211a645a9808051d0bc93dfca6176.sample"]
 
 [params]
 

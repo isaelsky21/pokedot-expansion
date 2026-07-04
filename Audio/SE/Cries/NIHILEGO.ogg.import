@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://doylt4iu63sdf"
-path="res://.godot/imported/NIHILEGO.ogg-2b1b4ed68471722b229234b4903af46d.oggvorbisstr"
+path="res://.godot/imported/NIHILEGO.ogg-65886a60351e66ac88186c3ed504229a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NIHILEGO.ogg"
-dest_files=["res://.godot/imported/NIHILEGO.ogg-2b1b4ed68471722b229234b4903af46d.oggvorbisstr"]
+source_file="res://audio/se/cries/NIHILEGO.ogg"
+dest_files=["res://.godot/imported/NIHILEGO.ogg-65886a60351e66ac88186c3ed504229a.oggvorbisstr"]
 
 [params]
 

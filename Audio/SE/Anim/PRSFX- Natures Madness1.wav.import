@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b708r2h2ljjaf"
-path="res://.godot/imported/PRSFX- Natures Madness1.wav-9e36156698b088a25ad6124d069e1bca.sample"
+path="res://.godot/imported/PRSFX- Natures Madness1.wav-eaa97fa7e6ccd6bbb01a6cf4bfdfa7e9.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Natures Madness1.wav"
-dest_files=["res://.godot/imported/PRSFX- Natures Madness1.wav-9e36156698b088a25ad6124d069e1bca.sample"]
+source_file="res://audio/se/anim/PRSFX- Natures Madness1.wav"
+dest_files=["res://.godot/imported/PRSFX- Natures Madness1.wav-eaa97fa7e6ccd6bbb01a6cf4bfdfa7e9.sample"]
 
 [params]
 

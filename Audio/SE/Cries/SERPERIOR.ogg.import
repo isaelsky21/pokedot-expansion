@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b71j7kii736ec"
-path="res://.godot/imported/SERPERIOR.ogg-fd1875c53dd0e1370c3e04d77e9b5597.oggvorbisstr"
+path="res://.godot/imported/SERPERIOR.ogg-1a580766efb3a0f11e6f087cc68cc191.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SERPERIOR.ogg"
-dest_files=["res://.godot/imported/SERPERIOR.ogg-fd1875c53dd0e1370c3e04d77e9b5597.oggvorbisstr"]
+source_file="res://audio/se/cries/SERPERIOR.ogg"
+dest_files=["res://.godot/imported/SERPERIOR.ogg-1a580766efb3a0f11e6f087cc68cc191.oggvorbisstr"]
 
 [params]
 

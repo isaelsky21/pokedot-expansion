@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dfoy4vdqunxvx"
-path="res://.godot/imported/PRSFX- Bone Club1.wav-b69747a4a2c22936b49b63233a6d7815.sample"
+path="res://.godot/imported/PRSFX- Bone Club1.wav-30f62f3c6dc4528f69aa2d108a618be3.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bone Club1.wav"
-dest_files=["res://.godot/imported/PRSFX- Bone Club1.wav-b69747a4a2c22936b49b63233a6d7815.sample"]
+source_file="res://audio/se/anim/PRSFX- Bone Club1.wav"
+dest_files=["res://.godot/imported/PRSFX- Bone Club1.wav-30f62f3c6dc4528f69aa2d108a618be3.sample"]
 
 [params]
 

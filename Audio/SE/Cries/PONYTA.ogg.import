@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b6g1vs33v73jp"
-path="res://.godot/imported/PONYTA.ogg-4664fb9a0e9707d02d425e4cef13d5fd.oggvorbisstr"
+path="res://.godot/imported/PONYTA.ogg-32f5bb2d134f0a2e64c4041078e2345f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PONYTA.ogg"
-dest_files=["res://.godot/imported/PONYTA.ogg-4664fb9a0e9707d02d425e4cef13d5fd.oggvorbisstr"]
+source_file="res://audio/se/cries/PONYTA.ogg"
+dest_files=["res://.godot/imported/PONYTA.ogg-32f5bb2d134f0a2e64c4041078e2345f.oggvorbisstr"]
 
 [params]
 

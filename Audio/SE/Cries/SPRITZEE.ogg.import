@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dexlf024dt8k4"
-path="res://.godot/imported/SPRITZEE.ogg-a60ab9a40f8f212b2d4f926d70db2570.oggvorbisstr"
+path="res://.godot/imported/SPRITZEE.ogg-34e50a829f8c3a93dbc160d4b2e7078a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SPRITZEE.ogg"
-dest_files=["res://.godot/imported/SPRITZEE.ogg-a60ab9a40f8f212b2d4f926d70db2570.oggvorbisstr"]
+source_file="res://audio/se/cries/SPRITZEE.ogg"
+dest_files=["res://.godot/imported/SPRITZEE.ogg-34e50a829f8c3a93dbc160d4b2e7078a.oggvorbisstr"]
 
 [params]
 

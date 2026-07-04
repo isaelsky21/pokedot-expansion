@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bgln35es2246w"
-path="res://.godot/imported/NACLSTACK.ogg-95c32d618830265665db604b2e8819d5.oggvorbisstr"
+path="res://.godot/imported/NACLSTACK.ogg-66952eeaff4f622808e053018b4c4d1c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NACLSTACK.ogg"
-dest_files=["res://.godot/imported/NACLSTACK.ogg-95c32d618830265665db604b2e8819d5.oggvorbisstr"]
+source_file="res://audio/se/cries/NACLSTACK.ogg"
+dest_files=["res://.godot/imported/NACLSTACK.ogg-66952eeaff4f622808e053018b4c4d1c.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://cwum33xnf661f"
-path="res://.godot/imported/Flail.mp3-b37a3365faf0a198963ca30f5c0e5047.mp3str"
+path="res://.godot/imported/Flail.mp3-bab5ff00fedfc160bc7913bb63daa75c.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Flail.mp3"
-dest_files=["res://.godot/imported/Flail.mp3-b37a3365faf0a198963ca30f5c0e5047.mp3str"]
+source_file="res://audio/se/anim/Flail.mp3"
+dest_files=["res://.godot/imported/Flail.mp3-bab5ff00fedfc160bc7913bb63daa75c.mp3str"]
 
 [params]
 

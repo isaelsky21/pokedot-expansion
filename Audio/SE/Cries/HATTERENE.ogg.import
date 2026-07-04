@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dd40uatxituoq"
-path="res://.godot/imported/HATTERENE.ogg-efe40bf635e57de45daba789eb0c8477.oggvorbisstr"
+path="res://.godot/imported/HATTERENE.ogg-ef962b84c72e5e56200efc0b65730013.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HATTERENE.ogg"
-dest_files=["res://.godot/imported/HATTERENE.ogg-efe40bf635e57de45daba789eb0c8477.oggvorbisstr"]
+source_file="res://audio/se/cries/HATTERENE.ogg"
+dest_files=["res://.godot/imported/HATTERENE.ogg-ef962b84c72e5e56200efc0b65730013.oggvorbisstr"]
 
 [params]
 

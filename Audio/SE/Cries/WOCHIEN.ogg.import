@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cjxf6c6rhf4sb"
-path="res://.godot/imported/WOCHIEN.ogg-8e2d2402c5101312a09cc7cfa025320e.oggvorbisstr"
+path="res://.godot/imported/WOCHIEN.ogg-946187bdeb417c9a715ae8f332e21644.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WOCHIEN.ogg"
-dest_files=["res://.godot/imported/WOCHIEN.ogg-8e2d2402c5101312a09cc7cfa025320e.oggvorbisstr"]
+source_file="res://audio/se/cries/WOCHIEN.ogg"
+dest_files=["res://.godot/imported/WOCHIEN.ogg-946187bdeb417c9a715ae8f332e21644.oggvorbisstr"]
 
 [params]
 

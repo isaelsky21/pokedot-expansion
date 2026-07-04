@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dwmmvv5n5mmtj"
-path="res://.godot/imported/CAPSAKID.ogg-f0f15f6509fa0e682c0c595dbeaa44c3.oggvorbisstr"
+path="res://.godot/imported/CAPSAKID.ogg-a69fef3c473b9bd1fe74ce18867f6d95.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CAPSAKID.ogg"
-dest_files=["res://.godot/imported/CAPSAKID.ogg-f0f15f6509fa0e682c0c595dbeaa44c3.oggvorbisstr"]
+source_file="res://audio/se/cries/CAPSAKID.ogg"
+dest_files=["res://.godot/imported/CAPSAKID.ogg-a69fef3c473b9bd1fe74ce18867f6d95.oggvorbisstr"]
 
 [params]
 

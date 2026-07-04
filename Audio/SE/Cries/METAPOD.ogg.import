@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://r0oeapkmy6aq"
-path="res://.godot/imported/METAPOD.ogg-1d01ee13185459ecb7af1d00dd543681.oggvorbisstr"
+path="res://.godot/imported/METAPOD.ogg-437821788b35ef6505ccc1421356eee9.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/METAPOD.ogg"
-dest_files=["res://.godot/imported/METAPOD.ogg-1d01ee13185459ecb7af1d00dd543681.oggvorbisstr"]
+source_file="res://audio/se/cries/METAPOD.ogg"
+dest_files=["res://.godot/imported/METAPOD.ogg-437821788b35ef6505ccc1421356eee9.oggvorbisstr"]
 
 [params]
 

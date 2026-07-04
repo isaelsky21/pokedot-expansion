@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ccg87xijvb165"
-path="res://.godot/imported/PRSFX- Egg Bomb1.wav-8815fc3d577a941133a6007fd9f1fa07.sample"
+path="res://.godot/imported/PRSFX- Egg Bomb1.wav-9ee7d1decc9a7216feefc44e499ba1ce.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Egg Bomb1.wav"
-dest_files=["res://.godot/imported/PRSFX- Egg Bomb1.wav-8815fc3d577a941133a6007fd9f1fa07.sample"]
+source_file="res://audio/se/anim/PRSFX- Egg Bomb1.wav"
+dest_files=["res://.godot/imported/PRSFX- Egg Bomb1.wav-9ee7d1decc9a7216feefc44e499ba1ce.sample"]
 
 [params]
 

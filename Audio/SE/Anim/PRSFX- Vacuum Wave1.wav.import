@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://becw43uyjf875"
-path="res://.godot/imported/PRSFX- Vacuum Wave1.wav-2d6a7720febc92bf70554c4741f428e6.sample"
+path="res://.godot/imported/PRSFX- Vacuum Wave1.wav-9826ce7d5d6e1556cf17b5a266bd548b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Vacuum Wave1.wav"
-dest_files=["res://.godot/imported/PRSFX- Vacuum Wave1.wav-2d6a7720febc92bf70554c4741f428e6.sample"]
+source_file="res://audio/se/anim/PRSFX- Vacuum Wave1.wav"
+dest_files=["res://.godot/imported/PRSFX- Vacuum Wave1.wav-9826ce7d5d6e1556cf17b5a266bd548b.sample"]
 
 [params]
 

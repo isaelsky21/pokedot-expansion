@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://f88kx3ek7bcs"
-path="res://.godot/imported/PRSFX- Aurora Beam.wav-cfd35fc4dbf06ba12d2afb2a969b11d4.sample"
+path="res://.godot/imported/PRSFX- Aurora Beam.wav-1b550f367d9adee793a3871546ee8704.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aurora Beam.wav"
-dest_files=["res://.godot/imported/PRSFX- Aurora Beam.wav-cfd35fc4dbf06ba12d2afb2a969b11d4.sample"]
+source_file="res://audio/se/anim/PRSFX- Aurora Beam.wav"
+dest_files=["res://.godot/imported/PRSFX- Aurora Beam.wav-1b550f367d9adee793a3871546ee8704.sample"]
 
 [params]
 

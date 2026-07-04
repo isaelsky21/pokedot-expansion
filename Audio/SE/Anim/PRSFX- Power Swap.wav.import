@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://8o8nrrbjn5p5"
-path="res://.godot/imported/PRSFX- Power Swap.wav-03506b723538ca611d609109c1d10a81.sample"
+path="res://.godot/imported/PRSFX- Power Swap.wav-33549014c1b7c446af2f07cc11e3971d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Power Swap.wav"
-dest_files=["res://.godot/imported/PRSFX- Power Swap.wav-03506b723538ca611d609109c1d10a81.sample"]
+source_file="res://audio/se/anim/PRSFX- Power Swap.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Swap.wav-33549014c1b7c446af2f07cc11e3971d.sample"]
 
 [params]
 

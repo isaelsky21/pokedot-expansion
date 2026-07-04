@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://drvohxoa0gd5w"
-path="res://.godot/imported/PRSFX- Hi Jump Kick2.wav-cd039eeef21c81700f1e16bf05719ccc.sample"
+path="res://.godot/imported/PRSFX- Hi Jump Kick2.wav-fdd3fa4ba4a6279dca0ae1f96096f6db.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hi Jump Kick2.wav"
-dest_files=["res://.godot/imported/PRSFX- Hi Jump Kick2.wav-cd039eeef21c81700f1e16bf05719ccc.sample"]
+source_file="res://audio/se/anim/PRSFX- Hi Jump Kick2.wav"
+dest_files=["res://.godot/imported/PRSFX- Hi Jump Kick2.wav-fdd3fa4ba4a6279dca0ae1f96096f6db.sample"]
 
 [params]
 

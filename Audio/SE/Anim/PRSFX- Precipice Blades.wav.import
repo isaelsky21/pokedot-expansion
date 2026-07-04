@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cn0ojwnn0lbc0"
-path="res://.godot/imported/PRSFX- Precipice Blades.wav-5bcea53630fba1ba5abf4851590d312c.sample"
+path="res://.godot/imported/PRSFX- Precipice Blades.wav-938de9acc91d98f5b171a778ee67a364.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Precipice Blades.wav"
-dest_files=["res://.godot/imported/PRSFX- Precipice Blades.wav-5bcea53630fba1ba5abf4851590d312c.sample"]
+source_file="res://audio/se/anim/PRSFX- Precipice Blades.wav"
+dest_files=["res://.godot/imported/PRSFX- Precipice Blades.wav-938de9acc91d98f5b171a778ee67a364.sample"]
 
 [params]
 

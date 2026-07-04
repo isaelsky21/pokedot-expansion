@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bb7one83fyp50"
-path="res://.godot/imported/FLABEBE.ogg-8c15e4ad17342ad33ea1d188cb45ad02.oggvorbisstr"
+path="res://.godot/imported/FLABEBE.ogg-20dce14c0f75a6fee6fa0ca436a37af7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLABEBE.ogg"
-dest_files=["res://.godot/imported/FLABEBE.ogg-8c15e4ad17342ad33ea1d188cb45ad02.oggvorbisstr"]
+source_file="res://audio/se/cries/FLABEBE.ogg"
+dest_files=["res://.godot/imported/FLABEBE.ogg-20dce14c0f75a6fee6fa0ca436a37af7.oggvorbisstr"]
 
 [params]
 

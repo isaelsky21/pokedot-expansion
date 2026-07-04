@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://conncv6x0stra"
-path="res://.godot/imported/WOOLOO.ogg-90959c1f7308f3288899851923c30a99.oggvorbisstr"
+path="res://.godot/imported/WOOLOO.ogg-136855681407d0a8b2662389811ddb2d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WOOLOO.ogg"
-dest_files=["res://.godot/imported/WOOLOO.ogg-90959c1f7308f3288899851923c30a99.oggvorbisstr"]
+source_file="res://audio/se/cries/WOOLOO.ogg"
+dest_files=["res://.godot/imported/WOOLOO.ogg-136855681407d0a8b2662389811ddb2d.oggvorbisstr"]
 
 [params]
 

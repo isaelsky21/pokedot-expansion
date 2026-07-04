@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dmkm36fco7quf"
-path="res://.godot/imported/PRSFX- Guard Split.wav-f805b10f2816037c2c6039d2cb3a7f05.sample"
+path="res://.godot/imported/PRSFX- Guard Split.wav-4e823117ad221c4802684b4430bfd90c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Guard Split.wav"
-dest_files=["res://.godot/imported/PRSFX- Guard Split.wav-f805b10f2816037c2c6039d2cb3a7f05.sample"]
+source_file="res://audio/se/anim/PRSFX- Guard Split.wav"
+dest_files=["res://.godot/imported/PRSFX- Guard Split.wav-4e823117ad221c4802684b4430bfd90c.sample"]
 
 [params]
 

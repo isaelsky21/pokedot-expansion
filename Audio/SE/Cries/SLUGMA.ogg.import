@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqnrna2kb4hno"
-path="res://.godot/imported/SLUGMA.ogg-645918e14a4eafe22b35d93440390ce9.oggvorbisstr"
+path="res://.godot/imported/SLUGMA.ogg-dc6227f4b7c30ebcee1949ad11b8e17f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SLUGMA.ogg"
-dest_files=["res://.godot/imported/SLUGMA.ogg-645918e14a4eafe22b35d93440390ce9.oggvorbisstr"]
+source_file="res://audio/se/cries/SLUGMA.ogg"
+dest_files=["res://.godot/imported/SLUGMA.ogg-dc6227f4b7c30ebcee1949ad11b8e17f.oggvorbisstr"]
 
 [params]
 

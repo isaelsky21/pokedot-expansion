@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://j2ueh4ghp1ey"
-path="res://.godot/imported/PRSFX- Mud Slap.wav-c735baf56d751efe4bdca9eb00a215ab.sample"
+path="res://.godot/imported/PRSFX- Mud Slap.wav-fd10155580919362a235bffc3e64b76b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Mud Slap.wav"
-dest_files=["res://.godot/imported/PRSFX- Mud Slap.wav-c735baf56d751efe4bdca9eb00a215ab.sample"]
+source_file="res://audio/se/anim/PRSFX- Mud Slap.wav"
+dest_files=["res://.godot/imported/PRSFX- Mud Slap.wav-fd10155580919362a235bffc3e64b76b.sample"]
 
 [params]
 

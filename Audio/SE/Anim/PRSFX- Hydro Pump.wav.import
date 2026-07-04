@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://djyuv8br527py"
-path="res://.godot/imported/PRSFX- Hydro Pump.wav-ca617378ad3e66a03953f0ca3bdb9c00.sample"
+path="res://.godot/imported/PRSFX- Hydro Pump.wav-ab61570e1aa633903279b295683fad3d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hydro Pump.wav"
-dest_files=["res://.godot/imported/PRSFX- Hydro Pump.wav-ca617378ad3e66a03953f0ca3bdb9c00.sample"]
+source_file="res://audio/se/anim/PRSFX- Hydro Pump.wav"
+dest_files=["res://.godot/imported/PRSFX- Hydro Pump.wav-ab61570e1aa633903279b295683fad3d.sample"]
 
 [params]
 

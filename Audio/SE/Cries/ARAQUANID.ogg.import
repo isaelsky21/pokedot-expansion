@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cohbiitmpxlmb"
-path="res://.godot/imported/ARAQUANID.ogg-d0f403ebcff28b172b415e66973da2bb.oggvorbisstr"
+path="res://.godot/imported/ARAQUANID.ogg-35cad30999a151726e490de63f9f7d1d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ARAQUANID.ogg"
-dest_files=["res://.godot/imported/ARAQUANID.ogg-d0f403ebcff28b172b415e66973da2bb.oggvorbisstr"]
+source_file="res://audio/se/cries/ARAQUANID.ogg"
+dest_files=["res://.godot/imported/ARAQUANID.ogg-35cad30999a151726e490de63f9f7d1d.oggvorbisstr"]
 
 [params]
 

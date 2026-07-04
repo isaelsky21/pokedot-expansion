@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dp0sndudtm73q"
-path="res://.godot/imported/GIMMIGHOUL_1.ogg-b3fb00e08036c53fc244ef3066d5f7e2.oggvorbisstr"
+path="res://.godot/imported/GIMMIGHOUL_1.ogg-cdd3dce7be77b84680e365bcbc733fe2.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GIMMIGHOUL_1.ogg"
-dest_files=["res://.godot/imported/GIMMIGHOUL_1.ogg-b3fb00e08036c53fc244ef3066d5f7e2.oggvorbisstr"]
+source_file="res://audio/se/cries/GIMMIGHOUL_1.ogg"
+dest_files=["res://.godot/imported/GIMMIGHOUL_1.ogg-cdd3dce7be77b84680e365bcbc733fe2.oggvorbisstr"]
 
 [params]
 

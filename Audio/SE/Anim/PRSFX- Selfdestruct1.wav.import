@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://pdeyukgv4l1q"
-path="res://.godot/imported/PRSFX- Selfdestruct1.wav-b80864ae071a8fea5cc82d78a27d10d3.sample"
+path="res://.godot/imported/PRSFX- Selfdestruct1.wav-2d15d6ed0ac427b0152f9be9e4c1541e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Selfdestruct1.wav"
-dest_files=["res://.godot/imported/PRSFX- Selfdestruct1.wav-b80864ae071a8fea5cc82d78a27d10d3.sample"]
+source_file="res://audio/se/anim/PRSFX- Selfdestruct1.wav"
+dest_files=["res://.godot/imported/PRSFX- Selfdestruct1.wav-2d15d6ed0ac427b0152f9be9e4c1541e.sample"]
 
 [params]
 

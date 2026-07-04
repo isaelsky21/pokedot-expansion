@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://clcuyghl378jx"
-path="res://.godot/imported/PRSFX- Overheat1.wav-a73b20b2085284bd9c512a90d4f23c3c.sample"
+path="res://.godot/imported/PRSFX- Overheat1.wav-f70c38468dfc687cbac2988691b15399.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Overheat1.wav"
-dest_files=["res://.godot/imported/PRSFX- Overheat1.wav-a73b20b2085284bd9c512a90d4f23c3c.sample"]
+source_file="res://audio/se/anim/PRSFX- Overheat1.wav"
+dest_files=["res://.godot/imported/PRSFX- Overheat1.wav-f70c38468dfc687cbac2988691b15399.sample"]
 
 [params]
 

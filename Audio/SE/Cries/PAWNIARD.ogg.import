@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1f4ptg5khpd1"
-path="res://.godot/imported/PAWNIARD.ogg-59624848b001b4a86ca1f6ca4c5949cb.oggvorbisstr"
+path="res://.godot/imported/PAWNIARD.ogg-32d9cc970a4eb3e8a7073d196168a5ee.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PAWNIARD.ogg"
-dest_files=["res://.godot/imported/PAWNIARD.ogg-59624848b001b4a86ca1f6ca4c5949cb.oggvorbisstr"]
+source_file="res://audio/se/cries/PAWNIARD.ogg"
+dest_files=["res://.godot/imported/PAWNIARD.ogg-32d9cc970a4eb3e8a7073d196168a5ee.oggvorbisstr"]
 
 [params]
 

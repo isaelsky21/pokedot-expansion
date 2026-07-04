@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cg4g3vf7h4xw8"
-path="res://.godot/imported/PRSFX- Psycho Boost2.wav-d72421f5e6988b6f6e5179a9b6182918.sample"
+path="res://.godot/imported/PRSFX- Psycho Boost2.wav-2c6eb6e99914f659b7b84c711c8b0774.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psycho Boost2.wav"
-dest_files=["res://.godot/imported/PRSFX- Psycho Boost2.wav-d72421f5e6988b6f6e5179a9b6182918.sample"]
+source_file="res://audio/se/anim/PRSFX- Psycho Boost2.wav"
+dest_files=["res://.godot/imported/PRSFX- Psycho Boost2.wav-2c6eb6e99914f659b7b84c711c8b0774.sample"]
 
 [params]
 

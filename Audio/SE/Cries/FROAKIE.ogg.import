@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccynv15cj2s10"
-path="res://.godot/imported/FROAKIE.ogg-ac8aede5fca5c27ea6919e59d98c61ae.oggvorbisstr"
+path="res://.godot/imported/FROAKIE.ogg-e981f710029da7729d6c7ad0905ff20a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FROAKIE.ogg"
-dest_files=["res://.godot/imported/FROAKIE.ogg-ac8aede5fca5c27ea6919e59d98c61ae.oggvorbisstr"]
+source_file="res://audio/se/cries/FROAKIE.ogg"
+dest_files=["res://.godot/imported/FROAKIE.ogg-e981f710029da7729d6c7ad0905ff20a.oggvorbisstr"]
 
 [params]
 

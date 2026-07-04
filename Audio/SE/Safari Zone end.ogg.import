@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cxgd1eokr227p"
-path="res://.godot/imported/Safari Zone end.ogg-5424c97e7767a06a8cf0a432ba043a19.oggvorbisstr"
+path="res://.godot/imported/Safari Zone end.ogg-25ae269db4d956eb253872218576d4d4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Safari Zone end.ogg"
-dest_files=["res://.godot/imported/Safari Zone end.ogg-5424c97e7767a06a8cf0a432ba043a19.oggvorbisstr"]
+source_file="res://audio/se/Safari Zone end.ogg"
+dest_files=["res://.godot/imported/Safari Zone end.ogg-25ae269db4d956eb253872218576d4d4.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d161ox7mqnpqy"
-path="res://.godot/imported/PRSFX- Bonemerang1.wav-6cfee103dd4e2137cf0f840b1c272b31.sample"
+path="res://.godot/imported/PRSFX- Bonemerang1.wav-df5dd2bdf9af6c4a8e95ead69eeb1661.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Bonemerang1.wav"
-dest_files=["res://.godot/imported/PRSFX- Bonemerang1.wav-6cfee103dd4e2137cf0f840b1c272b31.sample"]
+source_file="res://audio/se/anim/PRSFX- Bonemerang1.wav"
+dest_files=["res://.godot/imported/PRSFX- Bonemerang1.wav-df5dd2bdf9af6c4a8e95ead69eeb1661.sample"]
 
 [params]
 

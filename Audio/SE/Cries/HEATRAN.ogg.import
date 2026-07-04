@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bufkcyy34u8aw"
-path="res://.godot/imported/HEATRAN.ogg-9e4f7749afabafe5bd124f02e69b658d.oggvorbisstr"
+path="res://.godot/imported/HEATRAN.ogg-403df705ffad0499cbe9f83b6c5f866a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HEATRAN.ogg"
-dest_files=["res://.godot/imported/HEATRAN.ogg-9e4f7749afabafe5bd124f02e69b658d.oggvorbisstr"]
+source_file="res://audio/se/cries/HEATRAN.ogg"
+dest_files=["res://.godot/imported/HEATRAN.ogg-403df705ffad0499cbe9f83b6c5f866a.oggvorbisstr"]
 
 [params]
 

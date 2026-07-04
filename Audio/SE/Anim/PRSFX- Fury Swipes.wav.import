@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cd4kepieoa5wf"
-path="res://.godot/imported/PRSFX- Fury Swipes.wav-3c48faee101329999d1578b4483f6d20.sample"
+path="res://.godot/imported/PRSFX- Fury Swipes.wav-f9b5e0a67e0cb37b8083960a11bd1045.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fury Swipes.wav"
-dest_files=["res://.godot/imported/PRSFX- Fury Swipes.wav-3c48faee101329999d1578b4483f6d20.sample"]
+source_file="res://audio/se/anim/PRSFX- Fury Swipes.wav"
+dest_files=["res://.godot/imported/PRSFX- Fury Swipes.wav-f9b5e0a67e0cb37b8083960a11bd1045.sample"]
 
 [params]
 

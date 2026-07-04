@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://5yx38x03h3tt"
-path="res://.godot/imported/PRSFX- Ominous Wind.wav-0baeaf80ff168f0840e7309aff85903c.sample"
+path="res://.godot/imported/PRSFX- Ominous Wind.wav-3fd15b9b3e77875a441969331f4da7c4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ominous Wind.wav"
-dest_files=["res://.godot/imported/PRSFX- Ominous Wind.wav-0baeaf80ff168f0840e7309aff85903c.sample"]
+source_file="res://audio/se/anim/PRSFX- Ominous Wind.wav"
+dest_files=["res://.godot/imported/PRSFX- Ominous Wind.wav-3fd15b9b3e77875a441969331f4da7c4.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cderl67boib54"
-path="res://.godot/imported/JOLTIK.ogg-27133e326f17762ae3825515f758c0bc.oggvorbisstr"
+path="res://.godot/imported/JOLTIK.ogg-d8b683cd802fa1d7f068083c3fdc8287.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/JOLTIK.ogg"
-dest_files=["res://.godot/imported/JOLTIK.ogg-27133e326f17762ae3825515f758c0bc.oggvorbisstr"]
+source_file="res://audio/se/cries/JOLTIK.ogg"
+dest_files=["res://.godot/imported/JOLTIK.ogg-d8b683cd802fa1d7f068083c3fdc8287.oggvorbisstr"]
 
 [params]
 

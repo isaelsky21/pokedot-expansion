@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://kwoxabd3o0lx"
-path="res://.godot/imported/DEWPIDER.ogg-a941940c3fbc373ce255b3dcf902d2f8.oggvorbisstr"
+path="res://.godot/imported/DEWPIDER.ogg-28b0b66e8bd6928ea2a5e5a13baef753.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DEWPIDER.ogg"
-dest_files=["res://.godot/imported/DEWPIDER.ogg-a941940c3fbc373ce255b3dcf902d2f8.oggvorbisstr"]
+source_file="res://audio/se/cries/DEWPIDER.ogg"
+dest_files=["res://.godot/imported/DEWPIDER.ogg-28b0b66e8bd6928ea2a5e5a13baef753.oggvorbisstr"]
 
 [params]
 

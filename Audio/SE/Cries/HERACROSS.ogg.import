@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bgc61hda7i02s"
-path="res://.godot/imported/HERACROSS.ogg-e1faa206918775687a1f1973d04bd556.oggvorbisstr"
+path="res://.godot/imported/HERACROSS.ogg-47918ccecb5ea074e8eab88f32a7d85e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HERACROSS.ogg"
-dest_files=["res://.godot/imported/HERACROSS.ogg-e1faa206918775687a1f1973d04bd556.oggvorbisstr"]
+source_file="res://audio/se/cries/HERACROSS.ogg"
+dest_files=["res://.godot/imported/HERACROSS.ogg-47918ccecb5ea074e8eab88f32a7d85e.oggvorbisstr"]
 
 [params]
 

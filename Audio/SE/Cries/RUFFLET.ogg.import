@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bxcms5pqqh386"
-path="res://.godot/imported/RUFFLET.ogg-aa868f520e31599c72a9cab93a645a64.oggvorbisstr"
+path="res://.godot/imported/RUFFLET.ogg-dfb195f9e643abf593cca3d474b4dc68.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RUFFLET.ogg"
-dest_files=["res://.godot/imported/RUFFLET.ogg-aa868f520e31599c72a9cab93a645a64.oggvorbisstr"]
+source_file="res://audio/se/cries/RUFFLET.ogg"
+dest_files=["res://.godot/imported/RUFFLET.ogg-dfb195f9e643abf593cca3d474b4dc68.oggvorbisstr"]
 
 [params]
 

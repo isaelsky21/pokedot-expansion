@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cagyl3c1spoda"
-path="res://.godot/imported/PRSFX- Anchor Shot1.wav-a9f5a33d24c44efbe3d4fa54229fec75.sample"
+path="res://.godot/imported/PRSFX- Anchor Shot1.wav-afcbae21f9d211b52bf7bbd2f2c40496.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Anchor Shot1.wav"
-dest_files=["res://.godot/imported/PRSFX- Anchor Shot1.wav-a9f5a33d24c44efbe3d4fa54229fec75.sample"]
+source_file="res://audio/se/anim/PRSFX- Anchor Shot1.wav"
+dest_files=["res://.godot/imported/PRSFX- Anchor Shot1.wav-afcbae21f9d211b52bf7bbd2f2c40496.sample"]
 
 [params]
 

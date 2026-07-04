@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b26snnl176cwj"
-path="res://.godot/imported/PRSFX- Spark2.wav-40e94d6852891f855fa15407a1e7458b.sample"
+path="res://.godot/imported/PRSFX- Spark2.wav-05ba2ceeb883cd450e09b784c1e9707b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Spark2.wav"
-dest_files=["res://.godot/imported/PRSFX- Spark2.wav-40e94d6852891f855fa15407a1e7458b.sample"]
+source_file="res://audio/se/anim/PRSFX- Spark2.wav"
+dest_files=["res://.godot/imported/PRSFX- Spark2.wav-05ba2ceeb883cd450e09b784c1e9707b.sample"]
 
 [params]
 

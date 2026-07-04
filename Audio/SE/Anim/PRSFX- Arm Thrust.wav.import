@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dg3us2lbdji12"
-path="res://.godot/imported/PRSFX- Arm Thrust.wav-704ef59cb4971c06d4636bf73d433bd2.sample"
+path="res://.godot/imported/PRSFX- Arm Thrust.wav-1c676d001a392f606cfee23597177782.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Arm Thrust.wav"
-dest_files=["res://.godot/imported/PRSFX- Arm Thrust.wav-704ef59cb4971c06d4636bf73d433bd2.sample"]
+source_file="res://audio/se/anim/PRSFX- Arm Thrust.wav"
+dest_files=["res://.godot/imported/PRSFX- Arm Thrust.wav-1c676d001a392f606cfee23597177782.sample"]
 
 [params]
 

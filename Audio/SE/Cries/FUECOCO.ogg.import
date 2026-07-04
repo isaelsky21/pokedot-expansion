@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d4hxc4yyyicux"
-path="res://.godot/imported/FUECOCO.ogg-3682ecf61fdd901e2ce796318522ae29.oggvorbisstr"
+path="res://.godot/imported/FUECOCO.ogg-92c79fccaefa43a12a4b4dd0c9098cbd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FUECOCO.ogg"
-dest_files=["res://.godot/imported/FUECOCO.ogg-3682ecf61fdd901e2ce796318522ae29.oggvorbisstr"]
+source_file="res://audio/se/cries/FUECOCO.ogg"
+dest_files=["res://.godot/imported/FUECOCO.ogg-92c79fccaefa43a12a4b4dd0c9098cbd.oggvorbisstr"]
 
 [params]
 

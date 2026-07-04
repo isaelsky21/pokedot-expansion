@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://chb3dfk7oxa42"
-path="res://.godot/imported/CRAWDAUNT.ogg-fd9cab365b22c1194aa71d5c4a65dcb4.oggvorbisstr"
+path="res://.godot/imported/CRAWDAUNT.ogg-d3ce4ca325d3348a70cad0727215894b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CRAWDAUNT.ogg"
-dest_files=["res://.godot/imported/CRAWDAUNT.ogg-fd9cab365b22c1194aa71d5c4a65dcb4.oggvorbisstr"]
+source_file="res://audio/se/cries/CRAWDAUNT.ogg"
+dest_files=["res://.godot/imported/CRAWDAUNT.ogg-d3ce4ca325d3348a70cad0727215894b.oggvorbisstr"]
 
 [params]
 

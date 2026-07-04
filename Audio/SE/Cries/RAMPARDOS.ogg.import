@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://pswqmubxmh6c"
-path="res://.godot/imported/RAMPARDOS.ogg-3b30e768fc1d9fb6cce6948943451ecb.oggvorbisstr"
+path="res://.godot/imported/RAMPARDOS.ogg-a0ed18d5e2d93adfabbddf0947407f93.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/RAMPARDOS.ogg"
-dest_files=["res://.godot/imported/RAMPARDOS.ogg-3b30e768fc1d9fb6cce6948943451ecb.oggvorbisstr"]
+source_file="res://audio/se/cries/RAMPARDOS.ogg"
+dest_files=["res://.godot/imported/RAMPARDOS.ogg-a0ed18d5e2d93adfabbddf0947407f93.oggvorbisstr"]
 
 [params]
 

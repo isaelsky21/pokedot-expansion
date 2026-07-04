@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dptcu77x6a5hn"
-path="res://.godot/imported/PRIMARINA.ogg-11f459f951215a9a163f09e48eabee86.oggvorbisstr"
+path="res://.godot/imported/PRIMARINA.ogg-9b392bb9ecae5ccc758a440e49f52a16.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PRIMARINA.ogg"
-dest_files=["res://.godot/imported/PRIMARINA.ogg-11f459f951215a9a163f09e48eabee86.oggvorbisstr"]
+source_file="res://audio/se/cries/PRIMARINA.ogg"
+dest_files=["res://.godot/imported/PRIMARINA.ogg-9b392bb9ecae5ccc758a440e49f52a16.oggvorbisstr"]
 
 [params]
 

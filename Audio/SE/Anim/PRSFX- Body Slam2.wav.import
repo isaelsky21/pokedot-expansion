@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cstrg88povgbh"
-path="res://.godot/imported/PRSFX- Body Slam2.wav-3260cee6322e24431ed08ebfa680a2d3.sample"
+path="res://.godot/imported/PRSFX- Body Slam2.wav-0e42b7dba9f45b3db34257cae2058568.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Body Slam2.wav"
-dest_files=["res://.godot/imported/PRSFX- Body Slam2.wav-3260cee6322e24431ed08ebfa680a2d3.sample"]
+source_file="res://audio/se/anim/PRSFX- Body Slam2.wav"
+dest_files=["res://.godot/imported/PRSFX- Body Slam2.wav-0e42b7dba9f45b3db34257cae2058568.sample"]
 
 [params]
 

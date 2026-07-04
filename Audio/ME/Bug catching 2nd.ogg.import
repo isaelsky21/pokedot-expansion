@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://17e6b0k7jt4m"
-path="res://.godot/imported/Bug catching 2nd.ogg-d307399c77f41525c3ca48b3d53da1b7.oggvorbisstr"
+path="res://.godot/imported/Bug catching 2nd.ogg-fc935f5fe7a63b58ba899f78b5f5bffb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/ME/Bug catching 2nd.ogg"
-dest_files=["res://.godot/imported/Bug catching 2nd.ogg-d307399c77f41525c3ca48b3d53da1b7.oggvorbisstr"]
+source_file="res://audio/me/Bug catching 2nd.ogg"
+dest_files=["res://.godot/imported/Bug catching 2nd.ogg-fc935f5fe7a63b58ba899f78b5f5bffb.oggvorbisstr"]
 
 [params]
 

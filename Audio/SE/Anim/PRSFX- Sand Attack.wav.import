@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://f0fp3uvrjb2v"
-path="res://.godot/imported/PRSFX- Sand Attack.wav-ae99cfe5872b8a0bc173df5bf61fc14a.sample"
+path="res://.godot/imported/PRSFX- Sand Attack.wav-28dd9ea193f29f56adedcdb57531d523.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sand Attack.wav"
-dest_files=["res://.godot/imported/PRSFX- Sand Attack.wav-ae99cfe5872b8a0bc173df5bf61fc14a.sample"]
+source_file="res://audio/se/anim/PRSFX- Sand Attack.wav"
+dest_files=["res://.godot/imported/PRSFX- Sand Attack.wav-28dd9ea193f29f56adedcdb57531d523.sample"]
 
 [params]
 

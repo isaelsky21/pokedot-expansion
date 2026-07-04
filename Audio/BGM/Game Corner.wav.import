@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://davv8q0k43hms"
-path="res://.godot/imported/Game Corner.wav-859772c170582048ed0d901f89e50524.sample"
+path="res://.godot/imported/Game Corner.wav-76beedbd9c11c6f015ca76aead7a0ae1.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Game Corner.wav"
-dest_files=["res://.godot/imported/Game Corner.wav-859772c170582048ed0d901f89e50524.sample"]
+source_file="res://audio/bgm/Game Corner.wav"
+dest_files=["res://.godot/imported/Game Corner.wav-76beedbd9c11c6f015ca76aead7a0ae1.sample"]
 
 [params]
 

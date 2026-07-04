@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dp1w4djwnaf4g"
-path="res://.godot/imported/Blow3.ogg-9cb385ec9af528d8fee382c2c2a1fcf2.oggvorbisstr"
+path="res://.godot/imported/Blow3.ogg-66afc904d5877eb66ded76df06ce3a72.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Blow3.ogg"
-dest_files=["res://.godot/imported/Blow3.ogg-9cb385ec9af528d8fee382c2c2a1fcf2.oggvorbisstr"]
+source_file="res://audio/se/anim/Blow3.ogg"
+dest_files=["res://.godot/imported/Blow3.ogg-66afc904d5877eb66ded76df06ce3a72.oggvorbisstr"]
 
 [params]
 

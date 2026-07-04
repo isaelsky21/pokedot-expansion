@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dppmahsd4xu5t"
-path="res://.godot/imported/ANNIHILAPE.ogg-cb1c22d0a31611c18918eccbec522256.oggvorbisstr"
+path="res://.godot/imported/ANNIHILAPE.ogg-03fe7c82948356a04eb80e4e655885fd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ANNIHILAPE.ogg"
-dest_files=["res://.godot/imported/ANNIHILAPE.ogg-cb1c22d0a31611c18918eccbec522256.oggvorbisstr"]
+source_file="res://audio/se/cries/ANNIHILAPE.ogg"
+dest_files=["res://.godot/imported/ANNIHILAPE.ogg-03fe7c82948356a04eb80e4e655885fd.oggvorbisstr"]
 
 [params]
 

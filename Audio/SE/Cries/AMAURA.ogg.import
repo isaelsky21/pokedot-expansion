@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cectfvkjay0pq"
-path="res://.godot/imported/AMAURA.ogg-96611f1385d7918abd5712aea0c6e2d8.oggvorbisstr"
+path="res://.godot/imported/AMAURA.ogg-8479bbb3d949fd69dabc482777612ffc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AMAURA.ogg"
-dest_files=["res://.godot/imported/AMAURA.ogg-96611f1385d7918abd5712aea0c6e2d8.oggvorbisstr"]
+source_file="res://audio/se/cries/AMAURA.ogg"
+dest_files=["res://.godot/imported/AMAURA.ogg-8479bbb3d949fd69dabc482777612ffc.oggvorbisstr"]
 
 [params]
 

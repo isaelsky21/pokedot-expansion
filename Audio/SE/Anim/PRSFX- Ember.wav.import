@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://pp4j25tyl4et"
-path="res://.godot/imported/PRSFX- Ember.wav-bf7738021a16ca97bc3e56226cd9de22.sample"
+path="res://.godot/imported/PRSFX- Ember.wav-8a06ea4f9294c8239fbe626c166f7324.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Ember.wav"
-dest_files=["res://.godot/imported/PRSFX- Ember.wav-bf7738021a16ca97bc3e56226cd9de22.sample"]
+source_file="res://audio/se/anim/PRSFX- Ember.wav"
+dest_files=["res://.godot/imported/PRSFX- Ember.wav-8a06ea4f9294c8239fbe626c166f7324.sample"]
 
 [params]
 

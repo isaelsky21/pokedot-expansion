@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cxiq0gtapl3rp"
-path="res://.godot/imported/NICKIT.ogg-95a2bd48fed56bca81b78e8d3d2e3d86.oggvorbisstr"
+path="res://.godot/imported/NICKIT.ogg-9e1dc5fa4db18f1edde1aec849922dbe.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NICKIT.ogg"
-dest_files=["res://.godot/imported/NICKIT.ogg-95a2bd48fed56bca81b78e8d3d2e3d86.oggvorbisstr"]
+source_file="res://audio/se/cries/NICKIT.ogg"
+dest_files=["res://.godot/imported/NICKIT.ogg-9e1dc5fa4db18f1edde1aec849922dbe.oggvorbisstr"]
 
 [params]
 

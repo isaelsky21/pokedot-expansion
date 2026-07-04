@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://3vbpclv2vo17"
-path="res://.godot/imported/PRSFX- Grass Knot1.wav-1e9bd90636717dcaa7423dab7e0d1c42.sample"
+path="res://.godot/imported/PRSFX- Grass Knot1.wav-f0fb59140505ddbf9cdd79f0dfa59097.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Grass Knot1.wav"
-dest_files=["res://.godot/imported/PRSFX- Grass Knot1.wav-1e9bd90636717dcaa7423dab7e0d1c42.sample"]
+source_file="res://audio/se/anim/PRSFX- Grass Knot1.wav"
+dest_files=["res://.godot/imported/PRSFX- Grass Knot1.wav-f0fb59140505ddbf9cdd79f0dfa59097.sample"]
 
 [params]
 

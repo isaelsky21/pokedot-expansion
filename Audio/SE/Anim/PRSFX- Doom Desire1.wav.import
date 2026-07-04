@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://7k7ulcwwgos0"
-path="res://.godot/imported/PRSFX- Doom Desire1.wav-c64ebc2bd6560c56b7429bf293edebf9.sample"
+path="res://.godot/imported/PRSFX- Doom Desire1.wav-9fbeb44f71d904d09f0b3f6c0113809b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Doom Desire1.wav"
-dest_files=["res://.godot/imported/PRSFX- Doom Desire1.wav-c64ebc2bd6560c56b7429bf293edebf9.sample"]
+source_file="res://audio/se/anim/PRSFX- Doom Desire1.wav"
+dest_files=["res://.godot/imported/PRSFX- Doom Desire1.wav-9fbeb44f71d904d09f0b3f6c0113809b.sample"]
 
 [params]
 

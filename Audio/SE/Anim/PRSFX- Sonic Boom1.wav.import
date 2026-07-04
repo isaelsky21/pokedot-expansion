@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bdw0pyd1pv8xw"
-path="res://.godot/imported/PRSFX- Sonic Boom1.wav-d50264be5d8ba94c8e3ac489e5cdccc3.sample"
+path="res://.godot/imported/PRSFX- Sonic Boom1.wav-728fb4e6fb07596701a0192eabf8fd01.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sonic Boom1.wav"
-dest_files=["res://.godot/imported/PRSFX- Sonic Boom1.wav-d50264be5d8ba94c8e3ac489e5cdccc3.sample"]
+source_file="res://audio/se/anim/PRSFX- Sonic Boom1.wav"
+dest_files=["res://.godot/imported/PRSFX- Sonic Boom1.wav-728fb4e6fb07596701a0192eabf8fd01.sample"]
 
 [params]
 

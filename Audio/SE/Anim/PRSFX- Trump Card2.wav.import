@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dwrcayny60mjv"
-path="res://.godot/imported/PRSFX- Trump Card2.wav-24ca634ab9142013bb64204c1677c7fd.sample"
+path="res://.godot/imported/PRSFX- Trump Card2.wav-9c576fa0b8c813c53b60f3588ec7465b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Trump Card2.wav"
-dest_files=["res://.godot/imported/PRSFX- Trump Card2.wav-24ca634ab9142013bb64204c1677c7fd.sample"]
+source_file="res://audio/se/anim/PRSFX- Trump Card2.wav"
+dest_files=["res://.godot/imported/PRSFX- Trump Card2.wav-9c576fa0b8c813c53b60f3588ec7465b.sample"]
 
 [params]
 

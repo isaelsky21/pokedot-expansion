@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djdgeqljotaj1"
-path="res://.godot/imported/DREDNAW.ogg-352c020dab13ccfd8cfba135af02e1b8.oggvorbisstr"
+path="res://.godot/imported/DREDNAW.ogg-9a9eab99b9755cfac5c36316839c9259.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DREDNAW.ogg"
-dest_files=["res://.godot/imported/DREDNAW.ogg-352c020dab13ccfd8cfba135af02e1b8.oggvorbisstr"]
+source_file="res://audio/se/cries/DREDNAW.ogg"
+dest_files=["res://.godot/imported/DREDNAW.ogg-9a9eab99b9755cfac5c36316839c9259.oggvorbisstr"]
 
 [params]
 

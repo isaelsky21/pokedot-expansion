@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://w6t1fnp0dmdt"
-path="res://.godot/imported/PRSFX- Prismatic Laser3.wav-ad1d3f0f20ec4a062e291dbc8c5919b2.sample"
+path="res://.godot/imported/PRSFX- Prismatic Laser3.wav-b38d8df495389a38298e10cf372b996f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Prismatic Laser3.wav"
-dest_files=["res://.godot/imported/PRSFX- Prismatic Laser3.wav-ad1d3f0f20ec4a062e291dbc8c5919b2.sample"]
+source_file="res://audio/se/anim/PRSFX- Prismatic Laser3.wav"
+dest_files=["res://.godot/imported/PRSFX- Prismatic Laser3.wav-b38d8df495389a38298e10cf372b996f.sample"]
 
 [params]
 

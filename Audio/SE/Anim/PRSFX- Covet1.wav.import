@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://brdfdut2esgrr"
-path="res://.godot/imported/PRSFX- Covet1.wav-c5ea577bcd091f79c16ebed71472f62d.sample"
+path="res://.godot/imported/PRSFX- Covet1.wav-ff4e96d981de42bddd5dfb8f050e126d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Covet1.wav"
-dest_files=["res://.godot/imported/PRSFX- Covet1.wav-c5ea577bcd091f79c16ebed71472f62d.sample"]
+source_file="res://audio/se/anim/PRSFX- Covet1.wav"
+dest_files=["res://.godot/imported/PRSFX- Covet1.wav-ff4e96d981de42bddd5dfb8f050e126d.sample"]
 
 [params]
 

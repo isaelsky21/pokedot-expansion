@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://blp8clm82viq6"
-path="res://.godot/imported/NOCTOWL.ogg-4bbb66d096d1fd6bd14dff8aa6f511ae.oggvorbisstr"
+path="res://.godot/imported/NOCTOWL.ogg-1bc04070d4bc5668129494493625cd1b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NOCTOWL.ogg"
-dest_files=["res://.godot/imported/NOCTOWL.ogg-4bbb66d096d1fd6bd14dff8aa6f511ae.oggvorbisstr"]
+source_file="res://audio/se/cries/NOCTOWL.ogg"
+dest_files=["res://.godot/imported/NOCTOWL.ogg-1bc04070d4bc5668129494493625cd1b.oggvorbisstr"]
 
 [params]
 

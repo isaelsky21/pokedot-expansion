@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0aj3vngfoi6a"
-path="res://.godot/imported/SWABLU.ogg-bdcd98c4e6c46b905062e544aeb1310a.oggvorbisstr"
+path="res://.godot/imported/SWABLU.ogg-d2a7a5caf76327f2dd05086267210e7b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SWABLU.ogg"
-dest_files=["res://.godot/imported/SWABLU.ogg-bdcd98c4e6c46b905062e544aeb1310a.oggvorbisstr"]
+source_file="res://audio/se/cries/SWABLU.ogg"
+dest_files=["res://.godot/imported/SWABLU.ogg-d2a7a5caf76327f2dd05086267210e7b.oggvorbisstr"]
 
 [params]
 

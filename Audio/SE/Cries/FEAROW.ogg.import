@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bahofdg675is6"
-path="res://.godot/imported/FEAROW.ogg-1d168c0fc0d4cefc63d7efe8d810de87.oggvorbisstr"
+path="res://.godot/imported/FEAROW.ogg-1242a63d93bb11cba37b53458b461253.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FEAROW.ogg"
-dest_files=["res://.godot/imported/FEAROW.ogg-1d168c0fc0d4cefc63d7efe8d810de87.oggvorbisstr"]
+source_file="res://audio/se/cries/FEAROW.ogg"
+dest_files=["res://.godot/imported/FEAROW.ogg-1242a63d93bb11cba37b53458b461253.oggvorbisstr"]
 
 [params]
 

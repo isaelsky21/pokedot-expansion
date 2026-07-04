@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://crabib6xjrbbi"
-path="res://.godot/imported/PILOSWINE.ogg-291a3cd5f7b5950a886931ff080d92b2.oggvorbisstr"
+path="res://.godot/imported/PILOSWINE.ogg-f5d961035c2969a2e1c226da7e6de9e3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PILOSWINE.ogg"
-dest_files=["res://.godot/imported/PILOSWINE.ogg-291a3cd5f7b5950a886931ff080d92b2.oggvorbisstr"]
+source_file="res://audio/se/cries/PILOSWINE.ogg"
+dest_files=["res://.godot/imported/PILOSWINE.ogg-f5d961035c2969a2e1c226da7e6de9e3.oggvorbisstr"]
 
 [params]
 

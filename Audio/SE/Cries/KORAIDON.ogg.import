@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cwhaumgh538ep"
-path="res://.godot/imported/KORAIDON.ogg-5795e6c1d1acaa77007716853c2083df.oggvorbisstr"
+path="res://.godot/imported/KORAIDON.ogg-65392f531dae5223859f6d2516dc3721.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KORAIDON.ogg"
-dest_files=["res://.godot/imported/KORAIDON.ogg-5795e6c1d1acaa77007716853c2083df.oggvorbisstr"]
+source_file="res://audio/se/cries/KORAIDON.ogg"
+dest_files=["res://.godot/imported/KORAIDON.ogg-65392f531dae5223859f6d2516dc3721.oggvorbisstr"]
 
 [params]
 

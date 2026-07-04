@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dre37u6elfif2"
-path="res://.godot/imported/GEN8- LevelUp DPP.ogg-1a3a708d779d4699abbaa2445a88baca.oggvorbisstr"
+path="res://.godot/imported/GEN8- LevelUp DPP.ogg-f2bceb28475234cf6529baf406f74fca.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/GEN8- LevelUp DPP.ogg"
-dest_files=["res://.godot/imported/GEN8- LevelUp DPP.ogg-1a3a708d779d4699abbaa2445a88baca.oggvorbisstr"]
+source_file="res://audio/se/anim/GEN8- LevelUp DPP.ogg"
+dest_files=["res://.godot/imported/GEN8- LevelUp DPP.ogg-f2bceb28475234cf6529baf406f74fca.oggvorbisstr"]
 
 [params]
 

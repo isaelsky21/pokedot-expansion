@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3cpalelm80ue"
-path="res://.godot/imported/KYUREM_2.ogg-702894bf4df8d69e29b2dad658715008.oggvorbisstr"
+path="res://.godot/imported/KYUREM_2.ogg-66d362b9359cdb17ea8c06666acc6062.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KYUREM_2.ogg"
-dest_files=["res://.godot/imported/KYUREM_2.ogg-702894bf4df8d69e29b2dad658715008.oggvorbisstr"]
+source_file="res://audio/se/cries/KYUREM_2.ogg"
+dest_files=["res://.godot/imported/KYUREM_2.ogg-66d362b9359cdb17ea8c06666acc6062.oggvorbisstr"]
 
 [params]
 

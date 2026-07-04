@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dirwqeiip0kso"
-path="res://.godot/imported/PRSFX- Confusion.wav-15152e8a3cdc8c190a1f8c2f0ea29da1.sample"
+path="res://.godot/imported/PRSFX- Confusion.wav-81ce1d5ee9d892cf29e7fbfa9d329b28.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Confusion.wav"
-dest_files=["res://.godot/imported/PRSFX- Confusion.wav-15152e8a3cdc8c190a1f8c2f0ea29da1.sample"]
+source_file="res://audio/se/anim/PRSFX- Confusion.wav"
+dest_files=["res://.godot/imported/PRSFX- Confusion.wav-81ce1d5ee9d892cf29e7fbfa9d329b28.sample"]
 
 [params]
 

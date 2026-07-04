@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b60dqeyu112o8"
-path="res://.godot/imported/NECROZMA_2.ogg-fd0e717802028fc38f2888c3a146aacf.oggvorbisstr"
+path="res://.godot/imported/NECROZMA_2.ogg-e07691b15c1ab069ee822f71a2d34717.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NECROZMA_2.ogg"
-dest_files=["res://.godot/imported/NECROZMA_2.ogg-fd0e717802028fc38f2888c3a146aacf.oggvorbisstr"]
+source_file="res://audio/se/cries/NECROZMA_2.ogg"
+dest_files=["res://.godot/imported/NECROZMA_2.ogg-e07691b15c1ab069ee822f71a2d34717.oggvorbisstr"]
 
 [params]
 

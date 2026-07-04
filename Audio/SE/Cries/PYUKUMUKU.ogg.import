@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cw01rxl0j24i4"
-path="res://.godot/imported/PYUKUMUKU.ogg-1aa0a9b789ff893d6560565dc24e5efa.oggvorbisstr"
+path="res://.godot/imported/PYUKUMUKU.ogg-f7446384e73b421d1da9c452a28a9bd6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PYUKUMUKU.ogg"
-dest_files=["res://.godot/imported/PYUKUMUKU.ogg-1aa0a9b789ff893d6560565dc24e5efa.oggvorbisstr"]
+source_file="res://audio/se/cries/PYUKUMUKU.ogg"
+dest_files=["res://.godot/imported/PYUKUMUKU.ogg-f7446384e73b421d1da9c452a28a9bd6.oggvorbisstr"]
 
 [params]
 

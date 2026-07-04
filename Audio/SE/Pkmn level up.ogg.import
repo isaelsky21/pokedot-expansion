@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://wx2v5oa30wft"
-path="res://.godot/imported/Pkmn level up.ogg-467ef20d1ba5e43c79cde69962926894.oggvorbisstr"
+path="res://.godot/imported/Pkmn level up.ogg-dbac14810de45f9d5f1aca2840aa845a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Pkmn level up.ogg"
-dest_files=["res://.godot/imported/Pkmn level up.ogg-467ef20d1ba5e43c79cde69962926894.oggvorbisstr"]
+source_file="res://audio/se/Pkmn level up.ogg"
+dest_files=["res://.godot/imported/Pkmn level up.ogg-dbac14810de45f9d5f1aca2840aa845a.oggvorbisstr"]
 
 [params]
 

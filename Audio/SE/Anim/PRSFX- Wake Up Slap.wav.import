@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bm5g0xplf6qwx"
-path="res://.godot/imported/PRSFX- Wake Up Slap.wav-ef530a7bb40677b8d25ac4fed8288e15.sample"
+path="res://.godot/imported/PRSFX- Wake Up Slap.wav-02112e622340d167ce398e787fb88e3b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Wake Up Slap.wav"
-dest_files=["res://.godot/imported/PRSFX- Wake Up Slap.wav-ef530a7bb40677b8d25ac4fed8288e15.sample"]
+source_file="res://audio/se/anim/PRSFX- Wake Up Slap.wav"
+dest_files=["res://.godot/imported/PRSFX- Wake Up Slap.wav-02112e622340d167ce398e787fb88e3b.sample"]
 
 [params]
 

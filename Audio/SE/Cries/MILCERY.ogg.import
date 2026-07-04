@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://va8as0rsk00j"
-path="res://.godot/imported/MILCERY.ogg-85cb9df0798ea85925a25a2a84044b2c.oggvorbisstr"
+path="res://.godot/imported/MILCERY.ogg-97d4050647151d0c340eac8e48a0f571.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MILCERY.ogg"
-dest_files=["res://.godot/imported/MILCERY.ogg-85cb9df0798ea85925a25a2a84044b2c.oggvorbisstr"]
+source_file="res://audio/se/cries/MILCERY.ogg"
+dest_files=["res://.godot/imported/MILCERY.ogg-97d4050647151d0c340eac8e48a0f571.oggvorbisstr"]
 
 [params]
 

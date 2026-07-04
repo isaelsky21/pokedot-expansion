@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cuyndr71logkp"
-path="res://.godot/imported/PRSFX- Heat Wave.wav-feb8988032293cd476c9855ec83e50f3.sample"
+path="res://.godot/imported/PRSFX- Heat Wave.wav-a6237349dacccd0bdd2cbbf4a845b69c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Heat Wave.wav"
-dest_files=["res://.godot/imported/PRSFX- Heat Wave.wav-feb8988032293cd476c9855ec83e50f3.sample"]
+source_file="res://audio/se/anim/PRSFX- Heat Wave.wav"
+dest_files=["res://.godot/imported/PRSFX- Heat Wave.wav-a6237349dacccd0bdd2cbbf4a845b69c.sample"]
 
 [params]
 

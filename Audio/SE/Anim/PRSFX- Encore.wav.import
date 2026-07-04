@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d2igm2daic7lw"
-path="res://.godot/imported/PRSFX- Encore.wav-bbd3f40e257a593fcbf2f8a463ee4783.sample"
+path="res://.godot/imported/PRSFX- Encore.wav-79b8cd8df609b250aeea2921c34d0708.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Encore.wav"
-dest_files=["res://.godot/imported/PRSFX- Encore.wav-bbd3f40e257a593fcbf2f8a463ee4783.sample"]
+source_file="res://audio/se/anim/PRSFX- Encore.wav"
+dest_files=["res://.godot/imported/PRSFX- Encore.wav-79b8cd8df609b250aeea2921c34d0708.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ciwisnwbh21yr"
-path="res://.godot/imported/GUI trainer card open.ogg-87b7f06fded534f3cb2a8f0e5cacd430.oggvorbisstr"
+path="res://.godot/imported/GUI trainer card open.ogg-faadf512406bc33a6c977d72e528a279.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/GUI trainer card open.ogg"
-dest_files=["res://.godot/imported/GUI trainer card open.ogg-87b7f06fded534f3cb2a8f0e5cacd430.oggvorbisstr"]
+source_file="res://audio/se/GUI trainer card open.ogg"
+dest_files=["res://.godot/imported/GUI trainer card open.ogg-faadf512406bc33a6c977d72e528a279.oggvorbisstr"]
 
 [params]
 

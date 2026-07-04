@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://sw60pyq8pga3"
-path="res://.godot/imported/GOSSIFLEUR.ogg-168c7886d2998c3898f832e6229969fb.oggvorbisstr"
+path="res://.godot/imported/GOSSIFLEUR.ogg-d755f1a6d35a840143598c75d877b707.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOSSIFLEUR.ogg"
-dest_files=["res://.godot/imported/GOSSIFLEUR.ogg-168c7886d2998c3898f832e6229969fb.oggvorbisstr"]
+source_file="res://audio/se/cries/GOSSIFLEUR.ogg"
+dest_files=["res://.godot/imported/GOSSIFLEUR.ogg-d755f1a6d35a840143598c75d877b707.oggvorbisstr"]
 
 [params]
 

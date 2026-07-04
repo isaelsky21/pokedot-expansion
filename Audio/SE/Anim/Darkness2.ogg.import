@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dc6lop5ody6at"
-path="res://.godot/imported/Darkness2.ogg-e9f24470c6bf07af155151fb7ba8e037.oggvorbisstr"
+path="res://.godot/imported/Darkness2.ogg-28bb701f0db8bfbbc9132bb3eb8444d0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Darkness2.ogg"
-dest_files=["res://.godot/imported/Darkness2.ogg-e9f24470c6bf07af155151fb7ba8e037.oggvorbisstr"]
+source_file="res://audio/se/anim/Darkness2.ogg"
+dest_files=["res://.godot/imported/Darkness2.ogg-28bb701f0db8bfbbc9132bb3eb8444d0.oggvorbisstr"]
 
 [params]
 

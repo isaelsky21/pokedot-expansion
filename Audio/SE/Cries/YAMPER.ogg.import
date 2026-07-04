@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dk0ccwo37xsff"
-path="res://.godot/imported/YAMPER.ogg-039dc4eca8c99efb03f25798b40f1452.oggvorbisstr"
+path="res://.godot/imported/YAMPER.ogg-dc3122f278c90e53a1e7605468edcd5e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/YAMPER.ogg"
-dest_files=["res://.godot/imported/YAMPER.ogg-039dc4eca8c99efb03f25798b40f1452.oggvorbisstr"]
+source_file="res://audio/se/cries/YAMPER.ogg"
+dest_files=["res://.godot/imported/YAMPER.ogg-dc3122f278c90e53a1e7605468edcd5e.oggvorbisstr"]
 
 [params]
 

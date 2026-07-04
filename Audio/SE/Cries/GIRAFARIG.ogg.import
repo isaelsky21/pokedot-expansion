@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://db71p334ejle0"
-path="res://.godot/imported/GIRAFARIG.ogg-3988c95f222c82b21f1c6336b0b3f147.oggvorbisstr"
+path="res://.godot/imported/GIRAFARIG.ogg-d9b43887949b7a6c4d8e1eb68261d62d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GIRAFARIG.ogg"
-dest_files=["res://.godot/imported/GIRAFARIG.ogg-3988c95f222c82b21f1c6336b0b3f147.oggvorbisstr"]
+source_file="res://audio/se/cries/GIRAFARIG.ogg"
+dest_files=["res://.godot/imported/GIRAFARIG.ogg-d9b43887949b7a6c4d8e1eb68261d62d.oggvorbisstr"]
 
 [params]
 

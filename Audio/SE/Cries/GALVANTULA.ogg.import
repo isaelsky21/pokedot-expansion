@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6ygqhribriff"
-path="res://.godot/imported/GALVANTULA.ogg-7f206692e44f565eb76d358428a3ce60.oggvorbisstr"
+path="res://.godot/imported/GALVANTULA.ogg-29773626e4093798a2b98b1c435d9aea.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GALVANTULA.ogg"
-dest_files=["res://.godot/imported/GALVANTULA.ogg-7f206692e44f565eb76d358428a3ce60.oggvorbisstr"]
+source_file="res://audio/se/cries/GALVANTULA.ogg"
+dest_files=["res://.godot/imported/GALVANTULA.ogg-29773626e4093798a2b98b1c435d9aea.oggvorbisstr"]
 
 [params]
 

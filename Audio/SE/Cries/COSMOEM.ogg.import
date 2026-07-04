@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cs7kewm0swq3m"
-path="res://.godot/imported/COSMOEM.ogg-17fad13df88c4c8b0be042209369740c.oggvorbisstr"
+path="res://.godot/imported/COSMOEM.ogg-49043f5496e771d84e9cd6062042829b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/COSMOEM.ogg"
-dest_files=["res://.godot/imported/COSMOEM.ogg-17fad13df88c4c8b0be042209369740c.oggvorbisstr"]
+source_file="res://audio/se/cries/COSMOEM.ogg"
+dest_files=["res://.godot/imported/COSMOEM.ogg-49043f5496e771d84e9cd6062042829b.oggvorbisstr"]
 
 [params]
 

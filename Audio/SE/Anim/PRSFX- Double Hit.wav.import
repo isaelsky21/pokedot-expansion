@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dhd243gk82uk6"
-path="res://.godot/imported/PRSFX- Double Hit.wav-a6032aaae1a1bb78c3720450ab939471.sample"
+path="res://.godot/imported/PRSFX- Double Hit.wav-63816df3f8b00ed4e53b3b4f32d41dee.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Double Hit.wav"
-dest_files=["res://.godot/imported/PRSFX- Double Hit.wav-a6032aaae1a1bb78c3720450ab939471.sample"]
+source_file="res://audio/se/anim/PRSFX- Double Hit.wav"
+dest_files=["res://.godot/imported/PRSFX- Double Hit.wav-63816df3f8b00ed4e53b3b4f32d41dee.sample"]
 
 [params]
 

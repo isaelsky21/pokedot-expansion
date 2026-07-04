@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ejq0bie1u3y2"
-path="res://.godot/imported/STEELIX_1.ogg-a818f7b4ab0475ee784d4af3d91d0db9.oggvorbisstr"
+path="res://.godot/imported/STEELIX_1.ogg-345739ad428fdd56c32c671303960e0b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/STEELIX_1.ogg"
-dest_files=["res://.godot/imported/STEELIX_1.ogg-a818f7b4ab0475ee784d4af3d91d0db9.oggvorbisstr"]
+source_file="res://audio/se/cries/STEELIX_1.ogg"
+dest_files=["res://.godot/imported/STEELIX_1.ogg-345739ad428fdd56c32c671303960e0b.oggvorbisstr"]
 
 [params]
 

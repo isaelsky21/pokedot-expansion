@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://iw6hyfxk855v"
-path="res://.godot/imported/ORICORIO_1.ogg-c1a3f39cdeb66543025bbc05fa465131.oggvorbisstr"
+path="res://.godot/imported/ORICORIO_1.ogg-1fa0e6410582875efca7628cc1eb44c0.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ORICORIO_1.ogg"
-dest_files=["res://.godot/imported/ORICORIO_1.ogg-c1a3f39cdeb66543025bbc05fa465131.oggvorbisstr"]
+source_file="res://audio/se/cries/ORICORIO_1.ogg"
+dest_files=["res://.godot/imported/ORICORIO_1.ogg-1fa0e6410582875efca7628cc1eb44c0.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ch8f8coqxa1tu"
-path="res://.godot/imported/MUDKIP.ogg-23667eb9908f296a9a9005bb365c693d.oggvorbisstr"
+path="res://.godot/imported/MUDKIP.ogg-bd426a3f42f04a9881115273a9bb42c7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MUDKIP.ogg"
-dest_files=["res://.godot/imported/MUDKIP.ogg-23667eb9908f296a9a9005bb365c693d.oggvorbisstr"]
+source_file="res://audio/se/cries/MUDKIP.ogg"
+dest_files=["res://.godot/imported/MUDKIP.ogg-bd426a3f42f04a9881115273a9bb42c7.oggvorbisstr"]
 
 [params]
 

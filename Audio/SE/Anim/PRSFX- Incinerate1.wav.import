@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://41i3t6p3ya5m"
-path="res://.godot/imported/PRSFX- Incinerate1.wav-c5bb543eb64c5bac006e2ad9c02e5199.sample"
+path="res://.godot/imported/PRSFX- Incinerate1.wav-40ba694b6c43e963f7c058b575d7fe08.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Incinerate1.wav"
-dest_files=["res://.godot/imported/PRSFX- Incinerate1.wav-c5bb543eb64c5bac006e2ad9c02e5199.sample"]
+source_file="res://audio/se/anim/PRSFX- Incinerate1.wav"
+dest_files=["res://.godot/imported/PRSFX- Incinerate1.wav-40ba694b6c43e963f7c058b575d7fe08.sample"]
 
 [params]
 

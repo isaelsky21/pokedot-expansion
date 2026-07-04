@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c0g1gejumxxex"
-path="res://.godot/imported/DUSKNOIR.ogg-563d2749ef04024454a8d692e78d926f.oggvorbisstr"
+path="res://.godot/imported/DUSKNOIR.ogg-b9f2dd1609ed999b52b7a6ef866feef1.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/DUSKNOIR.ogg"
-dest_files=["res://.godot/imported/DUSKNOIR.ogg-563d2749ef04024454a8d692e78d926f.oggvorbisstr"]
+source_file="res://audio/se/cries/DUSKNOIR.ogg"
+dest_files=["res://.godot/imported/DUSKNOIR.ogg-b9f2dd1609ed999b52b7a6ef866feef1.oggvorbisstr"]
 
 [params]
 

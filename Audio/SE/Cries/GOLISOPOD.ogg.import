@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bg6siqy0p703r"
-path="res://.godot/imported/GOLISOPOD.ogg-7d8a6dea763ed95b26087490403c16a1.oggvorbisstr"
+path="res://.godot/imported/GOLISOPOD.ogg-1e2f56c3546400c45f349090186a8b19.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOLISOPOD.ogg"
-dest_files=["res://.godot/imported/GOLISOPOD.ogg-7d8a6dea763ed95b26087490403c16a1.oggvorbisstr"]
+source_file="res://audio/se/cries/GOLISOPOD.ogg"
+dest_files=["res://.godot/imported/GOLISOPOD.ogg-1e2f56c3546400c45f349090186a8b19.oggvorbisstr"]
 
 [params]
 

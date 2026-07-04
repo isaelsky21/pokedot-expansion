@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cillqj0nc178a"
-path="res://.godot/imported/PRSFX- Poison Sting.wav-d88b29dfbf1dccdd7a7037949ea1c0de.sample"
+path="res://.godot/imported/PRSFX- Poison Sting.wav-e0a9fb2862bab5b317ef41f71c45a5b4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Poison Sting.wav"
-dest_files=["res://.godot/imported/PRSFX- Poison Sting.wav-d88b29dfbf1dccdd7a7037949ea1c0de.sample"]
+source_file="res://audio/se/anim/PRSFX- Poison Sting.wav"
+dest_files=["res://.godot/imported/PRSFX- Poison Sting.wav-e0a9fb2862bab5b317ef41f71c45a5b4.sample"]
 
 [params]
 

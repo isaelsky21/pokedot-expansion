@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cr5dv8s1yo08v"
-path="res://.godot/imported/PRSFX- Lovely Kiss.wav-c3e9e5e0aaa3225ad34203abdc5e2980.sample"
+path="res://.godot/imported/PRSFX- Lovely Kiss.wav-6c8be5abfc2bd3634dc7683f7a120715.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Lovely Kiss.wav"
-dest_files=["res://.godot/imported/PRSFX- Lovely Kiss.wav-c3e9e5e0aaa3225ad34203abdc5e2980.sample"]
+source_file="res://audio/se/anim/PRSFX- Lovely Kiss.wav"
+dest_files=["res://.godot/imported/PRSFX- Lovely Kiss.wav-6c8be5abfc2bd3634dc7683f7a120715.sample"]
 
 [params]
 

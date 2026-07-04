@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bar4sqi1a77kx"
-path="res://.godot/imported/PRSFX- Glaciate2.wav-c4fc01eab4be0d62d1c723657c9f478c.sample"
+path="res://.godot/imported/PRSFX- Glaciate2.wav-40bfe65cb571ca079011841ec82365d2.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Glaciate2.wav"
-dest_files=["res://.godot/imported/PRSFX- Glaciate2.wav-c4fc01eab4be0d62d1c723657c9f478c.sample"]
+source_file="res://audio/se/anim/PRSFX- Glaciate2.wav"
+dest_files=["res://.godot/imported/PRSFX- Glaciate2.wav-40bfe65cb571ca079011841ec82365d2.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c0i8fkyjocb33"
-path="res://.godot/imported/WISHIWASHI.ogg-8b11ffc321e4841fe56e09b37b79f801.oggvorbisstr"
+path="res://.godot/imported/WISHIWASHI.ogg-2bb4eecc60e5b252e4df65089c7fa43a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/WISHIWASHI.ogg"
-dest_files=["res://.godot/imported/WISHIWASHI.ogg-8b11ffc321e4841fe56e09b37b79f801.oggvorbisstr"]
+source_file="res://audio/se/cries/WISHIWASHI.ogg"
+dest_files=["res://.godot/imported/WISHIWASHI.ogg-2bb4eecc60e5b252e4df65089c7fa43a.oggvorbisstr"]
 
 [params]
 

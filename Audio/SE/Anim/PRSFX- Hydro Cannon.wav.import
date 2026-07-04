@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b1bl4ylf8a0u0"
-path="res://.godot/imported/PRSFX- Hydro Cannon.wav-e7337609cc0621a2b131018890e94de5.sample"
+path="res://.godot/imported/PRSFX- Hydro Cannon.wav-03a484a3ce87e8378ad3a06498d50190.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hydro Cannon.wav"
-dest_files=["res://.godot/imported/PRSFX- Hydro Cannon.wav-e7337609cc0621a2b131018890e94de5.sample"]
+source_file="res://audio/se/anim/PRSFX- Hydro Cannon.wav"
+dest_files=["res://.godot/imported/PRSFX- Hydro Cannon.wav-03a484a3ce87e8378ad3a06498d50190.sample"]
 
 [params]
 

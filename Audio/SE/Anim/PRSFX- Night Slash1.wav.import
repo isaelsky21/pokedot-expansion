@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dhhjdqp7vd058"
-path="res://.godot/imported/PRSFX- Night Slash1.wav-1cea31dd031ed440593d976938944d60.sample"
+path="res://.godot/imported/PRSFX- Night Slash1.wav-9a640ac3aed2fa5c08763db83f9ac6fc.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Night Slash1.wav"
-dest_files=["res://.godot/imported/PRSFX- Night Slash1.wav-1cea31dd031ed440593d976938944d60.sample"]
+source_file="res://audio/se/anim/PRSFX- Night Slash1.wav"
+dest_files=["res://.godot/imported/PRSFX- Night Slash1.wav-9a640ac3aed2fa5c08763db83f9ac6fc.sample"]
 
 [params]
 

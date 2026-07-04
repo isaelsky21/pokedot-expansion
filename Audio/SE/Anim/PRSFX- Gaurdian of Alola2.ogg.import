@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c2o8je4drta0t"
-path="res://.godot/imported/PRSFX- Gaurdian of Alola2.ogg-05715ae8246109a787c4ff366f43a368.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Gaurdian of Alola2.ogg-10a80f0d6745f624fdfdd9bdb203edad.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Gaurdian of Alola2.ogg"
-dest_files=["res://.godot/imported/PRSFX- Gaurdian of Alola2.ogg-05715ae8246109a787c4ff366f43a368.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Gaurdian of Alola2.ogg"
+dest_files=["res://.godot/imported/PRSFX- Gaurdian of Alola2.ogg-10a80f0d6745f624fdfdd9bdb203edad.oggvorbisstr"]
 
 [params]
 

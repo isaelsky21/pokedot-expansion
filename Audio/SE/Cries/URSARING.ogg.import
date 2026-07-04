@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqd4b6jrq3t3r"
-path="res://.godot/imported/URSARING.ogg-3e1bc121b6b9860ef571cd58ec33806e.oggvorbisstr"
+path="res://.godot/imported/URSARING.ogg-01b97261c1ce2449ad0bf4ebaf27c962.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/URSARING.ogg"
-dest_files=["res://.godot/imported/URSARING.ogg-3e1bc121b6b9860ef571cd58ec33806e.oggvorbisstr"]
+source_file="res://audio/se/cries/URSARING.ogg"
+dest_files=["res://.godot/imported/URSARING.ogg-01b97261c1ce2449ad0bf4ebaf27c962.oggvorbisstr"]
 
 [params]
 

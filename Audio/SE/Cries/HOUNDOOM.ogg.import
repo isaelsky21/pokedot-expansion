@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dlieme2js0g0q"
-path="res://.godot/imported/HOUNDOOM.ogg-e83d9f33309755b46e7fee20f8ffaf27.oggvorbisstr"
+path="res://.godot/imported/HOUNDOOM.ogg-332a6579fbb589202d6829831ef69c1f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/HOUNDOOM.ogg"
-dest_files=["res://.godot/imported/HOUNDOOM.ogg-e83d9f33309755b46e7fee20f8ffaf27.oggvorbisstr"]
+source_file="res://audio/se/cries/HOUNDOOM.ogg"
+dest_files=["res://.godot/imported/HOUNDOOM.ogg-332a6579fbb589202d6829831ef69c1f.oggvorbisstr"]
 
 [params]
 

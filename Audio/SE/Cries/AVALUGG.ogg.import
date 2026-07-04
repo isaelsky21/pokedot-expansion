@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0jwyhq4ie6yb"
-path="res://.godot/imported/AVALUGG.ogg-56f3135e886a9e5ff028eb635b209f64.oggvorbisstr"
+path="res://.godot/imported/AVALUGG.ogg-3828b72f10a21337842a071d36dffa35.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/AVALUGG.ogg"
-dest_files=["res://.godot/imported/AVALUGG.ogg-56f3135e886a9e5ff028eb635b209f64.oggvorbisstr"]
+source_file="res://audio/se/cries/AVALUGG.ogg"
+dest_files=["res://.godot/imported/AVALUGG.ogg-3828b72f10a21337842a071d36dffa35.oggvorbisstr"]
 
 [params]
 

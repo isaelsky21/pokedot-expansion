@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qicre3sj2xrp"
-path="res://.godot/imported/PRINPLUP.ogg-2110605ac9e3855f1c7d627c638dc066.oggvorbisstr"
+path="res://.godot/imported/PRINPLUP.ogg-008fa41a64aba14c901228358d2adab3.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PRINPLUP.ogg"
-dest_files=["res://.godot/imported/PRINPLUP.ogg-2110605ac9e3855f1c7d627c638dc066.oggvorbisstr"]
+source_file="res://audio/se/cries/PRINPLUP.ogg"
+dest_files=["res://.godot/imported/PRINPLUP.ogg-008fa41a64aba14c901228358d2adab3.oggvorbisstr"]
 
 [params]
 

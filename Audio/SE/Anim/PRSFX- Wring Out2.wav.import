@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dukcckflfbjic"
-path="res://.godot/imported/PRSFX- Wring Out2.wav-24c20cc50f94f5d26c0e5e67b1e548d5.sample"
+path="res://.godot/imported/PRSFX- Wring Out2.wav-9553dc1b29455eb2683114de2d0a47ba.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Wring Out2.wav"
-dest_files=["res://.godot/imported/PRSFX- Wring Out2.wav-24c20cc50f94f5d26c0e5e67b1e548d5.sample"]
+source_file="res://audio/se/anim/PRSFX- Wring Out2.wav"
+dest_files=["res://.godot/imported/PRSFX- Wring Out2.wav-9553dc1b29455eb2683114de2d0a47ba.sample"]
 
 [params]
 

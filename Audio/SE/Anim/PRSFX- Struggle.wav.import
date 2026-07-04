@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://beupfmgxovgad"
-path="res://.godot/imported/PRSFX- Struggle.wav-2a20e7376240a3da6c9882b4041bc475.sample"
+path="res://.godot/imported/PRSFX- Struggle.wav-d0d2f87d73c97d8d3faf3d6eab293b1e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Struggle.wav"
-dest_files=["res://.godot/imported/PRSFX- Struggle.wav-2a20e7376240a3da6c9882b4041bc475.sample"]
+source_file="res://audio/se/anim/PRSFX- Struggle.wav"
+dest_files=["res://.godot/imported/PRSFX- Struggle.wav-d0d2f87d73c97d8d3faf3d6eab293b1e.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://sispd2400e7e"
-path="res://.godot/imported/PRSFX- Tectonic Rage1.ogg-29f1781020a442f0d397aa5484d96b81.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Tectonic Rage1.ogg-3aea431f80fd57c2510f8c373b649542.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Tectonic Rage1.ogg"
-dest_files=["res://.godot/imported/PRSFX- Tectonic Rage1.ogg-29f1781020a442f0d397aa5484d96b81.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Tectonic Rage1.ogg"
+dest_files=["res://.godot/imported/PRSFX- Tectonic Rage1.ogg-3aea431f80fd57c2510f8c373b649542.oggvorbisstr"]
 
 [params]
 

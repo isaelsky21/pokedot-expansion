@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhxs5he6127ky"
-path="res://.godot/imported/ROGGENROLA.ogg-4a766bc7a887f607df34025a1cc61fcd.oggvorbisstr"
+path="res://.godot/imported/ROGGENROLA.ogg-c7a88cd7a3afe98faf968683e8bbadb4.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ROGGENROLA.ogg"
-dest_files=["res://.godot/imported/ROGGENROLA.ogg-4a766bc7a887f607df34025a1cc61fcd.oggvorbisstr"]
+source_file="res://audio/se/cries/ROGGENROLA.ogg"
+dest_files=["res://.godot/imported/ROGGENROLA.ogg-c7a88cd7a3afe98faf968683e8bbadb4.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://36th634d55vj"
-path="res://.godot/imported/CRABRAWLER.ogg-c187f451283d4f5c7af6926161389051.oggvorbisstr"
+path="res://.godot/imported/CRABRAWLER.ogg-2198345801b154a612380da38d1dc366.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CRABRAWLER.ogg"
-dest_files=["res://.godot/imported/CRABRAWLER.ogg-c187f451283d4f5c7af6926161389051.oggvorbisstr"]
+source_file="res://audio/se/cries/CRABRAWLER.ogg"
+dest_files=["res://.godot/imported/CRABRAWLER.ogg-2198345801b154a612380da38d1dc366.oggvorbisstr"]
 
 [params]
 

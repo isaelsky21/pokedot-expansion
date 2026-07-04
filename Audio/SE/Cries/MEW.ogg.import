@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://wtt3647teul1"
-path="res://.godot/imported/MEW.ogg-3bf5e4adf80eadc4b526dc57698fe60b.oggvorbisstr"
+path="res://.godot/imported/MEW.ogg-4b94731aeec713ef4ac931c6edf2f88f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/MEW.ogg"
-dest_files=["res://.godot/imported/MEW.ogg-3bf5e4adf80eadc4b526dc57698fe60b.oggvorbisstr"]
+source_file="res://audio/se/cries/MEW.ogg"
+dest_files=["res://.godot/imported/MEW.ogg-4b94731aeec713ef4ac931c6edf2f88f.oggvorbisstr"]
 
 [params]
 

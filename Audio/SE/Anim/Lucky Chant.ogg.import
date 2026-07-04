@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3i4itggkodao"
-path="res://.godot/imported/Lucky Chant.ogg-25f8414520af7b48c1603ee519fe40b9.oggvorbisstr"
+path="res://.godot/imported/Lucky Chant.ogg-af1bb1e85eda7ccab66de5de54ae7836.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Lucky Chant.ogg"
-dest_files=["res://.godot/imported/Lucky Chant.ogg-25f8414520af7b48c1603ee519fe40b9.oggvorbisstr"]
+source_file="res://audio/se/anim/Lucky Chant.ogg"
+dest_files=["res://.godot/imported/Lucky Chant.ogg-af1bb1e85eda7ccab66de5de54ae7836.oggvorbisstr"]
 
 [params]
 

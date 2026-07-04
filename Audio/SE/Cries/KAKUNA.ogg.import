@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b8cfqq26npy1q"
-path="res://.godot/imported/KAKUNA.ogg-617ef7d0d892376a9b01535af0d6c5dd.oggvorbisstr"
+path="res://.godot/imported/KAKUNA.ogg-bc958db77725a01663334e4e73d11376.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/KAKUNA.ogg"
-dest_files=["res://.godot/imported/KAKUNA.ogg-617ef7d0d892376a9b01535af0d6c5dd.oggvorbisstr"]
+source_file="res://audio/se/cries/KAKUNA.ogg"
+dest_files=["res://.godot/imported/KAKUNA.ogg-bc958db77725a01663334e4e73d11376.oggvorbisstr"]
 
 [params]
 

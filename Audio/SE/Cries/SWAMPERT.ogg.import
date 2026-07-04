@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bki6j80ixrhjo"
-path="res://.godot/imported/SWAMPERT.ogg-69f53711f9201f9b2d53558712785f17.oggvorbisstr"
+path="res://.godot/imported/SWAMPERT.ogg-4b56f66a220f50346ff95130c4905165.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SWAMPERT.ogg"
-dest_files=["res://.godot/imported/SWAMPERT.ogg-69f53711f9201f9b2d53558712785f17.oggvorbisstr"]
+source_file="res://audio/se/cries/SWAMPERT.ogg"
+dest_files=["res://.godot/imported/SWAMPERT.ogg-4b56f66a220f50346ff95130c4905165.oggvorbisstr"]
 
 [params]
 

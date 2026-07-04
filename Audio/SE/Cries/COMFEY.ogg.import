@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c35xrg3p8hdjn"
-path="res://.godot/imported/COMFEY.ogg-4a541ecbe2f00371d7115d922b8538e9.oggvorbisstr"
+path="res://.godot/imported/COMFEY.ogg-e78fdd72aba740a698802bcd54b2d82c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/COMFEY.ogg"
-dest_files=["res://.godot/imported/COMFEY.ogg-4a541ecbe2f00371d7115d922b8538e9.oggvorbisstr"]
+source_file="res://audio/se/cries/COMFEY.ogg"
+dest_files=["res://.godot/imported/COMFEY.ogg-e78fdd72aba740a698802bcd54b2d82c.oggvorbisstr"]
 
 [params]
 

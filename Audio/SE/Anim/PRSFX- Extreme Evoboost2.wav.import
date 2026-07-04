@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d1whsj6r6tg5r"
-path="res://.godot/imported/PRSFX- Extreme Evoboost2.wav-c6c49902fa197bebb46db7925ab9a06c.sample"
+path="res://.godot/imported/PRSFX- Extreme Evoboost2.wav-ada3adfcda5dea27dfc924c2208a0862.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Extreme Evoboost2.wav"
-dest_files=["res://.godot/imported/PRSFX- Extreme Evoboost2.wav-c6c49902fa197bebb46db7925ab9a06c.sample"]
+source_file="res://audio/se/anim/PRSFX- Extreme Evoboost2.wav"
+dest_files=["res://.godot/imported/PRSFX- Extreme Evoboost2.wav-ada3adfcda5dea27dfc924c2208a0862.sample"]
 
 [params]
 

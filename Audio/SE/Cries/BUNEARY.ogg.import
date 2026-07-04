@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://eyrpjle02nrj"
-path="res://.godot/imported/BUNEARY.ogg-76437a272cdd01e1ded0cc8de9b120ba.oggvorbisstr"
+path="res://.godot/imported/BUNEARY.ogg-f1e4a3072ce1b4d47f115e70ca363bdb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/BUNEARY.ogg"
-dest_files=["res://.godot/imported/BUNEARY.ogg-76437a272cdd01e1ded0cc8de9b120ba.oggvorbisstr"]
+source_file="res://audio/se/cries/BUNEARY.ogg"
+dest_files=["res://.godot/imported/BUNEARY.ogg-f1e4a3072ce1b4d47f115e70ca363bdb.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://x7o5rypvniq6"
-path="res://.godot/imported/TRUMBEAK.ogg-a83e618d0ac4704badb21ba24adfe68b.oggvorbisstr"
+path="res://.godot/imported/TRUMBEAK.ogg-6fc4055da05cb073ffd9cc7f7cdb3f88.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/TRUMBEAK.ogg"
-dest_files=["res://.godot/imported/TRUMBEAK.ogg-a83e618d0ac4704badb21ba24adfe68b.oggvorbisstr"]
+source_file="res://audio/se/cries/TRUMBEAK.ogg"
+dest_files=["res://.godot/imported/TRUMBEAK.ogg-6fc4055da05cb073ffd9cc7f7cdb3f88.oggvorbisstr"]
 
 [params]
 

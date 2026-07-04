@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bu3xlj3b8d8qo"
-path="res://.godot/imported/Battle victory trainer.ogg-48c276fd0e19512ba1d09848be1d5910.oggvorbisstr"
+path="res://.godot/imported/Battle victory trainer.ogg-c741efeb54e3ddabb2916d59ffce59cd.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/BGM/Battle victory trainer.ogg"
-dest_files=["res://.godot/imported/Battle victory trainer.ogg-48c276fd0e19512ba1d09848be1d5910.oggvorbisstr"]
+source_file="res://audio/bgm/Battle victory trainer.ogg"
+dest_files=["res://.godot/imported/Battle victory trainer.ogg-c741efeb54e3ddabb2916d59ffce59cd.oggvorbisstr"]
 
 [params]
 

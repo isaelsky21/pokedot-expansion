@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://covcbxb1kv2ln"
-path="res://.godot/imported/GOOMY.ogg-ec65474f5cc9b1f6967616bc4b2b9607.oggvorbisstr"
+path="res://.godot/imported/GOOMY.ogg-aa4ba5f16ed79cace3a68e198a12a14c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOOMY.ogg"
-dest_files=["res://.godot/imported/GOOMY.ogg-ec65474f5cc9b1f6967616bc4b2b9607.oggvorbisstr"]
+source_file="res://audio/se/cries/GOOMY.ogg"
+dest_files=["res://.godot/imported/GOOMY.ogg-aa4ba5f16ed79cace3a68e198a12a14c.oggvorbisstr"]
 
 [params]
 

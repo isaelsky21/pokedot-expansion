@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c24ojaajcq4lp"
-path="res://.godot/imported/PRSFX- Leafage 1.wav-a45f03be00c15596fcbd1b51d91dc6e9.sample"
+path="res://.godot/imported/PRSFX- Leafage 1.wav-0915103b7e9d1f265334de357ff6f73c.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Leafage 1.wav"
-dest_files=["res://.godot/imported/PRSFX- Leafage 1.wav-a45f03be00c15596fcbd1b51d91dc6e9.sample"]
+source_file="res://audio/se/anim/PRSFX- Leafage 1.wav"
+dest_files=["res://.godot/imported/PRSFX- Leafage 1.wav-0915103b7e9d1f265334de357ff6f73c.sample"]
 
 [params]
 

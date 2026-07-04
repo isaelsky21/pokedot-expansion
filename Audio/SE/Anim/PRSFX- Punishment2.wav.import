@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dubmwiijt3n7v"
-path="res://.godot/imported/PRSFX- Punishment2.wav-6caf129bcc7a8ac36ff198d77dd96d27.sample"
+path="res://.godot/imported/PRSFX- Punishment2.wav-c4e8c0a9a0972cf0922c148b40d00ef4.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Punishment2.wav"
-dest_files=["res://.godot/imported/PRSFX- Punishment2.wav-6caf129bcc7a8ac36ff198d77dd96d27.sample"]
+source_file="res://audio/se/anim/PRSFX- Punishment2.wav"
+dest_files=["res://.godot/imported/PRSFX- Punishment2.wav-c4e8c0a9a0972cf0922c148b40d00ef4.sample"]
 
 [params]
 

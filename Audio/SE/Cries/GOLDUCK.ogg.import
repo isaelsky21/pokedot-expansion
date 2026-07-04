@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://yt7mmogkpsbd"
-path="res://.godot/imported/GOLDUCK.ogg-61c4be694317dbd9fce518fc0208fd6d.oggvorbisstr"
+path="res://.godot/imported/GOLDUCK.ogg-b90dec37e4e92a9d6ef30628e0a3f337.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/GOLDUCK.ogg"
-dest_files=["res://.godot/imported/GOLDUCK.ogg-61c4be694317dbd9fce518fc0208fd6d.oggvorbisstr"]
+source_file="res://audio/se/cries/GOLDUCK.ogg"
+dest_files=["res://.godot/imported/GOLDUCK.ogg-b90dec37e4e92a9d6ef30628e0a3f337.oggvorbisstr"]
 
 [params]
 

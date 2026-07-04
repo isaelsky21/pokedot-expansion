@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b7jrmxtjvsm4j"
-path="res://.godot/imported/FLORAGATO.ogg-ac193f199a98fc9cbf19e6b0794d2c03.oggvorbisstr"
+path="res://.godot/imported/FLORAGATO.ogg-456a7e01866930d993c30b37914b4cf5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/FLORAGATO.ogg"
-dest_files=["res://.godot/imported/FLORAGATO.ogg-ac193f199a98fc9cbf19e6b0794d2c03.oggvorbisstr"]
+source_file="res://audio/se/cries/FLORAGATO.ogg"
+dest_files=["res://.godot/imported/FLORAGATO.ogg-456a7e01866930d993c30b37914b4cf5.oggvorbisstr"]
 
 [params]
 

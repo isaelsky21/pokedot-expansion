@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://4otym6oqxyex"
-path="res://.godot/imported/YANMA.ogg-3c94ed2cda416508a76705ca6cd5e770.oggvorbisstr"
+path="res://.godot/imported/YANMA.ogg-41e16709484ad540a7bfb2a11c39752a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/YANMA.ogg"
-dest_files=["res://.godot/imported/YANMA.ogg-3c94ed2cda416508a76705ca6cd5e770.oggvorbisstr"]
+source_file="res://audio/se/cries/YANMA.ogg"
+dest_files=["res://.godot/imported/YANMA.ogg-41e16709484ad540a7bfb2a11c39752a.oggvorbisstr"]
 
 [params]
 

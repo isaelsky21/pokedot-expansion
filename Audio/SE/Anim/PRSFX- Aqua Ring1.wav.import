@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://tvq4b50bosuq"
-path="res://.godot/imported/PRSFX- Aqua Ring1.wav-289995f2cebe14e96a68093b3903ae23.sample"
+path="res://.godot/imported/PRSFX- Aqua Ring1.wav-37b18753fd64284353e651fd277ae5f0.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Aqua Ring1.wav"
-dest_files=["res://.godot/imported/PRSFX- Aqua Ring1.wav-289995f2cebe14e96a68093b3903ae23.sample"]
+source_file="res://audio/se/anim/PRSFX- Aqua Ring1.wav"
+dest_files=["res://.godot/imported/PRSFX- Aqua Ring1.wav-37b18753fd64284353e651fd277ae5f0.sample"]
 
 [params]
 

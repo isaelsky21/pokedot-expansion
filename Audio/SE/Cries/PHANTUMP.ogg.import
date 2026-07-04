@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5opt8gmc0nwh"
-path="res://.godot/imported/PHANTUMP.ogg-6e3d7baddb511c6e9d02982f0298498a.oggvorbisstr"
+path="res://.godot/imported/PHANTUMP.ogg-a43992ff63f4e627a5a8d9de3763ed42.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PHANTUMP.ogg"
-dest_files=["res://.godot/imported/PHANTUMP.ogg-6e3d7baddb511c6e9d02982f0298498a.oggvorbisstr"]
+source_file="res://audio/se/cries/PHANTUMP.ogg"
+dest_files=["res://.godot/imported/PHANTUMP.ogg-a43992ff63f4e627a5a8d9de3763ed42.oggvorbisstr"]
 
 [params]
 

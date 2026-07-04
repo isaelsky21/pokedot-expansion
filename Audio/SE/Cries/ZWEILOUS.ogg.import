@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://0dejp3q07l60"
-path="res://.godot/imported/ZWEILOUS.ogg-f0c970390d540b2a21b133ac9273224d.oggvorbisstr"
+path="res://.godot/imported/ZWEILOUS.ogg-bf94a5479733740d3757fb5cbc0018ff.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/ZWEILOUS.ogg"
-dest_files=["res://.godot/imported/ZWEILOUS.ogg-f0c970390d540b2a21b133ac9273224d.oggvorbisstr"]
+source_file="res://audio/se/cries/ZWEILOUS.ogg"
+dest_files=["res://.godot/imported/ZWEILOUS.ogg-bf94a5479733740d3757fb5cbc0018ff.oggvorbisstr"]
 
 [params]
 

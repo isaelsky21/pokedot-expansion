@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ctmwu0t4og4k2"
-path="res://.godot/imported/PRSFX- Earthquake2.wav-89df9d28d15d5b57a82e4156b7f63894.sample"
+path="res://.godot/imported/PRSFX- Earthquake2.wav-d1bb6d4eb719b15f5537658e9a572ca5.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Earthquake2.wav"
-dest_files=["res://.godot/imported/PRSFX- Earthquake2.wav-89df9d28d15d5b57a82e4156b7f63894.sample"]
+source_file="res://audio/se/anim/PRSFX- Earthquake2.wav"
+dest_files=["res://.godot/imported/PRSFX- Earthquake2.wav-d1bb6d4eb719b15f5537658e9a572ca5.sample"]
 
 [params]
 

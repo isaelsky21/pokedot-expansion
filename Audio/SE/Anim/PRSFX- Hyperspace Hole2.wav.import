@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b3t8oushnv8w6"
-path="res://.godot/imported/PRSFX- Hyperspace Hole2.wav-6c8b4e85c27f9a0cd684cec76deab1a1.sample"
+path="res://.godot/imported/PRSFX- Hyperspace Hole2.wav-0d70c6e03d6e6193af72b4f843a9c37b.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Hyperspace Hole2.wav"
-dest_files=["res://.godot/imported/PRSFX- Hyperspace Hole2.wav-6c8b4e85c27f9a0cd684cec76deab1a1.sample"]
+source_file="res://audio/se/anim/PRSFX- Hyperspace Hole2.wav"
+dest_files=["res://.godot/imported/PRSFX- Hyperspace Hole2.wav-0d70c6e03d6e6193af72b4f843a9c37b.sample"]
 
 [params]
 

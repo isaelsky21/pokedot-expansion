@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://davldcupnk75c"
-path="res://.godot/imported/LAPRAS_1.ogg-74355527483deb71483d5a64512a65fc.oggvorbisstr"
+path="res://.godot/imported/LAPRAS_1.ogg-435aa92f4bb1572a3be936b83c50201b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/LAPRAS_1.ogg"
-dest_files=["res://.godot/imported/LAPRAS_1.ogg-74355527483deb71483d5a64512a65fc.oggvorbisstr"]
+source_file="res://audio/se/cries/LAPRAS_1.ogg"
+dest_files=["res://.godot/imported/LAPRAS_1.ogg-435aa92f4bb1572a3be936b83c50201b.oggvorbisstr"]
 
 [params]
 

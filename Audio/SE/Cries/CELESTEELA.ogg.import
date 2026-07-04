@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dii7wkca5llkw"
-path="res://.godot/imported/CELESTEELA.ogg-91b83e3a4d2c49cc975baba985cd7985.oggvorbisstr"
+path="res://.godot/imported/CELESTEELA.ogg-8ea8186a45c13f30809d8b71e63a0102.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/CELESTEELA.ogg"
-dest_files=["res://.godot/imported/CELESTEELA.ogg-91b83e3a4d2c49cc975baba985cd7985.oggvorbisstr"]
+source_file="res://audio/se/cries/CELESTEELA.ogg"
+dest_files=["res://.godot/imported/CELESTEELA.ogg-8ea8186a45c13f30809d8b71e63a0102.oggvorbisstr"]
 
 [params]
 

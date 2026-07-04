@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://co7dwm4821i3v"
-path="res://.godot/imported/PRSFX- Drill Peck.wav-b29a46e9787399b9ea7b5d031a1b10de.sample"
+path="res://.godot/imported/PRSFX- Drill Peck.wav-f7f898d3110ca066af9712fc28fdcf4d.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Drill Peck.wav"
-dest_files=["res://.godot/imported/PRSFX- Drill Peck.wav-b29a46e9787399b9ea7b5d031a1b10de.sample"]
+source_file="res://audio/se/anim/PRSFX- Drill Peck.wav"
+dest_files=["res://.godot/imported/PRSFX- Drill Peck.wav-f7f898d3110ca066af9712fc28fdcf4d.sample"]
 
 [params]
 

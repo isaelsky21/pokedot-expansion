@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d2dn611rkpbvb"
-path="res://.godot/imported/Safari Zone.wav-44febf9ffdfe003e88ed3c0ad03eb61c.sample"
+path="res://.godot/imported/Safari Zone.wav-b0f86e3e4915ffad10e13d45fb190e3e.sample"
 
 [deps]
 
-source_file="res://Audio/BGM/Safari Zone.wav"
-dest_files=["res://.godot/imported/Safari Zone.wav-44febf9ffdfe003e88ed3c0ad03eb61c.sample"]
+source_file="res://audio/bgm/Safari Zone.wav"
+dest_files=["res://.godot/imported/Safari Zone.wav-b0f86e3e4915ffad10e13d45fb190e3e.sample"]
 
 [params]
 

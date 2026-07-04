@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dyesfkd5g3a4n"
-path="res://.godot/imported/PRSFX- Psybeam.wav-844da7dbb2f8dddd07a3887f9c90e3ae.sample"
+path="res://.godot/imported/PRSFX- Psybeam.wav-3077ff11f0e8552183d48a480d9086f1.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psybeam.wav"
-dest_files=["res://.godot/imported/PRSFX- Psybeam.wav-844da7dbb2f8dddd07a3887f9c90e3ae.sample"]
+source_file="res://audio/se/anim/PRSFX- Psybeam.wav"
+dest_files=["res://.godot/imported/PRSFX- Psybeam.wav-3077ff11f0e8552183d48a480d9086f1.sample"]
 
 [params]
 

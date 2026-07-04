@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://7y6fyfshk0r"
-path="res://.godot/imported/PRSFX- Frenzy Plant1.wav-b57f16311a1511acad8a79ee5d60a0b4.sample"
+path="res://.godot/imported/PRSFX- Frenzy Plant1.wav-6b97839228d1aa73217c1d6ac1b947f7.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Frenzy Plant1.wav"
-dest_files=["res://.godot/imported/PRSFX- Frenzy Plant1.wav-b57f16311a1511acad8a79ee5d60a0b4.sample"]
+source_file="res://audio/se/anim/PRSFX- Frenzy Plant1.wav"
+dest_files=["res://.godot/imported/PRSFX- Frenzy Plant1.wav-6b97839228d1aa73217c1d6ac1b947f7.sample"]
 
 [params]
 

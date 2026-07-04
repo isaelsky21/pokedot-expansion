@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b030qtd77gbjn"
-path="res://.godot/imported/PRSFX- Psychic.wav-191eeb77ce221b5304b08d8de7095aef.sample"
+path="res://.godot/imported/PRSFX- Psychic.wav-7ad0581dadfce83396284473a11aacab.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Psychic.wav"
-dest_files=["res://.godot/imported/PRSFX- Psychic.wav-191eeb77ce221b5304b08d8de7095aef.sample"]
+source_file="res://audio/se/anim/PRSFX- Psychic.wav"
+dest_files=["res://.godot/imported/PRSFX- Psychic.wav-7ad0581dadfce83396284473a11aacab.sample"]
 
 [params]
 

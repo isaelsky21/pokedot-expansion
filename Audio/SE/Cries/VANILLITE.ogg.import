@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dhlwcoq4cskqj"
-path="res://.godot/imported/VANILLITE.ogg-60819ac090f1e2e6914883576370595d.oggvorbisstr"
+path="res://.godot/imported/VANILLITE.ogg-803657a5ad8ffa4eaef19429f9a10e0c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VANILLITE.ogg"
-dest_files=["res://.godot/imported/VANILLITE.ogg-60819ac090f1e2e6914883576370595d.oggvorbisstr"]
+source_file="res://audio/se/cries/VANILLITE.ogg"
+dest_files=["res://.godot/imported/VANILLITE.ogg-803657a5ad8ffa4eaef19429f9a10e0c.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cdkeevdvomct1"
-path="res://.godot/imported/PRSFX- Shadow Sneak1.wav-76e5116eeceae9b62c1df9a2ec4e5529.sample"
+path="res://.godot/imported/PRSFX- Shadow Sneak1.wav-664e43883b690601c70eef5932bd2010.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Shadow Sneak1.wav"
-dest_files=["res://.godot/imported/PRSFX- Shadow Sneak1.wav-76e5116eeceae9b62c1df9a2ec4e5529.sample"]
+source_file="res://audio/se/anim/PRSFX- Shadow Sneak1.wav"
+dest_files=["res://.godot/imported/PRSFX- Shadow Sneak1.wav-664e43883b690601c70eef5932bd2010.sample"]
 
 [params]
 

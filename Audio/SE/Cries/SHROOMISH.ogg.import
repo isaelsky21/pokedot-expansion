@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dawa2moab64mc"
-path="res://.godot/imported/SHROOMISH.ogg-3bc0a995cca05101da8066c0021933c2.oggvorbisstr"
+path="res://.godot/imported/SHROOMISH.ogg-7e76c25ce26d45c1f02a8510095aa718.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/SHROOMISH.ogg"
-dest_files=["res://.godot/imported/SHROOMISH.ogg-3bc0a995cca05101da8066c0021933c2.oggvorbisstr"]
+source_file="res://audio/se/cries/SHROOMISH.ogg"
+dest_files=["res://.godot/imported/SHROOMISH.ogg-7e76c25ce26d45c1f02a8510095aa718.oggvorbisstr"]
 
 [params]
 

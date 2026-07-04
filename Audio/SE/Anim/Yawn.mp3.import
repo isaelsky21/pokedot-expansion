@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://d3edwcdu8i78k"
-path="res://.godot/imported/Yawn.mp3-0357cd7e05f35c09a9d39c1c68bbb76f.mp3str"
+path="res://.godot/imported/Yawn.mp3-cb3f8d15bd4e7f548f19d02f73c8b975.mp3str"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/Yawn.mp3"
-dest_files=["res://.godot/imported/Yawn.mp3-0357cd7e05f35c09a9d39c1c68bbb76f.mp3str"]
+source_file="res://audio/se/anim/Yawn.mp3"
+dest_files=["res://.godot/imported/Yawn.mp3-cb3f8d15bd4e7f548f19d02f73c8b975.mp3str"]
 
 [params]
 

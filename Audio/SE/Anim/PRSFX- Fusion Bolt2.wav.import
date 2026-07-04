@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://blwpn486y8e8h"
-path="res://.godot/imported/PRSFX- Fusion Bolt2.wav-29b6f6e5f4a9d8418d4eaf83136be9c9.sample"
+path="res://.godot/imported/PRSFX- Fusion Bolt2.wav-d484466ef3c0e69032153456d6305c83.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fusion Bolt2.wav"
-dest_files=["res://.godot/imported/PRSFX- Fusion Bolt2.wav-29b6f6e5f4a9d8418d4eaf83136be9c9.sample"]
+source_file="res://audio/se/anim/PRSFX- Fusion Bolt2.wav"
+dest_files=["res://.godot/imported/PRSFX- Fusion Bolt2.wav-d484466ef3c0e69032153456d6305c83.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d2cxnw7t4srmb"
-path="res://.godot/imported/PRSFX- Thousand Waves1.wav-5db9d41f8a44102cbd08d5561c19f861.sample"
+path="res://.godot/imported/PRSFX- Thousand Waves1.wav-e5e5143dca66774628c56297333eaf7e.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Thousand Waves1.wav"
-dest_files=["res://.godot/imported/PRSFX- Thousand Waves1.wav-5db9d41f8a44102cbd08d5561c19f861.sample"]
+source_file="res://audio/se/anim/PRSFX- Thousand Waves1.wav"
+dest_files=["res://.godot/imported/PRSFX- Thousand Waves1.wav-e5e5143dca66774628c56297333eaf7e.sample"]
 
 [params]
 

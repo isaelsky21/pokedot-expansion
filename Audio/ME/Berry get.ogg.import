@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cucghpjopbeep"
-path="res://.godot/imported/Berry get.ogg-49928a09bfc686e17e03b0a8adece671.oggvorbisstr"
+path="res://.godot/imported/Berry get.ogg-6c3c504cba8cdc11402d0160538ca60d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/ME/Berry get.ogg"
-dest_files=["res://.godot/imported/Berry get.ogg-49928a09bfc686e17e03b0a8adece671.oggvorbisstr"]
+source_file="res://audio/me/Berry get.ogg"
+dest_files=["res://.godot/imported/Berry get.ogg-6c3c504cba8cdc11402d0160538ca60d.oggvorbisstr"]
 
 [params]
 

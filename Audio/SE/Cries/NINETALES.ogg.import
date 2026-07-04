@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bfxfc8apahcpk"
-path="res://.godot/imported/NINETALES.ogg-868297ff722d61f397d91fb6a4b7a967.oggvorbisstr"
+path="res://.godot/imported/NINETALES.ogg-180dd68409b5dcc7404221980cc4064b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/NINETALES.ogg"
-dest_files=["res://.godot/imported/NINETALES.ogg-868297ff722d61f397d91fb6a4b7a967.oggvorbisstr"]
+source_file="res://audio/se/cries/NINETALES.ogg"
+dest_files=["res://.godot/imported/NINETALES.ogg-180dd68409b5dcc7404221980cc4064b.oggvorbisstr"]
 
 [params]
 

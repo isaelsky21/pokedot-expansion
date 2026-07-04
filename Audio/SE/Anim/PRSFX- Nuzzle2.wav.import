@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://punald7bx1g1"
-path="res://.godot/imported/PRSFX- Nuzzle2.wav-bf71f654e665c759a6a3ab12336b8dc2.sample"
+path="res://.godot/imported/PRSFX- Nuzzle2.wav-45c59fb3da7cdc8fc34d22df565f0d55.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Nuzzle2.wav"
-dest_files=["res://.godot/imported/PRSFX- Nuzzle2.wav-bf71f654e665c759a6a3ab12336b8dc2.sample"]
+source_file="res://audio/se/anim/PRSFX- Nuzzle2.wav"
+dest_files=["res://.godot/imported/PRSFX- Nuzzle2.wav-45c59fb3da7cdc8fc34d22df565f0d55.sample"]
 
 [params]
 

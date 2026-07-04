@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bebdolv0jmenb"
-path="res://.godot/imported/VIBRAVA.ogg-6e3fb5972fc38ff49300297099c8e016.oggvorbisstr"
+path="res://.godot/imported/VIBRAVA.ogg-480324cc394a7dbab7d5651a55c665e7.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/VIBRAVA.ogg"
-dest_files=["res://.godot/imported/VIBRAVA.ogg-6e3fb5972fc38ff49300297099c8e016.oggvorbisstr"]
+source_file="res://audio/se/cries/VIBRAVA.ogg"
+dest_files=["res://.godot/imported/VIBRAVA.ogg-480324cc394a7dbab7d5651a55c665e7.oggvorbisstr"]
 
 [params]
 

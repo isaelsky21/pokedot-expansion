@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c5f48lar5ld58"
-path="res://.godot/imported/PRSFX- Fissure.wav-c2580f6c68a3875abe72eacd7854bb88.sample"
+path="res://.godot/imported/PRSFX- Fissure.wav-e3c71d42da5fb81702d5a94e7a7d1450.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Fissure.wav"
-dest_files=["res://.godot/imported/PRSFX- Fissure.wav-c2580f6c68a3875abe72eacd7854bb88.sample"]
+source_file="res://audio/se/anim/PRSFX- Fissure.wav"
+dest_files=["res://.godot/imported/PRSFX- Fissure.wav-e3c71d42da5fb81702d5a94e7a7d1450.sample"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dkthqc15rkoby"
-path="res://.godot/imported/PERRSERKER.ogg-96f0e00fadb180da467a6cd9e324132f.oggvorbisstr"
+path="res://.godot/imported/PERRSERKER.ogg-6a57ab8bfaecabac48f0f8d72123e357.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Cries/PERRSERKER.ogg"
-dest_files=["res://.godot/imported/PERRSERKER.ogg-96f0e00fadb180da467a6cd9e324132f.oggvorbisstr"]
+source_file="res://audio/se/cries/PERRSERKER.ogg"
+dest_files=["res://.godot/imported/PERRSERKER.ogg-6a57ab8bfaecabac48f0f8d72123e357.oggvorbisstr"]
 
 [params]
 

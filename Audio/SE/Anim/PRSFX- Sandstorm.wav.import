@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bfha0xx1ph55d"
-path="res://.godot/imported/PRSFX- Sandstorm.wav-ea1cd1e67fbeaabe9359ee1b19b7a0b6.sample"
+path="res://.godot/imported/PRSFX- Sandstorm.wav-8334f20552a0c843d73fab4d83794e84.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Sandstorm.wav"
-dest_files=["res://.godot/imported/PRSFX- Sandstorm.wav-ea1cd1e67fbeaabe9359ee1b19b7a0b6.sample"]
+source_file="res://audio/se/anim/PRSFX- Sandstorm.wav"
+dest_files=["res://.godot/imported/PRSFX- Sandstorm.wav-8334f20552a0c843d73fab4d83794e84.sample"]
 
 [params]
 

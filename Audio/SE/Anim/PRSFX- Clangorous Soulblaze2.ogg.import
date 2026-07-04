@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dx2m8d4unj6nv"
-path="res://.godot/imported/PRSFX- Clangorous Soulblaze2.ogg-75a47cfadc1658d08dfff71d77a3a4d2.oggvorbisstr"
+path="res://.godot/imported/PRSFX- Clangorous Soulblaze2.ogg-ce2c0ad5f9a6bd8d3474687d31c67d3b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Clangorous Soulblaze2.ogg"
-dest_files=["res://.godot/imported/PRSFX- Clangorous Soulblaze2.ogg-75a47cfadc1658d08dfff71d77a3a4d2.oggvorbisstr"]
+source_file="res://audio/se/anim/PRSFX- Clangorous Soulblaze2.ogg"
+dest_files=["res://.godot/imported/PRSFX- Clangorous Soulblaze2.ogg-ce2c0ad5f9a6bd8d3474687d31c67d3b.oggvorbisstr"]
 
 [params]
 

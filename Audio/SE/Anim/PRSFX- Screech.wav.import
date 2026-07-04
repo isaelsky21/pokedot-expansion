@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cjckb22e3hv7h"
-path="res://.godot/imported/PRSFX- Screech.wav-e4703daf4ad1de3fb9c9bb79476e5884.sample"
+path="res://.godot/imported/PRSFX- Screech.wav-4ec10e65776f936e5f07b47d2ae7e8bb.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Screech.wav"
-dest_files=["res://.godot/imported/PRSFX- Screech.wav-e4703daf4ad1de3fb9c9bb79476e5884.sample"]
+source_file="res://audio/se/anim/PRSFX- Screech.wav"
+dest_files=["res://.godot/imported/PRSFX- Screech.wav-4ec10e65776f936e5f07b47d2ae7e8bb.sample"]
 
 [params]
 

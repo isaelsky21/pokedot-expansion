@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://csq21os6806ep"
-path="res://.godot/imported/PRSFX- Power Gem1.wav-af1bdff7669555ceea2cbe1b58ae1c83.sample"
+path="res://.godot/imported/PRSFX- Power Gem1.wav-2e8c14f0d7208f9479594ec8072b3f2f.sample"
 
 [deps]
 
-source_file="res://Audio/SE/Anim/PRSFX- Power Gem1.wav"
-dest_files=["res://.godot/imported/PRSFX- Power Gem1.wav-af1bdff7669555ceea2cbe1b58ae1c83.sample"]
+source_file="res://audio/se/anim/PRSFX- Power Gem1.wav"
+dest_files=["res://.godot/imported/PRSFX- Power Gem1.wav-2e8c14f0d7208f9479594ec8072b3f2f.sample"]
 
 [params]
 
