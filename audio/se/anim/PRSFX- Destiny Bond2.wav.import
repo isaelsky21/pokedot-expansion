@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cnsbs5eppubsg"
+path="res://.godot/imported/PRSFX- Destiny Bond2.wav-974951f58e41fd9e22e4bfa798523adf.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Destiny Bond2.wav"
+dest_files=["res://.godot/imported/PRSFX- Destiny Bond2.wav-974951f58e41fd9e22e4bfa798523adf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

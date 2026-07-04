@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ceaprk47ggru1"
+path="res://.godot/imported/Battle low HP.ogg-d92b320cab518ea063aaa1409d4eadde.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/bgm/Battle low HP.ogg"
+dest_files=["res://.godot/imported/Battle low HP.ogg-d92b320cab518ea063aaa1409d4eadde.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

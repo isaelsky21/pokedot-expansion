@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2gitrp7274iw"
+path="res://.godot/imported/Natural Gift.mp3-ba716fddc1705c333d089ee05976e519.mp3str"
+
+[deps]
+
+source_file="res://audio/se/anim/Natural Gift.mp3"
+dest_files=["res://.godot/imported/Natural Gift.mp3-ba716fddc1705c333d089ee05976e519.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

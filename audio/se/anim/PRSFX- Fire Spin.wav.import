@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dk78ne56gcfqw"
+path="res://.godot/imported/PRSFX- Fire Spin.wav-02607b0b8bfca681793c341d0619f28f.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Fire Spin.wav"
+dest_files=["res://.godot/imported/PRSFX- Fire Spin.wav-02607b0b8bfca681793c341d0619f28f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cva6t51xb0bl4"
+path="res://.godot/imported/PRSFX- Grass Whistle.wav-f71a206cebc2343afbe40eea4a6dedce.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Grass Whistle.wav"
+dest_files=["res://.godot/imported/PRSFX- Grass Whistle.wav-f71a206cebc2343afbe40eea4a6dedce.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

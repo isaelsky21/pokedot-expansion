@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://n1ghi4yvyuma"
+path="res://.godot/imported/Z-Move Title.ogg-99f9d1183d4cc69cf90768a1a863cd25.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/Z-Move Title.ogg"
+dest_files=["res://.godot/imported/Z-Move Title.ogg-99f9d1183d4cc69cf90768a1a863cd25.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

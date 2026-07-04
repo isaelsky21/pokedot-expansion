@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cyaf5rgm6lkob"
+path="res://.godot/imported/PRSFX- Superpower2.wav-4bdd5b885e806a810fe117edae50ed63.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Superpower2.wav"
+dest_files=["res://.godot/imported/PRSFX- Superpower2.wav-4bdd5b885e806a810fe117edae50ed63.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

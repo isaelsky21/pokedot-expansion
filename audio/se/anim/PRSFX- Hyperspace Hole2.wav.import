@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b3t8oushnv8w6"
+path="res://.godot/imported/PRSFX- Hyperspace Hole2.wav-0d70c6e03d6e6193af72b4f843a9c37b.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Hyperspace Hole2.wav"
+dest_files=["res://.godot/imported/PRSFX- Hyperspace Hole2.wav-0d70c6e03d6e6193af72b4f843a9c37b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

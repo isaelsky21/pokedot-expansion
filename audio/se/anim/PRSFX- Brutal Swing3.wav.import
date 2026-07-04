@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://74e4kypd2cqh"
+path="res://.godot/imported/PRSFX- Brutal Swing3.wav-1047cb9a807e305ad70ca0a53413b7be.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Brutal Swing3.wav"
+dest_files=["res://.godot/imported/PRSFX- Brutal Swing3.wav-1047cb9a807e305ad70ca0a53413b7be.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

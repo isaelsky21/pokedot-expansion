@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bkdoy3f2iy20x"
+path="res://.godot/imported/PRSFX- Drain Punch2.wav-e16998f72b3c480fe7d616d05c11b216.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Drain Punch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Drain Punch2.wav-e16998f72b3c480fe7d616d05c11b216.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

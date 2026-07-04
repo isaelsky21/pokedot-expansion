@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://covkvh37ivhbg"
+path="res://.godot/imported/PRSFX- Sand.wav-9c98b9a5f0600b91c42a89fbbb7b9cfa.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Sand.wav"
+dest_files=["res://.godot/imported/PRSFX- Sand.wav-9c98b9a5f0600b91c42a89fbbb7b9cfa.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

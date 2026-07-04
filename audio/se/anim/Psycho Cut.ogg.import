@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://j6soeawh827i"
+path="res://.godot/imported/Psycho Cut.ogg-3495619463eaea215975b8ce469e6b00.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/anim/Psycho Cut.ogg"
+dest_files=["res://.godot/imported/Psycho Cut.ogg-3495619463eaea215975b8ce469e6b00.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

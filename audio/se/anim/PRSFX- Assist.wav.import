@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://83teh4h861ui"
+path="res://.godot/imported/PRSFX- Assist.wav-d924a2b995af745d756e6a7d7337b256.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Assist.wav"
+dest_files=["res://.godot/imported/PRSFX- Assist.wav-d924a2b995af745d756e6a7d7337b256.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

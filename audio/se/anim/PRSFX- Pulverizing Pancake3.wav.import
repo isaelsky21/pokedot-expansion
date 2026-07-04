@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://wotlvfnq31lc"
+path="res://.godot/imported/PRSFX- Pulverizing Pancake3.wav-8d744c6ec8ea785ac46da6527b603447.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Pulverizing Pancake3.wav"
+dest_files=["res://.godot/imported/PRSFX- Pulverizing Pancake3.wav-8d744c6ec8ea785ac46da6527b603447.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

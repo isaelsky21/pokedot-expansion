@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ci2ndle3ugpb0"
+path="res://.godot/imported/PRSFX- Skill Swap.wav-b67ff54d637ceb576fcfc6112bc55d7d.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Skill Swap.wav"
+dest_files=["res://.godot/imported/PRSFX- Skill Swap.wav-b67ff54d637ceb576fcfc6112bc55d7d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

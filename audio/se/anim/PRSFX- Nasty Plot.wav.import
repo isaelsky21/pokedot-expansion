@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://1k7stwwyeiw5"
+path="res://.godot/imported/PRSFX- Nasty Plot.wav-0177e32f28b9a31af5bd721e0e174e60.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Nasty Plot.wav"
+dest_files=["res://.godot/imported/PRSFX- Nasty Plot.wav-0177e32f28b9a31af5bd721e0e174e60.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

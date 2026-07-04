@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cq3jq78t4a8o4"
+path="res://.godot/imported/PRSFX- Camouflage.wav-af97c94f01c23ddbfe84cd893664eba8.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Camouflage.wav"
+dest_files=["res://.godot/imported/PRSFX- Camouflage.wav-af97c94f01c23ddbfe84cd893664eba8.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

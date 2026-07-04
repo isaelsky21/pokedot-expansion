@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bi2co8lxq4fhq"
+path="res://.godot/imported/PRSFX- Imprison2.wav-d4e7d6b534e0545d2b1d605087b43e87.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Imprison2.wav"
+dest_files=["res://.godot/imported/PRSFX- Imprison2.wav-d4e7d6b534e0545d2b1d605087b43e87.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

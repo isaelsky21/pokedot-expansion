@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://u3msvl8xv0le"
+path="res://.godot/imported/GUI naming tab swap start.ogg-d63a66fa0ae5c271a7fa8349d40915fc.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/GUI naming tab swap start.ogg"
+dest_files=["res://.godot/imported/GUI naming tab swap start.ogg-d63a66fa0ae5c271a7fa8349d40915fc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

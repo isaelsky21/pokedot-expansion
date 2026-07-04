@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bfu8ras7ltujw"
+path="res://.godot/imported/PRSFX- Heal Bell.wav-71861fb205b012750cbdd4e2bf650fee.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Heal Bell.wav"
+dest_files=["res://.godot/imported/PRSFX- Heal Bell.wav-71861fb205b012750cbdd4e2bf650fee.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

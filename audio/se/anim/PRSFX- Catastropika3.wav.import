@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dec7vp4ygveol"
+path="res://.godot/imported/PRSFX- Catastropika3.wav-1e6123f101f6cfdcd54f4a6ce3bf3417.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Catastropika3.wav"
+dest_files=["res://.godot/imported/PRSFX- Catastropika3.wav-1e6123f101f6cfdcd54f4a6ce3bf3417.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

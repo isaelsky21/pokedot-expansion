@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://df024qdc5fkjx"
+path="res://.godot/imported/PRSFX- Bite.wav-5252afb12b4e93a570e6da78cb797de5.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Bite.wav"
+dest_files=["res://.godot/imported/PRSFX- Bite.wav-5252afb12b4e93a570e6da78cb797de5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

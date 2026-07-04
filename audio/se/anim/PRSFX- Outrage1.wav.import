@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bohadplv4hnjn"
+path="res://.godot/imported/PRSFX- Outrage1.wav-a73c1beaa3420e64074ca1bbe5537fbb.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Outrage1.wav"
+dest_files=["res://.godot/imported/PRSFX- Outrage1.wav-a73c1beaa3420e64074ca1bbe5537fbb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

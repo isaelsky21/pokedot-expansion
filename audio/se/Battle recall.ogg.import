@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://0gup1abkbvx4"
+path="res://.godot/imported/Battle recall.ogg-c4e6e71426ddba6decbe7e84c737cada.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/Battle recall.ogg"
+dest_files=["res://.godot/imported/Battle recall.ogg-c4e6e71426ddba6decbe7e84c737cada.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

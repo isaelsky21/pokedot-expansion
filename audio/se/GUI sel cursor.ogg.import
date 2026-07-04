@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5i5wggvnipuj"
+path="res://.godot/imported/GUI sel cursor.ogg-6f0b6d836cac214d107bf13bd988649c.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/GUI sel cursor.ogg"
+dest_files=["res://.godot/imported/GUI sel cursor.ogg-6f0b6d836cac214d107bf13bd988649c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
