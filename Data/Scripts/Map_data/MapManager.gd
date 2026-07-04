@@ -19,14 +19,29 @@ func tile_a_posicion(tile_pos: Vector2i) -> Vector2:
 	return Vector2(tile_pos * tile_size) + Vector2(8, 16)
 
 func _ready():
+	if PlayerManager and not PlayerManager.data.current_map_scene.is_empty():
+		# Cargar desde datos guardados
+		var mapa_ruta = PlayerManager.data.current_map_scene
+		initial_map = load(mapa_ruta)
+		initial_player_tile = PlayerManager.data.grid_position
+	else:
+		# Si es partida nueva, usa lo configurado en el inspector
+		print("Iniciando con valores por defecto")
+
 	cargar_mapa_inicial()
-	# Configura la posición inicial del jugador y conecta la señal de movimiento completado
 	if player != null:
 		player.position = tile_a_posicion(initial_player_tile)
+		player.direccion = PlayerManager.data.direction # Sincronizamos dirección
 		player.paso_terminado.connect(_on_player_paso_terminado)
+
 ## Se ejecuta automáticamente cada vez que el jugador termina de dar un paso completo.
 func _on_player_paso_terminado():
 	revisar_salida_del_mapa()
+	if PlayerManager and current_map:
+		var tile_pos = posicion_a_tile(player.position)
+		PlayerManager.data.grid_position = tile_pos
+		PlayerManager.data.direction = player.direccion
+		PlayerManager.data.current_map_scene = current_map.scene_file_path
 ## Instancia y añade el mapa base al contenedor principal al arrancar el juego.
 func cargar_mapa_inicial():
 	if initial_map == null:
@@ -91,6 +106,10 @@ func cambiar_mapa(_direction: String, _old_tile_pos: Vector2i):
 	)
 	# Ubica al jugador en su nueva posición física y regenera las cargas de mapas vecinos
 	player.position = tile_a_posicion(new_tile_pos)
+	
+	# Guardamos los datos del nuevo mapa
+	PlayerManager.data.current_map_scene = current_map.scene_file_path
+	PlayerManager.data.grid_position = new_tile_pos
 	cargar_vecinos()
 ## Retorna el recurso MapConnection correspondiente a la dirección consultada.
 func obtener_conexion(_direction: String) -> MapConnection:

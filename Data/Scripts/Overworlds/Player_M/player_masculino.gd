@@ -39,9 +39,19 @@ var dir_to_anim: Dictionary = {
 }
 #funciòn de inicio donde se define la posicion del objetivo y se iguala a la posicion para luego llamar a la funcion de mostrar idle con la variable direccion.
 func _ready():
-	# Inicializa los objetivos y fuerza la pose de descanso en la dirección por defecto
+	var casilla_x = 7   
+	var casilla_y = 10  
+	position = Vector2(casilla_x * tile_block, casilla_y * tile_block) + Vector2(8, 16)
+	direccion = Vector2.DOWN
 	posicion_obj = position
 	mostrar_idle(direccion)
+
+	# ✅ PRUEBA: Agregar un Bulbasaur para ver en el menú
+	var mi_prueba = Pokemon.new()
+	mi_prueba.setup_new_pokemon(Species.SpeciesId.SPECIES_BULBASAUR, 10)
+	if PlayerManager.data.party.is_empty():
+		PlayerManager.data.party.append(mi_prueba)
+		print("✅ Pokémon de prueba agregado")
 
 #funcion para manejar startmenu
 func _process(_delta):
@@ -93,6 +103,10 @@ func actualizar_movimiento(delta: float):
 	position = posicion_obj
 	moviendose = false
 	puede_encadenar_paso = true
+	
+	#PlayerManager.data.grid_x = int(round(position.x / tile_block))
+	#PlayerManager.data.grid_y = int(round(position.y / tile_block))
+	#PlayerManager.data.direction = direccion
 	
 	# Al emitir esto, el MapManager actualizará las costuras con la posición final perfecta
 	paso_terminado.emit()
@@ -292,3 +306,11 @@ func ejecutar_paso_escalera(dir: Vector2, tipo_escalera: String):
 	# 4. Al llegar a la meta, restauramos las capas físicas originales de inmediato
 	collision_layer = capa_original
 	collision_mask = mascara_original
+
+func _input(event: InputEvent) -> void:
+	if event is InputEventKey and event.pressed:
+		# Tus teclas de guardado/carga que ya tienes
+		if event.keycode == KEY_F5:
+			SaveBlock.guardar_partida(1)
+		elif event.keycode == KEY_F9:
+			SaveBlock.cargar_partida(1)

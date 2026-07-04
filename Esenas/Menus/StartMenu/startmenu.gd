@@ -1,5 +1,8 @@
 extends CanvasLayer
 
+const RUTA_PARTY_MENU: String = "res://Esenas/Menus/PartyMenu/party_menu.tscn"
+const PARTY_MENU: PackedScene = preload(RUTA_PARTY_MENU)
+
 @onready var menu = $Control/GridContainer
 @onready var sfx_tilegamecursor: AudioStreamPlayer = $TileGameCursor # Referencia de sonido
 @onready var sfx_uimenuopen: AudioStreamPlayer = $UImenuOpen
@@ -46,7 +49,7 @@ func toggle_menu():
 		await get_tree().process_frame
 		
 		# 3. Le metemos el foco al primer botón a la fuerza
-		if menu.get_child_count() > 0:
+		if is_inside_tree() and menu.get_child_count() > 0:
 			var primer_boton = menu.get_child(0)
 			primer_boton.grab_focus()
 			
@@ -69,9 +72,17 @@ func toggle_menu():
 		# Si se cierra, apagamos la escucha de inputs de la UI
 		set_process_unhandled_input(false)
 
-# --- ACTUALIZACIÓN MANUAL DE BRILLO ---
+# --- ACTUALIZACIÓN MANUAL DE BRILLO (CORREGIDO) ---
 func actualizar_brillo_botones():
-	var current_focus = get_viewport().gui_get_focus_owner()
+	# ESCUDO: Si el menú está saliendo de la memoria, frenamos la ejecución
+	if not is_inside_tree():
+		return
+		
+	var vp = get_viewport()
+	if vp == null:
+		return
+		
+	var current_focus = vp.gui_get_focus_owner()
 	
 	for button in menu.get_children():
 		if button is BaseButton:
@@ -85,7 +96,11 @@ func _unhandled_input(event):
 	if not is_open:
 		return
 		
-	var current_focus = get_viewport().gui_get_focus_owner()
+	var vp = get_viewport()
+	if vp == null:
+		return
+		
+	var current_focus = vp.gui_get_focus_owner()
 	
 	if current_focus == null or not current_focus.get_parent() == menu:
 		return
@@ -106,7 +121,7 @@ func _unhandled_input(event):
 		if current_index - 2 >= 0:
 			new_index = current_index - 2
 			
-	if new_index != current_index:
+	if new_index != current_index and is_inside_tree():
 		menu.get_child(new_index).grab_focus()
 		
 		# ¡REPRODUCIR SONIDO DE DESPLAZAMIENTO!
@@ -117,10 +132,57 @@ func _unhandled_input(event):
 		get_viewport().set_input_as_handled()
 
 func _on_option_selected(option: String):
+	# ESCUDO: Asegurar que el nodo existe antes de procesar la selección
+	if not is_inside_tree():
+		return
+
 	match option:
-		"Pokedex": print("Abrir Pokédex")
-		"Pokemon": print("Abrir equipo Pokémon")
-		"Mochila": print("Abrir mochila")
-		"Perfil": print("Mostrar tarjeta de entrenador")
-		"Salvar": print("Guardar partida")
-		"Opciones": print("Abrir opciones")
+		"Pokemon": 
+			if PlayerManager.data.party.is_empty():
+				print("No tienes Pokémon en el equipo.") 
+				return
+				
+			print("✅ Abriendo menú de equipo")
+			
+			var party_menu = PARTY_MENU.instantiate()
+			get_parent().add_child(party_menu)
+			
+			set_process_unhandled_input(false)
+			self.hide()
+			
+			# Esperamos que el Party Menu se cierre
+			await party_menu.tree_exited
+			
+			# ESCUDO POST-AWAIT: Si el juego se cerró estando en el Party Menu, frenamos aquí
+			if not is_inside_tree():
+				return
+				
+			self.show()
+			set_process_unhandled_input(true)
+			
+			# Devolvemos el foco al botón de manera segura
+			var boton_pokemon = menu.get_node_or_null("Pokemon")
+			if boton_pokemon:
+				boton_pokemon.grab_focus()
+				
+			actualizar_brillo_botones()
+			
+		"Pokedex":
+			print("Abriendo Pokedex... (Próximamente)")
+		"Mochila":
+			print("Abriendo Mochila... (Próximamente)")
+
+func _on_opcion_pokemon_pressed():
+	if PlayerManager.data.party.is_empty():
+		print("No tienes Pokémon en el equipo.") 
+		return
+		
+	var party_menu_scene = load("res://Esenas/Menus/PartyMenu/PartyMenu.tscn") 
+	var party_menu = party_menu_scene.instantiate()
+	
+	get_parent().add_child(party_menu)
+	self.hide()
+	
+	await party_menu.tree_exited
+	if is_inside_tree():
+		self.show()

@@ -1,6 +1,6 @@
 extends RefCounted
 
-class_name pokemon
+#class_name pokemon
 
 var species : PokemonDataStruct
 
