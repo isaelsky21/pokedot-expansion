@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bf1mvobnpj1jx"
+path="res://.godot/imported/PRSFX- Thrash.wav-12a32990bf4d8f979aa460cadf043d07.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Thrash.wav"
+dest_files=["res://.godot/imported/PRSFX- Thrash.wav-12a32990bf4d8f979aa460cadf043d07.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://chcbja1nptr16"
+path="res://.godot/imported/PRSFX- Origin Pulse1.wav-2136c76c17418bae9adc8f9aab75f4da.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Origin Pulse1.wav"
+dest_files=["res://.godot/imported/PRSFX- Origin Pulse1.wav-2136c76c17418bae9adc8f9aab75f4da.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

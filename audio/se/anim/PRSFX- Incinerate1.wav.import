@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://41i3t6p3ya5m"
+path="res://.godot/imported/PRSFX- Incinerate1.wav-40ba694b6c43e963f7c058b575d7fe08.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Incinerate1.wav"
+dest_files=["res://.godot/imported/PRSFX- Incinerate1.wav-40ba694b6c43e963f7c058b575d7fe08.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

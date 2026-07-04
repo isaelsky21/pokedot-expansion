@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://baill0tpijxrx"
+path="res://.godot/imported/PRSFX- Perish Song.wav-f1fc046ba4e1c9b1532de50337a0b8e4.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Perish Song.wav"
+dest_files=["res://.godot/imported/PRSFX- Perish Song.wav-f1fc046ba4e1c9b1532de50337a0b8e4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

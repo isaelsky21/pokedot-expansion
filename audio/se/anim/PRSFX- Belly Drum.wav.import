@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bskonsfd1nflm"
+path="res://.godot/imported/PRSFX- Belly Drum.wav-a4805ccb069a50b7069a9577d84aa52b.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Belly Drum.wav"
+dest_files=["res://.godot/imported/PRSFX- Belly Drum.wav-a4805ccb069a50b7069a9577d84aa52b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

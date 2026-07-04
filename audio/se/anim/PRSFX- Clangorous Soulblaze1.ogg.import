@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bt5k1q6ltsn7d"
+path="res://.godot/imported/PRSFX- Clangorous Soulblaze1.ogg-83f81fb3a2bd758dc8889c79200ce7ad.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Clangorous Soulblaze1.ogg"
+dest_files=["res://.godot/imported/PRSFX- Clangorous Soulblaze1.ogg-83f81fb3a2bd758dc8889c79200ce7ad.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

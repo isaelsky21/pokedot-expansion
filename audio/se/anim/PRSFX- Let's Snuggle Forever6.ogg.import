@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://fs5lrxsj0anl"
+path="res://.godot/imported/PRSFX- Let's Snuggle Forever6.ogg-fd254e541aa8beb442bd9b358ea87b73.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Let's Snuggle Forever6.ogg"
+dest_files=["res://.godot/imported/PRSFX- Let's Snuggle Forever6.ogg-fd254e541aa8beb442bd9b358ea87b73.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

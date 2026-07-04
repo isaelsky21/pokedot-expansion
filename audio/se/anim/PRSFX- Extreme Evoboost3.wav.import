@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://0mdiibflv5kx"
+path="res://.godot/imported/PRSFX- Extreme Evoboost3.wav-d86f3b8472aba394bd0537ea7b7f1711.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Extreme Evoboost3.wav"
+dest_files=["res://.godot/imported/PRSFX- Extreme Evoboost3.wav-d86f3b8472aba394bd0537ea7b7f1711.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

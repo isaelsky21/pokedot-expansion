@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bc0d18hroqqgd"
+path="res://.godot/imported/PRSFX- Dazzling Gleam.wav-d1e62f25fe63d0a7ad98feda8921fb9b.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Dazzling Gleam.wav"
+dest_files=["res://.godot/imported/PRSFX- Dazzling Gleam.wav-d1e62f25fe63d0a7ad98feda8921fb9b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

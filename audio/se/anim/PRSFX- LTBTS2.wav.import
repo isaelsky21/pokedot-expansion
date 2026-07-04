@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c4ar5x6mi0fiy"
+path="res://.godot/imported/PRSFX- LTBTS2.wav-03a475737178bb51b51569dab98f4d6f.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- LTBTS2.wav"
+dest_files=["res://.godot/imported/PRSFX- LTBTS2.wav-03a475737178bb51b51569dab98f4d6f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

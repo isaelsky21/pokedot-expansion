@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://coup143q0er4q"
+path="res://.godot/imported/PRSFX- Burn Up1.wav-30731675fe07e046c8c43a7954c54109.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Burn Up1.wav"
+dest_files=["res://.godot/imported/PRSFX- Burn Up1.wav-30731675fe07e046c8c43a7954c54109.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

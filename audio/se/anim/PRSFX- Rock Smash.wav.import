@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bhvyuefdr5f43"
+path="res://.godot/imported/PRSFX- Rock Smash.wav-2f8e33d3d29b31cdb12ca3b97e8dd459.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Rock Smash.wav"
+dest_files=["res://.godot/imported/PRSFX- Rock Smash.wav-2f8e33d3d29b31cdb12ca3b97e8dd459.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

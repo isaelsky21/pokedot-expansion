@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bi8otu8eioxyd"
+path="res://.godot/imported/PRSFX- Psychic Terrain2.wav-3d45354ebb3a6e4bd13c26b911e036ed.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Psychic Terrain2.wav"
+dest_files=["res://.godot/imported/PRSFX- Psychic Terrain2.wav-3d45354ebb3a6e4bd13c26b911e036ed.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

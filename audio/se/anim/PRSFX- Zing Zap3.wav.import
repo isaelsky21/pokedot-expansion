@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dsccl2w0rmijm"
+path="res://.godot/imported/PRSFX- Zing Zap3.wav-fa71eb183d8b8585008eaf9e909f6c88.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Zing Zap3.wav"
+dest_files=["res://.godot/imported/PRSFX- Zing Zap3.wav-fa71eb183d8b8585008eaf9e909f6c88.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

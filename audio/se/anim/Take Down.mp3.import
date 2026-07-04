@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cw2pa8mocmelf"
+path="res://.godot/imported/Take Down.mp3-6c63035cb3ee988e3aa0bf3eed33e010.mp3str"
+
+[deps]
+
+source_file="res://audio/se/anim/Take Down.mp3"
+dest_files=["res://.godot/imported/Take Down.mp3-6c63035cb3ee988e3aa0bf3eed33e010.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

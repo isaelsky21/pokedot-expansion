@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bokns6m3acf1b"
+path="res://.godot/imported/Voltorb Flip level down.ogg-39a188486f6a379ff0b4b846d74bddda.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/Voltorb Flip level down.ogg"
+dest_files=["res://.godot/imported/Voltorb Flip level down.ogg-39a188486f6a379ff0b4b846d74bddda.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

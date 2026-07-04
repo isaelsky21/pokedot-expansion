@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dxwsy0n6kloql"
+path="res://.godot/imported/PRSFX- Health Down.wav-f3d9a3f761c8242d69d0a90c18cdb828.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Health Down.wav"
+dest_files=["res://.godot/imported/PRSFX- Health Down.wav-f3d9a3f761c8242d69d0a90c18cdb828.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

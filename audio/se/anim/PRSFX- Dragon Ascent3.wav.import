@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://34nceqeie8e4"
+path="res://.godot/imported/PRSFX- Dragon Ascent3.wav-c024615441ab0310c456a7f3d74c6071.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Dragon Ascent3.wav"
+dest_files=["res://.godot/imported/PRSFX- Dragon Ascent3.wav-c024615441ab0310c456a7f3d74c6071.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://kxnvv0t3mijj"
+path="res://.godot/imported/PRSFX- Water Pledge1.wav-c592057af0c3f32b5ba2c2b1411fbe94.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Water Pledge1.wav"
+dest_files=["res://.godot/imported/PRSFX- Water Pledge1.wav-c592057af0c3f32b5ba2c2b1411fbe94.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

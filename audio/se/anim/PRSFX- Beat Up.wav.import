@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://by4ccr8wvxnsd"
+path="res://.godot/imported/PRSFX- Beat Up.wav-a9659c35daa114ae844f3973ad0ec922.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Beat Up.wav"
+dest_files=["res://.godot/imported/PRSFX- Beat Up.wav-a9659c35daa114ae844f3973ad0ec922.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

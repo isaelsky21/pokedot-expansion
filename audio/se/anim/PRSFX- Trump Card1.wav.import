@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bxkek8ifewugi"
+path="res://.godot/imported/PRSFX- Trump Card1.wav-68e31b92f6153be8c9a489b65649eb39.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Trump Card1.wav"
+dest_files=["res://.godot/imported/PRSFX- Trump Card1.wav-68e31b92f6153be8c9a489b65649eb39.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

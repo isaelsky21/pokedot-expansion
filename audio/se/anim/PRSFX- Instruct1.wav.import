@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://drt25bhfasq6a"
+path="res://.godot/imported/PRSFX- Instruct1.wav-e25f72f3a0619b1d3b707d78861f4700.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Instruct1.wav"
+dest_files=["res://.godot/imported/PRSFX- Instruct1.wav-e25f72f3a0619b1d3b707d78861f4700.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://e2qbrrl0f1aj"
+path="res://.godot/imported/PRSFX- Subzero Slammer4.wav-c259e73dfa21ffaf25fd47c6ffd14b74.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Subzero Slammer4.wav"
+dest_files=["res://.godot/imported/PRSFX- Subzero Slammer4.wav-c259e73dfa21ffaf25fd47c6ffd14b74.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dv30acebrevfe"
+path="res://.godot/imported/PRSFX- Shell Smash2.wav-7c0fd7a0a9b384012ccf52028ee910ab.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Shell Smash2.wav"
+dest_files=["res://.godot/imported/PRSFX- Shell Smash2.wav-7c0fd7a0a9b384012ccf52028ee910ab.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

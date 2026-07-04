@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bceivxvdpye3b"
+path="res://.godot/imported/PRSFX- Baneful Bunker1.wav-0337bfe8646a9f2acff5ccefeb78d3da.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Baneful Bunker1.wav"
+dest_files=["res://.godot/imported/PRSFX- Baneful Bunker1.wav-0337bfe8646a9f2acff5ccefeb78d3da.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

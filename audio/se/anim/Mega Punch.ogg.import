@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bopl72x4qe0df"
+path="res://.godot/imported/Mega Punch.ogg-7daa23c8fc3bce4885f07111633a67f6.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/anim/Mega Punch.ogg"
+dest_files=["res://.godot/imported/Mega Punch.ogg-7daa23c8fc3bce4885f07111633a67f6.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

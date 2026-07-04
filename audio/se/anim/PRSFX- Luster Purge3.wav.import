@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c73ig0dj0j7on"
+path="res://.godot/imported/PRSFX- Luster Purge3.wav-09b40cad34f35591d1786a60235e2c9c.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Luster Purge3.wav"
+dest_files=["res://.godot/imported/PRSFX- Luster Purge3.wav-09b40cad34f35591d1786a60235e2c9c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

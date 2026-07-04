@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bvv0osyyafy14"
+path="res://.godot/imported/PRSFX- Focus Energy.wav-8abe9794f462490fa28804f9c1d0763b.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Focus Energy.wav"
+dest_files=["res://.godot/imported/PRSFX- Focus Energy.wav-8abe9794f462490fa28804f9c1d0763b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

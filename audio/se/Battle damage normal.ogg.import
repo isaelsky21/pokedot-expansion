@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d0ewd8i1gx8nh"
+path="res://.godot/imported/Battle damage normal.ogg-1026497d3414d017960cb8f03b7cf118.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/Battle damage normal.ogg"
+dest_files=["res://.godot/imported/Battle damage normal.ogg-1026497d3414d017960cb8f03b7cf118.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

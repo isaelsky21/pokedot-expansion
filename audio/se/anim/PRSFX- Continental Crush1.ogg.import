@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bdw4nnx2j0804"
+path="res://.godot/imported/PRSFX- Continental Crush1.ogg-8e840bb6a6ee00e0a6b276c9aca81870.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Continental Crush1.ogg"
+dest_files=["res://.godot/imported/PRSFX- Continental Crush1.ogg-8e840bb6a6ee00e0a6b276c9aca81870.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6icra1wthlkh"
+path="res://.godot/imported/PRSFX- Belch2.wav-da295108c15f5887ed19570490dfa3b7.sample"
+
+[deps]
+
+source_file="res://audio/se/anim/PRSFX- Belch2.wav"
+dest_files=["res://.godot/imported/PRSFX- Belch2.wav-da295108c15f5887ed19570490dfa3b7.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

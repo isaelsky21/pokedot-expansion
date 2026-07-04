@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://lg5i0bbgf8cs"
+path="res://.godot/imported/Lovely Kiss.mp3-b625949b648eaa99c96a1f76e6abba23.mp3str"
+
+[deps]
+
+source_file="res://audio/se/anim/Lovely Kiss.mp3"
+dest_files=["res://.godot/imported/Lovely Kiss.mp3-b625949b648eaa99c96a1f76e6abba23.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
