@@ -48,6 +48,7 @@ var _necesita_actualizar: bool = false
 
 
 func _ready():
+	TimeManager.activar()
 	if not Engine.is_editor_hint():
 		var collision = behaviours.get_node_or_null("Collision") as TileMapLayer
 		if collision:

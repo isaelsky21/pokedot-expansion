@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Pkmn-E-B"
-run/main_scene="uid://tnak4lhbklbi"
+run/main_scene="uid://bfih7ow1wwphj"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="uid://dwytgt4ciynv3"
 
@@ -22,6 +22,7 @@ DataBaseGlobal="*uid://bvubf21plih0r"
 SaveBlock="*uid://ds5buoumqhfsd"
 MusicManager="*uid://bi5enb2j31q5q"
 TimeManager="*uid://dsxm7uvjcxkhm"
+TransicionManager="*uid://cwg41tmhe70jg"
 
 [display]
 
