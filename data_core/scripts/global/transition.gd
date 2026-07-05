@@ -18,7 +18,7 @@ func _ready() -> void:
 		_pantalla.color = Color(0, 0, 0, 1)  # Negro puro
 		_pantalla.modulate.a = 0.0  # Empieza transparente
 		_pantalla.mouse_filter = Control.MOUSE_FILTER_IGNORE
-		_pantalla.z_index = 9999
+		_pantalla.z_index = 4096
 		add_child(_pantalla)
 	else:
 		_pantalla = $Pantalla

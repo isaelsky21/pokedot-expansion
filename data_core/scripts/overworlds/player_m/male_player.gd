@@ -76,7 +76,11 @@ func cerrar_menu():
 
 
 #funcion donde se maneja la fisica en la cual se verifica si el jugador se esta moviendo, si es asi, se llama la funcion actualizar movimiento, de lo contrario llamamos la funcion que maneja la input estando quieto.
-func _physics_process(delta):
+func _physics_process(delta: float) -> void:
+	# ❗ SI HAY DIÁLOGO ACTIVO, NO SE MUEVE
+	if DialogueManager.activo:
+		velocity = Vector2.ZERO
+		return
 	# Si el menú de pausa está interactuando, congela las físicas del personaje
 	if start_menu != null and start_menu.is_open:
 		mostrar_idle(direccion) # opcional
@@ -308,8 +312,22 @@ func ejecutar_paso_escalera(dir: Vector2, tipo_escalera: String):
 	collision_mask = mascara_original
 
 func _input(event: InputEvent) -> void:
+	# PRIMERO: Si hay diálogo activo, solo procesamos su avance
+	if DialogueManager.activo:
+		if event.is_action_pressed("Interactuar"):
+			DialogueManager.entrada_avanzar()
+			# IMPORTANTE: detener el resto de controles
+			get_viewport().set_input_as_handled()
+		return
+
+	if event is InputEventKey and event.pressed and event.keycode == KEY_T:
+		DialogueManager.mostrar([
+			"¡Bienvenido al mundo Pokémon!",
+			"Estas usando Pokedot-Expansion",
+            "Dónde estoy?"
+		])
 	if event is InputEventKey and event.pressed:
-		# Tus teclas de guardado/carga que ya tienes
+		# Las teclas de guardado/carga que ya se tiene
 		if event.keycode == KEY_F5:
 			SaveBlock.guardar_partida(1)
 		elif event.keycode == KEY_F9:
