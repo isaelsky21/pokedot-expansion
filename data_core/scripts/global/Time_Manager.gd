@@ -12,7 +12,7 @@ var _activo: bool = false  #
 const COLOR_MORNING = Color(1.08, 1.02, 0.90, 1.0)   # Blanco cálido
 const COLOR_DAY     = Color(1.00, 1.00, 1.00, 1.0)   # Normal
 const COLOR_DUSK    = Color(1.12, 0.592, 0.456, 1.0)   # Tono naranja
-const COLOR_NIGHT   = Color(0.52, 0.579, 1.1, 1.0)   # Tono azul oscuro
+const COLOR_NIGHT   = Color(0.423, 0.388, 1.1, 1.0)   # Tono azul oscuro
 
 var canvas_modulate: CanvasModulate
 
@@ -49,9 +49,9 @@ func _read_system_time() -> void:
 
 
 func _get_state(h: int) -> TimeOfDay:
-	if h >= 4  and h < 10: return TimeOfDay.MORNING
+	if h >= 5  and h < 10: return TimeOfDay.MORNING
 	if h >= 10 and h < 18: return TimeOfDay.DAY
-	if h >= 18 and h < 21: return TimeOfDay.DUSK
+	if h >= 18 and h < 20: return TimeOfDay.DUSK
 	return TimeOfDay.NIGHT
 
 
